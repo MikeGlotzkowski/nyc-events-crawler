@@ -1,0 +1,32 @@
+name: "Tier 1 Crawlers (API + RSS)"
+
+on:
+  schedule:
+    - cron: "0 6,12,18 * * *"
+  workflow_dispatch:
+    inputs:
+      crawler:
+        description: "Crawler to run"
+        default: "all-tier1"
+        type: string
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node index.js ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.crawler || 'all-tier1' }}

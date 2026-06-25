@@ -1,0 +1,36 @@
+{
+  "name": "nyc-events-crawler",
+  "version": "1.0.0",
+  "description": "Event discovery crawler for NYC official events",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js all-tier1",
+    "crawl": "node index.js",
+    "crawl:parks": "node index.js nyc-parks",
+    "crawl:rss": "node index.js rss-blogs",
+    "crawl:eventbrite": "node index.js eventbrite",
+    "crawl:riverside": "node index.js riverside-park",
+    "crawl:westsiderag": "node index.js westsiderag",
+    "crawl:nyccom": "node index.js nyccom",
+    "crawl:tier1": "node index.js all-tier1",
+    "crawl:tier2": "node index.js all-tier2",
+    "test-llm": "node test-llm.js",
+    "upload": "node upload-to-s3.js"
+  },
+  "keywords": [
+    "crawler",
+    "events",
+    "nyc",
+    "playwright"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.975.0",
+    "@supabase/supabase-js": "^2.0.0",
+    "openai": "^4.24.0",
+    "playwright": "^1.41.0",
+    "xml2js": "^0.6.0"
+  }
+}
