@@ -596,7 +596,7 @@ async function discoverCategories(page) {
       'https://official.nyc.com/broadway_tickets/',
       'https://official.nyc.com/concert_tickets/',
       'https://official.nyc.com/sport_tickets/',
-      'https://official.nyc.com/movies/',
+      // movies/ omitted — scrapes showtimes (Documentary spam), not real events
       'https://official.nyc.com/guided_tours/',
       'https://official.nyc.com/arts__attractions/',
     ];
@@ -619,7 +619,7 @@ async function discoverCategories(page) {
               (href.includes('/sport_tickets/') && text.length < 30 && text.length > 3) ||
               (href.includes('/category/') || href.includes('/type/')) ||
               (href.includes('/broadway_tickets/') && !href.match(/\.\d+/) && text.length < 30) ||
-              (href.includes('/movies/theater/') && text.length > 3) ||
+              // /movies/ excluded — showtimes section produces Documentary spam, not real events
               (href.includes('/guided_tours/') && text.length < 50 && text.length > 5)
             ) {
               if (!href.match(/\.\d+\/?$/)) links.push(href);
@@ -665,7 +665,7 @@ async function collectEventUrlsFromCategory(page, categoryUrl) {
             (href.includes('/broadway_tickets/') && href.match(/\/broadway_tickets\/[^\/]+\.\d+\/?/)) ||
             (href.includes('/concert_tickets/') && href.match(/\/concert_tickets\/[^\/]+\.\d+\/?/)) ||
             (href.includes('/sport_tickets/') && href.match(/\/sport_tickets\/[^\/]+\.\d+\/?/)) ||
-            (href.includes('/movies/title/') && href.match(/\/movies\/title\/[^\/]+\.\d+\/?/)) ||
+            // /movies/title/ excluded — showtimes, not real events
             (href.includes('/guided_tours/') && href.match(/\/guided_tours\/[^\/]+\.\d+\/?/)) ||
             (href.includes('/arts__attractions/') && href.match(/\/arts__attractions\/[^\/]+\.\d+\/?/))
           ) {
