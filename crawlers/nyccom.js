@@ -822,11 +822,11 @@ async function extractEventsInParallel(context, eventUrls, runId) {
 
     for (const event of batchResults) {
       if (event) {
-        const result = await upsertEvent(event);
+        const { status } = await upsertEvent(event);
         completed++;
-        if (result === 'new') newCount++;
-        else if (result === 'updated') updatedCount++;
-        else errors.push(`Upsert error for: ${event.title}`);
+        if (status === 'new') newCount++;
+        else if (status === 'updated') updatedCount++;
+        else if (status !== 'duplicate') errors.push(`Upsert error for: ${event.title}`);
       }
     }
 
