@@ -8,8 +8,9 @@
     "start": "node index.js all-tier1",
     "crawl": "node index.js",
     "crawl:parks": "node index.js nyc-parks",
+    "crawl:opendata": "node index.js nyc-opendata",
     "crawl:rss": "node index.js rss-blogs",
-    "crawl:eventbrite": "node index.js eventbrite",
+    "crawl:ical": "node index.js ical-feeds",
     "crawl:riverside": "node index.js riverside-park",
     "crawl:westsiderag": "node index.js westsiderag",
     "crawl:nyccom": "node index.js nyccom",
@@ -29,6 +30,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.975.0",
     "@supabase/supabase-js": "^2.0.0",
+    "node-ical": "^0.26.1",
     "openai": "^4.24.0",
     "playwright": "^1.41.0",
     "xml2js": "^0.6.0"
