@@ -32,6 +32,19 @@ export const RSS_SOURCES = [
   { name: 'Astoria Post',               feed: 'https://astoriapost.com/feed/',                neighborhood: 'Astoria',         borough: 'Queens' },
   // Bronx
   { name: 'Bronx Times',                feed: 'https://www.bxtimes.com/feed/',               neighborhood: null,              borough: 'The Bronx' },
+  { name: 'The Bronx Free Press',        feed: 'https://thebronxfreepress.com/feed/',         neighborhood: null,              borough: 'The Bronx' },
+  // Staten Island
+  { name: 'SILive',                      feed: 'https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml', neighborhood: null, borough: 'Staten Island' },
+  // Citywide / arts / culture
+  { name: 'City Limits',                 feed: 'https://citylimits.org/feed/',                neighborhood: null,              borough: null },
+  { name: 'BRIC Arts Media',             feed: 'https://www.bricartsmedia.org/feed',          neighborhood: 'Fort Greene',     borough: 'Brooklyn' },
+  // Manhattan neighborhoods
+  { name: 'Tribeca Citizen',             feed: 'https://tribecacitizen.com/feed/',            neighborhood: 'Tribeca',         borough: 'Manhattan' },
+  // Brooklyn neighborhoods
+  { name: 'Ditmas Park Corner',          feed: 'https://ditmasparkcorner.com/feed/',          neighborhood: 'Ditmas Park',     borough: 'Brooklyn' },
+  // Queens neighborhoods
+  { name: 'Sunnyside Post',              feed: 'https://sunnysidepost.com/feed/',             neighborhood: 'Sunnyside',       borough: 'Queens' },
+  { name: 'Forest Hills Times',          feed: 'https://www.foresthillstimes.com/feed/',      neighborhood: 'Forest Hills',    borough: 'Queens' },
   // Note: Patch.com no longer offers RSS feeds (returns sitemaps). Removed.
 ];
 
