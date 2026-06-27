@@ -19,7 +19,7 @@
  */
 
 import { loadEnv } from './env-loader.js';
-import { log, logError } from './lib/base-crawler.js';
+import { log, logError, ensureConfigAndCheckEnabled } from './lib/base-crawler.js';
 
 loadEnv();
 
@@ -49,6 +49,13 @@ async function runCrawler(name) {
   try {
     const getCrawl = CRAWLERS[name];
     if (!getCrawl) throw new Error(`Unknown crawler: ${name}`);
+
+    const enabled = await ensureConfigAndCheckEnabled(name);
+    if (!enabled) {
+      log(`⏭️  Crawler disabled in crawler_config: ${name} — skipping`);
+      return;
+    }
+
     const crawlFn = await getCrawl();
     await crawlFn();
     log(`✅ Crawler finished: ${name}`);
