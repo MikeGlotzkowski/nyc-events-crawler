@@ -6,12 +6,14 @@
  *
  * Available crawlers:
  *   nyc-parks        NYC Parks RSS feed
+ *   nyc-opendata     NYC Open Data (Socrata): permitted events + parks events
  *   rss-blogs        Neighborhood blog RSS + LLM extraction (25 sources)
- *   eventbrite       Eventbrite REST API
+ *   ical-feeds       Museum/library/venue iCal (.ics) feeds
  *   riverside-park   Riverside Park WordPress Events Calendar
  *   westsiderag      West Side Rag weekly events page (Playwright)
  *   nyccom           NYC.com multi-category Playwright crawler
- *   all-tier1        nyc-parks, eventbrite, riverside-park, rss-blogs (no Playwright)
+ *   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
+ *   all-tier1        nyc-parks, nyc-opendata, ical-feeds, riverside-park, rss-blogs (no Playwright)
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
  */
@@ -25,13 +27,16 @@ loadEnv();
 
 const CRAWLERS = {
   'nyc-parks':      () => import('./crawlers/nyc-parks.js').then(m => m.crawl),
+  'nyc-opendata':   () => import('./crawlers/nyc-opendata.js').then(m => m.crawl),
   'rss-blogs':      () => import('./crawlers/rss-blogs.js').then(m => m.crawl),
+  'ical-feeds':     () => import('./crawlers/ical-feeds.js').then(m => m.crawl),
   'riverside-park': () => import('./crawlers/riverside-park.js').then(m => m.crawl),
   'westsiderag':    () => import('./crawlers/westsiderag.js').then(m => m.crawl),
   'nyccom':         () => import('./crawlers/nyccom.js').then(m => m.crawl),
+  'seatgeek':       () => import('./crawlers/seatgeek.js').then(m => m.crawl),
 };
 
-const TIER1 = ['nyc-parks', 'riverside-park', 'rss-blogs'];
+const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'rss-blogs'];
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 
@@ -69,11 +74,14 @@ Usage: node index.js <target>
 
 Targets:
   nyc-parks        NYC Parks RSS feed
+  nyc-opendata     NYC Open Data (Socrata): permitted events + parks events
   rss-blogs        Neighborhood blog RSS + LLM (25 sources)
+  ical-feeds       Museum/library/venue iCal feeds
   riverside-park   Riverside Park WordPress Events Calendar
   westsiderag      West Side Rag weekly events (Playwright)
   nyccom           NYC.com multi-category crawler (Playwright)
-  all-tier1        Run: nyc-parks, riverside-park, rss-blogs
+  seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
+  all-tier1        Run: nyc-parks, nyc-opendata, ical-feeds, riverside-park, rss-blogs
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
 `.trim();
