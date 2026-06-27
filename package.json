@@ -13,6 +13,7 @@
     "crawl:ical": "node index.js ical-feeds",
     "crawl:riverside": "node index.js riverside-park",
     "crawl:westsiderag": "node index.js westsiderag",
+    "crawl:seatgeek": "node index.js seatgeek",
     "crawl:nyccom": "node index.js nyccom",
     "crawl:tier1": "node index.js all-tier1",
     "crawl:tier2": "node index.js all-tier2",
