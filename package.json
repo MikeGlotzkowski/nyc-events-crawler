@@ -17,6 +17,7 @@
     "crawl:nyccom": "node index.js nyccom",
     "crawl:tier1": "node index.js all-tier1",
     "crawl:tier2": "node index.js all-tier2",
+    "test": "node --test --experimental-test-module-mocks lib/*.test.js",
     "test-llm": "node test-llm.js",
     "upload": "node upload-to-s3.js"
   },
