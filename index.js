@@ -40,6 +40,8 @@ const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'rss
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 
+const failed = [];
+
 // ── Runner ───────────────────────────────────────────────────────────────────
 
 async function runCrawler(name) {
@@ -61,6 +63,7 @@ async function runCrawler(name) {
     log(`✅ Crawler finished: ${name}`);
   } catch (err) {
     logError(`Crawler failed: ${name}`, err);
+    failed.push(name);
   }
 }
 
@@ -116,4 +119,9 @@ switch (arg) {
       console.log(USAGE);
       process.exit(1);
     }
+}
+
+if (failed.length > 0) {
+  logError(`${failed.length} crawler(s) failed: ${failed.join(', ')}`);
+  process.exit(1);
 }
