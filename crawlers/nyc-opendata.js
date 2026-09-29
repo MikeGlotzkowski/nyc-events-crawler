@@ -51,8 +51,9 @@ function mapPermittedEvent(row) {
   const eventType = (row.event_type ?? '').trim();
   if (eventType && !PERMITTED_TYPE_ALLOWLIST.has(eventType)) return null;
 
-  const startDate = row.start_date_time ? new Date(row.start_date_time).toISOString() : null;
-  const endDate   = row.end_date_time   ? new Date(row.end_date_time).toISOString()   : null;
+  // Socrata floating timestamps (no offset) are NYC wall-clock; upsertEvent interprets them.
+  const startDate = row.start_date_time ?? null;
+  const endDate   = row.end_date_time   ?? null;
   if (!startDate) return null;
 
   const borough = normalizeBoroughName(row.event_borough ?? row.borough ?? null);
@@ -112,12 +113,9 @@ function mapParksEvent(row) {
   const title = (row.name ?? row.event_name ?? '').trim();
   if (!title) return null;
 
-  const startDate = row.startdate ? new Date(row.startdate).toISOString()
-                  : row.start_date ? new Date(row.start_date).toISOString()
-                  : null;
-  const endDate   = row.enddate   ? new Date(row.enddate).toISOString()
-                  : row.end_date  ? new Date(row.end_date).toISOString()
-                  : null;
+  const startDate = row.startdate ?? row.start_date ?? null;
+  const endDate   = row.enddate   ?? row.end_date   ?? null;
+  const legacyStartIso = startDate ? new Date(startDate).toISOString() : null; // id input — keep stable
 
   const parkName = (row.park ?? row.park_name ?? row.location ?? '').trim() || null;
   const borough  = normalizeBoroughName(row.borough ?? null);
@@ -125,7 +123,7 @@ function mapParksEvent(row) {
   const url = (row.url ?? row.link ?? '').trim() || null;
   const id = url
     ? generateEventId(url, title)
-    : generateEventId(`nyc-parks-opendata-${parkName ?? ''}-${startDate ?? ''}`, title);
+    : generateEventId(`nyc-parks-opendata-${parkName ?? ''}-${legacyStartIso ?? ''}`, title);
 
   return {
     id,

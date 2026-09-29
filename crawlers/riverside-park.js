@@ -45,26 +45,18 @@ function formatTime(dateStr) {
 function parseStartDate(event) {
   // Prefer start_date (ISO-like string e.g. "2025-06-15 10:00:00")
   if (event.start_date) {
-    try {
-      return new Date(event.start_date.replace(' ', 'T')).toISOString();
-    } catch { /* fall through */ }
+    return event.start_date.replace(' ', 'T'); // NYC wall-clock; upsertEvent converts
   }
   // Try start_date_details object
   const d = event.start_date_details;
   if (d?.year && d?.month && d?.day) {
-    const iso = `${d.year}-${String(d.month).padStart(2, '0')}-${String(d.day).padStart(2, '0')}T${d.hour ?? '00'}:${d.minutes ?? '00'}:${d.seconds ?? '00'}`;
-    try { return new Date(iso).toISOString(); } catch { /* fall through */ }
+    return `${d.year}-${String(d.month).padStart(2, '0')}-${String(d.day).padStart(2, '0')}T${d.hour ?? '00'}:${d.minutes ?? '00'}:${d.seconds ?? '00'}`;
   }
   return null;
 }
 
 function parseEndDate(event) {
-  if (event.end_date) {
-    try {
-      return new Date(event.end_date.replace(' ', 'T')).toISOString();
-    } catch { /* fall through */ }
-  }
-  return null;
+  return event.end_date ? event.end_date.replace(' ', 'T') : null;
 }
 
 function mapEvent(event) {

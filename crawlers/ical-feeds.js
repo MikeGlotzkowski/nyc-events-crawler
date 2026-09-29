@@ -6,6 +6,7 @@
  */
 import nodeIcal from 'node-ical';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { localYmd } from '../lib/nyc-time.js';
 
 // ── Source registry ───────────────────────────────────────────────
 // Verified: each URL returns a valid VCALENDAR (checked 2026-06-27).
@@ -72,9 +73,9 @@ function expandEvents(parsedData, windowStart, windowEnd) {
     if (component.rrule) {
       // Expand recurring events within the forward window
       try {
-        const occurrences = nodeIcal.expandRecurringEvent(component, windowStart, windowEnd);
+        const occurrences = nodeIcal.expandRecurringEvent(component, { from: windowStart, to: windowEnd });
         for (const occurrence of occurrences) {
-          events.push({ ...component, start: occurrence });
+          events.push({ ...component, start: occurrence.start, end: occurrence.end });
         }
       } catch {
         // If RRULE expansion fails, just try the base date
@@ -99,9 +100,12 @@ function mapVEvent(vevent, source) {
   const summary = (typeof vevent.summary === 'string' ? vevent.summary : vevent.summary?.val ?? '').trim();
   if (!summary) return null;
 
-  const startDate = vevent.start ? new Date(vevent.start).toISOString() : null;
-  const endDate   = vevent.end   ? new Date(vevent.end).toISOString()   : null;
-  if (!startDate) return null;
+  if (!vevent.start) return null;
+  // Timed events are real instants; all-day (VALUE=DATE) values are local midnight → keep the calendar date.
+  const toDateValue = (d) => d.dateOnly ? localYmd(d) : new Date(d).toISOString();
+  const startDate = toDateValue(vevent.start);
+  const endDate   = vevent.end ? toDateValue(vevent.end) : null;
+  const legacyStartIso = new Date(vevent.start).toISOString(); // id input — keep stable across this fix
 
   const location  = (typeof vevent.location === 'string' ? vevent.location : vevent.location?.val ?? '').trim() || null;
   const description = (typeof vevent.description === 'string' ? vevent.description : vevent.description?.val ?? '').trim();
@@ -109,7 +113,7 @@ function mapVEvent(vevent, source) {
 
   const id = url
     ? generateEventId(url, summary)
-    : generateEventId(`ical-${source.name}-${startDate}`, summary);
+    : generateEventId(`ical-${source.name}-${legacyStartIso}`, summary);
 
   return {
     id,

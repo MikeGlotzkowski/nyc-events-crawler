@@ -22,7 +22,9 @@ function mapEvent(item) {
 
   const performers = (item.performers ?? []).map(p => p.name).filter(Boolean);
   const venue = item.venue ?? {};
-  const dt = item.datetime_local ?? item.datetime_utc ?? null;
+  // datetime_local is NYC wall-clock; datetime_utc has no offset suffix, so mark it as UTC.
+  const dt = item.datetime_local
+    ?? (item.datetime_utc ? item.datetime_utc.replace(/Z?$/, 'Z') : null);
 
   return {
     id:          generateEventId(item.url ?? `seatgeek-${item.id}`, title),
@@ -30,7 +32,7 @@ function mapEvent(item) {
     sourceUrl:   item.url ?? null,
     title,
     description: performers.length ? `Performers: ${performers.join(', ')}` : '',
-    startDate:   dt ? new Date(dt).toISOString() : null,
+    startDate:   dt,
     endDate:     null,
     time:        null,
     location: {
