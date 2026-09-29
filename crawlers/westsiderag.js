@@ -7,6 +7,7 @@
  */
 import { chromium } from 'playwright';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { localYmd } from '../lib/nyc-time.js';
 
 const SOURCE       = 'West Side Rag';
 const PAGE_URL     = 'https://www.westsiderag.com/this-weeks-events';
@@ -34,23 +35,9 @@ function parseDateHeader(headerText) {
     if (attempt.getTime() < now - 300 * 24 * 60 * 60 * 1000) {
       attempt.setFullYear(year + 1);
     }
-    return attempt.toISOString().split('T')[0]; // YYYY-MM-DD
+    return localYmd(attempt); // YYYY-MM-DD (attempt is local midnight)
   } catch {
     return null;
-  }
-}
-
-function buildIso(dateStr, timeStr) {
-  if (!dateStr) return null;
-  if (!timeStr) return `${dateStr}T00:00:00.000Z`;
-  try {
-    // timeStr e.g. "7:00 PM" or "7:00 PM – 9:00 PM"
-    const startTime = timeStr.split(/[–—-]/)[0].trim();
-    const d = new Date(`${dateStr} ${startTime}`);
-    if (isNaN(d.getTime())) return `${dateStr}T00:00:00.000Z`;
-    return d.toISOString();
-  } catch {
-    return `${dateStr}T00:00:00.000Z`;
   }
 }
 
@@ -166,7 +153,7 @@ export async function crawl() {
       if (!raw.title) continue;
 
       const dateStr = parseDateHeader(raw.dateHeader);
-      const startDate = buildIso(dateStr, raw.time);
+      const startDate = dateStr; // upsertEvent combines it with `time` in America/New_York
       const eventUrl = raw.eventUrl || PAGE_URL;
 
       allEvents.push({

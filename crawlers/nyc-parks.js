@@ -55,8 +55,8 @@ function parseItem(item) {
       sourceUrl:   link,
       title,
       description:  description ?? '',
-      startDate:    startDate ? new Date(startDate).toISOString() : null,
-      endDate:      endDate   ? new Date(endDate).toISOString()   : null,
+      startDate,  // raw feed value; upsertEvent normalizes to the NYC date
+      endDate,
       time:         startTime && endTime ? `${startTime}–${endTime}` : startTime,
       location: {
         name:    parkNames ?? location ?? 'NYC Park',

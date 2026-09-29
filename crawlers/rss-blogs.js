@@ -124,8 +124,8 @@ async function processSource(source) {
           sourceUrl:   ev.ticketUrl ?? item.link,
           title:       ev.title,
           description: ev.description ?? '',
-          startDate:   ev.startDate   ? new Date(ev.startDate).toISOString()  : null,
-          endDate:     ev.endDate     ? new Date(ev.endDate).toISOString()    : null,
+          startDate:   ev.startDate   ?? null,  // 'YYYY-MM-DD'; upsertEvent normalizes
+          endDate:     ev.endDate     ?? null,
           time:        ev.time        ?? null,
           location:    { name: ev.location?.name ?? null, address: ev.location?.address ?? null, city: 'New York', lat: null, lng: null },
           price:       ev.price       ?? { isFree: null, min: null, max: null, currency: 'USD' },
