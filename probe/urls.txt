@@ -10,3 +10,4 @@ dice-browse2 https://dice.fm/browse/new-york
 dice-sitemap https://dice.fm/sitemap.xml
 ra-events https://ra.co/events/us/newyork
 ra-rss https://ra.co/xml/eventlistings.xml
+# rerun

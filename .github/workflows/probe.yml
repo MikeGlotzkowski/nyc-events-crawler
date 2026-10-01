@@ -29,6 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add probe/out
+          tar czf - probe/out | base64 > probe/out.tgz.b64
+          git add probe/out.tgz.b64
           git commit -m "probe results [skip ci]"
           git push origin HEAD:${GITHUB_REF_NAME}
