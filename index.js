@@ -21,6 +21,10 @@
  *   queens-library     Queens Public Library events (calendar pages)
  *   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
  *   forest-park        Forest Park Trust (Squarespace JSON)
+ *   whitney            Whitney Museum (JSON API)
+ *   bam                BAM, Brooklyn Academy of Music (calendar JSON)
+ *   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
+ *   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
  *   all-tier1        every non-Playwright crawler above except seatgeek and brooklyn-library
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
@@ -46,9 +50,14 @@ const CRAWLERS = {
   'queens-library':     () => import('./crawlers/queens-library.js').then(m => m.crawl),
   'van-cortlandt-park': () => import('./crawlers/van-cortlandt-park.js').then(m => m.crawl),
   'forest-park':        () => import('./crawlers/forest-park.js').then(m => m.crawl),
+  'whitney':            () => import('./crawlers/whitney.js').then(m => m.crawl),
+  'bam':                () => import('./crawlers/bam.js').then(m => m.crawl),
+  'lincoln-center':     () => import('./crawlers/lincoln-center.js').then(m => m.crawl),
+  'carnegie-hall':      () => import('./crawlers/carnegie-hall.js').then(m => m.crawl),
 };
 
-const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'queens-library'];
+const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'queens-library',
+               'whitney', 'bam', 'lincoln-center', 'carnegie-hall'];
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 
@@ -107,6 +116,10 @@ Targets:
   queens-library     Queens Public Library events (calendar pages)
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
   forest-park        Forest Park Trust (Squarespace JSON)
+  whitney            Whitney Museum (JSON API)
+  bam                BAM, Brooklyn Academy of Music (calendar JSON)
+  lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
+  carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
   all-tier1        Run every non-Playwright crawler except seatgeek and brooklyn-library
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers

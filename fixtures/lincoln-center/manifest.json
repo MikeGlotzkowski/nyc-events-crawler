@@ -1,0 +1,15 @@
+{
+  "capturedAt": "2026-10-01T11:31:55.447Z",
+  "responses": {
+    "https://www.lincolncenter.org/ajaxCalendar/October%202026": {
+      "file": "lincolncenter.org.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8"
+    },
+    "https://www.lincolncenter.org/ajaxCalendar/November%202026": {
+      "file": "lincolncenter.org-2.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8"
+    }
+  }
+}

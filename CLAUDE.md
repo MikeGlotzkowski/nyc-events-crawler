@@ -12,10 +12,13 @@ dispatches to one crawler or a tier group.
 Sources (`crawlers/`): `nyc-parks` (RSS), `rss-blogs` (neighborhood blog RSS + LLM extraction),
 `riverside-park` / `van-cortlandt-park` (WordPress calendar), `forest-park` (Squarespace JSON),
 `brooklyn-library` / `queens-library` (library event calendars, next 14 days, service sessions skipped;
-`brooklyn-library` is not in a tier because Cloudflare challenges GitHub Actions runners), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
+`brooklyn-library` is not in a tier because Cloudflare challenges GitHub Actions runners), `whitney` (JSON:API),
+`bam` / `lincoln-center` (the JSON their calendars load), `carnegie-hall` (sitemap URLs; its pages sit behind a
+Queue-it waiting room), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
 Playwright). **Tiers:** `all-tier1` = the non-Playwright crawlers (fast); `all-tier2` = the
 Playwright-based crawlers (`westsiderag`, `nyccom`) — the heavy daily job that motivated the public-repo
-migration (unlimited CI minutes).
+migration (unlimited CI minutes). Left out because they serve bot challenges or waiting rooms to GitHub runners
+(checked 2026-10-01): the Met and Brooklyn Museum (Vercel checkpoint), MoMA and AMNH (Cloudflare), The Shed (Queue-it).
 
 > **Required secrets:** see `README.md` / `.env.example`. Secrets live in GitHub Actions Secrets, never
 > in code. A pre-public secret scan is recorded in `SECURITY-AUDIT.md`.
