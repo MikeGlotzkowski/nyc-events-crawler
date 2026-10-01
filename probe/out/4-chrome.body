@@ -1,0 +1,421 @@
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+	<!-- Pro Dada v11.21.0 stable 2023-08-07 -->
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<title>nonsense nyc</title>
+	
+	<!-- begin list_template_header_code_block.tmpl --> 
+
+<link rel="stylesheet" href="https://nonsensenyc.com/dada_mail_support_files/static/css/vendor/foundation/app.css?v=v11.21.0%20stable%202023-08-07">
+
+ 
+	<script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/jquery-3.6.0.min.js"></script>
+ 
+
+
+    <script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/jquery/jquery.validate.js?v=v11.21.0%20stable%202023-08-07"></script>
+     
+    	<link rel="stylesheet" href="https://nonsensenyc.com/dada_mail_support_files/static/css/vendor/colorbox/colorbox.css?v=v11.21.0%20stable%202023-08-07">
+    	<script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/jquery/colorbox/jquery.colorbox-min.js?v=v11.21.0%20stable%202023-08-07"></script>
+    
+
+    
+	
+    <script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/dada_mail.user.js?v=v11.21.0%20stable%202023-08-07"></script>
+    <script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/jquery.dadamail.js?v=v11.21.0%20stable%202023-08-07"></script>
+
+
+    <script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/modernizr.js?v=v11.21.0%20stable%202023-08-07"></script>
+
+
+
+
+	
+	   	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+	   	<script type="text/javascript" charset="utf-8">
+		 
+			 // Holds the id of any recaptcha's made. This is usually only one, 
+			 // but some screens have >1
+			 var recaptcha_ids = []; 
+			 var onloadCallback = function() {
+				 var recaptchas = document.querySelectorAll('div[class=g-recaptcha]');
+				 for ( i = 0; i < recaptchas.length; i++) {		
+					var newly_created_widget = grecaptcha.render( 
+						recaptchas[i].id, 
+						{
+							'sitekey' : '6LeUohMUAAAAAAeyAIsOLm44EEvJFsdqKQ0ZMVG_'
+						}
+					);					
+				
+					// Save it here, so we can reset things, later. 
+					recaptcha_ids[i] = newly_created_widget; 
+				
+					// we'll save it the name of the id here, so we can double-check that it's 
+					// been set in our client-side form validation					
+					var g_recaptcha_id = document.getElementById(recaptchas[i].id);
+					    g_recaptcha_id.setAttribute("data-recaptcha_id", newly_created_widget);  
+
+				}
+			}		
+			function setup_recaptcha() {					
+				for ( i = 0; i < recaptcha_ids.length; i++) {
+						grecaptcha.reset(recaptcha_ids[i]);
+				}	
+			}
+	   	 </script>
+	
+	
+
+
+
+
+<link rel="stylesheet" href="https://nonsensenyc.com/dada_mail_support_files/static/css/dada_mail.css?v=v11.21.0%20stable%202023-08-07" type="text/css" media="screen" />
+
+
+
+
+
+<!-- end list_template_header_code_block.tmpl --> 
+
+ </head>
+
+ <body>
+	 
+	 
+   <nav class="top-bar" data-topbar role="navigation" id="admin_header">
+        <ul class="title-area">
+           <li class="name">
+				<a href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi">
+					<img src="https://nonsensenyc.com/dada_mail_support_files/static/images/pro_dada_mail_logo.png" title="Pro Dada" alt="Pro Dada" >
+				</a>
+           </li>
+	     <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+		 </ul>
+		 
+		 
+			<section class="top-bar-section">
+				<!-- begin profile_widget.tmpl --> 
+
+ 
+	<ul class="right">			
+		 
+			<li>
+				
+					<a href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi/profile_login/">Profile Log In</a>					
+				
+			<li>
+		 
+	</ul>
+ 
+
+<!-- end profile_widget.tmpl --> 
+
+
+ 
+			</section> 
+		 
+	</nav>
+
+<div class="row" >
+   <div class="small-12 columns" id="list_content_area">
+	   
+		   <h2>
+			   nonsense nyc
+		   </h2>
+		
+		 
+			
+		
+
+		<!-- begin list_page_screen.tmpl -->
+
+
+
+
+
+<!-- begin list_breadcrumbs_widget.tmpl -->
+<ul class="breadcrumbs">
+	<li>
+		<a href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi">
+			Pro Dada
+		</a>
+	</li>
+	<li>
+		 <a href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi/list/nonsensenyc/">
+			  nonsense nyc
+		 </a>
+	</li>
+ 
+	
+
+	
+
+	
+
+	
+
+</ul>
+
+<!-- end list_breadcrumbs_widget.tmpl -->
+
+<!-- begin list_page_info_widget.tmpl -->
+
+<div class="row" data-equalizer>
+	<div class="large-6 large-push-6 columns panel" data-equalizer-watch>
+		 
+
+		
+			<div id="modal_subscribe_form">
+		
+			
+			 
+				<!-- begin subscription_form_widget.tmpl --> 
+
+
+	<form 
+		action="https://nonsensenyc.com/cgi-bin/dada/mail.cgi" 
+		method="post" 
+		accept-charset="UTF-8" 
+		id="subscription_form"
+		
+			target="_self"
+		
+	>
+
+	<input type="hidden" name="flavor" id="ddm_flavor" value="subscribe" >
+
+	    <div class="row">
+	        <div class="small-12 columns">
+
+		 
+		    <input 
+				type="hidden" 
+				name="list" 
+				id="ddm_list" 
+				value="nonsensenyc" 
+			>
+		     
+				
+		    
+		
+
+
+		  
+			      <div class="row">
+			        <div class="large-4 medium-4 columns">
+						<label 
+							class="medium-text-right"
+					  		for="ddm_email" 
+					  	>
+							Email Address
+						</label>
+			        </div>
+			        <div class="large-8 medium-8 columns">
+						 
+							<input 
+								type="email" 
+								name="email" 
+								id="ddm_email" 
+								value=""
+								required="required" 
+								placeholder="user@example.com (required)"
+								>
+						 
+			        </div>
+			      </div>
+
+	  
+		 
+			<div id="ddm_subscriber_fields"> 
+			 
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			</div> 
+		
+		
+		
+
+		
+			
+					<div class="row">
+						<div class="large-4 medium-4 columns">
+							&nbsp;
+						</div> 
+			
+						<div class="large-8 medium-8 columns">
+
+							<div class="form-group">
+								<div 
+									class="g-recaptcha"
+									id="subscription_form_gr"
+									data-recaptcha_id="default_value"
+								></div>
+								<input 
+									 type="hidden"
+									 class="captcha_check required" 
+									 name="captcha_check" 
+									 id="captcha_check"
+									>
+							</div>
+						</div>
+					</div>
+					 
+			
+		
+			
+		
+		
+		<div class="row">
+			<div class="large-4 medium-4 columns">
+				&nbsp;
+			</div> 
+			<div class="large-8 medium-8 columns">
+						<input 
+							type="submit" 
+							name="submit_button"
+							value="Subscribe" 
+							class="button success expand" 
+							id="ddm_subscribe_button"
+						>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 medium-12 columns large-centered medium-centered">
+				
+					<p class="text-center"> 
+						Unsubscribe at Anytime
+						| 
+						<a 
+							href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi/privacy_policy/nonsensenyc/" 
+							target="_blank"
+						> 
+							Privacy Policy
+						</a>
+					</p>
+				
+			</div>
+		</div>
+	</div>
+	</div>
+</form> 
+
+<!-- end subscription_form_widget.tmpl --> 
+ 
+			
+		</div>
+	</div>
+	<div class="large-6 large-pull-6 columns panel"  data-equalizer-watch>
+	
+			<div class="alert-box info radius">
+				<ul> 
+				 
+			        <li>
+			    			This mailing list is a public mailing list - anyone may join or leave, at any time.
+			    	</li>		
+			    
+
+				 
+
+			     
+    
+			        <li>
+			         <p>
+						This mailing list is announce-only.
+			         </p>
+					</li>
+
+
+			      
+			</ul>
+		</div>
+		
+		<p>nonsense nyc is a discriminating resource for independent art, weird 
+events, strange happenings, unique parties, and senseless culture in new 
+york city. </p>
+
+<p>we like rock bands and experimental musicians and arty films and 
+galleries and museums and big street festivals, but we can find 
+information about all of those things in other places. we generally will 
+not list these kind of things on their own. that leaves that other 
+stuff, the stuff that has no name or a name that you feel really 
+self-conscious saying out loud, like "underground." </p>
+
+<p>we publish more or less once a week on fridays in easy digest format. if you sign up, the important thing to remember is that the nonsense nyc 
+happens because of you. that means we rely on you to let us know what 
+events you are organizing and what events you are attending. please keep 
+us up to date and don't assume that we'll find out about something from 
+someone else. our job is to gather, edit, organize, and filter; your's 
+is to make interesting thing happen and let us know about them. (and we 
+love you, and the other people on this list love you, for that effort.) </p>
+
+<p>also, feel free to send us editorial comments. we certainly don't 
+endorse every event on this list, nor do we attend all of them. that 
+means it's nice to hear what you have to say. for instance, let us know 
+if you had the best time of your life last weekend, or, conversely, if you felt 
+like you were cheated out of $5 by some group that sounded good but 
+turned out to be hippie drummers. </p>
+
+<p>anyway, please enjoy this list and remember to do your part to make new 
+york a better place to live.</p>
+
+
+		<h4>
+			Privacy Policy:
+		</h4>
+		<p>
+			<p>We will never sell or give away your email address or any other information.</p>
+
+		</p>		
+	</div>
+</div> 
+
+<!-- end list_page_info_widget.tmpl -->
+
+
+
+
+	<p class="text-center small">
+		<a href="https://nonsensenyc.com/cgi-bin/dada/mail.cgi/sign_in/nonsensenyc/">
+			Administration
+		</a>
+	</p>
+
+
+<!-- end list_page_screen.tmpl --> 
+
+		
+	</div>
+</div> 
+
+
+
+
+
+
+
+<script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/foundation.min.js?v=v11.21.0%20stable%202023-08-07"></script>
+<script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/foundation/foundation.topbar.js?v=v11.21.0%20stable%202023-08-07"></script>
+<script src="https://nonsensenyc.com/dada_mail_support_files/static/javascripts/vendor/foundation/foundation.equalizer.js?v=v11.21.0%20stable%202023-08-07"></script>
+  
+<script>
+	$(document).foundation();
+</script>
+	
+	
+ </body>
+</html>
