@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T13:08:00.821Z",
+  "responses": {
+    "https://ra.co/graphql": {
+      "file": "ra.co.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8"
+    }
+  }
+}

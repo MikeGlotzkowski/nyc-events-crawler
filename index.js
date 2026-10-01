@@ -25,6 +25,8 @@
  *   bam                BAM, Brooklyn Academy of Music (calendar JSON)
  *   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
  *   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
+ *   resident-advisor   Resident Advisor club nights (GraphQL)
+ *   dice               DICE shows and parties (browse pages)
  *   all-tier1        every non-Playwright crawler above except seatgeek and brooklyn-library
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
@@ -54,10 +56,12 @@ const CRAWLERS = {
   'bam':                () => import('./crawlers/bam.js').then(m => m.crawl),
   'lincoln-center':     () => import('./crawlers/lincoln-center.js').then(m => m.crawl),
   'carnegie-hall':      () => import('./crawlers/carnegie-hall.js').then(m => m.crawl),
+  'resident-advisor':   () => import('./crawlers/resident-advisor.js').then(m => m.crawl),
+  'dice':               () => import('./crawlers/dice.js').then(m => m.crawl),
 };
 
 const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'queens-library',
-               'whitney', 'bam', 'lincoln-center', 'carnegie-hall'];
+               'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice'];
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 

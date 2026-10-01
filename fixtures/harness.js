@@ -29,7 +29,7 @@ export const FIXTURES_DIR = path.dirname(fileURLToPath(import.meta.url));
 export const CRAWLERS = [
   'nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park',
   'forest-park', 'rss-blogs', 'queens-library', 'westsiderag',
-  'whitney', 'bam', 'lincoln-center', 'carnegie-hall',
+  'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice',
 ];
 
 // Saved bodies are cut down so fixtures stay small: one page per paginated
@@ -145,6 +145,16 @@ function trimBody(body, contentType) {
         return body.slice(0, cut) + tail;
       }
     }
+  }
+  // Next.js pages (dice): only the page's own data. The rest is scripts and translations,
+  // and one inline script carries a public map token that GitHub push protection rejects.
+  const nextData = body.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
+  if (nextData) {
+    const data = JSON.parse(nextData[1]);
+    const pageProps = data.props?.pageProps ?? {};
+    delete pageProps._nextI18Next;
+    delete pageProps.initialState;
+    return `<html><body><script id="__NEXT_DATA__" type="application/json">${JSON.stringify(data)}</script></body></html>`;
   }
   return body;
 }

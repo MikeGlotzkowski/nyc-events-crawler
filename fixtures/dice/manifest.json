@@ -1,0 +1,25 @@
+{
+  "capturedAt": "2026-10-01T13:08:03.192Z",
+  "responses": {
+    "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59": {
+      "file": "dice.fm.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/gig": {
+      "file": "dice.fm-2.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/dj": {
+      "file": "dice.fm-3.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/party": {
+      "file": "dice.fm-4.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    }
+  }
+}

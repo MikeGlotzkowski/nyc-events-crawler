@@ -1,0 +1,3357 @@
+[
+  {
+    "id": "ff17b7431dbd4287",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6abc1441864aa20001f56c2f",
+    "title": "Teksupport: Circoloco Halloween (Sunday)",
+    "description": "",
+    "startDate": "2026-11-01T12:00:00-05:00",
+    "endDate": "2026-11-02T00:00:00-05:00",
+    "time": null,
+    "location": {
+      "name": "Brooklyn Storehouse",
+      "address": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 180.25,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6abc1441864aa20001f56c2f",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/cbcac2e4-1b16-4fc0-b5b2-4615a2b38a40.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b4c7e08d6b13b1ea",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab540b2286df2000159328a",
+    "title": "Mixed Feelings Presents: Kim Petras De-Tour",
+    "description": "",
+    "startDate": "2026-12-04T19:00:00-05:00",
+    "endDate": "2026-12-04T23:00:00-05:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab540b2286df2000159328a",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/32526dc8-c246-485d-b852-266157e4303c.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "fff2948b26c4f60f",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab58475127db10001dfe4d7",
+    "title": "The Blaze (Live)",
+    "description": "Richly-textured, cinematic electronic music",
+    "startDate": "2026-10-28T19:00:00-04:00",
+    "endDate": "2026-10-28T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab58475127db10001dfe4d7",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/8fe69ca4-4523-4b9c-83ba-38e7ebc869a4.jpg?rect=17%2C0%2C1043%2C1041"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "d9807f29eff48a13",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a7b7c33dd402d000135074d",
+    "title": "City of Gods Festival",
+    "description": "Massive labyrinth of stages",
+    "startDate": "2026-10-23T21:00:00-04:00",
+    "endDate": "2026-10-25T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Industry City",
+      "address": "67 34th Street, Brooklyn, New York 11232, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 125,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a7b7c33dd402d000135074d",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-11/1a29814d-f499-40b3-ad8a-302315722a5e.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Sunset Park",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "3b46a8e7df98a51d",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a85c090fcb8130001e3aaed",
+    "title": "The Vampire Ball: Night 1 - Mischief Night",
+    "description": "10-stage blood rave and cabaret",
+    "startDate": "2026-10-30T21:00:00-04:00",
+    "endDate": "2026-10-31T05:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Industry City",
+      "address": "67 34th Street, Brooklyn, New York 11232, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 55,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a85c090fcb8130001e3aaed",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-19/0abf1dc1-771d-413b-ae32-c0c1937c7414.jpg?rect=0%2C0%2C1440%2C1440"
+    ],
+    "rawText": null,
+    "neighborhood": "Sunset Park",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "2e445af9640c0885",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a85c152c0e75600018f3408",
+    "title": "The Vampire Ball: Night 2 - All Hallows Eve",
+    "description": "10-stage festival, blood rave",
+    "startDate": "2026-10-31T21:00:00-04:00",
+    "endDate": "2026-11-01T05:00:00-05:00",
+    "time": null,
+    "location": {
+      "name": "Industry City",
+      "address": "67 34th Street, Brooklyn, New York 11232, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 82.51,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a85c152c0e75600018f3408",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-19/7595bd2c-b8a6-4689-8f73-30098893ea2e.jpg?rect=0%2C0%2C1440%2C1440"
+    ],
+    "rawText": null,
+    "neighborhood": "Sunset Park",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "1ccd0c730f095514",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aad78ca4e3af20001a3f16e",
+    "title": "JO1 Album Signing",
+    "description": "",
+    "startDate": "2026-10-03T16:00:00-04:00",
+    "endDate": "2026-10-03T19:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Rough Trade Below",
+      "address": "30 Rockefeller Plaza, Concourse Level, New York City, New York 10112, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 26,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aad78ca4e3af20001a3f16e",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-18/b7bdc02d-d3bf-4c34-8b40-88c849105066.jpg?rect=1404%2C0%2C5792%2C5792"
+    ],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "51673afee1503aee",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa2beae05d5a10001740b76",
+    "title": "Sunday Sunday: Axel Boman, Rebolledo",
+    "description": "",
+    "startDate": "2026-10-04T15:00:00-04:00",
+    "endDate": "2026-10-04T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Ruins at Knockdown Center",
+      "address": "52-19 Flushing Ave, Queens, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa2beae05d5a10001740b76",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-23/137eda8e-b6af-4d27-91c4-18256755a236.jpg?rect=0%2C134%2C2048%2C2048"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "80a62142fe4a096b",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6abb21f2481818000135f447",
+    "title": "After Dark: Nacho Isa , Santelises & more",
+    "description": "Miami underground electronic",
+    "startDate": "2026-10-03T22:00:00-04:00",
+    "endDate": "2026-10-04T04:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "UNVEILED",
+      "address": "94 North 13th Street, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6abb21f2481818000135f447",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/9a645a19-d359-46ea-ad44-a70de1aed585.jpg?rect=0%2C61%2C1214%2C1214"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b749c9ac10b51b87",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa8155af67d950001299b52",
+    "title": "Brooklyn Storehouse: Armin van Buuren",
+    "description": "",
+    "startDate": "2026-10-09T22:00:00-04:00",
+    "endDate": "2026-10-10T05:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Brooklyn Storehouse",
+      "address": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 32.96,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa8155af67d950001299b52",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-14/5deeca56-91e7-4824-9be7-ba3da258ce10.jpg?rect=0%2C0%2C4500%2C4500"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "9171cb812b7fcda7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a3be1022dde86000149cb51",
+    "title": "AFROJACK Presents: CONTROL",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T05:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Brooklyn Storehouse",
+      "address": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 30.9,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a3be1022dde86000149cb51",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-23/997b0ee6-a25f-4afd-b1a2-51e11cb43732.jpg?rect=0%2C520%2C3120%2C3120"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "32d48d1882d7c6ac",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab09bb30419da0001e2e5cb",
+    "title": "High On Fire",
+    "description": "",
+    "startDate": "2026-10-31T18:00:00-04:00",
+    "endDate": "2026-10-31T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Saint Vitus",
+      "address": "428 Troutman Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 63.04,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab09bb30419da0001e2e5cb",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-24/fb35e329-d3ab-4b03-a299-65061040c2b3.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "0df5fc36c9a04389",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab44b599e8bcf00012a4187",
+    "title": "Ink & Dagger, Saetia",
+    "description": "",
+    "startDate": "2026-10-30T18:00:00-04:00",
+    "endDate": "2026-10-30T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Saint Vitus",
+      "address": "428 Troutman Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 42.03,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab44b599e8bcf00012a4187",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/04e0c897-870c-4904-9d1e-8596a7e9917b.jpg?rect=0%2C563%2C4500%2C4500"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "ee4400838e2d972e",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a32f2e8dcd747000144b34a",
+    "title": "CRANKDAT (Night 2 - Saturday)",
+    "description": "",
+    "startDate": "2026-10-24T22:00:00-04:00",
+    "endDate": "2026-10-25T05:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Brooklyn Storehouse",
+      "address": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 30.9,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a32f2e8dcd747000144b34a",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-06-17/c838a339-cbc5-4836-a8e3-eb8e767c6253.jpg?rect=0%2C0%2C2000%2C2000"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b1eb6079853326ac",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/69b84b1fdb1aff000113cb07",
+    "title": "Palosanto On The Roof - Oct 1st",
+    "description": "Poolside dancing and sunset views",
+    "startDate": "2026-10-01T18:00:00-04:00",
+    "endDate": "2026-10-01T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Rooftop at Arlo Williamsburg",
+      "address": "96 Wythe Avenue, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 30,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/69b84b1fdb1aff000113cb07",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-03-16/6f161e15-1ba3-411a-922c-739f1b69c140.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "3a645883af64ffd3",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab687aef570fa000157c74c",
+    "title": "AfroDesi New York",
+    "description": "",
+    "startDate": "2026-10-16T22:00:00-04:00",
+    "endDate": "2026-10-17T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Melrose Ballroom",
+      "address": "3608 33rd Street, Queens, New York 11106, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 25.55,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab687aef570fa000157c74c",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/1ca12e11-0178-45e6-8f6e-85a922cac149.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Melrose",
+    "borough": "Bronx"
+  },
+  {
+    "id": "0fffd6a7ac4c5b35",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa1c7ef308cd10001e00e30",
+    "title": "Azure Presents As Above So Below - Halloween 10/31",
+    "description": "Gothic-inspired multi-room world",
+    "startDate": "2026-10-31T22:00:00-04:00",
+    "endDate": "2026-11-01T05:00:00-05:00",
+    "time": null,
+    "location": {
+      "name": "Arlo Williamsburg (Formerly The Williamsburg Hotel)",
+      "address": "96 Wythe Avenue, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 85,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa1c7ef308cd10001e00e30",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-09/329f575b-b207-4dfc-8191-6eee99e938c6.jpg?rect=0%2C0%2C1254%2C1254"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "fe27893e50cbcb7f",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aabf57276c1150001c496a8",
+    "title": "Check In to Check Out",
+    "description": "Decadent and immersive takeover",
+    "startDate": "2026-10-23T22:00:00-04:00",
+    "endDate": "2026-10-25T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Sela V Hotel",
+      "address": "29 Ryerson Street, Brooklyn, New York 11205, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aabf57276c1150001c496a8",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-17/d8470f9e-43ed-4e91-b363-6a6abdbbf527.jpg?rect=0%2C0%2C1440%2C1440"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "a30a9a154f7fd145",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aaaa73642951e0001fbc10f",
+    "title": "Animal Collective Performs Feels Live",
+    "description": "",
+    "startDate": "2026-10-21T19:00:00-04:00",
+    "endDate": "2026-10-21T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 68.04,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aaaa73642951e0001fbc10f",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-16/06edec83-a2bb-4e0d-b6b8-79b79aff1e66.jpg?rect=0%2C126%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "e26522bcc3a85412",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a5139e5a955360001736584",
+    "title": "Bassvictim",
+    "description": "",
+    "startDate": "2026-10-31T18:00:00-04:00",
+    "endDate": "2026-10-31T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 51.56,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a5139e5a955360001736584",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-18/f16d84d4-05d9-4c4d-ba06-0b05fbde62cf.jpg?rect=0%2C270%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "1e35c371411d9e9b",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a26bfb48d4d860001b6bc6f",
+    "title": "BLOND:ISH",
+    "description": "Uplifting, groove-driven house",
+    "startDate": "2026-10-03T22:00:00-04:00",
+    "endDate": "2026-10-04T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Pacha New York",
+      "address": "140 Stewart Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 74.27,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a26bfb48d4d860001b6bc6f",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-26/4e9de946-e8b1-4f62-a553-4b1e2b487f2e.jpg?rect=0%2C1%2C1330%2C1330"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "c8cc4253fefbde78",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a220018a4d5c80001e96d25",
+    "title": "Boy Harsher",
+    "description": "",
+    "startDate": "2026-11-05T19:00:00-05:00",
+    "endDate": "2026-11-05T23:00:00-05:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 55.69,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a220018a4d5c80001e96d25",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-06-09/b8263710-6530-4b3f-9b41-73bf34e52904.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "0181d033f0a6a671",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a7a303fa77a9c0001eec982",
+    "title": "NEW YORK NIGHT TRAIN 21ST ANNUAL HAUNTED HOP: Devil's Night Edition",
+    "description": "Multi-room rock'n'roll horror festival",
+    "startDate": "2026-10-30T19:00:00-04:00",
+    "endDate": "2026-10-31T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 52.59,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a7a303fa77a9c0001eec982",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-11/84c0c89e-7953-456d-9367-84ca6bfe5257.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "4be3f0dd95644de7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab54a8cf25e4900019eb22f",
+    "title": "Rocky Horror: Extra-Transsexual",
+    "description": "Immersive shadow cast, queer performers",
+    "startDate": "2026-10-22T23:00:00-04:00",
+    "endDate": "2026-10-23T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Sultan Room",
+      "address": "234 Starr St, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 27.92,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab54a8cf25e4900019eb22f",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-24/85e81317-bde2-4560-af07-0d72834194e5.jpg?rect=0%2C0%2C2000%2C2000"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "bf5dacc39d777d58",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa8098d5d724e0001b6bae3",
+    "title": "NOSTALGIA: A Throwback Classic Night (Rihanna Appreciation Edition)",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Deluxx Fluxx",
+      "address": "125 East 11th Street, BSMNT, New York City, New York 10003, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa8098d5d724e0001b6bae3",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-22/a94f95c2-b123-492e-9a3b-39313b599a97.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "East Village",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "675e65a119895a5a",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a0c75314469950001f6138e",
+    "title": "RUSH Presents: Kettama",
+    "description": "",
+    "startDate": "2026-10-07T20:00:00-04:00",
+    "endDate": "2026-10-08T01:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 58.16,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a0c75314469950001f6138e",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-24/ac9be79e-0d71-4a99-8e06-b36cc8b0ae7d.jpg?rect=0%2C0%2C1000%2C1000"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "1f6a969c48099118",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a0dc2235b454700014a4aab",
+    "title": "L.P. Rhythm with Olive F & Guests",
+    "description": "House with a modern edge",
+    "startDate": "2026-10-04T14:00:00-04:00",
+    "endDate": "2026-10-04T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Roof at Superior Ingredients",
+      "address": "74 Wythe Ave, Brooklyn, NY 11249, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a0dc2235b454700014a4aab",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-06-26/95fe8dea-738f-4466-95b6-e9826ecfafbc.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "d0c9e9b52e0f3376",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab51a5a1afcb000011bcfed",
+    "title": "Dr. Martens Bouncing Soles With Sophia Wilson",
+    "description": "Immersive experience celebrating girlhood",
+    "startDate": "2026-10-08T13:00:00-04:00",
+    "endDate": "2026-10-08T18:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "45 HOWARD STREET",
+      "address": "45 Howard Street, New York City, New York 10013, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab51a5a1afcb000011bcfed",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/f8b84bb3-5900-46a2-a718-e595c92e1f26.jpg?rect=0%2C0%2C2161%2C2161"
+    ],
+    "rawText": null,
+    "neighborhood": "Tribeca",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "90240d690d93121d",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa80a02170c6a00016f8cf0",
+    "title": "Gyalhattan : A Dancehall/Hip-Hop Party",
+    "description": "",
+    "startDate": "2026-10-03T22:00:00-04:00",
+    "endDate": "2026-10-04T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Deluxx Fluxx",
+      "address": "125 East 11th Street, BSMNT, New York City, New York 10003, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa80a02170c6a00016f8cf0",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-22/7bfedef2-ee5e-4d14-820e-223565bb0fe9.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "East Village",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c6304c002cda33b8",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab6a87661381000015f23d4",
+    "title": "I Challenged The Master And Won Listening Session",
+    "description": "",
+    "startDate": "2026-10-01T17:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Moondog HiFi",
+      "address": "119 Ingraham Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab6a87661381000015f23d4",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/a471bcfe-b929-4450-bf01-d10b57021ddb.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "1419520cb6ff9b26",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa9e0611dc8c2000150a64b",
+    "title": "\"The Exchange\" Exhibition Opening",
+    "description": "Improvisational dance, live violin DJ",
+    "startDate": "2026-10-01T18:00:00-04:00",
+    "endDate": "2026-10-01T21:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "HNT.FM",
+      "address": "181 Avenue B, New York City, New York 10009, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa9e0611dc8c2000150a64b",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-16/6ef32e43-0bee-4801-8565-194f2c64580f.jpg?rect=0%2C0%2C768%2C768"
+    ],
+    "rawText": null,
+    "neighborhood": "East Village",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c1c678b14c180555",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a724de38134e60001c0f4e7",
+    "title": "Incendiary, Sin Against Sin, Total Meltdown",
+    "description": "Crushing metallic riffs, blunt metalcore",
+    "startDate": "2026-10-01T18:00:00-04:00",
+    "endDate": "2026-10-01T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Saint Vitus",
+      "address": "428 Troutman Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 47.28,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a724de38134e60001c0f4e7",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-04/26bd4754-4f5b-4e8a-8e6c-95d47d459554.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "d8f478c9870166d7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa0643fdcd56d0001629b0c",
+    "title": "Flamenco Jazz Jam",
+    "description": "Deep grooves, wild solos",
+    "startDate": "2026-10-01T18:30:00-04:00",
+    "endDate": "2026-10-01T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "DROM",
+      "address": "85 Avenue A, New York, NY 10009, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 29.36,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa0643fdcd56d0001629b0c",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-08/655591c5-bca0-4c55-9ada-d37e3bf2d6ad.jpg?rect=128%2C0%2C768%2C768"
+    ],
+    "rawText": null,
+    "neighborhood": "East Village",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "2e319b8b8cd2a52e",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa85af11c3ced0001beac9a",
+    "title": "The Jungle Giants, Morning Silk",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Elsewhere - The Hall",
+      "address": "599 Johnson Ave #1, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 39.94,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa85af11c3ced0001beac9a",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-14/7a53f343-5908-436f-9b73-7518499726d8.jpg?rect=643%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "0df8619b8fff73e5",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a9f4e87905a030001dd44a2",
+    "title": "Strawberry Runners, Majorette, Flairity",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "ALPHAVILLE",
+      "address": "140 Wilson Ave, New York, New York 11237",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 24.05,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a9f4e87905a030001dd44a2",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-07/22eb427a-c652-4b91-9059-898146bb9171.jpg?rect=0%2C228%2C1545%2C1545"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "4ef61bda808f96b6",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a91c2f8b63d4a0001581b80",
+    "title": "UGA BUGA // VIQUEEN // LOSS BECOMES // NON RESIDENTS // PLAGUE MASTER",
+    "description": "Sludge metal, stoner rock",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Gold Sounds",
+      "address": "44 Wilson Ave, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 20.4,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a91c2f8b63d4a0001581b80",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-28/51ff807e-f43d-4030-bb63-fdc15a7c9824.jpg?rect=0%2C366%2C3300%2C3300"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "89b0eebecf1312b7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a9029fdf16e7800010689f6",
+    "title": "Ilan Schochet, A Kay A, Insãne Shinobi & Mike Pratt + MORE!",
+    "description": "Smooth R&B, Caribbean pop",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Brooklyn Music Kitchen",
+      "address": "177 Vanderbilt Avenue, Brooklyn, New York 11205, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 11.33,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a9029fdf16e7800010689f6",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-24/9f893063-1dd1-44bf-9ead-fef5d2ad0ab9.jpg?rect=0%2C227%2C1545%2C1545"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b32ce526c7024634",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a8f4632ed946c00012d6aee",
+    "title": "ICELAND AIRWAVES Off-Venue w/ SCAM • Inspector Spacetime • Hermigervill",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Pianos: Showroom",
+      "address": "158 Ludlow St, New York, NY 10002, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a8f4632ed946c00012d6aee",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-26/6a8719cd-5e0a-4af8-8bb7-e2aeb1cad504.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Lower East Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "559a6c4fe5e3d428",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a8dc8121ea9040001ee05b5",
+    "title": "Mars Motel (Album Release), Whenwolves, Holly Overton",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Sleepwalk",
+      "address": "251 Bushwick Avenue, Brooklyn, New York 11206, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 14.73,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a8dc8121ea9040001ee05b5",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-25/127d08f7-adf4-434c-a267-174a6046d240.jpg?rect=0%2C0%2C768%2C768"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "c6959b770f200ab5",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a7236cf53ae840001b3b1dc",
+    "title": "The Serfs • Cube • Content Blocks (Record Release)",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Union Pool",
+      "address": "484 Union Ave, Brooklyn, NY 11211, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 24.42,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a7236cf53ae840001b3b1dc",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-04/3c2335f2-824a-4a2a-8169-e38bcc0a2bf8.jpg?rect=0%2C226%2C3600%2C3600"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "cadfd15cc9309263",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a0dc2fe95f16400012c9287",
+    "title": "Noah Richardson, DUUNES, Jessica Woodlee",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Sultan Room",
+      "address": "234 Starr St, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 23.8,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a0dc2fe95f16400012c9287",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-07-24/f9c8ee83-fdb3-4a38-a6ec-b66c552dee90.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "ac397144ad62bac6",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/69ea7425bb2a5500013aa0b5",
+    "title": "An Evening with Lambchop",
+    "description": "Stripped-back electronics and improvisation",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Public Records",
+      "address": "233 Butler St, Brooklyn, NY 11217, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 44.29,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/69ea7425bb2a5500013aa0b5",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-04-24/9736cc79-5f3c-4555-91e5-b3ccb4c4d3c3.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Boerum Hill",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "ba65d8703447beee",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/69a89615adc12c0001de40f9",
+    "title": "ARLO PARKS - DESIRE TOUR",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-01T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 51.5,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/69a89615adc12c0001de40f9",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-17/c6d2f670-448c-4959-8c66-c0610aad10c9.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "1c4491ea035677aa",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a9f8f3e7993280001ea382e",
+    "title": "PALEHOUND & FRIENDS: FRANKIE COSMOS, THANKS FOR COMING, BECK ZEGANS",
+    "description": "",
+    "startDate": "2026-10-01T19:30:00-04:00",
+    "endDate": "2026-10-01T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Cassette",
+      "address": "68-38 Forest Avenue, Storefront B, Ridgewood, New York 11385, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 26.11,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a9f8f3e7993280001ea382e",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-07/8c547114-42b2-451a-8852-c3d426dc5b1a.jpg?rect=0%2C0%2C2700%2C2700"
+    ],
+    "rawText": null,
+    "neighborhood": "Ridgewood",
+    "borough": "Queens"
+  },
+  {
+    "id": "08959b68a22da99e",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa30f726f5fcc00017f377b",
+    "title": "Coco Smith, Heaviness Fell, Too Many Horses, and The Moderators",
+    "description": "Genre-bending indie music",
+    "startDate": "2026-10-01T20:00:00-04:00",
+    "endDate": "2026-10-01T23:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Purgatory",
+      "address": "675 Central Ave, Brooklyn, NY 11207, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.6,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa30f726f5fcc00017f377b",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-10/f6a2d8ca-d785-4fb7-80a1-8f5cad4b4e47.jpg?rect=0%2C177%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "East New York",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "9ca503f5e891a545",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a91be519562bc00017e3cdb",
+    "title": "Live From Desert 5: Cody Tyler",
+    "description": "",
+    "startDate": "2026-10-01T20:00:00-04:00",
+    "endDate": "2026-10-02T00:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Desert 5 Spot NY",
+      "address": "94 Wythe Avenue, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a91be519562bc00017e3cdb",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-28/19cc54a1-33ab-432e-8521-b5d52650f55b.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "c0f3823f5c61c3a5",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa6fe3d4e816400014daf09",
+    "title": "Woodshop with Bae Jing, ellen.j | Dead Letter No.9",
+    "description": "High-impact beats, house, pop anthems",
+    "startDate": "2026-10-01T21:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Dead Letter No.9",
+      "address": "63 Grand Street, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa6fe3d4e816400014daf09",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-13/95aef00d-9326-4ce8-9628-b00b1f631f01.jpg?rect=0%2C135%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "db47e58f7a6d2f81",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a97ad8d8ca2d300014368e7",
+    "title": "Java Jam",
+    "description": "Improvised experiment, bring an instrument",
+    "startDate": "2026-10-01T22:30:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "ALPHAVILLE",
+      "address": "140 Wilson Ave, New York, New York 11237",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.06,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a97ad8d8ca2d300014368e7",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-02/48bd8fbe-3a07-4b48-8830-fc1df9b00d47.jpg?rect=0%2C0%2C4000%2C4000"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "34a6595cf70dada2",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a8db8550d94ba00011a6260",
+    "title": "Punk Rock Mini Golf - Night 3/5 w/ The Casualties, Enrage, etc.",
+    "description": "Interactive art, thrash",
+    "startDate": "2026-10-02T17:00:00-04:00",
+    "endDate": "2026-10-02T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Maker Park",
+      "address": "450 Front Street, Staten Island, New York 10304, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 22.66,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a8db8550d94ba00011a6260",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-25/e696049b-cf62-4498-828d-ef36cd7c6264.jpg?rect=0%2C135%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Stapleton",
+    "borough": "Staten Island"
+  },
+  {
+    "id": "c9ac2d7f5b0dc408",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a834cbcb132fb00013c82e6",
+    "title": "PIG, Cyanotic, DNE",
+    "description": "Gritty, experimental industrial rock",
+    "startDate": "2026-10-02T18:00:00-04:00",
+    "endDate": "2026-10-02T22:30:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Saint Vitus",
+      "address": "428 Troutman Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 32.84,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Concert"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a834cbcb132fb00013c82e6",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-17/116b68ca-04ca-4baa-8f07-679e246a2303.jpg?rect=0%2C150%2C3597%2C3599"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "0fbd330875dab767",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa3168670220600015143d9",
+    "title": "HOUSEMATIC SUMMER SEND-OFF",
+    "description": "",
+    "startDate": "2026-10-01T17:00:00-04:00",
+    "endDate": "2026-10-01T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Westlight Rooftop at The William Vale",
+      "address": "111 North 12th Street, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 14.99,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa3168670220600015143d9",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-30/d25380b6-1d8d-4e22-b583-7d72211f97e6.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "84d06e0a538e3165",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6abadc9b206f7500017279c3",
+    "title": "Ash, Han G, Jake From State Pharm, Ricky E, Zigggy",
+    "description": "Pulsing basslines, deep grooves",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Jupiter Disco",
+      "address": "Jupiter Disco, 1237 Flushing Ave, New York City, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6abadc9b206f7500017279c3",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/6567a210-42df-47be-9eb3-918a50d262ca.jpg?rect=0%2C0%2C1600%2C1600"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "8256209625f85cfe",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aace8d30c3f8e0001857d57",
+    "title": "AFROBEATS / AMAPIANO / AFROHOUSE /AFROLATIN/ LATIN HOUSE: DJ OPEN DECK",
+    "description": "",
+    "startDate": "2026-10-01T19:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Acoustik Garden Lounge",
+      "address": "1515 Atlantic Avenue, Brooklyn, New York 11213, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aace8d30c3f8e0001857d57",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/97fa9033-f3d5-4d63-bc4a-0e9107cda15f.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Crown Heights",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "34e71bb8da0dda2c",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa45f4737f6290001f1bb99",
+    "title": "BKG: Boydell, Sasababy, Ladler",
+    "description": "",
+    "startDate": "2026-10-01T22:30:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Elsewhere - Zone One",
+      "address": "599 Johnson Ave, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa45f4737f6290001f1bb99",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-11/52d25f32-f0ca-4aad-9bf7-a984a723f655.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "206024cba498d13f",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a317790ccc134000101f2a9",
+    "title": "Lost Miracle: Sébastien Léger x Roy Rosenfeld",
+    "description": "Melodic house, organic grooves",
+    "startDate": "2026-10-02T15:00:00-04:00",
+    "endDate": "2026-10-02T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Ruins at Knockdown Center",
+      "address": "52-19 Flushing Ave, Queens, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 29.93,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a317790ccc134000101f2a9",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-30/efb02586-03e0-4ec4-a608-f652ea13d083.jpg?rect=0%2C0%2C1254%2C1254"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "6b58cdf770fdb48c",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a610d1828ab82000105262b",
+    "title": "Meduza³, LP Giobbi - We Belong Here: Central Park 2026 10/2",
+    "description": "",
+    "startDate": "2026-10-02T16:00:00-04:00",
+    "endDate": "2026-10-02T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Wollman Rink in Central Park",
+      "address": "830 5th Ave, New York, NY 10029, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 101.97,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a610d1828ab82000105262b",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-02/3a40d943-45eb-44a3-af9a-29ee494c6cb1.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Central Park",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "f58bf56aace43719",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a610bb8170f000001c6eba5",
+    "title": "We Belong Here: Central Park (ALL WEEKEND)",
+    "description": "",
+    "startDate": "2026-10-02T16:00:00-04:00",
+    "endDate": "2026-10-04T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Wollman Rink in Central Park",
+      "address": "830 5th Ave, New York, NY 10029, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 256.47,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a610bb8170f000001c6eba5",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-02/abf23027-096e-4bf3-b152-bf107f5f0f25.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Central Park",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "80a2e6a0ef7472ef",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/69bb11b7b9c9c900013b1e20",
+    "title": "Jazzy - Friends In High Places",
+    "description": "Open-air house with skyline views",
+    "startDate": "2026-10-02T17:00:00-04:00",
+    "endDate": "2026-10-02T23:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Westlight Rooftop at The William Vale",
+      "address": "111 North 12th Street, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 24.99,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/69bb11b7b9c9c900013b1e20",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-06-03/664b805d-d8f8-4e6c-8a8d-e7cc547c13e6.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "58a56a8a0c75a48d",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a676bdfbcebda0001e15878",
+    "title": "Whipped Cream, MUSUBI",
+    "description": "",
+    "startDate": "2026-10-02T18:00:00-04:00",
+    "endDate": "2026-10-02T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Elsewhere - Rooftop",
+      "address": "599 Johnson Ave #1, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 33.33,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a676bdfbcebda0001e15878",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-11/c92eeeb2-a8cb-494f-bf88-1dfaa29003e5.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "c1fde87fb9ce4881",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa30112f3f3980001ceacc0",
+    "title": "DJ BIRD DADDY",
+    "description": "",
+    "startDate": "2026-10-02T21:30:00-04:00",
+    "endDate": "2026-10-03T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Cassette",
+      "address": "68-38 Forest Avenue, Storefront B, Ridgewood, New York 11385, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa30112f3f3980001ceacc0",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-10/731679ae-8eb7-40bd-ae6a-68a9686b9ade.jpg?rect=0%2C0%2C3024%2C3024"
+    ],
+    "rawText": null,
+    "neighborhood": "Ridgewood",
+    "borough": "Queens"
+  },
+  {
+    "id": "9eae38453629b2ec",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/69fb98d0cda3f500016dd8c9",
+    "title": "19:26, Woo York, Layla Benitez, Belladonna & more",
+    "description": "Melodic techno main hall takeover",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T05:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Knockdown Center",
+      "address": "52-19 Flushing Ave, Maspeth, NY 11378, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 27.87,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/69fb98d0cda3f500016dd8c9",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/c98db061-d554-4fce-bd5f-7f4fff8b359d.jpg?rect=0%2C0%2C1500%2C1500"
+    ],
+    "rawText": null,
+    "neighborhood": "Maspeth",
+    "borough": "Queens"
+  },
+  {
+    "id": "35ec0b0af80df800",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa48200e698de00018224dd",
+    "title": "SITH: SECRET RENDEZVOUS | OCT 2ND | 20 W 36th St.",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Eden",
+      "address": "20 West 36th Street, New York City, New York 10018, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 28.33,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa48200e698de00018224dd",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-11/a9f0363e-bfc3-42f7-a3da-cb16bc02a716.jpg?rect=342%2C0%2C1365%2C1365"
+    ],
+    "rawText": null,
+    "neighborhood": "Midtown",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "f0406b72e320fdda",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a6a0b38a88d7d00013b4f3e",
+    "title": "SOFI TUKKER Presents: ANIMAL TALK",
+    "description": "Infectious, jazz-infused electronic energy",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Pacha New York",
+      "address": "140 Stewart Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 105.03,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a6a0b38a88d7d00013b4f3e",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-07-29/43dda5c9-646e-4a1d-97d5-86f5d387f8d2.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "cca761067d3c2b49",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a61322c055c400001a5d62e",
+    "title": "Joris Voorn / Ramsey Neville / Yazz",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Chocolate Factory",
+      "address": "70 Scott Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 36.05,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a61322c055c400001a5d62e",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/79241909-412a-4d59-8a0c-d7f171f32344.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "764fec58d49f6871",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a56527a98bb010001387f98",
+    "title": "SEA RAE Above The Clouds: NYC",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Honey's",
+      "address": "93 Scott Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 31.93,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Sold out"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a56527a98bb010001387f98",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-07-17/024697b6-c721-40fb-85e3-de92868561a8.jpg?rect=0%2C293%2C2338%2C2338"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "daf1ada12b0d41bd",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a270eebe4587200015e3bc1",
+    "title": "House of Grooves: Eli Escobar All Night + Sissies of Mercy",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "House of Yes",
+      "address": "2 Wyckoff Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a270eebe4587200015e3bc1",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/3b1de705-80d3-4c23-a8b7-fc6bd0963cd9.jpg?rect=0%2C0%2C1440%2C1440"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "e5a67c2a45bf92b7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab3cc838d1183000159d538",
+    "title": "Who Up Who Out",
+    "description": "",
+    "startDate": "2026-10-02T22:30:00-04:00",
+    "endDate": "2026-10-03T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "ALPHAVILLE",
+      "address": "140 Wilson Ave, New York, New York 11237",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab3cc838d1183000159d538",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-23/65544941-d69f-4c3f-a860-efe432253022.jpg?rect=0%2C0%2C1024%2C1024"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "92008038c0cd217f",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a676db7233f7b0001480746",
+    "title": "Dusky, dj poolboi (open to close), Rae Sada, shimmer: After Wes, dunne, fruitgrl, softsky",
+    "description": "",
+    "startDate": "2026-10-02T22:30:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Elsewhere, Brooklyn",
+      "address": "599 Johnson Ave #1, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 46.66,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a676db7233f7b0001480746",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/dec5263a-8cb8-4a89-a66a-3d192251b73b.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "d9f4c1cec487e4e3",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa97e3ae4fe93000148a757",
+    "title": "jigitz",
+    "description": "",
+    "startDate": "2026-10-02T23:00:00-04:00",
+    "endDate": "2026-10-03T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Marquee New York",
+      "address": "287 10th Avenue, New York City, New York 10001, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 96.31,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa97e3ae4fe93000148a757",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-15/d4304612-db03-4d25-832c-48e4a779d908.jpg?rect=0%2C135%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Chelsea",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "d244d668b8f17ea1",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa835eb73bfbc0001b52624",
+    "title": "La Desvelada Salsera: Angel Javier Camilo, Nick Corredor",
+    "description": "",
+    "startDate": "2026-10-02T23:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Sleepwalk",
+      "address": "251 Bushwick Avenue, Brooklyn, New York 11206, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.6,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa835eb73bfbc0001b52624",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-14/806b66aa-3863-48d3-9695-87691c511d54.jpg?rect=0%2C0%2C768%2C768"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "6b45ad6dea6d3bb7",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab7d9e334e57f0001f1cf69",
+    "title": "Seduction",
+    "description": "",
+    "startDate": "2026-10-01T20:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Althea's Hideaway NYC",
+      "address": "634 West 52nd Street, New York City, New York 10019, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab7d9e334e57f0001f1cf69",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-26/baffdcf0-a14d-4583-9f9c-1c3554ad1a86.jpg?rect=0%2C234%2C2000%2C2000"
+    ],
+    "rawText": null,
+    "neighborhood": "Midtown",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "956e979cf6aff0ea",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab675bbf570fa0001ee7449",
+    "title": "˖ ݁♬⋆.˚𝄞. Karaoke Thursday Night ˖ ݁♬⋆.˚𝄞.",
+    "description": "",
+    "startDate": "2026-10-01T20:00:00-04:00",
+    "endDate": "2026-10-02T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Seventh Heaven Bar & Karaoke",
+      "address": "4 Irving Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab675bbf570fa0001ee7449",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-01-23/c9ae899b-b661-443b-b3dd-572c07a754d4.jpg?rect=3015%2C1120%2C3651%2C3650"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "6463e8a5c256208a",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a99f98feb6b7400019ac99c",
+    "title": "Dirty Magazine's Lingerie Skate (skate all night)",
+    "description": "",
+    "startDate": "2026-10-01T20:00:00-04:00",
+    "endDate": "2026-10-02T00:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Xanadu",
+      "address": "262 Starr Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 26.78,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a99f98feb6b7400019ac99c",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-18/0a9f649e-a4de-4e74-acb9-1569e28f1c11.jpg?rect=0%2C0%2C2250%2C2250"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "cc83854d3c0402a3",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab2d552a61b790001039899",
+    "title": "CTRL ALT DLT",
+    "description": "Nu metal tribute party",
+    "startDate": "2026-10-01T22:00:00-04:00",
+    "endDate": "2026-10-02T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "C'mon Everybody",
+      "address": "325 Franklin Ave, Brooklyn, NY 11238, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab2d552a61b790001039899",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-22/00e9cf40-3e64-47e7-8fca-4d13918f6fe6.jpg?rect=0%2C0%2C1000%2C1000"
+    ],
+    "rawText": null,
+    "neighborhood": "Prospect Heights",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "3a74c655bc83031d",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a909cc70f25790001c746b0",
+    "title": "Weekend Warm-Up (skate)",
+    "description": "Top 40 and R&B",
+    "startDate": "2026-10-02T16:00:00-04:00",
+    "endDate": "2026-10-02T19:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Xanadu",
+      "address": "262 Starr Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.39,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a909cc70f25790001c746b0",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2025-11-14/6e0d492a-24cf-422f-abbb-7ff95a3b92ea.jpg?rect=0%2C0%2C2400%2C2400"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "0583b76752af2242",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab2e052a61b79000183b633",
+    "title": "Perreito",
+    "description": "",
+    "startDate": "2026-10-02T18:00:00-04:00",
+    "endDate": "2026-10-02T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Elsewhere - Rooftop",
+      "address": "599 Johnson Ave #1, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 27.85,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab2e052a61b79000183b633",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-22/a455e326-21d7-4644-93d4-45aaa28ec0ba.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "4f2aaf3354e1a796",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aad94fb113b770001cdb98d",
+    "title": "The Caribbean Skate Night Presents: “Roll to Miami” Miami Carnival Sendoff (skate + dance party)",
+    "description": "",
+    "startDate": "2026-10-02T19:00:00-04:00",
+    "endDate": "2026-10-03T02:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Xanadu",
+      "address": "262 Starr Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 19.99,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aad94fb113b770001cdb98d",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-18/61f69449-7453-44bc-8232-1183e225209a.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "6c9634d3684f82c5",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa43d53e698de00016260da",
+    "title": "Björk Tribute Show",
+    "description": "",
+    "startDate": "2026-10-02T19:30:00-04:00",
+    "endDate": "2026-10-02T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "C'mon Everybody",
+      "address": "325 Franklin Ave, Brooklyn, NY 11238, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.39,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa43d53e698de00016260da",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-11/07b45d1d-2d2e-43d8-8bdd-2c90bb41b399.jpg?rect=1%2C0%2C1078%2C1078"
+    ],
+    "rawText": null,
+    "neighborhood": "Prospect Heights",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "44cce0bec83086ab",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab675f0a03ebf0001b3d6c6",
+    "title": "˖ ݁♬⋆.˚𝄞. Karaoke Friday Night ˖ ݁♬⋆.˚𝄞.",
+    "description": "",
+    "startDate": "2026-10-02T21:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Seventh Heaven Bar & Karaoke",
+      "address": "4 Irving Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab675f0a03ebf0001b3d6c6",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-01-23/76d484d5-e046-4c9d-94c3-969782c13088.jpg?rect=268%2C523%2C532%2C531"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "664d5f7f40ac2ea9",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6abac5320afa8e0001573d29",
+    "title": "THE ZOO feels like NICOLE",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "OBERON",
+      "address": "196 North 10th Street, Brooklyn, New York 11211, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.91,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6abac5320afa8e0001573d29",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-28/a2c048bc-cbf1-42e1-b80c-89a8aa875e86.jpg?rect=0%2C95%2C1122%2C1122"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "69bf164570da1f44",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aab2cb3d2cb5400014f8ab8",
+    "title": "Laissez Faire",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Laissez Faire",
+      "address": "10 Theater Alley, New York City, New York 10038, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 33.99,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aab2cb3d2cb5400014f8ab8",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-17/31f04d17-7ecb-464c-946c-6a3926cca077.jpg?rect=0%2C137%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Financial District",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "b5083905e2dc5f73",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aaada36d4b40b0001e07666",
+    "title": "Lyra Rooftop Party - 10.02",
+    "description": "Two stages of house remixes",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Magic Hour Rooftop",
+      "address": "485 Seventh Avenue, 18th Floor, New York City, New York 10018, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 23.59,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aaada36d4b40b0001e07666",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-16/aa812401-35be-4f38-a259-d31e6bca071e.jpg?rect=0%2C420%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Midtown",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "4cc7b9065b60fe83",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa57932e698de00017e0cad",
+    "title": "SUPERSTRUCTURE",
+    "description": "",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "C'mon Everybody",
+      "address": "325 Franklin Ave, Brooklyn, NY 11238, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 33.48,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa57932e698de00017e0cad",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-12/eb0b3fbe-dfcd-428c-87f2-fb16fd0240f9.jpg?rect=0%2C264%2C1100%2C1100"
+    ],
+    "rawText": null,
+    "neighborhood": "Prospect Heights",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "244bbc7d1faaf813",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa453e74e816400018fb317",
+    "title": "VLADIMIR DUBYSHKIN (LIVE) + PETER BLUE",
+    "description": "Seven hours of forward-thinking techno",
+    "startDate": "2026-10-02T22:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "99 Scott - Main Room",
+      "address": "99 Scott Ave, Brooklyn, NY 11237, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 53.82,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa453e74e816400018fb317",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-11/edf41ffa-a44a-42c9-9747-736d8d6126ff.jpg?rect=0%2C840%2C2160%2C2160"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "80353146b223b430",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6aa7e6d8c9750400016cbf5d",
+    "title": "Reggaeton Fridays",
+    "description": "",
+    "startDate": "2026-10-02T23:00:00-04:00",
+    "endDate": "2026-10-03T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "The Delancey",
+      "address": "168 Delancey St, New York, NY 10002, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6aa7e6d8c9750400016cbf5d",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2023-11-02/4ba496ad-f77b-4ae0-aaa9-9660c63a0a1e.jpg?rect=0%2C0%2C1200%2C1200"
+    ],
+    "rawText": null,
+    "neighborhood": "Lower East Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "cf1abc3f87b89ca6",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a7cdf9bd850100001cda45c",
+    "title": "Love 2 Love: A Donna Summer Disco Party",
+    "description": "",
+    "startDate": "2026-10-02T23:00:00-04:00",
+    "endDate": "2026-10-03T03:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "TV Eye",
+      "address": "1647 Weirfield Street, Queens, New York 11385, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 11.33,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a7cdf9bd850100001cda45c",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-12/930ab778-342a-41cd-b42c-bd93a2a344df.jpg?rect=0%2C0%2C2160%2C2160"
+    ],
+    "rawText": null,
+    "neighborhood": "Ridgewood",
+    "borough": "Queens"
+  },
+  {
+    "id": "300c8f453ef03dbb",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a91937ea0dc520001c993bd",
+    "title": "Stone Street Oktoberfest VIP Section - 10/3",
+    "description": "Giant games and photo booth",
+    "startDate": "2026-10-03T12:00:00-04:00",
+    "endDate": "2026-10-03T19:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Coenties Alley",
+      "address": "Stone Street, New York City, New York 10004, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 10,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a91937ea0dc520001c993bd",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-27/0f6ea957-6eef-4710-b759-e3044828d8a2.jpg?rect=0%2C135%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Financial District",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "1a3ea05417ecd678",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a736a6354b93900017d287d",
+    "title": "Xanadu Day Disco (skate)",
+    "description": "Neon-bright house and pop",
+    "startDate": "2026-10-03T12:00:00-04:00",
+    "endDate": "2026-10-03T17:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Xanadu",
+      "address": "262 Starr Street, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 13.39,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a736a6354b93900017d287d",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-29/1db17282-24c4-483b-a1b5-9d815607622a.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "881225e95507a1ac",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a8341897f9df20001477e32",
+    "title": "RIVA Sunset Gathering - October 3rd",
+    "description": "Warm light, house music",
+    "startDate": "2026-10-03T17:00:00-04:00",
+    "endDate": "2026-10-03T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Rooftop at Arlo Williamsburg",
+      "address": "96 Wythe Avenue, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 75,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a8341897f9df20001477e32",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-08-17/6ec56fd0-a2ab-4d39-81bd-97c82b02881d.jpg?rect=0%2C0%2C1254%2C1254"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "e9366b10c3443259",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6a83354b91dc54000171d701",
+    "title": "RIVA Sunset Gathering - OCT 3",
+    "description": "House music, skyline views",
+    "startDate": "2026-10-03T17:00:00-04:00",
+    "endDate": "2026-10-03T23:45:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Rooftop at Arlo Williamsburg",
+      "address": "96 Wythe Avenue, Brooklyn, New York 11249, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 75,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6a83354b91dc54000171d701",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/a523242a-dae6-41ae-afb5-eb54c9459f5c.jpg?rect=0%2C428%2C1097%2C1097"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "6d3a15289b1b3fca",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab6ddc1c4bbbb00019e0462",
+    "title": "Nebula Yacht Party + Club Night with Cat Dealers",
+    "description": "",
+    "startDate": "2026-10-03T18:00:00-04:00",
+    "endDate": "2026-10-03T22:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Nebula",
+      "address": "135 W 41st St, New York, NY 10036, USA",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 44.09,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab6ddc1c4bbbb00019e0462",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-09-25/54f8bd63-f6c6-4f19-acc3-0d4b64770366.jpg?rect=0%2C0%2C1080%2C1080"
+    ],
+    "rawText": null,
+    "neighborhood": "Midtown",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "33301e54cfa8caac",
+    "source": "DICE",
+    "sourceUrl": "https://dice.fm/event/6ab67591db03bc0001ca6e76",
+    "title": "˖ ݁♬⋆.˚𝄞. Karaoke Saturday Night ˖ ݁♬⋆.˚𝄞.",
+    "description": "",
+    "startDate": "2026-10-03T19:00:00-04:00",
+    "endDate": "2026-10-04T04:00:00-04:00",
+    "time": null,
+    "location": {
+      "name": "Seventh Heaven Bar & Karaoke",
+      "address": "4 Irving Avenue, Brooklyn, New York 11237, United States",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": "https://dice.fm/event/6ab67591db03bc0001ca6e76",
+    "images": [
+      "https://dice-media.imgix.net/attachments/2026-01-23/614f5f25-c7b2-45ea-ac4f-45c3b070f064.jpg?rect=751%2C0%2C5304%2C5304"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  }
+]
