@@ -1,3 +1,5 @@
-https://d21elokeqb3yai.cloudfront.net/microsite-assets/js/scripts-2.min.js?v=v15.0.0
-https://www.lincolncenter.org/lincoln-center-at-home/calendar/2026/11
-https://www.lincolncenter.org/lincoln-center-at-home/calendar?date=2026-11-01
+https://www.lincolncenter.org/ajaxCalendar/October%202026
+https://www.lincolncenter.org/ajaxCalendar/November%202026
+https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31
+https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31&page=3
+https://whitney.org/api/events/55194
