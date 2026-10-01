@@ -1,0 +1,447 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- set class on html to show that javascript is available...this used to handle module flashing before sizing is set -->
+    <script>document.documentElement.className = 'js';</script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" />
+    <meta name="description" />
+    <meta property="og:url" content="http://www.bam.org/error-pages/error404?404;http://www.bam.org:80/robots.txt" />
+    <meta property="og:title" content="Error404" />
+    <meta property="og:description" />
+    <meta property="og:site_name" content="BAM.org" />
+    <meta property="og:image" content="/Static/img/logo/bam_logo.gif" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@BAM_Brooklyn" />
+
+        <link rel="image_src" href="//www.bam.org/images/bam_logo_thumb.jpg" />
+        <meta property="og:image" content="//www.bam.org/images/bam_logo_thumb.jpg" />
+
+    <title>BAM | Error404 </title>
+
+
+    <link href="/Content/main.min.css?n=639264353728731979" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/v4-shims.css">
+    <link rel="stylesheet" href="/Static/icons/icomoon/style.css" type="text/css" />
+    
+
+    <!--Film Widgit-->
+    <link href="/Content/bam-widget-film-style.css" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/bam-widget-film.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TLMN');</script>
+    <!-- End Google Tag Manager -->
+
+    <script src="/Scripts/jquery-3.6.0.min.js"></script>
+
+    
+</head>
+
+<body class="-template">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLMN"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+            <script>
+            $(document).ready(function () {
+                //made login check
+                var loggedIn = false;
+
+                if (String(getCookie("_bo_logged_in")) === "1") {
+                    loggedIn = true;
+                }
+                if (loggedIn) {
+                    $(".loginLink").css("display", "none");
+                    $(".connectLink").css("display", "none");
+                    $(".logoutLink").css("display", "block");
+                    $(".accountLink").css("display", "block");
+                    //$(".btn-login-icon-mobile").css("display", "none");
+                    //$(".btn-loggedin-icon-mobile").css("display", "block");
+                }
+                else {
+                    $(".logoutLink").css("display", "none");
+                    $(".accountLink").css("display", "none");
+                    $(".loginLink").css("display", "block");
+                    $(".connectLink").css("display", "block");
+                    //$(".btn-login-icon-mobile").css("display", "block");
+                }
+            });
+            function getCookie(name) {
+                var dc = document.cookie;
+                var prefix = name + "=";
+                var begin = dc.indexOf("; " + prefix);
+                if (begin == -1) {
+                    begin = dc.indexOf(prefix);
+                    if (begin != 0) return null;
+                }
+                else {
+                    begin += 2;
+                    var end = document.cookie.indexOf(";", begin);
+                    if (end == -1) {
+                        end = dc.length;
+                    }
+                }
+                // because unescape has been deprecated, replaced with decodeURI
+                //return unescape(dc.substring(begin + prefix.length, end));
+                return decodeURI(dc.substring(begin + prefix.length, end));
+            }
+
+
+        </script>
+    
+    <header>
+        <a href="#mainBody" class="skip">Skip to main content</a>
+        <nav id="scrollSpyNav" class="navbar bam-nav" href="#multiContainerWrapper_Featured">
+            <button id="bam-navbar-toggler" class="navbar-toggler" type="button" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="mobile-toggler-open fas fa-bars" aria-hidden="true"></span>
+            </button>
+            <div class="bam-collapse collapse navbar-collapse mobile-slideout-menu-wrapper" id="navbarSupportedContent" role="dialog" aria-modal="true">
+                <div class="mobile-slideout-menu">
+                    <button class="mobile-toggler-close" aria-label="close navigation"><i class="fas fa-close" aria-hidden="true"></i></button>
+                    <ul class="mobile-category-menu">
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Featured-sidebar-link" href="/#Featured">Featured</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Calendar-sidebar-link" href="/#Calendar">Calendar</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Film-sidebar-link" href="/#Film">Film</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Music-sidebar-link" href="/#Music">Music</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Theater-sidebar-link" href="/#Theater">Theater</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Dance-sidebar-link" href="/#Dance">Dance</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Talks-sidebar-link" href="/#Talks">Talks</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Opera-sidebar-link" href="/#Opera">Opera</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Poetry-sidebar-link" href="/#Poetry">Poetry</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Kids-sidebar-link" href="/#Kids">Kids</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="VisualArt-sidebar-link" href="/#VisualArt">Visual Art</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="GalasEvents-sidebar-link" href="/#GalasEvents">Galas &amp; Events</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Community-sidebar-link" href="/#Community">Community</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Puppetry-sidebar-link" href="/#Puppetry">Puppetry</a>
+                                </li>
+                                <li class="nav-item bam-mobile-sidebar-item">
+                                    <a class="nav-link bam-mobile-sidebar-link scroll" id="Circus-sidebar-link" href="/#Circus">Circus</a>
+                                </li>
+                    </ul>
+                    <ul class="mobile-backstage-menu">
+                        
+                            <li class="nav-item bam-nav-item connectLink">
+                                <a class="nav-link bam-nav-link" href="https://commerce.bam.org/account/register">Sign Up</a>
+                            </li>
+                            <li class="nav-item bam-nav-item accountLink">
+                                <a class="nav-link bam-nav-link" href="https://commerce.bam.org/secure/account">My Account</a>
+                            </li>
+                            <li class="nav-item bam-nav-item loginLink">
+                                <a class="nav-link bam-nav-link" href="https://commerce.bam.org/account/login/?parentredirect=http%3a%2f%2fwww.bam.org%2ferror-pages%2ferror404%3f404%3bhttp%3a%2f%2fwww.bam.org%3a80%2frobots.txt">Login</a>
+                            </li>
+                            <li class="nav-item bam-nav-item logoutLink">
+                                <a class="nav-link bam-nav-link" href="https://commerce.bam.org/secure/logout">Logout</a>
+                            </li>
+                            <li class="nav-item bam-nav-item cartLink">
+                                <a class="nav-link bam-nav-link" href="https://commerce.bam.org/cart">Cart</a>
+                         
+                            <li class="nav-item bam-nav-item active">
+                                <a class="nav-link bam-nav-link" href="/visit">Visit</a>
+                            </li>
+                            <li class="nav-item bam-nav-item">
+                                <a class="nav-link bam-nav-link" href="/programs">Programs</a>
+                            </li>
+                            <li class="nav-item bam-nav-item">
+                                <a class="nav-link bam-nav-link" href="/education">Education</a>
+                            </li>
+                            <li class="nav-item bam-nav-item">
+                                <a class="nav-link bam-nav-link" href="/membership">Membership</a>
+                            </li>
+                            <li class="nav-item bam-nav-item">
+                                <a class="nav-link bam-nav-link" href="/support">Support BAM</a>
+                            </li>
+                            <li class="nav-item bam-nav-item">
+                                <a class="nav-link bam-nav-link" href="/about">About</a>
+                            </li>
+
+                        </ul>
+                </div>
+            </div>
+
+
+
+            <a href="/"><span class="bam-mobile-nav-logo"><img src='/contentassets/130be6f800fe4b9c8033f040386dd509/bam_mobile_header_icon.png?quality=80' loading='lazy' height='40' width='128' alt=''></span></a>
+
+            <button id="bam-navbar-toggler-tools" class="navbar-toggler" type="button" data-target="#navbarSupportedContentTools" aria-controls="navbarSupportedContentTools" aria-expanded="false" aria-label="Toggle tools menu">
+                <span class="mobile-toggler-open-tools fas fa-search" aria-hidden="true"></span>
+            </button>
+            <div class="bam-collapse-tools collapse navbar-collapse mobile-slideout-menu-wrapper-tools" id="navbarSupportedContentTools">
+                <div class="mobile-slideout-menu-tools">
+
+                    <button class="mobile-toggler-close-tools" aria-label="close search"><i class="fas fa-close" aria-hidden="true"></i></button>
+
+                    <ul class="mobile-tools-menu">
+                        <li>
+                            <form class="bam-nav-search" action="/search-results">
+                                <input id="searchbox-mobile" class="search-box bam-header-form form-control" type="text" value="Search" name="Search" aria-label="search box" placeholder="Search" />
+                                <button class="btn-search" type="submit" aria-label="search submit">
+                                    <i class="fas fa-search" aria-hidden="true"></i>
+                                </button>
+                            </form>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+
+
+            <div class="bam-collapse collapse navbar-collapse" id="navbarSupportedContentDT">
+                <div class="bam-sidebar-container" href="#multiContainerWrapper_Featured">
+                    <div class="bam-sidebar">
+                        <!-- a href="/"><img class="bam-sidebar-image" src="~/Static/img/logo/bam_logo.gif" alt="Brooklyn Academy of Music Logo" /></ -->
+                        <a href="/"><span class="bam-sidebar-image"><img src='/contentassets/130be6f800fe4b9c8033f040386dd509/bam_logo.gif?quality=80' loading='lazy' height='138' width='138' alt=''></span></a>
+
+                        <ul class="nav flex-column bam-sidebar-list">
+
+                                    <li class="nav-item bam-sidebar-item" id="Featured_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Featured">Featured</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Calendar_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Calendar">Calendar</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Film_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Film">Film</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Music_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Music">Music</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Theater_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Theater">Theater</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Dance_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Dance">Dance</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Talks_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Talks">Talks</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Opera_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Opera">Opera</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Poetry_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Poetry">Poetry</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Kids_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Kids">Kids</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="VisualArt_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#VisualArt">Visual Art</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="GalasEvents_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#GalasEvents">Galas &amp; Events</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Community_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Community">Community</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Puppetry_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Puppetry">Puppetry</a>
+                                    </li>
+                                    <li class="nav-item bam-sidebar-item" id="Circus_sidebar_link" aria-current="false">
+                                        <a class="nav-link bam-sidebar-link scroll" href="/#Circus">Circus</a>
+                                    </li>
+                        </ul>
+                    </div>
+                </div>
+                <ul class="navbar-nav bam-navbar-left">
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/visit">Visit</a>
+                    </li>
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/programs">Programs</a>
+                    </li>
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/education">Education</a>
+                    </li>
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/membership/">Membership</a>
+                    </li>
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/support/">Support BAM</a>
+                    </li>
+                    <li class="nav-item bam-nav-item">
+                        <a class="nav-link bam-nav-link" href="/about/">About</a>
+                    </li>
+
+                </ul>
+
+                <ul class="navbar-nav bam-navbar-right topNavLogIn" role="navigation">
+                    <li class="nav-item bam-nav-item connectLink">
+                        <a class="nav-link bam-nav-link" href="https://commerce.bam.org/account/register">Sign Up<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item bam-nav-item accountLink">
+                        <a class="nav-link bam-nav-link" href="https://commerce.bam.org/secure/account">My Account<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item bam-nav-item loginLink">
+                        <a class="nav-link bam-nav-link" href="https://commerce.bam.org/account/login/?parentredirect=http%3a%2f%2fwww.bam.org%2ferror-pages%2ferror404%3f404%3bhttp%3a%2f%2fwww.bam.org%3a80%2frobots.txt">Login<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item bam-nav-item logoutLink">
+                        <a class="nav-link bam-nav-link" href="https://commerce.bam.org/secure/logout">Logout<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item bam-nav-item cartLink">
+                        <a class="nav-link bam-nav-link" href="https://commerce.bam.org/cart">Cart<span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+                <div class="bam-nav-spacer">
+                    <form class="bam-nav-search" action="/search-results">
+                        <input id="searchbox" class="search-box bam-header-form form-control" type="text" value="Search" name="Search" aria-label="search box" placeholder="Search" />
+                        <button class="btn-search" type="submit" aria-label="search submit">
+                            <i class="fas fa-search" aria-hidden="true"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <div class="search-box-mobile">
+            <form class="bam-nav-search-mobile" action="/search-results">
+                <input id="searchbox-mobile" class="search-box bam-header-form form-control" type="text" value="Search" name="Search" aria-label="search box" placeholder="Search" />
+                <button class="btn-search" type="submit" aria-label="search submit">
+                    <i class="fas fa-search" aria-hidden="true"></i>
+                </button>
+            </form>
+        </div>
+    </header>
+    <main>
+        <div class="bam-body">
+            <div id="mainBody" class="container bam-content-container">
+                
+<h5 class="bam-page-type-header"></h5>
+<h1 class="bam-page-title">Page Not Found</h1>
+
+<div class="bam-error-page-content">
+    <div class="bam-error-page-img" style="background-image: url('/Static/img/error/404_Charlie_Chaplin_Modern_Times_613x463.jpg')"></div>
+
+    <div class="bam-error-page-msg">
+        <p class="body-2">The page you requested does not exist at that address. If you typed in the address, used a bookmark, or followed a link from another website, the page is no longer available.</p>
+
+        <p class="body-2">Please visit our <a href="/">homepage</a> to look for events by genre.  Otherwise, please use the search box to find what you're looking for.</p>
+
+        <br /><br /><p></p>
+    </div>
+</div>
+
+
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="bam-footer">
+
+            <div class="bam-footer-content">
+                <div class="bam-footer-attributions">
+                    <div class="footer-acknowledgement-container">
+
+
+                                                
+                    </div>
+                    <div class="photoCredits">
+                        
+                    </div>
+                </div>
+                <div class="bam-footer-content-top">
+                    <div class="bam-footer-links">
+                        <div class="bam-footer-social">
+                            <h2 class="bam-footer-follow">Follow Us</h2>
+                            <ul class="bam-footer-social-icons">
+                                <li><a class="bam-footer-social-link" href="http://instagram.com/bam_brooklyn" target="_blank"><i aria-hidden="true" class="icon-instagram bam-footer-instagram"></i><span class="sr-only">Open BAM on Instagram</span></a></li>
+                                <li><a class="bam-footer-social-link" href="https://www.youtube.com/user/BAMorg" target="_blank"><i aria-hidden="true" class="icon-youtube bam-footer-youtube"></i><span class="sr-only">Open BAM on Youtube</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="bam-footer-nav">
+                            <ul>
+                                <li><a class="bam-footer-link" href="/faq">FAQ</a></li>
+                                <li><a class="bam-footer-link" href="/visit">Visit</a></li>
+                                <li><a class="bam-footer-link" href="/donate">Donate Now</a></li>
+                                <li><a class="bam-footer-link" href="/membership">Membership</a></li>
+                                <li><a class="bam-footer-link" href="/press">Press</a></li>
+                                <li><a class="bam-footer-link" href="/contact-us/">Contact Us</a></li>
+                                <li><a class="bam-footer-link" href="/accessibility">Accessibility</a></li>
+                                <li><a class="bam-footer-link" href="/privacy">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="bam-footer-content-btm">
+                    <!--div class="bam-mobile-footer-extra mb-2">
+                        <a class="bam-footer-content-btm-link" href="/about">About BAM</a>
+                        <a class="bam-footer-content-btm-link" href="tel:7186364100">718.636.4100</a>
+                    </div-->
+                    <p class="bam-footer-text">Brooklyn Academy of Music, 30 Lafayette Ave, Brooklyn, NY 11217<br /><a href="mailto:info@bam.org">info@BAM.org</a> <br /> BAM is a 501(c)(3) | EIN 11-2201344&#8203; <br /> © Brooklyn Academy of Music, Inc. 2026, BAM<sup>®</sup>, Brooklyn Academy of Music<sup>®</sup>, Everybooty<sup>®</sup> and Next&nbsp;Wave<sup>®</sup> are trademarks of Brooklyn&nbsp;Academy&nbsp;of&nbsp;Music,&nbsp;Inc.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/Scripts/isotope-3.0.6.min.js"></script>
+    <script src="/Scripts/isotope-masonry-horizontal-2.0.1.js"></script>
+    <script src="/Scripts/hammer.min.js"></script>
+    <script src="/Scripts/jquery.hammer.js"></script>
+
+    <!--
+
+    mtt - 4/2024 - removing appear, we use Intersection Observer for nav highlighting and production block visibility, we use built in browser LazyLoad parameter for image loading
+    <script src="~/Scripts/appear.js"></script>
+    -->
+    <!--
+    mtt - 4/2024 - removing jail as images should now be Lazy Loaded through browser default mechanism
+    <script src="~/Scripts/jail.js"></script>
+    -->
+    <script src="/Scripts/lightbox_me.js"></script>
+
+    <script src="/Scripts/main_new.js?n=639264353728731979"></script>
+
+    <!-- Load YouTube API -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <!-- Load Vimeo API -->
+    <script src="https://player.vimeo.com/api/player.js"></script>
+
+</body>
+
+<!-- this is part of hammer but just not needed for our interactions???
+<script src="~/Scripts/touch-emulator.js"></script>
+-->
+
+
+</html>

@@ -1,0 +1,14 @@
+# robots.txt
+
+User-Agent: *
+Disallow: /guides?
+Disallow: /artists?
+Disallow: /collection/works?
+Disallow: /search?
+Disallow: /welcome
+
+# No idea what this is but it's in bad links that are clogging up GSC
+Disallow: *?field_event_type_tid*
+
+# Sitemap must be absolute
+Sitemap: https://whitney.org/sitemap_index.xml

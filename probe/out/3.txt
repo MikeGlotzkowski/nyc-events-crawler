@@ -1,0 +1,28 @@
+# see http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# to ban all spiders from the entire site uncomment the next two lines:
+# user-agent: *
+# disallow: /
+
+user-agent: *
+disallow: /dist/robots.*.js
+disallow: /assets/robots-*.js
+disallow: /calendar/events/9322
+disallow: /calendar/programs/46
+disallow: /calendar/programs/50
+disallow: /calendar/programs/9
+disallow: /calendar/exhibitions/3223
+disallow: /collection/browse_results.php
+disallow: /collection/object.php
+disallow: /collection/artist.php
+disallow: /collection/theme.php
+disallow: /collection_lb/browse_results.php
+disallow: /collection_ge/browse_results.php
+disallow: /collection/search.php
+disallow: /visit/calendar/search
+disallow: /visit/calendar/filters
+disallow: /visit/calendar/films?day*
+disallow: /screens/*
+disallow: /visit/wifi/
+disallow: /cdn-cgi/
+

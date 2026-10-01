@@ -1,0 +1,10 @@
+User-agent: SemrushBot-SA
+Disallow: /lc-festival/calendar
+Disallow: /mostly-mozart-festival/calendar
+Disallow: /midsummer-night-swing/calendar
+Disallow: /out-of-doors/calendar
+Disallow: /great-performers/calendar
+Disallow: /white-light-festival/calendar
+Disallow: /kids/calendar
+Disallow: /american-songbook/calendar
+Disallow: /big-umbrella/calendar

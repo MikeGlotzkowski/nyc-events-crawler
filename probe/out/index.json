@@ -1,0 +1,217 @@
+[
+  {
+    "i": 0,
+    "url": "https://www.metmuseum.org/events",
+    "status": 429,
+    "finalUrl": "https://www.metmuseum.org/events",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Vercel",
+    "size": 31199
+  },
+  {
+    "i": 1,
+    "url": "https://www.metmuseum.org/robots.txt",
+    "status": 429,
+    "finalUrl": "https://www.metmuseum.org/robots.txt",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Vercel",
+    "size": 31204
+  },
+  {
+    "i": 2,
+    "url": "https://www.moma.org/calendar/",
+    "status": 403,
+    "finalUrl": "https://www.moma.org/calendar/",
+    "type": "text/html; charset=UTF-8",
+    "cf": "challenge",
+    "server": "cloudflare",
+    "size": 5749
+  },
+  {
+    "i": 3,
+    "url": "https://www.moma.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://www.moma.org/robots.txt",
+    "type": "text/plain",
+    "cf": null,
+    "server": "cloudflare",
+    "size": 870
+  },
+  {
+    "i": 4,
+    "url": "https://whitney.org/events",
+    "status": 200,
+    "finalUrl": "https://whitney.org/events",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": null,
+    "size": 95876
+  },
+  {
+    "i": 5,
+    "url": "https://whitney.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://whitney.org/robots.txt",
+    "type": "text/plain; charset=utf-8",
+    "cf": null,
+    "server": null,
+    "size": 314
+  },
+  {
+    "i": 6,
+    "url": "https://www.brooklynmuseum.org/calendar",
+    "status": 429,
+    "finalUrl": "https://www.brooklynmuseum.org/calendar",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Vercel",
+    "size": 31194
+  },
+  {
+    "i": 7,
+    "url": "https://www.brooklynmuseum.org/robots.txt",
+    "status": 429,
+    "finalUrl": "https://www.brooklynmuseum.org/robots.txt",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Vercel",
+    "size": 31198
+  },
+  {
+    "i": 8,
+    "url": "https://www.amnh.org/calendar",
+    "status": 403,
+    "finalUrl": "https://www.amnh.org/calendar",
+    "type": "text/html; charset=UTF-8",
+    "cf": "challenge",
+    "server": "cloudflare",
+    "size": 64282
+  },
+  {
+    "i": 9,
+    "url": "https://www.amnh.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://www.amnh.org/robots.txt",
+    "type": "text/plain; charset=UTF-8",
+    "cf": null,
+    "server": "cloudflare",
+    "size": 453
+  },
+  {
+    "i": 10,
+    "url": "https://www.lincolncenter.org/whats-on",
+    "status": 404,
+    "finalUrl": "https://www.lincolncenter.org/whats-on",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "cloudflare",
+    "size": 147
+  },
+  {
+    "i": 11,
+    "url": "https://www.lincolncenter.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://www.lincolncenter.org/robots.txt",
+    "type": "text/plain",
+    "cf": null,
+    "server": "cloudflare",
+    "size": 350
+  },
+  {
+    "i": 12,
+    "url": "https://www.bam.org/whats-on",
+    "status": 404,
+    "finalUrl": "https://www.bam.org/whats-on",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Microsoft-IIS/10.0",
+    "size": 27134
+  },
+  {
+    "i": 13,
+    "url": "https://www.bam.org/robots.txt",
+    "status": 404,
+    "finalUrl": "https://www.bam.org/robots.txt",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Microsoft-IIS/10.0",
+    "size": 27140
+  },
+  {
+    "i": 14,
+    "url": "https://www.carnegiehall.org/Calendar",
+    "status": 200,
+    "finalUrl": "https://inline.carnegiehall.org/softblock/?c=carnegiehall&e=pnsafetynet2023&t=https%3A%2F%2Fwww.carnegiehall.org%2Fevents&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3OTA4NTI5NzMxMTEsImV4cCI6MTc5MDg1MzIxMzExMSwidGkiOiIwYmM0ZjEwMi0zZDI0LTRkNTUtODcwNy04ZWIyOWRiNDc2MTQiLCJjIjoiY2FybmVnaWVoYWxsIiwiZSI6InBuc2FmZXR5bmV0MjAyMyIsImlwIjoiMTcyLjIxLjQuNzAifQ.0uME9lbJRBcW2vMRf2yuFUevm7qfCUAQR4SLhARSj04.IHd7RgVkd1rSmuKZuPwxM3K-dh0_JZ4yMSil_Av63LY&rticr=2",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Kestrel",
+    "size": 16399
+  },
+  {
+    "i": 15,
+    "url": "https://www.carnegiehall.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://www.carnegiehall.org/robots.txt",
+    "type": "text/plain",
+    "cf": null,
+    "server": null,
+    "size": 219
+  },
+  {
+    "i": 16,
+    "url": "https://theshed.org/program",
+    "error": "Error: redirect count exceeded"
+  },
+  {
+    "i": 17,
+    "url": "https://theshed.org/robots.txt",
+    "status": 200,
+    "finalUrl": "https://www.theshed.org/robots.txt",
+    "type": "text/plain",
+    "cf": null,
+    "server": "Heroku",
+    "size": 142
+  },
+  {
+    "i": 18,
+    "url": "https://www.amnh.org/calendar?ical=1",
+    "status": 403,
+    "finalUrl": "https://www.amnh.org/calendar?ical=1",
+    "type": "text/html; charset=UTF-8",
+    "cf": "challenge",
+    "server": "cloudflare",
+    "size": 64340
+  },
+  {
+    "i": 19,
+    "url": "https://www.brooklynmuseum.org/wp-json/tribe/events/v1/events",
+    "status": 429,
+    "finalUrl": "https://www.brooklynmuseum.org/wp-json/tribe/events/v1/events",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Vercel",
+    "size": 31204
+  },
+  {
+    "i": 20,
+    "url": "https://whitney.org/api/events",
+    "status": 200,
+    "finalUrl": "https://whitney.org/api/events",
+    "type": "application/json; charset=utf-8",
+    "cf": null,
+    "server": null,
+    "size": 63916
+  },
+  {
+    "i": 21,
+    "url": "https://theshed.org/api/events",
+    "status": 404,
+    "finalUrl": "https://www.theshed.org/api/events",
+    "type": "text/html; charset=utf-8",
+    "cf": null,
+    "server": "Heroku",
+    "size": 84285
+  }
+]

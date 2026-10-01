@@ -1,0 +1,20 @@
+
+User-agent: *
+Allow: /about/press-center
+Disallow: /*/site-settings
+Disallow: /*amphtml
+Disallow: /*offset)
+Disallow: /*regonly
+Disallow: /*showpast
+Disallow: /content/search*
+Disallow: /email-subscription-update
+Disallow: /email-unsubscribe
+Disallow: /layout/set/*
+Disallow: /learn/coursera/*
+Disallow: /lp/*
+Disallow: /mediatrans/*
+Disallow: /system-maintenance
+Disallow: /cloudflare/*
+
+
+Sitemap: https://www.amnh.org/sitemap.xml

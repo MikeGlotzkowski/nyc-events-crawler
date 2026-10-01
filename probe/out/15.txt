@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api/
+Disallow: /Sitecore/
+Disallow: /Cart/*
+Disallow: /MyCarnegieHall/
+Disallow: /Login?*
+Disallow: /Register?*
+Disallow: /*?tmlevel=*
+
+Sitemap: https://www.carnegiehall.org/sitemap.xml
