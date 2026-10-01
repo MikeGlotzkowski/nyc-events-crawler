@@ -1,1 +1,670 @@
-[]
+[
+  {
+    "id": "7d67550655c8de61",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/foreign-travel",
+    "title": "Foreign Travel",
+    "description": "",
+    "startDate": "2026-10-01T22:45:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/foreign-travel",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "d4309221dfacc765",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.metopera.org/season/2026-27-season/macbeth/",
+    "title": "Verdi's Macbeth",
+    "description": "",
+    "startDate": "2026-10-02T23:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Opera"
+    ],
+    "tags": [],
+    "organizer": "The Metropolitan Opera",
+    "attendance": null,
+    "ticketUrl": "https://www.metopera.org/season/2026-27-season/macbeth/",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "5b317c84da27274a",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/a-statement",
+    "title": "A Statement",
+    "description": "",
+    "startDate": "2026-10-03T22:15:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/a-statement",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "dcd59f5bdc94b4a8",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/misty-green",
+    "title": "Misty Green",
+    "description": "",
+    "startDate": "2026-10-04T21:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/misty-green",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "99b95633ac49ed76",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.juilliard.edu/event/189621/amaryllis-2-juilliard-dance",
+    "title": "\"Amaryllis 2\" with Juilliard Dance",
+    "description": "",
+    "startDate": "2026-10-06T00:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Dance"
+    ],
+    "tags": [],
+    "organizer": "The Juilliard School",
+    "attendance": null,
+    "ticketUrl": "https://www.juilliard.edu/event/189621/amaryllis-2-juilliard-dance",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "9a81ee915023db2a",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/free-event:-nyff-trivia-night",
+    "title": "Free Event: NYFF Trivia Night",
+    "description": "",
+    "startDate": "2026-10-07T00:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/free-event:-nyff-trivia-night",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "ead936935691b9f1",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://lct.org/shows/creation-stories-and-all-the-important-importants/",
+    "title": "creation stories and all the important importants",
+    "description": "",
+    "startDate": "2026-10-08T00:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Theater"
+    ],
+    "tags": [],
+    "organizer": "Lincoln Center Theater",
+    "attendance": null,
+    "ticketUrl": "https://lct.org/shows/creation-stories-and-all-the-important-importants/",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "b2027ee11478bb30",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.juilliard.edu/event/185526/juilliard-drama-presents-august-wilsons-piano-lesson",
+    "title": "Juilliard Drama Presents August Wilson's \"The Piano Lesson\"",
+    "description": "",
+    "startDate": "2026-10-08T23:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "The Juilliard School",
+    "attendance": null,
+    "ticketUrl": "https://www.juilliard.edu/event/185526/juilliard-drama-presents-august-wilsons-piano-lesson",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "a397feaa3f31cc3c",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/the-diary-of-a-chambermaid",
+    "title": "The Diary of a Chambermaid",
+    "description": "",
+    "startDate": "2026-10-10T01:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/the-diary-of-a-chambermaid",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "19d350c54a35092a",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/suicide-note",
+    "title": "Suicide Note",
+    "description": "",
+    "startDate": "2026-10-11T00:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/suicide-note",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c632dfad43c39009",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/club-kid",
+    "title": "Club Kid",
+    "description": "",
+    "startDate": "2026-10-12T20:15:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/club-kid",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "191078c400ba1b4c",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://ticketing.jazz.org/21486/21487",
+    "title": "Tenor Legacy with Lew Tabackin",
+    "description": "",
+    "startDate": "2026-10-15T00:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Jazz at Lincoln Center",
+      "address": "10 Columbus Circle, New York, NY 10019",
+      "city": "New York",
+      "lat": 40.7685,
+      "lng": -73.9829
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Jazz"
+    ],
+    "tags": [],
+    "organizer": "Jazz at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://ticketing.jazz.org/21486/21487",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "f2ae533a54b37e69",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://ticketing.jazz.org/21492/21494",
+    "title": "Ekep Nkwelle",
+    "description": "",
+    "startDate": "2026-10-17T02:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Jazz at Lincoln Center",
+      "address": "10 Columbus Circle, New York, NY 10019",
+      "city": "New York",
+      "lat": 40.7685,
+      "lng": -73.9829
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Jazz"
+    ],
+    "tags": [],
+    "organizer": "Jazz at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://ticketing.jazz.org/21492/21494",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "1972c57e6ce562c6",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.filmlinc.org/films/once-upon-a-time-in-harlem",
+    "title": "Once Upon a Time in Harlem",
+    "description": "",
+    "startDate": "2026-10-19T17:00:00.000Z",
+    "endDate": null,
+    "time": "1:00 pm, 1:30 pm, 3:30 pm, 4:00 pm, 6:00 pm, 6:30 pm, 8:30 pm, 9:00 pm",
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Film at Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.filmlinc.org/films/once-upon-a-time-in-harlem",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "df6a65f33b8fe76e",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.abt.org/events/paquita/",
+    "title": "ABT - Paquita",
+    "description": "",
+    "startDate": "2026-10-21T23:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.abt.org/events/paquita/",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "ceb576c8a630e184",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/suhreetah-311",
+    "title": "suhREEtah",
+    "description": "",
+    "startDate": "2026-10-23T23:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/suhreetah-311",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "ec1e88b96d801422",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/morning-meditation",
+    "title": "Morning Meditation",
+    "description": "with Aja Grant and Coulou",
+    "startDate": "2026-10-25T15:00:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.lincolncenter.org/series/lincoln-center-presents/morning-meditation",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "278a352e7c2b743d",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.abt.org/events/paquita/",
+    "title": "ABT - Paquita",
+    "description": "",
+    "startDate": "2026-10-27T23:30:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.abt.org/events/paquita/",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c4b4418ed7122f35",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://lct.org/shows/a-few-good-men/",
+    "title": "A FEW GOOD MEN",
+    "description": "",
+    "startDate": "2026-10-29T22:45:00.000Z",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Theater"
+    ],
+    "tags": [],
+    "organizer": "Lincoln Center Theater",
+    "attendance": null,
+    "ticketUrl": "https://lct.org/shows/a-few-good-men/",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c10c6a16b9b96548",
+    "source": "Lincoln Center",
+    "sourceUrl": "https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900",
+    "title": "Lincoln Center Tours",
+    "description": "",
+    "startDate": "2026-10-23T10:15:00-04:00",
+    "endDate": null,
+    "time": "10:15 am, 12:00 pm",
+    "location": {
+      "name": "Lincoln Center",
+      "address": "10 Lincoln Center Plaza, New York, NY 10023",
+      "city": "New York",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [],
+    "tags": [],
+    "organizer": "Lincoln Center",
+    "attendance": null,
+    "ticketUrl": "https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Upper West Side",
+    "borough": "Manhattan"
+  }
+]
