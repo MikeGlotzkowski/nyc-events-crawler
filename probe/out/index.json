@@ -1,41 +1,67 @@
 [
   {
     "i": 0,
-    "url": "https://d21elokeqb3yai.cloudfront.net/microsite-assets/js/scripts-2.min.js?v=v15.0.0",
+    "url": "https://www.lincolncenter.org/ajaxCalendar/October%202026",
     "manual": false,
     "status": 200,
-    "finalUrl": "https://d21elokeqb3yai.cloudfront.net/microsite-assets/js/scripts-2.min.js?v=v15.0.0",
-    "type": "application/javascript; charset=UTF-8",
+    "finalUrl": "https://www.lincolncenter.org/ajaxCalendar/October%202026",
+    "type": "application/json; charset=utf-8",
     "cf": null,
-    "server": "AmazonS3",
+    "server": "cloudflare",
     "location": null,
     "cookie": null,
-    "size": 206891
+    "size": 2280629
   },
   {
     "i": 1,
-    "url": "https://www.lincolncenter.org/lincoln-center-at-home/calendar/2026/11",
+    "url": "https://www.lincolncenter.org/ajaxCalendar/November%202026",
     "manual": false,
-    "status": 404,
-    "finalUrl": "https://www.lincolncenter.org/lincoln-center-at-home/calendar/2026/11",
-    "type": "text/html; charset=utf-8",
+    "status": 200,
+    "finalUrl": "https://www.lincolncenter.org/ajaxCalendar/November%202026",
+    "type": "application/json; charset=utf-8",
     "cf": null,
     "server": "cloudflare",
     "location": null,
     "cookie": null,
-    "size": 178
+    "size": 1590558
   },
   {
     "i": 2,
-    "url": "https://www.lincolncenter.org/lincoln-center-at-home/calendar?date=2026-11-01",
+    "url": "https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31",
     "manual": false,
     "status": 200,
-    "finalUrl": "https://www.lincolncenter.org/lincoln-center-at-home/calendar?date=2026-11-01",
-    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31",
+    "type": "application/json; charset=utf-8",
     "cf": null,
-    "server": "cloudflare",
+    "server": null,
     "location": null,
     "cookie": null,
-    "size": 1617736
+    "size": 56659
+  },
+  {
+    "i": 3,
+    "url": "https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31&page=3",
+    "manual": false,
+    "status": 200,
+    "finalUrl": "https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31&page=3",
+    "type": "application/json; charset=utf-8",
+    "cf": null,
+    "server": null,
+    "location": null,
+    "cookie": null,
+    "size": 43547
+  },
+  {
+    "i": 4,
+    "url": "https://whitney.org/api/events/55194",
+    "manual": false,
+    "status": 200,
+    "finalUrl": "https://whitney.org/api/events/55194",
+    "type": "application/json; charset=utf-8",
+    "cf": null,
+    "server": null,
+    "location": null,
+    "cookie": null,
+    "size": 2202
   }
 ]
