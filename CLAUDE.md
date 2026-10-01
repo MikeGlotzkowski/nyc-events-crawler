@@ -100,10 +100,13 @@ Date frozen at capture time) and requires exactly the events in `expected.json`.
 
 ### Source health alert
 
-`.github/workflows/source-health.yml` runs `health-check.js` twice a day. It opens one "Crawler health alert"
+`.github/workflows/source-health.yml` runs `health-check.js` twice a day and after the evening Tier 2 crawl. It
+writes a data-quality report (`lib/quality.js`: crawls and errors in the last 24h, per-source % of upcoming and new
+events with an image, time, category and borough, 10 random upcoming titles) to the job summary. It opens one "Crawler health alert"
 issue (assigned to the repo owner) when an enabled source fails 3 runs in a row, finds no events for 48h, or
-fewer than 75 events start in the next 7 days, and closes it once everything recovers. Rules live in
-`lib/health.js`. Disable a source in `crawler_config.enabled` to silence it.
+fewer than 75 events start in the next 7 days, or a source's new events have one of those fields 30+ points less
+often than its older upcoming ones (needs 10+ of each), and closes it once everything recovers. Rules live in
+`lib/health.js` and `lib/quality.js`. Disable a source in `crawler_config.enabled` to silence it.
 
 ### Environment
 
