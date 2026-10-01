@@ -3,7 +3,7 @@ name: ci
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [main, claude/project-thread-7w30be]
 
 env:
   # playwright is a production dependency and its postinstall downloads
