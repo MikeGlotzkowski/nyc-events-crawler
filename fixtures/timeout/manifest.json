@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T16:24:54.012Z",
+  "responses": {
+    "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend": {
+      "file": "timeout.com.html",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8"
+    }
+  }
+}
