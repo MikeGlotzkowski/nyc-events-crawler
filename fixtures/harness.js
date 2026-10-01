@@ -31,9 +31,11 @@ export const CRAWLERS = [
   'forest-park', 'rss-blogs', 'queens-library', 'westsiderag',
 ];
 
-// Saved bodies are cut down so fixtures stay small.
-const MAX_JSON_ROWS = 60;
-const MAX_FEED_ITEMS = 10;
+// Saved bodies are cut down so fixtures stay small: one page per paginated
+// endpoint (later pages answer 404, which ends each crawler's paging loop),
+// the first rows of a JSON list and the first items of a feed.
+const MAX_JSON_ROWS = 25;
+const MAX_FEED_ITEMS = 5;
 
 // ── Module mocks ─────────────────────────────────────────────────
 
@@ -113,7 +115,11 @@ function trimBody(body, contentType) {
   if (/json/.test(contentType)) {
     try {
       const data = JSON.parse(body);
-      if (Array.isArray(data) && data.length > MAX_JSON_ROWS) return JSON.stringify(data.slice(0, MAX_JSON_ROWS));
+      if (Array.isArray(data)) return JSON.stringify(data.slice(0, MAX_JSON_ROWS));
+      for (const [key, value] of Object.entries(data ?? {})) {
+        if (Array.isArray(value)) data[key] = value.slice(0, MAX_JSON_ROWS);
+      }
+      return JSON.stringify(data);
     } catch { /* not JSON after all; keep as is */ }
     return body;
   }
@@ -143,9 +149,17 @@ function makeStore(crawler, mode) {
   const dir = path.join(FIXTURES_DIR, crawler);
   const manifest = mode === 'replay' ? loadManifest(crawler) : { capturedAt: null, responses: {} };
   const used = new Set(Object.values(manifest.responses).map(r => r.file));
+  const pages = new Map(); // origin+path → first URL recorded for it
 
   return {
     manifest,
+    /** Record mode: false for a later page of an endpoint already recorded. */
+    firstPage(url) {
+      const { origin, pathname } = new URL(url);
+      const first = pages.get(origin + pathname) ?? url;
+      pages.set(origin + pathname, first);
+      return first === url;
+    },
     get(url) {
       const entry = manifest.responses[url];
       if (!entry) return null;
@@ -179,7 +193,7 @@ const realHttpsGet = https.get;
 function installNetwork(store, mode) {
   globalThis.fetch = async (input, init) => {
     const url = typeof input === 'string' ? input : input.url;
-    if (mode === 'record') {
+    if (mode === 'record' && store.firstPage(url)) {
       const res = await realFetch(input, init);
       const body = await res.text();
       const contentType = res.headers.get('content-type') ?? '';
@@ -201,7 +215,7 @@ function installNetwork(store, mode) {
       res.headers = { 'content-type': contentType };
       callback(res);
     };
-    if (mode === 'record') {
+    if (mode === 'record' && store.firstPage(String(url))) {
       realHttpsGet(url, options, (res) => {
         const stream = res.headers['content-encoding'] === 'gzip' ? res.pipe(zlib.createGunzip()) : res;
         const chunks = [];
