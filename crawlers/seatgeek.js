@@ -7,6 +7,7 @@
  * and maps results into the event schema.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { resolveArea } from '../lib/nyc-area.js';
 
 const SOURCE = 'SeatGeek';
 const API_BASE = 'https://api.seatgeek.com/2';
@@ -26,6 +27,10 @@ function mapEvent(item) {
   const dt = item.datetime_local
     ?? (item.datetime_utc ? item.datetime_utc.replace(/Z?$/, 'Z') : null);
 
+  const address = [venue.address, venue.extended_address].filter(Boolean).join(', ') || null;
+  const lat = venue.location?.lat ?? null;
+  const lng = venue.location?.lon ?? null;
+
   return {
     id:          generateEventId(item.url ?? `seatgeek-${item.id}`, title),
     source:      SOURCE,
@@ -37,10 +42,10 @@ function mapEvent(item) {
     time:        null,
     location: {
       name:    venue.name ?? null,
-      address: [venue.address, venue.extended_address].filter(Boolean).join(', ') || null,
+      address,
       city:    venue.city ?? 'New York',
-      lat:     venue.location?.lat ?? null,
-      lng:     venue.location?.lon ?? null,
+      lat,
+      lng,
     },
     price:       {
       isFree:   false,
@@ -55,8 +60,7 @@ function mapEvent(item) {
     ticketUrl:   item.url ?? null,
     images:      item.performers?.[0]?.image ? [item.performers[0].image] : [],
     rawText:     null,
-    neighborhood: null,
-    borough:      null,
+    ...resolveArea({ name: venue.name, address, lat, lng }),
   };
 }
 

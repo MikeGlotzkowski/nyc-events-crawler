@@ -6,6 +6,7 @@
  */
 import { parseStringPromise } from 'xml2js';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { resolveArea } from '../lib/nyc-area.js';
 
 const RSS_URL = 'https://www.nycgovparks.org/xml/events_300_rss.xml';
 const SOCRATA_URL = 'https://data.cityofnewyork.us/resource/w3wp-dpdi.json';
@@ -25,13 +26,13 @@ function parseBoroughFromParkName(parkName) {
   const n = parkName.toLowerCase();
   if (n.includes('brooklyn')) return 'Brooklyn';
   if (n.includes('queens'))   return 'Queens';
-  if (n.includes('bronx'))    return 'The Bronx';
+  if (n.includes('bronx'))    return 'Bronx';
   if (n.includes('staten'))   return 'Staten Island';
-  return 'Manhattan'; // default for NYC Parks
+  return null;
 }
 
 // First letter of a Parks property id (e.g. 'B008') is the borough
-const PARK_ID_BOROUGH = { M: 'Manhattan', B: 'Brooklyn', Q: 'Queens', X: 'The Bronx', R: 'Staten Island' };
+const PARK_ID_BOROUGH = { M: 'Manhattan', B: 'Brooklyn', Q: 'Queens', X: 'Bronx', R: 'Staten Island' };
 
 function boroughFromParkIds(parkIds) {
   return PARK_ID_BOROUGH[parkIds?.trim()?.[0]?.toUpperCase()] ?? null;
@@ -65,6 +66,7 @@ export function mapSocrataRow(row) {
   const categories = splitCategories(row.categories);
   const startLabel = wallClockLabel(row.starttime);
   const endLabel   = wallClockLabel(row.endtime);
+  const coords     = parseCoords(row.coordinates);
 
   return {
     id:          generateEventId(link, title),
@@ -79,7 +81,7 @@ export function mapSocrataRow(row) {
       name:    parkNames ?? location ?? 'NYC Park',
       address: location,
       city:    'New York',
-      ...parseCoords(row.coordinates),
+      ...coords,
     },
     price:        { isFree: true, min: 0, max: 0, currency: 'USD' },
     categories:   categories.length ? categories : ['Parks & Recreation'],
@@ -89,8 +91,10 @@ export function mapSocrataRow(row) {
     ticketUrl:    row.registration_url?.url ?? null,
     images:       row.image?.url ? [row.image.url] : [],
     rawText:      null,
-    neighborhood: parkNames,
-    borough:      boroughFromParkIds(row.parkids) ?? parseBoroughFromParkName(parkNames),
+    ...resolveArea({
+      name: parkNames, address: location, ...coords,
+      borough: boroughFromParkIds(row.parkids) ?? parseBoroughFromParkName(parkNames),
+    }),
   };
 }
 
@@ -134,7 +138,7 @@ export function parseItem(item) {
     const location  = item['event:location']?.[0]  ?? null;
     const parkNames = item['event:parknames']?.[0] ?? null;
     const parkIds   = item['event:parkids']?.[0]   ?? null;
-    const coords    = item['event:coordinates']?.[0];
+    const coords    = parseCoords(item['event:coordinates']?.[0]);
     const imageUrl  = item['event:image']?.[0]     ?? null;
     const categories = splitCategories(item['event:categories']?.[0]);
 
@@ -151,7 +155,7 @@ export function parseItem(item) {
         name:    parkNames ?? location ?? 'NYC Park',
         address: location ?? null,
         city:    'New York',
-        ...parseCoords(coords),
+        ...coords,
       },
       price:        { isFree: true, min: 0, max: 0, currency: 'USD' }, // Parks events are free; no admission field in feed
       categories:   categories.length ? categories : ['Parks & Recreation'],
@@ -161,8 +165,10 @@ export function parseItem(item) {
       ticketUrl:    null,
       images:       imageUrl ? [imageUrl] : [],  // imageUrl may be empty string — falsy check handles it
       rawText:      null,
-      neighborhood: parkNames ?? null,
-      borough:      boroughFromParkIds(parkIds) ?? parseBoroughFromParkName(parkNames),
+      ...resolveArea({
+        name: parkNames, address: location, ...coords,
+        borough: boroughFromParkIds(parkIds) ?? parseBoroughFromParkName(parkNames),
+      }),
     };
 
     return event;
