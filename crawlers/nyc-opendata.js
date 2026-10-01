@@ -6,6 +6,7 @@
  * NYC Parks public events (w3wp-dpdi) are crawled by crawlers/nyc-parks.js.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { normalizeBorough, resolveArea } from '../lib/nyc-area.js';
 
 const SOURCE_PERMITTED = 'NYC Open Data — Permitted Events';
 
@@ -69,8 +70,8 @@ export function mapPermittedEvent(row) {
   const endDate   = row.end_date_time   ?? null;
   if (!startDate) return null;
 
-  const borough = normalizeBoroughName(row.event_borough ?? null);
   const address = row.event_location?.trim() || null;
+  const { borough, neighborhood } = resolveArea({ address, borough: normalizeBorough(row.event_borough) });
 
   return {
     id:          generateEventId(`nyc-opendata-permitted-${row.event_id ?? ''}`, title),
@@ -96,7 +97,7 @@ export function mapPermittedEvent(row) {
     ticketUrl:   null,
     images:      [],
     rawText:     null,
-    neighborhood: null,
+    neighborhood,
     borough,
   };
 }
@@ -131,19 +132,6 @@ async function fetchPermittedEvents() {
 }
 
 // ── Helpers ───────────────────────────────────────────────────────
-
-function normalizeBoroughName(raw) {
-  if (!raw) return null;
-  const b = raw.trim().toUpperCase();
-  if (b === 'MN' || b === 'MANHATTAN')    return 'Manhattan';
-  if (b === 'BK' || b === 'BROOKLYN')     return 'Brooklyn';
-  if (b === 'QN' || b === 'QUEENS')       return 'Queens';
-  if (b === 'BX' || b === 'BRONX' || b === 'THE BRONX') return 'The Bronx';
-  if (b === 'SI' || b === 'STATEN ISLAND') return 'Staten Island';
-  // Title-case passthrough
-  const parts = raw.trim().toLowerCase().split(/\s+/);
-  return parts.map(p => p.charAt(0).toUpperCase() + p.slice(1)).join(' ');
-}
 
 // ── Main entry point ──────────────────────────────────────────────
 

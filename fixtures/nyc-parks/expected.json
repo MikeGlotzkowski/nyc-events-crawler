@@ -37,7 +37,7 @@
     "ticketUrl": "https://nycparks.perfectmind.com/24936/Clients/BookMe4LandingPages/Class?widgetId=15f6af07-39c5-473e-b053-96653f77a406&embed=False&redirectedFromEmbededMode=False&classId=0d1342b0-deef-4b79-bbf5-30b58b63d682&occurrenceDate=20260930",
     "images": [],
     "rawText": null,
-    "neighborhood": "Betsy Head Park",
+    "neighborhood": "Brownsville",
     "borough": "Brooklyn"
   },
   {
@@ -77,7 +77,7 @@
     "ticketUrl": "https://nycparks.perfectmind.com/24936/Clients/BookMe4LandingPages/Class?widgetId=15f6af07-39c5-473e-b053-96653f77a406&embed=False&redirectedFromEmbededMode=False&classId=9df3f0d8-8d0c-4eef-8c4c-bb11b3a6f47a&occurrenceDate=20260930",
     "images": [],
     "rawText": null,
-    "neighborhood": "Torsney Playground",
+    "neighborhood": "Sunnyside",
     "borough": "Queens"
   },
   {
@@ -116,7 +116,7 @@
     "images": [],
     "rawText": null,
     "neighborhood": "Van Cortlandt Park",
-    "borough": "The Bronx"
+    "borough": "Bronx"
   },
   {
     "id": "4d3020a9056a6b19",
@@ -201,7 +201,7 @@
       "http://www.nycgovparks.org/common_images/events/698c9509bea7f.JPG"
     ],
     "rawText": null,
-    "neighborhood": "Randall's Island Park",
+    "neighborhood": "Randall's Island",
     "borough": "Manhattan"
   },
   {
@@ -245,7 +245,7 @@
       "http://www.nycgovparks.org/common_images/events/6abc4f994fb83.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Seward Park",
+    "neighborhood": "Lower East Side",
     "borough": "Manhattan"
   },
   {
@@ -285,8 +285,8 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
-    "borough": null
+    "neighborhood": "Bedford-Stuyvesant",
+    "borough": "Brooklyn"
   },
   {
     "id": "543960a158b19b28",
@@ -327,7 +327,7 @@
       "http://www.nycgovparks.org/common_images/events/6aba5b57b3314.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Brookville Park",
+    "neighborhood": "Rosedale",
     "borough": "Queens"
   },
   {
@@ -367,7 +367,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Faber Pool and Park",
+    "neighborhood": "Port Richmond",
     "borough": "Staten Island"
   },
   {
@@ -406,7 +406,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Austin J. McDonald Playground",
+    "neighborhood": "West Brighton",
     "borough": "Staten Island"
   },
   {
@@ -445,7 +445,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "De Matti Park",
+    "neighborhood": "Rosebank",
     "borough": "Staten Island"
   },
   {
@@ -488,7 +488,7 @@
       "http://www.nycgovparks.org/common_images/events/6aba5b5279f37.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Yellowstone Park",
+    "neighborhood": "Forest Hills",
     "borough": "Queens"
   },
   {
@@ -527,7 +527,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Arrochar Playground",
+    "neighborhood": "Arrochar",
     "borough": "Staten Island"
   },
   {
@@ -566,7 +566,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "The Big Park",
+    "neighborhood": "Mariners Harbor",
     "borough": "Staten Island"
   },
   {
@@ -606,7 +606,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "John J Carty Park",
+    "neighborhood": "Bay Ridge",
     "borough": "Brooklyn"
   },
   {
@@ -648,7 +648,7 @@
       "http://www.nycgovparks.org/common_images/events/6aba5b62f0a41.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Alley Pond Park",
+    "neighborhood": "Oakland Gardens",
     "borough": "Queens"
   },
   {
@@ -691,7 +691,7 @@
       "http://www.nycgovparks.org/common_images/events/6a9020a8d2ae5.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Rockaway Beach and Boardwalk",
+    "neighborhood": "Rockaway Beach",
     "borough": "Queens"
   },
   {
@@ -731,8 +731,8 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
-    "borough": null
+    "neighborhood": "Flatbush",
+    "borough": "Brooklyn"
   },
   {
     "id": "d33e0305eb6a37fe",
@@ -773,7 +773,7 @@
       "http://www.nycgovparks.org/common_images/events/6aba5b5f343b7.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Lawrence Virgilio Playground",
+    "neighborhood": "Woodside",
     "borough": "Queens"
   },
   {
@@ -813,7 +813,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Brevoort Playground",
+    "neighborhood": "Bushwick",
     "borough": "Brooklyn"
   },
   {
@@ -853,7 +853,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Brownsville Playground",
+    "neighborhood": "Brownsville",
     "borough": "Brooklyn"
   },
   {
@@ -892,7 +892,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Levy Playground",
+    "neighborhood": "Port Richmond",
     "borough": "Staten Island"
   },
   {
@@ -931,7 +931,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "Lieutenant John H. Martinson Playground",
+    "neighborhood": "Eltingville",
     "borough": "Staten Island"
   },
   {
@@ -974,7 +974,7 @@
       "http://www.nycgovparks.org/common_images/events/6a8c29cd294e6.jpg"
     ],
     "rawText": null,
-    "neighborhood": "Bowne Park",
+    "neighborhood": "Auburndale",
     "borough": "Queens"
   },
   {
@@ -1014,7 +1014,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": "St. John's Park",
+    "neighborhood": "Crown Heights",
     "borough": "Brooklyn"
   }
 ]

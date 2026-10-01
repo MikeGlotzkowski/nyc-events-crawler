@@ -70,7 +70,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Harlem",
     "borough": "Manhattan"
   },
   {
@@ -107,7 +107,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Midtown",
     "borough": "Manhattan"
   },
   {
@@ -181,7 +181,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Washington Heights",
     "borough": "Manhattan"
   },
   {
@@ -218,7 +218,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Kensington",
     "borough": "Brooklyn"
   },
   {
@@ -329,7 +329,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Morningside Heights",
     "borough": "Manhattan"
   },
   {
@@ -366,7 +366,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "East Harlem",
     "borough": "Manhattan"
   },
   {
@@ -440,8 +440,8 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
-    "borough": "The Bronx"
+    "neighborhood": "Concourse",
+    "borough": "Bronx"
   },
   {
     "id": "046ba45a4fb31753",
@@ -477,7 +477,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Midtown East",
     "borough": "Manhattan"
   },
   {
@@ -551,7 +551,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Harlem",
     "borough": "Manhattan"
   },
   {
@@ -588,8 +588,8 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
-    "borough": "The Bronx"
+    "neighborhood": "Melrose",
+    "borough": "Bronx"
   },
   {
     "id": "3aec0a49f5b88fa4",
@@ -736,7 +736,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Flatiron District",
     "borough": "Manhattan"
   },
   {
@@ -773,7 +773,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "East Harlem",
     "borough": "Manhattan"
   },
   {
@@ -884,7 +884,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Meatpacking District",
     "borough": "Manhattan"
   },
   {
@@ -921,7 +921,7 @@
     "ticketUrl": null,
     "images": [],
     "rawText": null,
-    "neighborhood": null,
+    "neighborhood": "Upper East Side",
     "borough": "Manhattan"
   }
 ]
