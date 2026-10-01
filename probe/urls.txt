@@ -1,0 +1,9 @@
+https://nonsensenyc.com/
+https://nonsensenyc.com/feed/
+https://www.nonsensenyc.com/rss
+https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend
+https://www.timeout.com/newyork/feed
+https://www.timeout.com/newyork/rss
+https://www.timeout.com/newyork/things-to-do/rss.xml
+https://www.timeout.com/newyork/sitemap.xml
+https://www.timeout.com/newyork/things-to-do
