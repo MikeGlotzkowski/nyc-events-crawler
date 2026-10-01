@@ -29,7 +29,7 @@ export const FIXTURES_DIR = path.dirname(fileURLToPath(import.meta.url));
 export const CRAWLERS = [
   'nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park',
   'forest-park', 'rss-blogs', 'queens-library', 'westsiderag',
-  'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice',
+  'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice', 'timeout',
 ];
 
 // Saved bodies are cut down so fixtures stay small: one page per paginated
@@ -155,6 +155,12 @@ function trimBody(body, contentType) {
     delete pageProps._nextI18Next;
     delete pageProps.initialState;
     return `<html><body><script id="__NEXT_DATA__" type="application/json">${JSON.stringify(data)}</script></body></html>`;
+  }
+  // Time Out's list page (timeout): only its date line and the list tiles.
+  if (body.includes('tile-zone-large-list_testID')) {
+    const time = body.match(/<time[^>]*>/i)?.[0] ?? '';
+    const tiles = body.match(/<article[^>]*data-testid="tile-zone-large-list_testID"[^>]*>[\s\S]*?<\/article>/g) ?? [];
+    return `<html><body>${time}\n${tiles.join('\n')}</body></html>`;
   }
   return body;
 }
