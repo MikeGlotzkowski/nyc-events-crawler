@@ -25,7 +25,7 @@
     <title>BAM | Brooklyn Academy of Music </title>
 
 
-    <link href="/Content/main.min.css?n=639264336726596158" rel="stylesheet" type="text/css" />
+    <link href="/Content/main.min.css?n=639264360199969250" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/v4-shims.css">
     <link rel="stylesheet" href="/Static/icons/icomoon/style.css" type="text/css" />
@@ -8786,7 +8786,7 @@
     -->
     <script src="/Scripts/lightbox_me.js"></script>
 
-    <script src="/Scripts/main_new.js?n=639264336726596158"></script>
+    <script src="/Scripts/main_new.js?n=639264360199969250"></script>
 
     <!-- Load YouTube API -->
     <script src="https://www.youtube.com/iframe_api"></script>
