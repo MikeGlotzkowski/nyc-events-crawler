@@ -1,5 +1,0 @@
-https://www.lincolncenter.org/ajaxCalendar/October%202026
-https://www.lincolncenter.org/ajaxCalendar/November%202026
-https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31
-https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31&page=3
-https://whitney.org/api/events/55194

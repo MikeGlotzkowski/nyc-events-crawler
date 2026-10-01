@@ -29,6 +29,7 @@ export const FIXTURES_DIR = path.dirname(fileURLToPath(import.meta.url));
 export const CRAWLERS = [
   'nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park',
   'forest-park', 'rss-blogs', 'queens-library', 'westsiderag',
+  'whitney', 'bam', 'lincoln-center', 'carnegie-hall',
 ];
 
 // Saved bodies are cut down so fixtures stay small: one page per paginated
@@ -36,6 +37,9 @@ export const CRAWLERS = [
 // the first rows of a JSON list and the first items of a feed.
 const MAX_JSON_ROWS = 25;
 const MAX_FEED_ITEMS = 5;
+// Large non-list values in a JSON object (lincoln-center's page model and rendered HTML) are
+// dropped; no crawler reads them.
+const MAX_JSON_VALUE_CHARS = 100_000;
 
 // ── Module mocks ─────────────────────────────────────────────────
 
@@ -118,6 +122,7 @@ function trimBody(body, contentType) {
       if (Array.isArray(data)) return JSON.stringify(data.slice(0, MAX_JSON_ROWS));
       for (const [key, value] of Object.entries(data ?? {})) {
         if (Array.isArray(value)) data[key] = value.slice(0, MAX_JSON_ROWS);
+        else if (JSON.stringify(value).length > MAX_JSON_VALUE_CHARS) data[key] = null;
       }
       return JSON.stringify(data);
     } catch { /* not JSON after all; keep as is */ }
