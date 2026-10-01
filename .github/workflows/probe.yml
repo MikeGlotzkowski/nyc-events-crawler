@@ -22,7 +22,7 @@ jobs:
           done < probe/urls.txt
           # RA GraphQL
           curl -sS --compressed -m 30 -A "$UA" -H 'Content-Type: application/json' -H 'Referer: https://ra.co/events/us/newyork' \
-            -d '{"operationName":"GET_EVENT_LISTINGS","variables":{"filters":{"areas":{"eq":8},"listingDate":{"gte":"2026-10-01","lte":"2026-10-15"}},"pageSize":20,"page":1},"query":"query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) { eventListings(filters: $filters, pageSize: $pageSize, page: $page) { data { id listingDate event { id title date startTime endTime contentUrl isTicketed flyerFront venue { id name address area { name } } artists { name } } } totalResults } }"}' \
+            -d '{"operationName":"GET_EVENT_LISTINGS","variables":{"filters":{"areas":{"eq":8},"listingDate":{"gte":"2026-10-01","lte":"2026-10-15"}},"pageSize":100,"page":1},"query":"query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) { eventListings(filters: $filters, pageSize: $pageSize, page: $page) { data { id listingDate event { id title date startTime endTime contentUrl isTicketed flyerFront cost minimumAge content images { filename type } genres { name } attending venue { id name address location { latitude longitude } area { name } } artists { name } } } totalResults } }"}' \
             -D probe/out/ra-graphql.headers -o probe/out/ra-graphql.body -w "ra-graphql %{http_code} %{size_download}\n" https://ra.co/graphql >> probe/out/summary.txt || echo "ra-graphql FAIL" >> probe/out/summary.txt
           cat probe/out/summary.txt
       - name: Commit
