@@ -1,0 +1,12 @@
+omr-shows https://www.ohmyrockness.com/shows
+omr-api https://www.ohmyrockness.com/api/shows.json?index=true&page=1&per=50&regioned=1
+omr-features https://www.ohmyrockness.com/features
+bv-shows https://www.brooklynvegan.com/nyc-shows/
+bv-feed https://www.brooklynvegan.com/feed/
+bv-tickets https://www.brooklynvegan.com/tickets/
+bv-showsfeed https://www.brooklynvegan.com/category/nyc-shows/feed/
+dice-browse https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59
+dice-browse2 https://dice.fm/browse/new-york
+dice-sitemap https://dice.fm/sitemap.xml
+ra-events https://ra.co/events/us/newyork
+ra-rss https://ra.co/xml/eventlistings.xml

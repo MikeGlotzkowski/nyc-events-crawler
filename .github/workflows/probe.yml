@@ -1,0 +1,34 @@
+name: probe
+on:
+  push:
+    branches: [claude/project-thread-huuyuu]
+    paths: [probe/urls.txt, .github/workflows/probe.yml]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+          mkdir -p probe/out
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            curl -sS -L --compressed -m 30 -A "$UA" -H 'Accept-Language: en-US,en;q=0.9' \
+              -H 'Accept: text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8' \
+              -D "probe/out/$name.headers" -o "probe/out/$name.body" -w "$name %{http_code} %{size_download}\n" "$url" >> probe/out/summary.txt || echo "$name FAIL" >> probe/out/summary.txt
+          done < probe/urls.txt
+          # RA GraphQL
+          curl -sS --compressed -m 30 -A "$UA" -H 'Content-Type: application/json' -H 'Referer: https://ra.co/events/us/newyork' \
+            -d '{"operationName":"GET_EVENT_LISTINGS","variables":{"filters":{"areas":{"eq":8},"listingDate":{"gte":"2026-10-01","lte":"2026-10-15"}},"pageSize":20,"page":1},"query":"query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) { eventListings(filters: $filters, pageSize: $pageSize, page: $page) { data { id listingDate event { id title date startTime endTime contentUrl isTicketed flyerFront venue { id name address area { name } } artists { name } } } totalResults } }"}' \
+            -D probe/out/ra-graphql.headers -o probe/out/ra-graphql.body -w "ra-graphql %{http_code} %{size_download}\n" https://ra.co/graphql >> probe/out/summary.txt || echo "ra-graphql FAIL" >> probe/out/summary.txt
+          cat probe/out/summary.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add probe/out
+          git commit -m "probe results [skip ci]"
+          git push origin HEAD:${GITHUB_REF_NAME}
