@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T11:31:02.385Z",
+  "responses": {
+    "https://www.bam.org/api/BAMApi/GetCalendarEventsByDayWithOnGoing?start=10/01/2026&end=10/15/2026": {
+      "file": "bam.org.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8"
+    }
+  }
+}

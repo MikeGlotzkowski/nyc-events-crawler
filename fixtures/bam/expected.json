@@ -1,0 +1,902 @@
+[
+  {
+    "id": "351dc847d6c52e1e",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/digger",
+    "title": "Digger",
+    "description": "The most powerful man in the world (Cruise) must prove he is humanity's savior.",
+    "startDate": "2026-10-08T16:00:00-04:00",
+    "endDate": null,
+    "time": "4pm, 6:40pm, 9:20pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "/film/2026/digger#performanceHeader",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "bb285cf6055497f1",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-fatherland",
+    "title": "Fatherland",
+    "description": "Novelist Thomas Mann and his daughter embark on a road trip across Germany following WWII.",
+    "startDate": "2026-10-06T18:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58155",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/fatherland.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b447fec4a840ec2c",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-what-cant-be",
+    "title": "What Can’t Be Mentioned + Sounds From Home",
+    "description": "Sallitt's sequel to &lt;em&gt;The Unspeakable Act&lt;/em&gt; and a portrait of expatriation from Nathan Silver.",
+    "startDate": "2026-10-05T20:45:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58153",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/what-can_t-be-mentioned.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b5dd81e3536ab302",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-club-kid",
+    "title": "Club Kid",
+    "description": "A New York scenester discovers he has a 10-year-old British son in this irreverent satire.",
+    "startDate": "2026-10-05T18:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58151",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/club-kid.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "1cd42fc027416eb1",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-everything-else",
+    "title": "Everything Else is Noise",
+    "description": "A middle-aged composer allows a friend to use her apartment for a television interview.",
+    "startDate": "2026-10-04T19:30:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58149",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/everything-else-is-noise.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "17123a5a0a2ae1f6",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-misty-green",
+    "title": "Misty Green",
+    "description": "A former actress struggles to make ends meet in an unforgiving Hollywood.",
+    "startDate": "2026-10-04T17:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58145",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/misty-green_01.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "00d314cce30fa46e",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-bardi",
+    "title": "Bardi",
+    "description": "Follow the rugged, fraternal world of horse-riders in central Morocco.",
+    "startDate": "2026-10-04T14:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58143",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/bardi.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "9c3321592a49b8ed",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-possible-love",
+    "title": "Possible Love",
+    "description": "Two couples from different social strata collide in this story of economic precarity.",
+    "startDate": "2026-10-03T19:15:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58032",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/possible-love.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "8e246276546acab0",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-everytime",
+    "title": "Everytime",
+    "description": "After an accident befalls a teenager in Berlin, her loved ones drift into a state of grief.",
+    "startDate": "2026-10-03T16:30:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58030",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/everytime.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "ae1f14b769092ccb",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-in-which-annie",
+    "title": "In Which Annie Gives it Those Ones",
+    "description": "This sharp portrait of youth in 1970s New Delhi features the first screenplay by Arundhati Roy.",
+    "startDate": "2026-10-03T14:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58028",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/in-which-annie-gives-it-those-ones.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "c9c1251ebd7f6f58",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-joy-of-joys",
+    "title": "Joy of Joys",
+    "description": "This sobering doc goes behind the scenes of the recording of a War Child Records charity album.",
+    "startDate": "2026-10-02T20:15:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58026",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/joy-of-joys.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "d7e7982b94ac3d5b",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-foreign-travel",
+    "title": "Foreign Travel",
+    "description": "A small circle of friends in Berlin meet off and on over the course of a year for a book club.",
+    "startDate": "2026-10-02T18:30:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58024",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/foreign-travel.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "126acdc7978368ff",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-my-wife-cries",
+    "title": "My Wife Cries",
+    "description": "A construction worker's wife reveals a shocking truth in this audacious portrait of a marriage.",
+    "startDate": "2026-10-02T16:15:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58147",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/my-wife-cries.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "844c30fa949da43a",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/you-can-see-everything",
+    "title": "You Can See Everything",
+    "description": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she's sent to prison.",
+    "startDate": "2026-10-15T16:00:00-04:00",
+    "endDate": null,
+    "time": "4pm, 7:45pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58645",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "df8c5bd2b46034a5",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/digger",
+    "title": "Digger",
+    "description": "The most powerful man in the world (Cruise) must prove he is humanity's savior.",
+    "startDate": "2026-10-07T16:00:00-04:00",
+    "endDate": null,
+    "time": "4pm, 6:40pm, 9:20pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "/film/2026/digger#performanceHeader",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "590e78decbb03e22",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/digger",
+    "title": "Digger",
+    "description": "The most powerful man in the world (Cruise) must prove he is humanity's savior.",
+    "startDate": "2026-10-06T16:00:00-04:00",
+    "endDate": null,
+    "time": "4pm, 6:40pm, 9:20pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "/film/2026/digger#performanceHeader",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b8df9635bb572226",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/digger",
+    "title": "Digger",
+    "description": "The most powerful man in the world (Cruise) must prove he is humanity's savior.",
+    "startDate": "2026-10-05T16:00:00-04:00",
+    "endDate": null,
+    "time": "4pm, 6:40pm, 9:20pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "/film/2026/digger#performanceHeader",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "e5b6b942410af19e",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/digger",
+    "title": "Digger",
+    "description": "The most powerful man in the world (Cruise) must prove he is humanity's savior.",
+    "startDate": "2026-10-04T13:15:00-04:00",
+    "endDate": null,
+    "time": "1:15pm, 4pm, 6:40pm, 9:20pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "/film/2026/digger#performanceHeader",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "5ab5bef3430bc1cb",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-dao",
+    "title": "Dao",
+    "description": "This ecstatic epic plunges into two interconnected ceremonies: a memorial and a wedding.",
+    "startDate": "2026-10-06T20:15:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58157",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/dao.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b229d7aa00bda91a",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-nitrate-kisses",
+    "title": "Nitrate Kisses",
+    "description": "Hammer's pioneering first feature boldly pulls back the curtain on the queer experience.",
+    "startDate": "2026-10-07T18:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58159",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/nitrate-kisses_crop.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "a45b63239afdc483",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-clarissa",
+    "title": "Clarissa",
+    "description": "This adaptation of Virginia Woolf's &lt;em&gt;Mrs. Dalloway&lt;/em&gt; brings the 1925 novel to contemporary Nigeria.",
+    "startDate": "2026-10-07T19:45:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58165",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/clarissa.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "4886f94ce3262238",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/nyff-double-freedom",
+    "title": "Double Freedom",
+    "description": "The sequel to &lt;em&gt;La Libertad&lt;/em&gt; sees woodcutter Misael now caring for his mentally unstable sister.",
+    "startDate": "2026-10-08T18:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58161",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/nyff/double-freedom.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "1a3e5a131191a6a5",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/caribbean-film-series2-les-vagues",
+    "title": "Les Vagues dans les yeux (Waves in the Eyes)",
+    "description": "This trilogy follows Haitians left behind by loved ones in pursuit of the American Dream.",
+    "startDate": "2026-10-15T19:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58362",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/waves-in-the-eyes.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "242c455e7b9a41ae",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/caribbean-film-series2-calle-cuba",
+    "title": "Calle Cuba",
+    "description": "Four women embody both the resilience and fragility of Cuba's Old Havana.",
+    "startDate": "2026-10-14T19:00:00-04:00",
+    "endDate": null,
+    "time": null,
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58360",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/calle-cuba.jpg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "d49b2cd47c915f0f",
+    "source": "BAM",
+    "sourceUrl": "https://www.bam.org/film/2026/drinking-and-driving",
+    "title": "Drinking and Driving",
+    "description": "Four aimless twentysomethings drift through summertime malaise.",
+    "startDate": "2026-10-13T16:30:00-04:00",
+    "endDate": null,
+    "time": "4:30pm, 9:30pm",
+    "location": {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+      "city": "Brooklyn",
+      "lat": 40.6863,
+      "lng": -73.9776
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film"
+    ],
+    "tags": [],
+    "organizer": "Brooklyn Academy of Music",
+    "attendance": null,
+    "ticketUrl": "https://commerce.bam.org/production/58349",
+    "images": [
+      "https://www.bam.org/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=800&quality=80"
+    ],
+    "rawText": null,
+    "neighborhood": "Fort Greene",
+    "borough": "Brooklyn"
+  }
+]

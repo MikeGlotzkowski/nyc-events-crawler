@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T11:31:04.061Z",
+  "responses": {
+    "https://www.carnegiehall.org/sitemap.xml": {
+      "file": "carnegiehall.org.xml",
+      "status": 200,
+      "contentType": "text/xml; charset=utf-8"
+    }
+  }
+}
