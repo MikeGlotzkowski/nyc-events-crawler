@@ -15,6 +15,8 @@ calendars, and Playwright scrapes, optionally enriches them with an LLM, and ups
 | `bam` | BAM calendar (JSON) | 1 (fast) |
 | `lincoln-center` | Lincoln Center campus calendar, all resident organizations (JSON) | 1 (fast) |
 | `carnegie-hall` | Carnegie Hall performances from its sitemap | 1 (fast) |
+| `resident-advisor` | Resident Advisor NYC club nights, next 14 days (GraphQL) | 1 (fast) |
+| `dice` | DICE New York shows, DJ nights and parties (browse pages) | 1 (fast) |
 | `westsiderag` | West Side Rag weekly events page (Playwright) | 2 (Playwright) |
 | `nyccom` | NYC.com multi-category crawl (Playwright) | 2 (Playwright) |
 

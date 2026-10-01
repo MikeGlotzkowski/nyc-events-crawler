@@ -1,5 +1,0 @@
-bv-cat https://www.brooklynvegan.com/wp-json/wp/v2/categories?search=tonight&_fields=id,name,slug,count,link
-bv-nyccat https://www.brooklynvegan.com/wp-json/wp/v2/categories?slug=nyc&_fields=id,name,slug,count,link
-bv-bestweek https://www.brooklynvegan.com/wp-json/wp/v2/tags?slug=best-nyc-shows-this-week&_fields=id,name,slug,count,link
-bv-recentnyc https://www.brooklynvegan.com/wp-json/wp/v2/posts?search=NYC%20shows&per_page=20&_fields=id,date,title,link,tags,categories
-bv-onsale https://www.brooklynvegan.com/wp-json/wp/v2/posts?search=on%20sale&per_page=20&_fields=id,date,title,link,tags,categories

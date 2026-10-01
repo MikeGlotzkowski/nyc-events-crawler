@@ -20,6 +20,8 @@
     "crawl:bam": "node index.js bam",
     "crawl:lincolncenter": "node index.js lincoln-center",
     "crawl:carnegie": "node index.js carnegie-hall",
+    "crawl:ra": "node index.js resident-advisor",
+    "crawl:dice": "node index.js dice",
     "crawl:westsiderag": "node index.js westsiderag",
     "crawl:seatgeek": "node index.js seatgeek",
     "crawl:nyccom": "node index.js nyccom",
