@@ -19,7 +19,8 @@
     "crawl:tier2": "node index.js all-tier2",
     "test": "node --test --experimental-test-module-mocks lib/*.test.js",
     "test-llm": "node test-llm.js",
-    "upload": "node upload-to-s3.js"
+    "upload": "node upload-to-s3.js",
+    "health": "node health-check.js"
   },
   "keywords": [
     "crawler",

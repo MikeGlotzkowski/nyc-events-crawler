@@ -59,6 +59,8 @@ STORAGE_MODE=s3 node index.js nyccom           # also write results to S3
 ```
 
 CI runs the crawlers on a schedule via `.github/workflows/crawl-tier1.yml` and `crawl-tier2.yml`.
+`.github/workflows/source-health.yml` checks twice a day that every enabled source is still finding events and
+keeps a "Crawler health alert" issue open while one isn't (`npm run health` prints the same report locally).
 
 ## Architecture
 
