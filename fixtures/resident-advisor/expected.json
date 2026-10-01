@@ -1,0 +1,390 @@
+[
+  {
+    "id": "56dfa39c0ac98036",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2546821",
+    "title": "E'Klektik x Celosia",
+    "description": "Free entry @moodringnyc",
+    "startDate": "2026-10-15T19:00:00.000",
+    "endDate": "2026-10-15T22:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Mood Ring",
+      "address": "1260 Myrtle Ave, Brooklyn, NY 11221, USA",
+      "city": "New York",
+      "lat": 40.697726,
+      "lng": -73.926908
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": 2,
+    "ticketUrl": "https://ra.co/events/2546821",
+    "images": [
+      "https://images.ra.co/3646aa7c184b236e4f5426b781a413cc945f1bc3.png"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "e1287059a4d99a09",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2548072",
+    "title": "PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva",
+    "description": "PEPPERPOT returns to Honey's on Thursday, October 15, from 8PM-1AM. Kicking things off on the rooftop before taking the party downstairs into the Winery, expect another night of high-energy sounds, genre-blurring selectors, and club music, well mixed. PEPPERPOT is a genre-blending dance party series inspired by the movement of music, people, and culture. Founded by Brooklyn-based artist, Samantha DaSilva, the series takes its name from Guyana's national dish. With indigenous origins and countless regional variations shaped through migration, exchange, and generations of shared tradition, pepperpot serves as a fitting metaphor for the evolution of club music itself. Coming from a mixed Indo-Guyanese, Portuguese, Caribbean, and South American background, and growing up in diverse spaces across New York, Samantha has long been drawn to the ways music travels, across borders, communities, and generations. PEPPERPOT is an extension of that perspective: a space that honors the roots of music while celebrating the many paths it has taken and the cultures that continue to shape it. It's a celebration of curiosity over categories, connection over assumptions, and a reminder that some of the most meaningful moments on a dancefloor happen when people step outside the boxes they're expected to fit into.",
+    "startDate": "2026-10-15T20:00:00.000",
+    "endDate": "2026-10-16T01:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Honey's",
+      "address": "93 Scott Avenue, Brooklyn, NY 11237",
+      "city": "New York",
+      "lat": 40.710433,
+      "lng": -73.922995
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Club"
+    ],
+    "organizer": null,
+    "attendance": 2,
+    "ticketUrl": "https://ra.co/events/2548072",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "4bfdd823f5ea229a",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2502675",
+    "title": "BEYOND THE STARDUST",
+    "description": "Beyond the Stardust is an immersive club performance and live-album experience conceived by Niegel Smith and The Illustrious Blacks—the afrofuturist DJ duo Monstah and Black!—featuring 12 original songs and a dazzling cast of aerialists, dancers, and club-kids. Doors open @ 6:30pm. Show starts @ 7:00pm. No late admittance. ---- Tickets may be available at the door if you miss the on-sale window.",
+    "startDate": "2026-10-15T19:00:00.000",
+    "endDate": "2026-10-15T20:00:00.000",
+    "time": null,
+    "location": {
+      "name": "The Flea Theater",
+      "address": "20 Thomas St, New York, NY 10007",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 29.5,
+      "max": 55.5,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "House",
+      "Disco"
+    ],
+    "organizer": null,
+    "attendance": 1,
+    "ticketUrl": "https://ra.co/events/2502675",
+    "images": [
+      "https://images.ra.co/84809b6b5f3ad692d6bcf4aab111525028473a62.jpg"
+    ],
+    "rawText": null,
+    "neighborhood": "Tribeca",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "fa77e395c03fc0b8",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2546819",
+    "title": "EL AFTERS: A FUNDRAISER FOR PUERTO RICO",
+    "description": "@djdaali__ @grunge.mum @skeelzie__ @becaboegli @tayanapowell @aroon.bk Free entry @moodringnyc",
+    "startDate": "2026-10-15T22:00:00.000",
+    "endDate": "2026-10-16T03:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Mood Ring",
+      "address": "1260 Myrtle Ave, Brooklyn, NY 11221, USA",
+      "city": "New York",
+      "lat": 40.697726,
+      "lng": -73.926908
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [],
+    "organizer": null,
+    "attendance": 1,
+    "ticketUrl": "https://ra.co/events/2546819",
+    "images": [
+      "https://images.ra.co/6938a1b10dace944d47e81d52a694ce0f09e8988.jpg"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "a101211a2660e6a1",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2549428",
+    "title": "QUEER PANIC",
+    "description": "QUEER PANIC! is back and so are the wristbands! sweater weather outside, sweaty weather inside! watching you find new friends, chat & dance, and leave with new connections last time? honestly the best! so we’re doing it again. grab a random wristband at the door, spot someone wearing the same one, say hi. could be your next best friend, your 12 am dance partner, or something completely different... on the decks: empty visions, DJ girlcrush, HEYFAYBAE, masha latte, R-DNA - bouncy, feel-good sets built for keeping you warm through the windy season! 7pm - 12am | $10 entry (at the door)",
+    "startDate": "2026-10-15T19:00:00.000",
+    "endDate": "2026-10-15T23:59:00.000",
+    "time": null,
+    "location": {
+      "name": "Boyfriend co-op",
+      "address": "1157 Myrtle Ave, Brooklyn, NY 11206",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 10,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Tech House",
+      "Club"
+    ],
+    "organizer": null,
+    "attendance": 1,
+    "ticketUrl": "https://ra.co/events/2549428",
+    "images": [
+      "https://images.ra.co/9a21fb17d15f256874bd684297584e709deea723.png"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "5e8bbc2572994a96",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2543492",
+    "title": "Outer Heaven presents: Timo Lee - UMA DJ",
+    "description": "Hailing from the Pacific Ocean, DJ/producer Timo Lee. Now she lives in Brooklyn, play at many nightclubs including Good Room and on The Lot Radio. She is the curator for Good Bar’s vinyl sessions, label boss of Chomp! Chomp! Records and Bevy in Honolulu. Timo Lee emerged her background in Honolulu and Taipei. From early childhood, Timo has kept her ear to the speaker, fingers tapping to the rhythm. A child of the 90’s, she was weaned on rave culture’s pulsing electronic beats. As the 2000’s progressed, her tastes evolved as she embraced underground disco, house, electronica. Her love for music manifested in a remarkable way as she hosted a three-hour weekly radio show on KTUH Honolulu for eight years. During this time, Timo shared the stage with a constellation of talented DJs, including luminaries like DJ Harvey, Bonobo, James Murphy, Thomas Bullock, DJ Garth, Tiger and Woods, Daniele Baldelli, Tim Sweeney, and many others at thirtyninehotel. She also served as the club's booker for six years, actively shaping the local dance scene in Hawaii. In 2014, Timo took her talents to the bustling streets of Brooklyn, NY. Commuting between the energetic vibes of NYC and her beloved Honolulu, she curated the atmosphere at Bevy, a popular cocktail discotheque in Kaka'ako with a 100-person capacity. Timo's presence in the New York music scene has been significant, with regular performances at iconic venues such as Good Room, The Lot Radio, and various nightclubs across the city. Timo w…",
+    "startDate": "2026-10-15T20:00:00.000",
+    "endDate": "2026-10-16T04:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Outer Heaven",
+      "address": "191 Chrystie Street, New York, NY 10002",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 50,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "House"
+    ],
+    "organizer": null,
+    "attendance": 0,
+    "ticketUrl": "https://ra.co/events/2543492",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Lower East Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "83588f978b35d981",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2545965",
+    "title": "Rendezvous Grooves Open decks",
+    "description": "Rendezvous Grooves returns every Thursday with Open Decks at Idle Mind Tavern. Five hours of music, five DJs, and one-hour sets built to give each artist enough time to settle in, take risks, and properly show their sound. No rushed 15-minute slots. No pressure to play a specific style. Just an open booth and a room built around discovering new selectors. Every Thursday 9PM–2AM Idle Mind Tavern 623 Manhattan Ave, Brooklyn, NY DJs interested in playing can sign up through @808.rendezvous.",
+    "startDate": "2026-10-15T21:00:00.000",
+    "endDate": "2026-10-16T02:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Idle Mind Tavern",
+      "address": "623 Manhattan Ave, Brooklyn, NY 11222",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Techno",
+      "House"
+    ],
+    "organizer": null,
+    "attendance": 0,
+    "ticketUrl": "https://ra.co/events/2545965",
+    "images": [
+      "https://images.ra.co/f4521bb65a0d730e6023ad3c12ed94ed50db03c2.jpg"
+    ],
+    "rawText": null,
+    "neighborhood": "Greenpoint",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "69e9c95fa6f05860",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2549964",
+    "title": "ROMANCE w Eli Escobar",
+    "description": "Thursday - the new age Holy Day, Eli - the new age Jesus, You - hopefully not Judas Romance is Eli’s dream party. Dreams do come true. BIG EMOTIONS SAD BANGERS POP ISN’T A DIRTY WORD CRYING ENCOURAGED Doors + DJs at 9PM FREE every Thursday Gabriela is a dream we had when we needed music the most. A blissful escape that brings us together. ~ Our mission is to create an energetic and engaged dance floor, where people of all backgrounds have a safe place to express themselves. Have as much fun as possible, but never at anyone else’s expense. Admittance to our venue is determined at the door in an effort to create what we dreamt up. We have a very intimate space and we hope you appreciate and respect the door staff. Consent is mandatory! It is sexy! Be mindful of the people sharing space with you. We have a ZERO tolerance policy for discrimination, harassment or violence of any kind. Alert staff if you need help. In order to allow people to immerse themselves in our dance floor, please keep phone use, chatting and flash photography to a minimum. There are plenty of other spaces to lounge in the rest of the club if you’re feeling called to doing any of these things. Take care of yourself and each other. xo",
+    "startDate": "2026-10-15T21:00:00.000",
+    "endDate": "2026-10-16T03:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Gabriela",
+      "address": "90 Wythe Ave, Brooklyn, NY 11249",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Electro",
+      "Pop"
+    ],
+    "organizer": null,
+    "attendance": 0,
+    "ticketUrl": "https://ra.co/events/2549964",
+    "images": [
+      "https://images.ra.co/c4852a4cb324a7ea514947144d60a6ae095911e2.jpg"
+    ],
+    "rawText": null,
+    "neighborhood": "Williamsburg",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "4d90e1ef004ee21d",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2550379",
+    "title": "BASS AT BOSSA",
+    "description": "Charmed presents our first edition of BASS @ BOSSA!! A night dedicated to the babes that wanna shake ass to the sexiest wubs and dubs. Free before 11pm <3",
+    "startDate": "2026-10-15T22:00:00.000",
+    "endDate": "2026-10-16T04:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Bossa Nova Civic Club",
+      "address": "1271 Myrtle Ave, Brooklyn, NY 11221, United States",
+      "city": "New York",
+      "lat": 40.697974,
+      "lng": -73.927965
+    },
+    "price": {
+      "isFree": null,
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Bass",
+      "Dub"
+    ],
+    "organizer": null,
+    "attendance": 0,
+    "ticketUrl": "https://ra.co/events/2550379",
+    "images": [
+      "https://images.ra.co/994a3616d1fa44046d7673c84335d46aafd116af.png"
+    ],
+    "rawText": null,
+    "neighborhood": "Bushwick",
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "7f1daad55f786158",
+    "source": "Resident Advisor",
+    "sourceUrl": "https://ra.co/events/2550534",
+    "title": "Matthew O'Neill 'Through To Us' Album Release Preview",
+    "description": "Catskills-based composer and sound artist Matthew O’Neill brings Through to Us to Ridgewood for a special live preview of his forthcoming album. Composed from field recordings, synthesizers, acoustic instruments, and sounds gathered from the landscape around his home, the record moves between composed music, improvisation, ambient sound, and something harder to name — a living conversation with the living world. For this special preview, O’Neill will be joined by Theatre of Divine Resonance and Herblore Esoterica for an evening of immersive, exploratory performance. Come for the music, stay for the strange frequencies, good company, and whatever happens in the room. Through to Us is out October 16 on Panther Mountain. Matthew O’Neill is a Catskills-based composer, songwriter, sound artist, and performer. His work moves between experimental composition, field recording, electronics, acoustic sound, and songwriting, exploring music as a form of relationship and reciprocity with land, water, memory, and the living world. He is the founder and director of Panther Mountain, a non profit music label and cultural organization.",
+    "startDate": "2026-10-14T19:00:00.000",
+    "endDate": "2026-10-15T20:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Dada",
+      "address": "6047 Myrtle Avenue, Ridgewood NY 11385",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": false,
+      "min": 10,
+      "max": null,
+      "currency": "USD"
+    },
+    "categories": [
+      "Nightlife",
+      "Music"
+    ],
+    "tags": [
+      "Electro",
+      "Experimental"
+    ],
+    "organizer": null,
+    "attendance": 0,
+    "ticketUrl": "https://ra.co/events/2550534",
+    "images": [
+      "https://images.ra.co/739c9e1b983064a129c03a3a5ed78c2233999ccb.jpg"
+    ],
+    "rawText": null,
+    "neighborhood": "Ridgewood",
+    "borough": "Queens"
+  }
+]
