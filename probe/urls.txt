@@ -1,22 +1,12 @@
-https://whitney.org/api/events?q[start_time_gteq]=2026-10-01
-https://whitney.org/api/events?sort=start_time
-https://whitney.org/api/events?upcoming=true
-https://whitney.org/api/events/61947
-https://whitney.org/api/media/56132
-https://whitney.org/events/art-and-you-oct2
-https://whitney.org/events?page=2
-https://engage.metmuseum.org/events/
-https://www.metmuseum.org/api/events
-https://www.brooklynmuseum.org/api/events
-https://www.moma.org/calendar/events.json
-https://www.amnh.org/calendar.ics
-https://www.lincolncenter.org/
-https://www.lincolncenter.org/calendar
-https://www.bam.org/
-https://www.bam.org/programs
-https://www.bam.org/calendar
-https://www.carnegiehall.org/
-https://www.carnegiehall.org/sitemap.xml
-manual https://theshed.org/program
-manual https://theshed.org/
-https://theshed.org/sitemap.xml
+https://www.bam.org/api/BAMApi/GetCalendarEventsByDayWithOnGoing?start=10/01/2026&end=10/31/2026
+https://www.bam.org/api/BAMApi/GetFullSizeCalendar?start_Date=10/01/2026
+https://www.lincolncenter.org/lincoln-center-at-home/calendar
+https://www.theshed.org/program
+https://www.theshed.org/sitemap.xml
+https://www.theshed.org/
+https://www.carnegiehall.org/Calendar/2026/10/02/Ludovico-Einaudi-0800PM
+https://www.carnegiehall.org/calendar/2026/10
+https://www.carnegiehall.org/Events/Highlights
+https://whitney.org/events/open-studio-2026
+https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[start_time_lteq]=2026-10-31&page=2
+https://whitney.org/api/events?q[start_time_gteq]=2026-10-01&q[s]=start_time+asc
