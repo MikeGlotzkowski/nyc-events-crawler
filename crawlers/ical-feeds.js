@@ -14,12 +14,9 @@ import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
 
 export const ICAL_SOURCES = [
   // Parks & outdoor spaces
-  {
-    name:         'Prospect Park Alliance',
-    feed:         'https://www.prospectpark.org/?ical=1',
-    neighborhood: 'Prospect Park',
-    borough:      'Brooklyn',
-  },
+  // Prospect Park Alliance (https://www.prospectpark.org/?ical=1) is off: Cloudflare serves a
+  // bot challenge (403, cf-mitigated: challenge) to GitHub Actions IPs on every endpoint,
+  // whatever the headers. It works from residential IPs only. Checked 2026-10-01.
   {
     name:         "Green-Wood Cemetery",
     feed:         'https://www.green-wood.com/events/?ical=1',
