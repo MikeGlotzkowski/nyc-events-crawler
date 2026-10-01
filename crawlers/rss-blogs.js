@@ -50,7 +50,7 @@ export const RSS_SOURCES = [
 
 // ── RSS fetch + parse ─────────────────────────────────────────
 
-async function fetchFeed(url) {
+export async function fetchFeed(url) {
   const res = await fetch(url, {
     headers: { 'User-Agent': 'fomo3-events-bot/1.0 (+https://github.com/fomo3)' },
     signal: AbortSignal.timeout(15000),
