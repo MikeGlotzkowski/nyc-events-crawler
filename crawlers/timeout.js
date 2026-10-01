@@ -3,7 +3,7 @@
  * One server-rendered list page, rewritten each week. Each numbered tile has a title, link,
  * image and a paragraph or two of copy; dates, times, venue and price live only in that copy,
  * so each tile goes through the LLM extractor. Tiles without a date (permanent attractions)
- * are dropped. No browser required.
+ * or that ended before the list's date are dropped. No browser required.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { extractEventsFromPost } from '../lib/llm-extract.js';
@@ -61,9 +61,14 @@ export function pageDate(html) {
   return html.match(/<time[^>]*dateTime="([^"]+)"/i)?.[1] ?? null;
 }
 
-/** One event per tile: the tile's own title, link and image, with the extracted date, venue and price. */
-export function mapTile(tile, ev) {
+/**
+ * One event per tile: the tile's own title, link and image, with the extracted date, venue and price.
+ * Null when the extractor found no date, or when it ended before listDay ('YYYY-MM-DD'): films
+ * already in theaters and long-running shows come back with an opening date months ago.
+ */
+export function mapTile(tile, ev, listDay = null) {
   if (!ev?.startDate) return null;
+  if (listDay && String(ev.endDate ?? ev.startDate).slice(0, 10) < listDay) return null;
   const location = {
     name:    ev.location?.name ?? null,
     address: ev.location?.address ?? null,
@@ -112,7 +117,7 @@ export async function crawl() {
         const extracted = await extractEventsFromPost({
           title: tile.title, content: tile.summary, pubDate, postUrl: tile.url, neighborhood: null, borough: null,
         });
-        return mapTile(tile, extracted.find(ev => ev?.startDate));
+        return mapTile(tile, extracted.find(ev => ev?.startDate), pubDate?.slice(0, 10));
       } catch (err) {
         logError(`[timeout] LLM extraction failed for "${tile.title}"`, err);
         errors.push(`"${tile.title}": ${err.message}`);

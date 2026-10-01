@@ -50,4 +50,12 @@ describe('timeout', () => {
     assert.equal(e.ticketUrl, 'https://tickets.example/tos?a=1&b=2');
     assert.equal(e.borough, 'Queens');
   });
+
+  it('drops tiles that ended before the list date', () => {
+    const [t] = timeout.parseTiles(tile());
+    assert.equal(timeout.mapTile(t, { startDate: '2026-08-21' }, '2026-09-30'), null);
+    assert.equal(timeout.mapTile(t, { startDate: '2026-03-01', endDate: '2026-06-30' }, '2026-09-30'), null);
+    assert.ok(timeout.mapTile(t, { startDate: '2026-09-01', endDate: '2026-12-17' }, '2026-09-30'));
+    assert.ok(timeout.mapTile(t, { startDate: '2026-10-04' }, '2026-09-30'));
+  });
 });
