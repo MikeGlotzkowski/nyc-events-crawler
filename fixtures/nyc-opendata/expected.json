@@ -1,0 +1,927 @@
+[
+  {
+    "id": "ceffbd0981d7c46d",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Street Health Outreach Wellness Program",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T07:30:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "HART STREET between BROADWAY and STUYVESANT AVENUE",
+      "address": "HART STREET between BROADWAY and STUYVESANT AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "8332fec61608d4c6",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Street Health Outreach Wellness Program",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T07:30:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "MOUNT MORRIS PARK WEST between WEST  123 STREET and WEST  124 STREET",
+      "address": "MOUNT MORRIS PARK WEST between WEST  123 STREET and WEST  124 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "22469d18ca4f275d",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Street Health Outreach Wellness Program",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T07:30:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "WEST   39 STREET between 10 AVENUE and 11 AVENUE",
+      "address": "WEST   39 STREET between 10 AVENUE and 11 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "33e2d94c5c42c2cc",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Street Health Outreach Wellness Program",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T07:30:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "BROADWAY between 82 STREET and 45 AVENUE",
+      "address": "BROADWAY between 82 STREET and 45 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Queens"
+  },
+  {
+    "id": "aa1e176c8beb9f3f",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "175 street Greenmarket Thursday",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "WEST  175 STREET between BROADWAY and WADSWORTH AVENUE",
+      "address": "WEST  175 STREET between BROADWAY and WADSWORTH AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Farmers Market"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "9780f34d3b0b28bf",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Immigrant Culture Month at Avenue C Plaza Extension - September",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T19:30:00.000",
+    "time": null,
+    "location": {
+      "name": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "address": "Avenue C Plaza: Avenue C Plaza MCDONALD AVENUE between AVENUE C and CHURCH AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Plaza Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "b7cfa08eb8106514",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Epicured 1115 Waiver education",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T14:00:00.000",
+    "time": null,
+    "location": {
+      "name": "57 AVENUE between 98 PLACE and 99 STREET",
+      "address": "57 AVENUE between 98 PLACE and 99 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Queens"
+  },
+  {
+    "id": "4c40b4fa6864092e",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Borough Park Greenmarket Thursday",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T16:00:00.000",
+    "time": null,
+    "location": {
+      "name": "14 AVENUE between 49 STREET and 50 STREET",
+      "address": "14 AVENUE between 49 STREET and 50 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Farmers Market"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "65b1890e30720090",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Columbia Thursday Sunday Greenmarket",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T18:00:00.000",
+    "time": null,
+    "location": {
+      "name": "BROADWAY between WEST  113 STREET and WEST  116 STREET",
+      "address": "BROADWAY between WEST  113 STREET and WEST  116 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Farmers Market"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "38e16e22316eb6b2",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "HHFM East Harlem Market",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T15:00:00.000",
+    "time": null,
+    "location": {
+      "name": "EAST  104 STREET between THIRD AVENUE and SECOND AVENUE",
+      "address": "EAST  104 STREET between THIRD AVENUE and SECOND AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Farmers Market"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "021bffe6fc5fff27",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Afterschool Fun",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T08:00:00.000",
+    "endDate": "2026-10-01T20:00:00.000",
+    "time": null,
+    "location": {
+      "name": "34 AVENUE between 93 STREET and 94 STREET",
+      "address": "34 AVENUE between 93 STREET and 94 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Open Street Partner Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Queens"
+  },
+  {
+    "id": "179c31de34097b13",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "SAIL Structure at Lou Gehrig Plaza",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T09:00:00.000",
+    "endDate": "2026-10-01T16:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
+      "address": "Lou Gehrig Plaza: Lou Gehrig Plaza E. 161st Street between Walton Ave and Grand Concourse",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Plaza Partner Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "The Bronx"
+  },
+  {
+    "id": "046ba45a4fb31753",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Willow Tree Commons Ribbon Cutting",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T09:30:00.000",
+    "endDate": "2026-10-01T11:00:00.000",
+    "time": null,
+    "location": {
+      "name": "EAST   45 STREET between 2 AVENUE and 3 AVENUE",
+      "address": "EAST   45 STREET between 2 AVENUE and 3 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "6b98520d473ca030",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "WORLD TRADE CENTER COMMUNITY FAIR",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T10:00:00.000",
+    "endDate": "2026-10-01T18:00:00.000",
+    "time": null,
+    "location": {
+      "name": "PARK PLACE between BROADWAY and CHURCH STREET",
+      "address": "PARK PLACE between BROADWAY and CHURCH STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Festival"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "fb4733a790029e74",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "PAL PLAYSTREET",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T10:00:00.000",
+    "endDate": "2026-10-01T16:00:00.000",
+    "time": null,
+    "location": {
+      "name": "WEST  124 STREET between MOUNT MORRIS PARK WEST and MALCOLM X BOULEVARD",
+      "address": "WEST  124 STREET between MOUNT MORRIS PARK WEST and MALCOLM X BOULEVARD",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "f65f179152b94ab6",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Thursday Wellness Fair with The Third Ave BID",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T10:00:00.000",
+    "endDate": "2026-10-01T18:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Roberto Clemente Plaza: Roberto Clemente Plaza 3 AVENUE between EAST  148 STREET and WILLIS AVENUE",
+      "address": "Roberto Clemente Plaza: Roberto Clemente Plaza 3 AVENUE between EAST  148 STREET and WILLIS AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Plaza Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "The Bronx"
+  },
+  {
+    "id": "3aec0a49f5b88fa4",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Soccer Streets 48th St PS 896",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T10:00:00.000",
+    "endDate": "2026-10-01T13:30:00.000",
+    "time": null,
+    "location": {
+      "name": "48 STREET between 7 AVENUE and 8 AVENUE",
+      "address": "48 STREET between 7 AVENUE and 8 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "0f064c62795b02d0",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Deluxe carnival",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T10:00:00.000",
+    "endDate": "2026-10-01T20:00:00.000",
+    "time": null,
+    "location": {
+      "name": "TAYLOR STREET between LEE AVENUE and BEDFORD AVENUE",
+      "address": "TAYLOR STREET between LEE AVENUE and BEDFORD AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Festival"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "f6be1cbab80c0b9b",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Boombox in Jamaica",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T12:00:00.000",
+    "endDate": "2026-10-01T12:00:00.000",
+    "time": null,
+    "location": {
+      "name": "PARSONS BOULEVARD between JAMAICA AVENUE and ARCHER AVENUE",
+      "address": "PARSONS BOULEVARD between JAMAICA AVENUE and ARCHER AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Queens"
+  },
+  {
+    "id": "0f51fcbfe8fc6767",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Nature Mural Installation at Flatiron Plaza",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T12:00:00.000",
+    "endDate": "2026-10-02T19:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Flatiron Plaza: 23/24 Broadway (North) Broadway between 23rd st and 24th st,  WEST   24 STREET between 5 AVENUE and 6 AVENUE",
+      "address": "Flatiron Plaza: 23/24 Broadway (North) Broadway between 23rd st and 24th st,  WEST   24 STREET between 5 AVENUE and 6 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Plaza Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "e9cdc073f0339381",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Hispanic Heritage Month Outreach Month : Harlem Small business outreach",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T12:00:00.000",
+    "endDate": "2026-10-01T15:00:00.000",
+    "time": null,
+    "location": {
+      "name": "3 AVENUE between EAST  115 STREET and EAST  116 STREET",
+      "address": "3 AVENUE between EAST  115 STREET and EAST  116 STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "3904b9fd8de8b7df",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Sukkot celebration - block",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T13:00:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "EAST   37 STREET between LENOX ROAD and LINDEN BOULEVARD",
+      "address": "EAST   37 STREET between LENOX ROAD and LINDEN BOULEVARD",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Block Party"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "158978afbe3f2c70",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Sukkot Street Festival",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T13:00:00.000",
+    "endDate": "2026-10-01T17:00:00.000",
+    "time": null,
+    "location": {
+      "name": "EAST   14 STREET between AVENUE X and AVENUE Y",
+      "address": "EAST   14 STREET between AVENUE X and AVENUE Y",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Brooklyn"
+  },
+  {
+    "id": "73a6101680b414ad",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "UGG Season Event",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T13:00:00.000",
+    "endDate": "2026-10-02T20:00:00.000",
+    "time": null,
+    "location": {
+      "name": "Gansevoort Plaza: 12/13 9 Avenue 9 AVENUE between Gansevoort st and WEST   13 STREET,  GREENWICH STREET between GANSEVOORT STREET and HORATIO STREET",
+      "address": "Gansevoort Plaza: 12/13 9 Avenue 9 AVENUE between Gansevoort st and WEST   13 STREET,  GREENWICH STREET between GANSEVOORT STREET and HORATIO STREET",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Plaza Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  },
+  {
+    "id": "c09dbd5001d4d581",
+    "source": "NYC Open Data — Permitted Events",
+    "sourceUrl": "https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx",
+    "title": "Street Renaming - Rose Hawthorne Way",
+    "description": "Street Activity Permit Office",
+    "startDate": "2026-10-01T13:10:00.000",
+    "endDate": "2026-10-01T13:23:00.000",
+    "time": null,
+    "location": {
+      "name": "EAST   68 STREET between 1 AVENUE and 2 AVENUE",
+      "address": "EAST   68 STREET between 1 AVENUE and 2 AVENUE",
+      "city": "New York",
+      "lat": null,
+      "lng": null
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Street Event"
+    ],
+    "tags": [
+      "permitted",
+      "citywide"
+    ],
+    "organizer": null,
+    "attendance": null,
+    "ticketUrl": null,
+    "images": [],
+    "rawText": null,
+    "neighborhood": null,
+    "borough": "Manhattan"
+  }
+]

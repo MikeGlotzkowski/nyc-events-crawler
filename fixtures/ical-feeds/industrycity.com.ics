@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Industry City - ECPv6.17.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Industry City
+X-ORIGINAL-URL:https://industrycity.com
+X-WR-CALDESC:Events for Industry City
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20250101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261001T180000
+DTEND;TZID=UTC:20261001T210000
+DTSTAMP:20260819T151543Z
+CREATED:20260819T151432Z
+LAST-MODIFIED:20260819T151543Z
+UID:10052450-1790877600-1790888400@industrycity.com
+SUMMARY:Sake Revolution LIVE! Featuring Austin Power
+DESCRIPTION:October 1st is Sake Day — the official start of the sake brewing year in Japan. And every year on the day itself\, Sake Revolution\, America’s first sake podcast\, keeps its favorite tradition: recording a live episode in front of an audience at the Brooklyn Kura Taproom. The kanpai is mandatory… but fun will be inevitable. \nWe couldn’t be more excited about this year’s guest: Austin Power (yes\, that’s his real name)\, New York’s most seriously silly sake sommelier and the man behind Accidental Bar\, downtown’s beloved neighborhood sake joint on Avenue C. \nA South Carolina kid turned Parsons-trained painter turned sake evangelist\, his mission has been\, in his own words\, “get more people drinking more sake\, more irresponsibly” and “if you’re not having fun\, you’re doing it wrong”. He honed that philosophy over a decade at legendary NYC sake spots before opening Accidental Bar in 2021. \nJoin hosts John and Timothy as they talk to Austin about his take on the sake scene in NYC! \n\nCome for the party\, Leave a little Smarter – we dive into Austin’s philosophy of how to get more people drinking more sake\, more irresponsibly and what is the best path forward with the staid and serious world of “Sake Education”\nThe State of Sake in NYC — real talk on trends\, challenges\, and bright spots from the sake-selling trenches of NYC – how the NYC sake scene grew from a handful of pioneers into one of the best sake-drinking towns outside Japan.\n\nFair warning: an evening with Austin is entertainment\, full stop. Less lecture\, more live show — equal parts tasting\, talk show\, and party. You’ll laugh\, you’ll sip\, and somewhere along the way you’ll accidentally learn a lot about sake. \nYour ticket includes a tasting flight hand-picked by Austin himself — Accidental Bar favorites\, poured and tasted together during the recording. And bring your questions: we collect written questions from the audience during the show\, and our live audience Q&A segment is always a highlight of the episode. \nCome early for happy hour\, stay late at the taproom bar\, and celebrate Sake Day the only correct way: glass in hand\, with friends. Because as Austin says — “If I can see you\, aren’t we already friends?!” \nSeats are limited (this one always fills up). Kanpai Ya’ll!
+URL:https://industrycity.com/event/sake-revolution-live-featuring-austin-power/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/08/Sake-Revolution-LIVE_v2-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261001T190000
+DTEND;TZID=UTC:20261001T220000
+DTSTAMP:20260909T192543Z
+CREATED:20260909T192543Z
+LAST-MODIFIED:20260909T192543Z
+UID:10052497-1790881200-1790892000@industrycity.com
+SUMMARY:Bob Marley - Live at the Rainbow Theatre Film Screening
+DESCRIPTION:REDUCE FOMO! Click here for guaranteed admission and RSVP!\nhttps://wl.eventim.us/event/bob-marley-live-at-the-rainbow-theatre/704439?afflky=Getitrightthefirsttime \nGet It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes\, those two things go together\, and yes\, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound! \nYou have reached the ticketing page for Bob Marley – Live at the Rainbow Theatre! An electric performance featuring one of the few documented Bob Marley shows! \nA 1977 performance by Bob Marley at London’s Rainbow Theatre\, filmed shortly after the release of his album Exodus. Accompanied by backing band the Wailers\, he performs well-known tracks including No Woman No Cry\, Exodus\, No More Trouble and Trenchtown Rock. \nEvent Info \nFilm: Bob Marley – Live at the Rainbow Theatre \nDate: October 1st\, 2026 \nDoors: 7pm\nScreening: 730pm \nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP. \nAddress: Industry City Bandshell Stage\, Courtyard 1/2 at Industry City in Brooklyn\, New York between 36th and 37th street and 2nd and 3rd Avenues. \nENTER 238 36th Street\, Brooklyn\, NY on your GPS device \nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains! \nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately. \nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry\, natch! So you will save money at the bar\, AND make sure you aren’t shut out! \nThis event is free with RSVP\, ages 8 and up are welcome. There will be drink specials\, all night\, as well. \nLimited seating (about 100-125 seats)\, tons of standing room. No strollers. \nNo outside beverages. There will be drink specials all night long from our courtyard bar. \nWhile we do our best to gauge the number of RSVPs\, entry is still on a first-come\, first-served basis\, so please arrive early! Once we hit capacity\, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry! \nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue’s bar and order food from over 17 options inside the adjoining food hall. \nHow to get here:\nTake the D\, N\, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square. \nFrom Long Island\, take the LIRR to Atlantic Terminal then take the D\, N or R train to 36th street.
+URL:https://industrycity.com/event/bob-marley-live-at-the-rainbow-theatre-film-screening/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/09/marley.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261001T193000
+DTEND;TZID=UTC:20261001T220000
+DTSTAMP:20260805T161942Z
+CREATED:20260805T161942Z
+LAST-MODIFIED:20260805T161942Z
+UID:10052403-1790883000-1790892000@industrycity.com
+SUMMARY:The Helm Family Ramble Band Return to Industry City
+DESCRIPTION:Get tickets here: https://wl.eventim.us/event/the-helm-family-ramble-band-return-to-industry-city/693384?afflky=Getitrightthefirsttime \nIndustry City and Get It Right Music in association with Murmrr Presents are proud to welcome The Helm Family Ramble Band in their return to Industry City. Enjoy a brilliant evening of music featuring selections from the Band’s catalog as well as a rock n’ roll revue celebrating the iconic songbook of Levon Helm and the canon of American roots music. \nEvent Info \nDate: October 1\, 2026 \nDoors: 7pm \nSet 1: 7:45pm \nSet 2: 9:00pm \nTickets: $50 per person plus fees in advance/$60 day of show \nAddress: Industry City Bandshell Stage\, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues. \nENTER 238 36th Street\, Brooklyn\, NY on your GPS device \nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue’s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine. \nHow to get here: \nTake the D\, N\, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square. \nFrom Long Island\, take the LIRR to Atlantic Terminal then take the D\, N or R train to 36th street. \nMore About The Helm Family Ramble Band \nIn the heart of Woodstock\, NY\, cradled by the shadow of Overlook Mountain\, the \nHelm Family Ramble is guided by Levon Helm’s daughter\, Amy Helm\, the Ramble has continued its evolution. Amy is honoring her father’s vision for both Levon Helm Studios and The Midnight Ramble by creating a community of musicians that crosses generational and musical lines. Calling together an extended family of musicians and special guests\, the Helm Family Ramble invites the audience into a singular musical experience\, threading the ties of the past into the present.
+URL:https://industrycity.com/event/the-helm-family-ramble-band-return-to-industry-city/
+CATEGORIES:Live Events,Ticketed Events
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/08/Helm-Family.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261002T150000
+DTEND;TZID=UTC:20261002T160000
+DTSTAMP:20260922T172552Z
+CREATED:20260922T172552Z
+LAST-MODIFIED:20260922T172552Z
+UID:10052515-1790953200-1790956800@industrycity.com
+SUMMARY:Self-Care Workshop
+DESCRIPTION:Makko Ho (真向法) is a traditional Japanese self-care stretching practice combining gentle movement\, breathing\, and body awareness to support flexibility\, relaxation\, and overall well-being. \nLed by Kumiko Kanayama\, Founder & Director of Five Lights Center of Shiatsu. \nNo experience or special flexibility is needed. Come stretch\, breathe\, and experience Japanese wellness culture in Brooklyn!
+URL:https://industrycity.com/event/self-care-workshop/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/09/Workshop.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261002T170000
+DTEND;TZID=UTC:20261002T210000
+DTSTAMP:20260826T164546Z
+CREATED:20260805T163431Z
+LAST-MODIFIED:20260826T164546Z
+UID:10052407-1790960400-1790974800@industrycity.com
+SUMMARY:Sake Day Brooklyn
+DESCRIPTION:Brooklyn’s Best Sake Celebration!\n-Premium Sake Tasting all night\n-Taste sake from over 50 Breweries\n-Brewery tours\n-DJ playing all night\nRaffles and give aways for Sake Classes & Merch\nFood pop ups in the courtyard
+URL:https://industrycity.com/event/sake-day-brooklyn/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/08/SDB26_hero.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261002T193000
+DTEND;TZID=UTC:20261002T213000
+DTSTAMP:20260831T170220Z
+CREATED:20260825T201721Z
+LAST-MODIFIED:20260831T170220Z
+UID:10052476-1790969400-1790976600@industrycity.com
+SUMMARY:The Night Shift Comedy Show
+DESCRIPTION:Join us at Fort Hamilton Distillery for a night of big laughs and great pours. Catch NYC’s next wave of comedy talent — all in our tasting room.
+URL:https://industrycity.com/event/the-night-shift-comedy-show-2/2026-10-02/
+CATEGORIES:Nightlife
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/02/The-Night-Shift-Comedy-FH-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T110000
+DTEND;TZID=UTC:20261003T180000
+DTSTAMP:20260909T200947Z
+CREATED:20260909T200947Z
+LAST-MODIFIED:20260909T200947Z
+UID:10052498-1791025200-1791050400@industrycity.com
+SUMMARY:El Souq: NYC's Swana & South Asian Marketplace
+DESCRIPTION:El Souq makes its Brooklyn debut at Industry City with a one-day celebration of independent SWANA and South Asian brands\, creativity\, music\, food\, and community. \nDiscover 50+ emerging designers\, makers\, artists\, and small businesses across fashion\, jewelry\, home\, art\, beauty\, food and more—all brought together in El Souq’s signature marketplace-meets-gathering-space experience. \nCome to shop\, stay for the music. The day features sounds by 360 Record Shop and headliner DJ Mansaf Mama\, alongside interactive experiences and activations designed to bring people together. \nA new borough. Same El Souq energy. Like no other.
+URL:https://industrycity.com/event/el-souq-nycs-swana-south-asian-marketplace/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/five.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T120000
+DTEND;TZID=UTC:20261003T160000
+DTSTAMP:20260922T172811Z
+CREATED:20260922T172811Z
+LAST-MODIFIED:20260922T172811Z
+UID:10052516-1791028800-1791043200@industrycity.com
+SUMMARY:CiderFeast Brooklyn
+DESCRIPTION:The CiderFeast™ East Coast Tour lands in Brooklyn at Industry City on Saturday\, October 3\, for an all-inclusive celebration of everything hard cider and all the delicious foods that go with it. \nCiderFeast Brooklyn brings together the region’s best cideries and perfectly pairs pours of hard cider with outstanding bites from neighborhood favorites. \nThis year’s lineup features nationally recognized ciders as well as producers whose work is rooted in the region’s distinctive fruit and terroir\, including: \n1911 Established\nAtomic Dog Ciders\nAval Cider\nEden Ciders\nFrosty Twig Cider\nIndian Ladder Farms Cidery & Brewery\nLong View Cider\nNine Pin Cider Works\nOccam Fine Cider\nOrchard Hill Cider Mill at Soons\nOriginal Sin Cider\nQuartz Rock Cider House\nStone Ridge Orchard\nTreasury Cider\nVermont Cider Co. and Woodchuck Cider\nWayside Cider\nand more \nDiscover cider’s remarkable range with outstanding bites. Cider’s nuances shine with food pairings\, whether you’re trying something sweet or savory. Taste how complex flavors emerge when you try a sip of cider with nibbles from favorite local restaurants\, chefs\, and hot sauces like Achilles Heat Smoked Chili Crisp.
+URL:https://industrycity.com/event/ciderfeast-brooklyn/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/IC.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T120000
+DTEND;TZID=UTC:20261003T180000
+DTSTAMP:20260922T190459Z
+CREATED:20260922T173222Z
+LAST-MODIFIED:20260922T190459Z
+UID:10052517-1791028800-1791050400@industrycity.com
+SUMMARY:Beyond the Classic: Japanese YOUKOKU Relief Ceramics Exhibition by SUIYO @IPPIN Project
+DESCRIPTION:Beyond the Classic: Japanese YOUKOKU Relief Ceramics Exhibition by SUIYO @IPPIN Project \n[Introducing the Japanese YOUKOKU Relief Carving Ceramic Collection by Suiyo at IPPIN PROJECT] \nDiscover the captivating world of contemporary Japanese ceramics with the YOUKOKU Relief Carving Ceramic Collection by Suiyo\, crafted in Aichi\, Japan. \n“As we’ve studied the classics\, and with an eye on what will remain in the future\, we will ‘go beyond’ images\, genres\, borders\, and history\, as well as our own past.”\n— Daisuke Anayama \nThe collection showcases exquisite relief-carved ceramics featuring intricate motifs of auspicious animals\, including cranes\, turtles\, and the animals of the Chinese Zodiac. Each piece brings together traditional Japanese craftsmanship and distinctive sculptural details\, creating objects that are both meaningful and beautifully tactile. \nSuiyo’s designs also draw inspiration from the classics of European art. In particular\, Suiyo’s painter and carvener\, Anayama Fumika’s designs reflects the decorative richness and intricate patterns of Austrian painter Gustav Klimt\, creating a fascinating dialogue between Japanese ceramic traditions and European artistic heritage. \nExperience a unique meeting of Eastern and Western cultural influences\, where traditional craftsmanship goes beyond borders and is reimagined through a contemporary artistic lens. \nDiscover these beautifully crafted pieces at IPPIN PROJECT and bring a touch of Japanese artistry\, symbolism\, and timeless beauty to your collection. \n*Artist: Daisuke Anayama: a ceramic artist and Fumika Anayama: a painter and carver.\nSuiyo is a pottery brand produced by artists\, Daisuke Anayama and Fumika Anayama based in Seto\, Aichi. The brand concept “Beyond the Classic.” expresses their determination and hope to move forward to make their artworks a new classic in the modern age.
+URL:https://industrycity.com/event/beyond-the-classic-japanese-youkoku-relief-ceramics-exhibition-by-suiyo-ippin-project/2026-10-03/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/09/YOUKOKU.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T150000
+DTEND;TZID=UTC:20261003T180000
+DTSTAMP:20260922T180059Z
+CREATED:20260922T180059Z
+LAST-MODIFIED:20260922T180059Z
+UID:10052518-1791039600-1791050400@industrycity.com
+SUMMARY:Family Program: Printmaking Play with Gelli Plates
+DESCRIPTION:This all-ages workshop will introduce children and families to the fundamentals of printmaking through Gelli plate monoprinting. Participants will explore accessible printing using botanicals\, found materials\, and everyday objects to create unique one-of-a-kind prints. The workshop encourages experimentation and creative play while providing an accessible introduction to the printmaking process for all ages.
+URL:https://industrycity.com/event/family-program-printmaking-play-with-gelli-plates/
+CATEGORIES:Family Friendly,Workshops
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/Lindsey_Jones_Family-1-copy.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T163000
+DTEND;TZID=UTC:20261003T193000
+DTSTAMP:20260203T161154Z
+CREATED:20260203T161154Z
+LAST-MODIFIED:20260203T161154Z
+UID:10051538-1791045000-1791055800@industrycity.com
+SUMMARY:Industry City Gourmet Food and Drinks Tour
+DESCRIPTION:Set against the iconic backdrop of Sunset Park’s historic waterfront\, the massive\, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft\, transforming an evening into a memorable\, high-end experience. \nYour adventure begins with artistic bonbons at Lilac Chocolates\, explores gourmet imports at Sahadi’s\, and includes a refined whiskey tasting at Fort Hamilton Distillery\, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls. \nPerfect as a distinctive date night\, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment\, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.
+URL:https://industrycity.com/event/industry-city-gourmet-food-and-drinks-tour/2026-10-03/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/02/IMG_9953.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261004T123000
+DTEND;TZID=UTC:20261004T133000
+DTSTAMP:20260929T151403Z
+CREATED:20260508T153643Z
+LAST-MODIFIED:20260929T151403Z
+UID:10052538-1791117000-1791120600@industrycity.com
+SUMMARY:Dried Flower Resin Craft Workshop: Hosted by little bloomtale × KAJIHA
+DESCRIPTION:Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha! \nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on\, relaxing workshop\, you’ll design and create your very own resin accessories—now with even more options to choose from\, including necklaces\, earrings\, bracelets\, and keychains (with more to come).\n• All materials provided\n• Perfect for beginners and craft lovers alike\n• Take home your own handmade accessory \nLet your creativity bloom and craft something truly special with us!
+URL:https://industrycity.com/event/dried-flower-resin-craft-workshop-hosted-by-little-bloomtale-x-kajiha/2026-10-04/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/05/image-10.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261004T173000
+DTEND;TZID=UTC:20261004T193000
+DTSTAMP:20260806T150134Z
+CREATED:20260805T163748Z
+LAST-MODIFIED:20260806T150134Z
+UID:10052412-1791135000-1791142200@industrycity.com
+SUMMARY:Sunday Sessions: Live Jazz & Blues
+DESCRIPTION:🎷 Live Jazz & Blues at Fort Hamilton 🥃 \nLive music\, great cocktails\, and the perfect way to spend your Sunday evening. \n🍸 Cocktails\, mocktails\, beer and wine available at the bar.
+URL:https://industrycity.com/event/sunday-sessions-live-jazz-blues/2026-10-04/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/07/Sunday-Sessions-FH-8.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261007T193000
+DTEND;TZID=UTC:20261007T223000
+DTSTAMP:20260922T192255Z
+CREATED:20260922T192255Z
+LAST-MODIFIED:20260922T192255Z
+UID:10052520-1791401400-1791412200@industrycity.com
+SUMMARY:Movie Screening of Halloween (1978)
+DESCRIPTION:Get It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes\, those two things go together\, and yes\, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound! \nA young Englishman in the Paris of 1899 becomes infatuated with Satine\, a singer at the Moulin Rouge. However\, she has been promised by the manager to a Duke in return for funding his next production. As the young lovers meet in secret\, Satine’s wedding day draws closer\, but she hides a fatal secret from both Christian and the Duke. \nEvent Info \nFilm: Halloween \nDate: October 7th\, 2026 \nDoors: 7:00pm \nScreening: 7:30pm \nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP. \nAddress: Industry City Bandshell Stage\, Courtyard 1/2 at Industry City in Brooklyn\, New York between 36th and 37th street and 2nd and 3rd Avenues. \nENTER 238 36th Street\, Brooklyn\, NY on your GPS device \nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains!\nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately.\nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry\, natch! So you will save money at the bar\, AND make sure you aren’t shut out!\nThis event is free with RSVP\, ages 8 and up are welcome. There will be drink specials\, all night\, as well.\nLimited seating (about 100-125 seats)\, tons of standing room. No strollers.\nNo outside beverages. There will be drink specials all night long from our courtyard bar.\nWhile we do our best to gauge the number of RSVPs\, entry is still on a first-come\, first-served basis\, so please arrive early! Once we hit capacity\, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry!\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue’s bar and order food from over 17 options inside the adjoining food hall. \nHow to get here: \nTake the D\, N\, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island\, take the LIRR to Atlantic Terminal then take the D\, N or R train to 36th street.
+URL:https://industrycity.com/event/movie-screening-of-halloween-1978/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-21-at-5.53.20-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261008T190000
+DTEND;TZID=UTC:20261008T220000
+DTSTAMP:20260922T192703Z
+CREATED:20260922T192703Z
+LAST-MODIFIED:20260922T192703Z
+UID:10052521-1791486000-1791496800@industrycity.com
+SUMMARY:Talking Heads - Stop Making Sense Film Screening
+DESCRIPTION:REDUCE FOMO BY CLICKING HERE!\nhttps://wl.eventim.us/event/talking-heads-stop-making-sense/704440?afflky=Getitrightthefirsttime \nGet It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes\, those two things go together\, and yes\, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound! \nYou have reached the ticketing page for Talking Heads – Stop Making Sense! This is gonna be one heck of a dance party under the stars. \nThis is the seminal 1984 American concert film featuring a live performance by the American rock band Talking Heads. The film was directed by Jonathan Demme and executive produced by Gary Kurfirst\, the band’s longtime manager. The film was shot over four nights in December 1983 at Hollywood’s Pantages Theatre while Talking Heads were on tour promoting their fifth studio album\, Speaking in Tongues (1983). Stop Making Sense includes performances of the early Talking Heads single “Psycho Killer” (1977)\, through to their most recent hit at the time\, “Burning Down the House” (1983). It also includes songs from the solo career of frontman David Byrne and by Tom Tom Club\, the side project of drummer Chris Frantz and bassist Tina Weymouth. Some have said it’s the greatest band document of all time. \nEvent Info\nFilm: Talking Heads – Stop Making Sense\nDate: October 8th\, 2026\nDoors: 7pm\nScreening Time: 7:30pm \nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP. \nAddress: Industry City Bandshell Stage\, Courtyard 1/2 at Industry City in Brooklyn\, New York between 36th and 37th street and 2nd and 3rd Avenues. \nENTER 238 36th Street\, Brooklyn\, NY on your GPS device \nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains! \nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately. \nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry\, natch! So you will save money at the bar\, AND make sure you aren’t shut out! \nThis event is free with RSVP\, ages 8 and up are welcome. There will be drink specials\, all night\, as well. \nLimited seating (about 100-125 seats)\, tons of standing room. No strollers. \nNo outside beverages. There will be drink specials all night long from our courtyard bar. \nWhile we do our best to gauge the number of RSVPs\, entry is still on a first-come\, first-served basis\, so please arrive early! Once we hit capacity\, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry! \nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue’s bar and order food from over 17 options inside the adjoining food hall. \nHow to get here: \nTake the D\, N\, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square. \nFrom Long Island\, take the LIRR to Atlantic Terminal then take the D\, N or R train to 36th street.
+URL:https://industrycity.com/event/talking-heads-stop-making-sense-film-screening/
+ATTACH;FMTTYPE=image/webp:https://industrycity.com/wp-content/uploads/2026/09/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiN2YwYmZlZjYtZTc5Ny00NmI0LTlmMmEtZGMyMjZiZmQzNGVmIiwiZWRpdHMiOnt9fQ.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261009T193000
+DTEND;TZID=UTC:20261009T213000
+DTSTAMP:20260922T193221Z
+CREATED:20260206T205849Z
+LAST-MODIFIED:20260922T193221Z
+UID:10051776-1791574200-1791581400@industrycity.com
+SUMMARY:Tiny Distillery Concerts
+DESCRIPTION:Join us for an evening of music for jazz trio and cocktails/mocktails!
+URL:https://industrycity.com/event/tiny-distillery-concerts/
+CATEGORIES:Nightlife
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/02/Tiny-Distillery-Concerts-FH-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T130000
+DTEND;TZID=UTC:20261010T160000
+DTSTAMP:20260929T151703Z
+CREATED:20260929T151703Z
+LAST-MODIFIED:20260929T151703Z
+UID:10052539-1791637200-1791648000@industrycity.com
+SUMMARY:Celebrating 60 Years of Star Trek - A Fan Event from the Brooklyn SciFi Film Festival
+DESCRIPTION:The Brooklyn SciFi Film Festival and St. Mark’s Comics present a family-friendly program of six Star Trek-inspired fan films with Trek-themed entertainment hosted at bkOne’s Tom Kane Theatre in Industry City\, Sunset Park\, Brooklyn on Saturday\, October 10th\, from 1pm to 4pm. With special musical performances\, films\, and life-size Star Trek character pop-ups for photos. St. Mark’s Comics joins the event\, showcasing comics and collectibles. Show up in full Star Trek Cosplay costume for free entry! Or use promo code StarTrek60 to save 15% on Eventbrite. \nLocation: Tom Kane Theatre\, Industry City Building 5\nAddress: 51 35th St Bldg 5\, Brooklyn\, NY \nPromocode: StarTrek60 to Save 15% on all Brooklyn SciFi Festival events on Eventbrite. \nLink to Tickets: https://www.eventbrite.com/e/star-trek-fan-film-event-brooklyn-scifi-film-festival-tickets-2000514915966
+URL:https://industrycity.com/event/celebrating-60-years-of-star-trek-a-fan-event-from-the-brooklyn-scifi-film-festival/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/09/startrek-banner2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T130000
+DTEND;TZID=UTC:20261010T213000
+DTSTAMP:20260923T140948Z
+CREATED:20260923T140948Z
+LAST-MODIFIED:20260923T140948Z
+UID:10052522-1791637200-1791667800@industrycity.com
+SUMMARY:Brooklyn Craft Beer Fest
+DESCRIPTION:Save 40% with code INDUSTRYCITY\nIn the spirit of Oktoberfest\, a traditional German celebration of beer and countrymen will be held with over 100 styles of craft beer featuring many NY breweries. Brooklyn Industry City Courtyard will be hosting an eclectic local variety of superbly fermented beer and cider in all styles combining the best elements of a Beer Garden with the staggering array of choices found only at a Craft Beer Festival. Guests will enjoy craft beer samples for the entire evening paired with live entertainment\, Food and Interactive Games.
+URL:https://industrycity.com/event/brooklyn-craft-beer-fest/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/industry-city-beer-fest-1-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T140000
+DTEND;TZID=UTC:20261010T190000
+DTSTAMP:20260925T153908Z
+CREATED:20260925T153908Z
+LAST-MODIFIED:20260925T153908Z
+UID:10052526-1791640800-1791658800@industrycity.com
+SUMMARY:Oyster Festival
+DESCRIPTION:Join us for an afternoon of oysters\, Japanese drinks\, food\, and live music at Japan Village! Enjoy oysters paired with Suntory drinks\, including Japanese beer and refreshing highballs. Enjoy live DJ music throughout the afternoon. \nIn case of rain\, the event will be moved indoors to the Loft on the second floor of Japan Village. \n📅 October 10\, 2026\n⏰ 2–7 PM\n📍 Japan Village Courtyard\n🎟️ FREE EVENT \nAdmission is free\, but RSVPs are encouraged so we can get an idea of how many guests to expect.
+URL:https://industrycity.com/event/oyster-festival/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/09/Oyster.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T150000
+DTEND;TZID=UTC:20261010T180000
+DTSTAMP:20260923T141214Z
+CREATED:20260923T141214Z
+LAST-MODIFIED:20260923T141214Z
+UID:10052523-1791644400-1791655200@industrycity.com
+SUMMARY:Handmade Stationery Block Printing
+DESCRIPTION:In this workshop\, participants will learn the fundamentals of relief printmaking by carving their own lino printing block and creating a personalized stationery set. Participants will design\, carve\, and print their own imagery onto cards and envelopes. A selection of pre-carved blocks will also be available\, allowing participants to combine personal designs with existing imagery and explore the possibilities of shared printmaking tools. \nMaterials Included
+URL:https://industrycity.com/event/handmade-stationery-block-printing/
+CATEGORIES:Workshops
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/lindsey_stationairy.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T153000
+DTEND;TZID=UTC:20261010T180000
+DTSTAMP:20260831T152904Z
+CREATED:20260413T191137Z
+LAST-MODIFIED:20260831T152904Z
+UID:10052478-1791646200-1791655200@industrycity.com
+SUMMARY:Revolutionary Spirits Trolley Tour
+DESCRIPTION:Delve into the storied past of distilled spirits in Brooklyn with Fort Hamilton Distillery and our neighbors at Green-Wood Cemetery.
+URL:https://industrycity.com/event/revolutionary-spirits-trolley-tour/2026-10-10/
+CATEGORIES:Tours
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/04/Screenshot-2026-06-17-at-11.01.25-AM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T163000
+DTEND;TZID=UTC:20261010T193000
+DTSTAMP:20260203T161154Z
+CREATED:20260203T161154Z
+LAST-MODIFIED:20260203T161154Z
+UID:10051539-1791649800-1791660600@industrycity.com
+SUMMARY:Industry City Gourmet Food and Drinks Tour
+DESCRIPTION:Set against the iconic backdrop of Sunset Park’s historic waterfront\, the massive\, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft\, transforming an evening into a memorable\, high-end experience. \nYour adventure begins with artistic bonbons at Lilac Chocolates\, explores gourmet imports at Sahadi’s\, and includes a refined whiskey tasting at Fort Hamilton Distillery\, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls. \nPerfect as a distinctive date night\, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment\, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.
+URL:https://industrycity.com/event/industry-city-gourmet-food-and-drinks-tour/2026-10-10/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/02/IMG_9953.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T180000
+DTEND;TZID=UTC:20261010T200000
+DTSTAMP:20260925T154108Z
+CREATED:20260627T125943Z
+LAST-MODIFIED:20260925T154108Z
+UID:10052230-1791655200-1791662400@industrycity.com
+SUMMARY:Collage Workshop
+DESCRIPTION:Join us for a collage workshop led by Laura Salvatore and leave with a masterpiece made with all reused materials!
+URL:https://industrycity.com/event/collage-workshop/
+CATEGORIES:Workshops
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/06/Untitled-design-4-3.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261011T160000
+DTEND;TZID=UTC:20261011T173000
+DTSTAMP:20260925T154347Z
+CREATED:20260925T154347Z
+LAST-MODIFIED:20260925T154347Z
+UID:10052527-1791734400-1791739800@industrycity.com
+SUMMARY:Warm Sake Tasting Class and Brewery Tour
+DESCRIPTION:Exploring sake temperature and pairing — warm sake\, done right\, is a revelation. \nFor a long time\, warm sake has gotten a bad rap! But it can be absolutely delicious when you pick the right sake and the right temperature. Join us for this exciting exploration of sake temperature and the joys of warming sake — the perfect way to explore the subtle umami and richness of premium sake. \nWe’ll contrast chilled sake with the same sake served warm\, and enjoy carefully selected food pairings to round out the tasting flight. In all\, we’ll taste five kinds of sake\, each paired with a delicious bite to bring out the flavors and textures. As always\, this class includes a behind-the-scenes brewery tour to see how sake is made at NY State’s first sake brewery.
+URL:https://industrycity.com/event/warm-sake-tasting-class-and-brewery-tour/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/16x9_warm_sake.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261011T173000
+DTEND;TZID=UTC:20261011T193000
+DTSTAMP:20260806T150134Z
+CREATED:20260805T163748Z
+LAST-MODIFIED:20260806T150134Z
+UID:10052413-1791739800-1791747000@industrycity.com
+SUMMARY:Sunday Sessions: Live Jazz & Blues
+DESCRIPTION:🎷 Live Jazz & Blues at Fort Hamilton 🥃 \nLive music\, great cocktails\, and the perfect way to spend your Sunday evening. \n🍸 Cocktails\, mocktails\, beer and wine available at the bar.
+URL:https://industrycity.com/event/sunday-sessions-live-jazz-blues/2026-10-11/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/07/Sunday-Sessions-FH-8.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261013T190000
+DTEND;TZID=UTC:20261013T230000
+DTSTAMP:20260227T211628Z
+CREATED:20240827T200440Z
+LAST-MODIFIED:20260227T211628Z
+UID:10051443-1791918000-1791932400@industrycity.com
+SUMMARY:Spirited Away: Psychic & Paranormal Night
+DESCRIPTION:Gather with NYC’s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun\, hosted by The Oracle!\nSpirited Away Psychic & Paranormal Night! Winter Edition! \nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!
+URL:https://industrycity.com/event/spirited-away-psychic-paranormal-night/2026-10-13/
+CATEGORIES:Nightlife
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2024/08/pexels-anastasia-shuraeva-6014324-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261015T193000
+DTEND;TZID=UTC:20261015T223000
+DTSTAMP:20260925T155058Z
+CREATED:20260925T155058Z
+LAST-MODIFIED:20260925T155058Z
+UID:10052528-1792092600-1792103400@industrycity.com
+SUMMARY:Movie Screening of Prince - Sign O' the Times
+DESCRIPTION:Get It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes\, those two things go together\, and yes\, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound! \nSign o’ the Times is a 1987 American concert film directed by\, scored by\, and starring Prince. The film features the band that accompanied Prince on the 1987 Sign o’ the Times Tour: dancer Cat Glover\, keyboardist Boni Boyer\, bassist Levi Seacer Jr.\, guitarist Miko Weaver\, drummer Sheila E.\, keyboardist Doctor Fink\, and the horn section of Eric Leeds and Atlanta Bliss; Wally Safford and Greg Brooks (of The Bodyguards from the Revolution era) reprised their roles as dancers\, vocalists and comic foils. \nEvent Info\nFilm: Prince – Sign O’ the Times\nDate: October 15th\, 2026\nDoors: 7:00pm\nScreening: 7:30pm\nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP. \nAddress: Industry City Bandshell Stage\, Courtyard 1/2 at Industry City in Brooklyn\, New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street\, Brooklyn\, NY on your GPS device \nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains!\nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately.\nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry\, natch! So you will save money at the bar\, AND make sure you aren’t shut out!\nThis event is free with RSVP\, ages 8 and up are welcome. There will be drink specials\, all night\, as well.\nLimited seating (about 100-125 seats)\, tons of standing room. No strollers.\nNo outside beverages. There will be drink specials all night long from our courtyard bar.\nWhile we do our best to gauge the number of RSVPs\, entry is still on a first-come\, first-served basis\, so please arrive early! Once we hit capacity\, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry!\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue’s bar and order food from over 17 options inside the adjoining food hall. \nHow to get here:\nTake the D\, N\, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island\, take the LIRR to Atlantic Terminal then take the D\, N or R train to 36th street.
+URL:https://industrycity.com/event/movie-screening-of-prince-sign-o-the-times/
+ATTACH;FMTTYPE=image/png:https://industrycity.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-21-at-6.00.18-PM.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261016T193000
+DTEND;TZID=UTC:20261016T213000
+DTSTAMP:20260831T153031Z
+CREATED:20250314T181516Z
+LAST-MODIFIED:20260831T153031Z
+UID:10052479-1792179000-1792186200@industrycity.com
+SUMMARY:Plain Slice Comedy Show
+DESCRIPTION:Join Fort Hamilton Distillery for Plain Slice Comedy. This show features some of New York’s best comics and rising talents. \n🍸Cocktail Hr @ 6:00\n🎟 Doors open @ 7:00\n🎤 Show Starts @ 7:30\n🥃 Cocktails and mocktails are available for purchase – Support local business!
+URL:https://industrycity.com/event/plain-slice-comedy-show/2026-10-16/
+CATEGORIES:Live Events,Nightlife
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2025/03/plainslice.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261017T103000
+DTEND;TZID=UTC:20261017T183000
+DTSTAMP:20260806T144752Z
+CREATED:20260806T144752Z
+LAST-MODIFIED:20260806T144752Z
+UID:10052418-1792233000-1792261800@industrycity.com
+SUMMARY:CollectedCon Brooklyn
+DESCRIPTION:Mark your calendars for an unforgettable 1 day packed event in Industry City Brooklyn\, as the ultimate designer toy & art convention makes its way home in the heart of New York.
+URL:https://industrycity.com/event/collectedcon-brooklyn/
+CATEGORIES:Ticketed Events
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/08/collectedcon.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261017T120000
+DTEND;TZID=UTC:20261017T180000
+DTSTAMP:20260806T145727Z
+CREATED:20260806T145727Z
+LAST-MODIFIED:20260806T145727Z
+UID:10052419-1792238400-1792260000@industrycity.com
+SUMMARY:A Haunting in Industry City
+DESCRIPTION:A Haunting in Industry City is an art market centered around the horror genre. This October\, we’ll have 20 vendors selling their wares\, everything from art to apparel to jewelry to trinkets. All types of horror themed handmade goods will be available! \nAttendees can also look forward to a costume contest and a raffle for a basket of delightfully horrible prizes! We’re going to have a bit of everything\, so make sure to RSVP and stop by! \nThe first 50 RSVPs to arrive will be given a Haunting zine that includes peek a boo bingo and a spooky little photo card!
+URL:https://industrycity.com/event/a-haunting-in-industry-city/
+ATTACH;FMTTYPE=image/jpeg:https://industrycity.com/wp-content/uploads/2026/08/IC-PROMO.jpg
+END:VEVENT
+END:VCALENDAR

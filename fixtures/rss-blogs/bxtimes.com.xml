@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bronx Times</title>
+	<atom:link href="https://www.bxtimes.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.bxtimes.com</link>
+	<description>Your neighborhood, your news</description>
+	<lastBuildDate>Wed, 30 Sep 2026 21:41:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">229395843</site>	<item>
+		<title>NYC Council weighs how to regulate e-bikes, e-scooters, and mopeds during marathon hearing</title>
+		<link>https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/</link>
+					<comments>https://www.bxtimes.com/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/#respond</comments>
+		
+		<dc:creator><![CDATA[By Ethan Stark-Miller]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:41:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[city council]]></category>
+		<category><![CDATA[city-council-speaker-julie-menin]]></category>
+		<category><![CDATA[council-member-shaun-abreu]]></category>
+		<category><![CDATA[dot-commmissioner-mike-flynn]]></category>
+		<category><![CDATA[e-bikes]]></category>
+		<category><![CDATA[e-motos]]></category>
+		<category><![CDATA[e-scooters]]></category>
+		<category><![CDATA[illegal-e-bikes]]></category>
+		<category><![CDATA[mayor-zohran-mamdani]]></category>
+		<category><![CDATA[mopeds]]></category>
+		<category><![CDATA[nyc transit]]></category>
+		<category><![CDATA[nyc-evsa]]></category>
+		<category><![CDATA[priscillas-law]]></category>
+		<category><![CDATA[sam-levine]]></category>
+		<guid isPermaLink="false">https://www.bxtimes.com/?p=149124&#038;preview=true&#038;preview_id=149124</guid>
+
+					<description><![CDATA[The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years. The 23 bills council members are proposing take a… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years.</p>
+<p>The 23 bills council members are proposing take a variety of approaches toward addressing persistent safety concerns around the ridership of electric micromobility devices, which are largely used by immigrant food delivery workers. Those include <a href="https://www.amny.com/nyc-transit/nyc-lawmaker-bills-e-motos-electronic-motorcycles/" target="_blank" rel="noopener">taking illegal devices that are involved in many crashes off the streets</a>, outlawing the fastest legal e-bikes, and better regulating the third-party apps that employ delivery workers. </p>
+<p>The suite of legislation under consideration, however, does not include a measure that would require that e-bike and e-scooter owners register and license their vehicles — a bill known as <a href="https://www.amny.com/news/priscillas-law-illegal-e-vehicles-in-nyc/" target="_blank" rel="noopener">“Priscilla’s Law.”</a></p>
+<p>City Council Speaker Julie Menin, who <a href="https://www.amny.com/news/city-council-e-bike-micromobility-bills/" target="_blank" rel="noopener">scheduled the hearing</a> amid a spate of e-micromobility-involved crashes over the summer, said the purpose of the proceeding was both to examine how the legislation can make riding motorized two-wheelers safer and how the city is enforcing already existing laws.</p>
+<p>"<span class="transcript-word" data-offset="3715359" data-word="106.3199:125.89:125.95">As</span> <span class="transcript-word" data-offset="3718239" data-word="106.3199:126.07:126.37">speaker,</span> <span class="transcript-word" data-offset="3727839" data-word="106.3199:126.67:126.7">I</span> <span class="transcript-word" data-offset="3729279" data-word="106.3199:126.76:127.12">believe</span> <span class="transcript-word" data-offset="3736959" data-word="106.3199:127.24:127.27">the</span> <span class="transcript-word" data-offset="3742239" data-word="106.3199:127.57:127.84">council</span> <span class="transcript-word" data-offset="3747999" data-word="106.3199:127.93:128.05">has</span> <span class="transcript-word" data-offset="3750879" data-word="106.3199:128.11:128.14">a</span> <span class="transcript-word" data-offset="3752799" data-word="106.3199:128.23:129.16">responsibility</span> <span class="transcript-word" data-offset="3771519" data-word="106.3199:129.4:129.46">to</span> <span class="transcript-word" data-offset="3775839" data-word="106.3199:129.67:130.51">meticulously</span> <span class="transcript-word" data-offset="3807519" data-word="106.3199:131.65:131.86">examine</span> <span class="transcript-word" data-offset="3810879" data-word="106.3199:131.86:131.89">the</span> micro<span class="transcript-word" data-offset="3813759" data-word="106.3199:132.04:132.37">mobility</span> <span class="transcript-word" data-offset="3822399" data-word="106.3199:132.58:133.06">landscape</span> <span class="transcript-word" data-offset="3837279" data-word="106.3199:133.51:133.6">and</span> <span class="transcript-word" data-offset="3841599" data-word="106.3199:133.78:134.08">address</span> <span class="transcript-word" data-offset="3846399" data-word="106.3199:134.08:134.1">the</span> <span class="transcript-word" data-offset="3852959" data-word="106.3199:134.49:134.85">major</span> <span class="transcript-word" data-offset="3860159" data-word="106.3199:134.94:135.33">gaps</span> <span class="transcript-word" data-offset="3869279" data-word="106.3199:135.51:135.57">in</span> <span class="transcript-word" data-offset="3871679" data-word="106.3199:135.66:135.72">our</span> <span class="transcript-word" data-offset="3875519" data-word="106.3199:135.9:136.2">laws</span> <span class="transcript-word" data-offset="3888479" data-word="106.3199:136.71:136.8">that</span> <span class="transcript-word" data-offset="3891359" data-word="106.3199:136.89:136.98">have</span> <span class="transcript-word" data-offset="3893759" data-word="106.3199:137.04:137.34">emerged,</span> <span class="transcript-word" data-offset="3906719" data-word="106.3199:137.85:138.42">particularly</span> <span class="transcript-word" data-offset="3920159" data-word="106.3199:138.69:138.75">as</span> <span class="transcript-word" data-offset="3923999" data-word="106.3199:138.93:139.65">technology</span> <span class="transcript-word" data-offset="3937919" data-word="106.3199:139.8:139.92">and</span> <span class="transcript-word" data-offset="3940319" data-word="106.3199:139.95:140.79">transportation</span> <span class="transcript-word" data-offset="3957599" data-word="106.3199:141.03:141.27">habits</span> <span class="transcript-word" data-offset="3963359" data-word="106.3199:141.39:141.48">have</span> <span class="transcript-word" data-offset="3967199" data-word="106.3199:141.63:142.11">changed," Menin said during her opening remarks. "</span><span class="transcript-word" data-offset="3981119" data-word="106.3199:142.5:142.62">But</span> <span class="transcript-word" data-offset="3983999" data-word="106.3199:142.68:142.71">we</span> <span class="transcript-word" data-offset="3986879" data-word="106.3199:142.86:143.13">also</span> <span class="transcript-word" data-offset="3993119" data-word="106.3199:143.25:143.34">have</span> <span class="transcript-word" data-offset="3995999" data-word="106.3199:143.43:143.46">the</span> <span class="transcript-word" data-offset="3997919" data-word="106.3199:143.55:144.39">responsibility</span> <span class="transcript-word" data-offset="4013759" data-word="106.3199:144.54:144.6">to</span> <span class="transcript-word" data-offset="4016159" data-word="106.3199:144.69:144.9">hold</span> <span class="transcript-word" data-offset="4021919" data-word="106.3199:145.05:145.08">the</span> <span class="transcript-word" data-offset="4022399" data-word="106.3199:145.08:145.8">administration</span> <span class="transcript-word" data-offset="4038239" data-word="106.3199:146.07:146.4">accountable</span> <span class="transcript-word" data-offset="4050719" data-word="106.3199:146.85:146.94">for</span> en<span class="transcript-word" data-offset="4052159" data-word="106.3199:146.94:147.12">forcing</span> <span class="transcript-word" data-offset="4056479" data-word="106.3199:147.21:147.24">the</span> <span class="transcript-word" data-offset="4059839" data-word="106.3199:147.42:147.72">laws</span> <span class="transcript-word" data-offset="4066559" data-word="106.3199:147.84:147.93">that</span> <span class="transcript-word" data-offset="4070879" data-word="106.3199:148.11:148.17">are</span> <span class="transcript-word" data-offset="4073279" data-word="106.3199:148.26:148.44">already</span> <span class="transcript-word" data-offset="4086239" data-word="106.3199:149.07:149.13">on</span> <span class="transcript-word" data-offset="4089119" data-word="106.3199:149.25:149.28">the</span> <span class="transcript-word" data-offset="4089599" data-word="106.3199:149.28:150.42">books."</span></p>
+<p>Over the course of the hearing, the council heard testimony from Mayor Zohran Mamdani's administration, including top officials with the Departments of Transporation (DOT) and Consumer and Worker Protection (DCWP) as well as the NYPD. They also heard from safe streets advocates, those in favor of stricter regulations on all e-micromobility devices, and other members of the public.</p>
+<h2>Crashes involving e-micromobility devices</h2>
+<p>The current landscape for e-bikes and e-scooters was shaped by the state's decision to legalize them in 2020.</p>
+<p>In doing so, Albany authorized three classes of e-bikes in the city, none of which can have motors exceeding 750 watts: Class 1 — pedal-assist e-bikes that can reach 20 miles per hour; Class 2 — throttle-assist bikes that can reach 20 mph; and Class 3 — throttle-assist e-bikes that can reach 25 mph. Legal e-scooters cannot exceed 20 mph top speeds.</p>
+<p>However, all micromobility devices in the city must abide by a 15 mph speed limit, which was instituted by former Mayor Eric Adams last year.</p>
+<p>The hearing comes after a few high-profile crashes involving e-micromobility devices over the summer.</p>
+<p>Among those incidents was a crash on the Queensboro Bridge between the rider of an illegal motorized scooter and a traditional cyclist, killing them both. Another incident in Lower Manhattan saw a 17-year-old riding an illegal e-moto killed when he <a href="https://www.amny.com/nyc-transit/consumer-alert-motorized-two-wheelers/" target="_blank" rel="noopener">collided with an SUV.</a></p>
+<p>"We need to integrate these <span class="transcript-word" data-offset="7324640" data-word="435.68:22.11:22.59">devices</span> <span class="transcript-word" data-offset="7333280" data-word="435.68:22.65:22.8">more</span> <span class="transcript-word" data-offset="7336160" data-word="435.68:22.83:23.4">intentionally</span> <span class="transcript-word" data-offset="7348640" data-word="435.68:23.61:23.79">into</span> <span class="transcript-word" data-offset="7352480" data-word="435.68:23.85:23.91">our</span> <span class="transcript-word" data-offset="7356320" data-word="435.68:24.09:24.27">street</span> <span class="transcript-word" data-offset="7359680" data-word="435.68:24.3:24.72">design</span> <span class="transcript-word" data-offset="7375040" data-word="435.68:25.26:25.34">and</span> <span class="transcript-word" data-offset="7376800" data-word="435.68:25.37:25.43">our</span> <span class="transcript-word" data-offset="7378240" data-word="435.68:25.46:26">regulatory</span> <span class="transcript-word" data-offset="7389280" data-word="435.68:26.15:26.54">schemes if</span> <span class="transcript-word" data-offset="7400320" data-word="435.68:26.84:26.87">we</span> <span class="transcript-word" data-offset="7401760" data-word="435.68:26.93:27.08">want</span> <span class="transcript-word" data-offset="7404640" data-word="435.68:27.11:27.17">to</span> <span class="transcript-word" data-offset="7406080" data-word="435.68:27.2:27.32">avoid</span> <span class="transcript-word" data-offset="7421440" data-word="435.68:28.16:28.4">tragedies</span> <span class="transcript-word" data-offset="7441600" data-word="435.68:29.42:29.51">like</span> <span class="transcript-word" data-offset="7443040" data-word="435.68:29.51:29.54">the</span> <span class="transcript-word" data-offset="7444000" data-word="435.68:29.57:29.69">ones</span> <span class="transcript-word" data-offset="7447360" data-word="435.68:29.78:29.81">we</span> <span class="transcript-word" data-offset="7450720" data-word="435.68:29.99:30.05">saw</span> <span class="transcript-word" data-offset="7454560" data-word="435.68:30.23:30.38">far</span> <span class="transcript-word" data-offset="7458400" data-word="435.68:30.47:30.53">too</span> <span class="transcript-word" data-offset="7463680" data-word="435.68:30.8:30.92">many</span> <span class="transcript-word" data-offset="7470880" data-word="435.68:31.25:31.31">of</span> <span class="transcript-word" data-offset="7473280" data-word="435.68:31.4:31.49">this</span> <span class="transcript-word" data-offset="7477600" data-word="435.68:31.67:31.79" data-selected="true">summer," City Council Transportation Chair Shaun Abreu said during the hearing.</span></p>
+<p>Several bills in the package aim to get illegal e-bikes and e-scooters, which can far exceed the 25 mph and 20 mph legal top speeds for the respective devices, off of the streets.</p>
+<p>Officials and advocates say that while most brick-and-morter stores in the city have ceased selling illegal devices, they end up in the five boroughs anyway via online sales. In those instances, online retailers market the devices as street legal, despite that not being the case.</p>
+<p>During his testimony, DOT Commissioner Mike Flynn said that roughly two of the 17 e-bike-related fatalities so far this year involved illegal devices, with the cause of another three being unknown. For the 11 e-scooter involved deaths this year, Flynn said, six were on illegal devices and four were unknown.</p>
+<p>But DOT chief of staff Madeline Labadie said the agency does not have a good sense of how many e-micromobility devices currently on city streets are legal versus illegal. She said that is due to most of the vehicles being privately owned and not licensed or registered.</p>
+<p>"Without <span class="transcript-word" data-offset="18922240" data-word="1165.68:16.96:17.05">any</span> <span class="transcript-word" data-offset="18925120" data-word="1165.68:17.14:17.41">license</span> <span class="transcript-word" data-offset="18930400" data-word="1165.68:17.47:17.92">requirement,</span> <span class="transcript-word" data-offset="18938080" data-word="1165.68:17.95:18.04">there</span> <span class="transcript-word" data-offset="18940480" data-word="1165.68:18.1:18.31">isn't</span> <span class="transcript-word" data-offset="18949120" data-word="1165.68:18.64:18.67">a</span> <span class="transcript-word" data-offset="18955360" data-word="1165.68:19.03:19.33">single</span> <span class="transcript-word" data-offset="18963040" data-word="1165.68:19.51:19.78">source</span> <span class="transcript-word" data-offset="18969280" data-word="1165.68:19.9:19.96">of</span> <span class="transcript-word" data-offset="18971680" data-word="1165.68:20.05:20.35">truth</span> <span class="transcript-word" data-offset="18978400" data-word="1165.68:20.47:20.56">where</span> <span class="transcript-word" data-offset="18980320" data-word="1165.68:20.59:20.65">they</span> <span class="transcript-word" data-offset="18983680" data-word="1165.68:20.8:20.86">are</span> <span class="transcript-word" data-offset="18996160" data-word="1165.68:21.58:21.88">captured</span> <span class="transcript-word" data-offset="19003840" data-word="1165.68:22.06:22.12">in</span> <span class="transcript-word" data-offset="19005760" data-word="1165.68:22.18:22.3">terms</span> <span class="transcript-word" data-offset="19010560" data-word="1165.68:22.48:22.54">of</span> <span class="transcript-word" data-offset="19011520" data-word="1165.68:22.54:22.57">the</span> <span class="transcript-word" data-offset="19021120" data-word="1165.68:23.14:23.41">amount</span> <span class="transcript-word" data-offset="19025920" data-word="1165.68:23.44:23.53">that</span> <span class="transcript-word" data-offset="19027840" data-word="1165.68:23.56:23.62">are</span> <span class="transcript-word" data-offset="19030720" data-word="1165.68:23.74:23.8">on</span> <span class="transcript-word" data-offset="19033600" data-word="1165.68:23.92:23.95">the</span> <span class="transcript-word" data-offset="19034080" data-word="1165.68:23.95:24.19">streets </span><span class="transcript-word" data-offset="19038400" data-word="1165.68:24.22:24.28">or</span> <span class="transcript-word" data-offset="19040320" data-word="1165.68:24.34:24.43">that</span> <span class="transcript-word" data-offset="19041760" data-word="1165.68:24.43:24.49">are</span> <span class="transcript-word" data-offset="19043680" data-word="1165.68:24.55:24.79" data-selected="true">sold," Labadie said.</span></p>
+<p>One piece of <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169793&amp;GUID=7256449B-55C5-4D87-9091-532B603AD741" target="_blank" rel="noopener">legislation meant to rein in the illegal devices</a>, sponsored by Abreu, would allow the owners of Class 3 e-bikes or illegal devices to trade them in for legal Class 1 or 2 bikes or obtain a voucher to buy a legal device themselves.</p>
+<p>That measure drew pushback from Flynn, who said that while DOT supports the "bill's intent," the agency has concerns about implementing it.</p>
+<p>"<span class="transcript-word" data-offset="49552160" data-word="3085.22:11.79:12.12">Standing</span> <span class="transcript-word" data-offset="49558400" data-word="3085.22:12.18:12.24">up</span> <span class="transcript-word" data-offset="49560320" data-word="3085.22:12.3:12.33">a</span> <span class="transcript-word" data-offset="49561280" data-word="3085.22:12.36:12.72">program</span> <span class="transcript-word" data-offset="49568000" data-word="3085.22:12.78:12.93">like</span> <span class="transcript-word" data-offset="49571360" data-word="3085.22:12.99:13.14">this</span> <span class="transcript-word" data-offset="49578080" data-word="3085.22:13.41:13.5">is</span> <span class="transcript-word" data-offset="49579520" data-word="3085.22:13.5:13.59">very</span> <span class="transcript-word" data-offset="49582400" data-word="3085.22:13.68:14.61">resource-intensive</span> <span class="transcript-word" data-offset="49599680" data-word="3085.22:14.76:14.88">and</span> <span class="transcript-word" data-offset="49601600" data-word="3085.22:14.88:14.91">a</span> <span class="transcript-word" data-offset="49603520" data-word="3085.22:15:15.21">narrower</span> <span class="transcript-word" data-offset="49610240" data-word="3085.22:15.42:15.71">approach</span> <span class="transcript-word" data-offset="49616800" data-word="3085.22:15.83:15.92">that</span> <span class="transcript-word" data-offset="49619200" data-word="3085.22:15.98:16.34">targets</span> <span class="transcript-word" data-offset="49624960" data-word="3085.22:16.34:16.37">the</span> <span class="transcript-word" data-offset="49627840" data-word="3085.22:16.52:16.73">most</span> <span class="transcript-word" data-offset="49631680" data-word="3085.22:16.76:17.21">dangerous</span> <span class="transcript-word" data-offset="49646560" data-word="3085.22:17.69:17.99">illegal</span> <span class="transcript-word" data-offset="49652320" data-word="3085.22:18.05:18.47">devices</span> <span class="transcript-word" data-offset="49661440" data-word="3085.22:18.62:18.74">could</span> <span class="transcript-word" data-offset="49664320" data-word="3085.22:18.8:18.98">prove</span> <span class="transcript-word" data-offset="49668160" data-word="3085.22:19.04:19.07">a</span> <span class="transcript-word" data-offset="49669600" data-word="3085.22:19.13:19.37">greater</span> <span class="transcript-word" data-offset="49675360" data-word="3085.22:19.49:19.76">impact</span> <span class="transcript-word" data-offset="49681600" data-word="3085.22:19.88:19.94">on</span> <span class="transcript-word" data-offset="49683520" data-word="3085.22:20:20.21">street</span> <span class="transcript-word" data-offset="49687840" data-word="3085.22:20.27:20.6">safety," Flynn said.</span></p>
+<p>Another <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169803&amp;GUID=AF5DC996-B226-4DCF-B6A5-F930845CF8AC" target="_blank" rel="noopener">bill would require</a> the NYPD and DOT to use devices known as dynamometers, which measure e-bikes' and e-scooters' voltage and maximum assisted speed in order to ascertain whether or not the devices they seize are legal.</p>
+<p>NYPD officials who testified at the hearing said that while the idea of using dynamometers to test devices' legality is "very interesting," they still have a lot of questions about how such a program would work in practice.</p>
+<p>"<span class="transcript-word has-highlight" data-offset="38853440" data-word="2390.96:37.38:37.47">It</span> <span class="transcript-word has-highlight" data-offset="38854880" data-word="2390.96:37.47:37.56">would</span> <span class="transcript-word has-highlight" data-offset="38856320" data-word="2390.96:37.56:37.59">be</span> <span class="transcript-word has-highlight" data-offset="38858240" data-word="2390.96:37.68:37.74">new</span> <span class="transcript-word has-highlight" data-offset="38861600" data-word="2390.96:37.89:37.95">to</span> <span class="transcript-word has-highlight" data-offset="38864000" data-word="2390.96:38.04:38.19">any</span> <span class="transcript-word has-highlight" data-offset="38867840" data-word="2390.96:38.28:38.58">major</span> <span class="transcript-word has-highlight" data-offset="38878880" data-word="2390.96:38.97:39.39">American</span> <span class="transcript-word has-highlight" data-offset="38887520" data-word="2390.96:39.51:39.72">city," said Michael Gerber, the NYPD's deputy commissioner of legal matters. "That</span> <span class="transcript-word has-highlight" data-offset="38912960" data-word="2390.96:41.1:41.25">raises</span> <span class="transcript-word has-highlight" data-offset="38916800" data-word="2390.96:41.34:41.37">a</span> <span class="transcript-word has-highlight" data-offset="38917760" data-word="2390.96:41.4:41.55">host</span> <span class="transcript-word has-highlight" data-offset="38921120" data-word="2390.96:41.61:41.67">of</span> <span class="transcript-word has-highlight" data-offset="38922080" data-word="2390.96:41.67:42.06">questions</span> <span class="transcript-word has-highlight" data-offset="38928800" data-word="2390.96:42.09:42.15">in</span> <span class="transcript-word has-highlight" data-offset="38931200" data-word="2390.96:42.24:42.45">terms</span> <span class="transcript-word has-highlight" data-offset="38936960" data-word="2390.96:42.6:42.66">of</span> <span class="transcript-word has-highlight" data-offset="38947520" data-word="2390.96:43.26:43.86">procurement</span> <span class="transcript-word has-highlight" data-offset="38963840" data-word="2390.96:44.28:44.43">and</span> <span class="transcript-word has-highlight" data-offset="38976800" data-word="2390.96:45.09:45.51">cost</span> <span class="transcript-word has-highlight" data-offset="38988800" data-word="2390.96:45.84:45.99">and</span> <span class="transcript-word has-highlight" data-offset="39040640" data-word="2390.96:49.08:49.5">operational</span> <span class="transcript-word has-highlight" data-offset="39048320" data-word="2390.96:49.56:49.98">functionality, r</span><span class="transcript-word has-highlight" data-offset="39057920" data-word="2390.96:50.16:50.31">ight?"</span></p>
+<p>Other bills in the package, sponsored by Council Member Crystal Hudson (D-Brooklyn), seek to <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862032&amp;GUID=FBA3B7D2-B295-4991-826B-B622192AAD5C" target="_blank" rel="noopener">ban both the sale</a> and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223710&amp;GUID=E603FDD2-B465-44EE-9D59-762B0BE124A8" target="_blank" rel="noopener">operation</a> of Class 3 e-bikes. The latter bill would be phased in over a two-year period, with the city distributing warnings to those still found to be riding Class 3 e-bikes through April 1, 2029, after which point they would be hit with escalating fines.</p>
+<p>Department of Consumer and Worker Protection Commissioner Sam Levine, during his testimony, raised concerns that outlawing the operation of Class 3 e-bikes could cause issues for immigrant delivery workers who may unwittingly continue using the devices.</p>
+<p>"We have significant concerns of unintended consequences that will most heavily impact delivery workers," Levine said. "Many of them are immigrants with limited English proficiency <span class="transcript-word" data-offset="70638560" data-word="4305.49:109.42:109.51">and</span> <span class="transcript-word" data-offset="70640480" data-word="4305.49:109.54:109.66">other</span> <span class="transcript-word" data-offset="70643840" data-word="4305.49:109.75:110.38">vulnerabilities.</span> <span class="transcript-word" data-offset="70666400" data-word="4305.49:111.16:111.46">Delivery</span> <span class="transcript-word" data-offset="70672640" data-word="4305.49:111.55:111.85">workers</span> <span class="transcript-word" data-offset="70678880" data-word="4305.49:111.94:112.03">could</span> <span class="transcript-word" data-offset="70680800" data-word="4305.49:112.06:112.24">face</span> <span class="transcript-word" data-offset="70688960" data-word="4305.49:112.57:112.87">losing</span> <span class="transcript-word" data-offset="70694240" data-word="4305.49:112.9:112.99" data-selected="true">their</span> <span class="transcript-word" data-offset="70696640" data-word="4305.49:113.05:113.41">livelihoods</span> <span class="transcript-word" data-offset="70707680" data-word="4305.49:113.74:113.8">as</span> <span class="transcript-word" data-offset="70710080" data-word="4305.49:113.89:114.01">well</span> <span class="transcript-word" data-offset="70712480" data-word="4305.49:114.04:114.1">as</span> <span class="transcript-word" data-offset="70714400" data-word="4305.49:114.16:114.55">increased</span> <span class="transcript-word" data-offset="70721120" data-word="4305.49:114.58:115.09">interactions</span> <span class="transcript-word" data-offset="70730240" data-word="4305.49:115.15:115.23">with</span> <span class="transcript-word" data-offset="70732480" data-word="4305.49:115.29:115.35">law</span> <span class="transcript-word" data-offset="70735840" data-word="4305.49:115.5:115.98">enforcement</span> <span class="transcript-word" data-offset="70752160" data-word="4305.49:116.52:116.58">at</span> <span class="transcript-word" data-offset="70753600" data-word="4305.49:116.61:116.64">a</span> <span class="transcript-word" data-offset="70755520" data-word="4305.49:116.73:116.91">time</span> <span class="transcript-word" data-offset="70758880" data-word="4305.49:116.94:117.06">when</span> <span class="transcript-word" data-offset="70762240" data-word="4305.49:117.15:117.33">many</span> <span class="transcript-word" data-offset="70768000" data-word="4305.49:117.51:117.57">are</span> <span class="transcript-word" data-offset="70769440" data-word="4305.49:117.6:118.08">especially</span> <span class="transcript-word" data-offset="70779520" data-word="4305.49:118.23:118.59">fearful</span> <span class="transcript-word" data-offset="70786240" data-word="4305.49:118.65:118.71">of</span> <span class="transcript-word" data-offset="70788160" data-word="4305.49:118.77:118.92">such</span> <span class="transcript-word" data-offset="70792960" data-word="4305.49:119.07:119.67">interactions."</span></p>
+<p>The legislation cracking down on third-party delivery apps includes bills that would require they <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067880&amp;GUID=E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3" target="_blank" rel="noopener">obtain business licenses</a> from the city Department of Consumer and Worker Protection, <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861511&amp;GUID=05BA3489-38FD-436D-9B55-B35A46A6CD96">retain delivery data</a>, and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862713&amp;GUID=D3AC8AFD-D4CD-4426-88D3-954A39C58493" target="_blank" rel="noopener">verify the registration of mopeds used for deliveries</a>.</p>
+<p>When it comes to Priscilla’s Law, some lawmakers and groups calling for cracking down on e-micromobility devices argue it would be the only effective way to regulate them.</p>
+<p>"Shaun you asked how to tell the difference between legal and illegal e-bikes, how about license plates for the legal ones?" Janet Schroeder, co-founder of the anti-e-bike group the NYC E Vehicle Safety Alliance, said to Abreu.</p>
+<p>But delivery workers contend it would put the largely undocumented immigrant advocates in the crosshairs of federal immigration authorities.</p>
+<p>Ligia Guallpa, executive director of the group the Workers Justice Project, said the package of bills does not address the "root causes" of street safety.</p>
+<p>"It leaves out the need for safer street infrastructure, stronger worker protections, a real transition plan, and real accountability to corporations," Guallpa said.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bxtimes.com/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">149124</post-id>	</item>
+		<item>
+		<title>Eastchester Bay rescue renews residents concerns over late-night boat activity</title>
+		<link>https://www.bxtimes.com/eastchester-bay-rescue-renews-residents-concerns-over-late-night-boat-activity/</link>
+					<comments>https://www.bxtimes.com/eastchester-bay-rescue-renews-residents-concerns-over-late-night-boat-activity/#respond</comments>
+		
+		<dc:creator><![CDATA[By Matthew McKay]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 20:00:33 +0000</pubDate>
+				<category><![CDATA[Around Town]]></category>
+		<category><![CDATA[Arts & Entertainment]]></category>
+		<category><![CDATA[Transit]]></category>
+		<category><![CDATA[bronx waterfront]]></category>
+		<category><![CDATA[city island]]></category>
+		<category><![CDATA[eastchester bay]]></category>
+		<category><![CDATA[fdny marine]]></category>
+		<category><![CDATA[illegal charters]]></category>
+		<category><![CDATA[jacobi hospital]]></category>
+		<category><![CDATA[late night boating]]></category>
+		<category><![CDATA[nypd aviation]]></category>
+		<category><![CDATA[nypd harbor]]></category>
+		<category><![CDATA[unauthorized boats]]></category>
+		<category><![CDATA[west bronx]]></category>
+		<guid isPermaLink="false">https://www.bxtimes.com/?p=149093</guid>
+
+					<description><![CDATA[A 33 year old woman was rescued from Eastchester Bay near City Island in the early morning hours after going overboard from a boat. The boat’s operator was later arrested for operating the vessel while intoxicated, renewing longstanding concerns over late night boat parties, suspected illegal charters and enforcement on the eastern Bronx waterfront. The...<br> <a class="read-more" href="https://www.bxtimes.com/eastchester-bay-rescue-renews-residents-concerns-over-late-night-boat-activity/">Read More</a>]]></description>
+										<content:encoded><![CDATA[A 33 year old woman was rescued from Eastchester Bay near City Island in the early morning hours after going overboard from a boat. The boat’s operator was later arrested for operating the vessel while intoxicated, renewing longstanding concerns over late night boat parties, suspected illegal charters and enforcement on the eastern Bronx waterfront.
+
+The emergency began on Sept. 12 at approximately 1:17 a.m., when authorities received a call reporting a woman in the water near the Throggs Neck peninsula.
+
+A large search and rescue operation followed involving NYPD Harbor, NYPD Aviation, FDNY marine units and specialized units from both departments, including divers. Drones were also used to search the surrounding waters.
+
+The search lasted more than 35 minutes. The boat continued drifting after the woman went overboard, making it difficult for responders to determine the exact location where she initially entered the water.
+
+The woman, who is from the west Bronx, was eventually located and pulled from the water. She was transported to Jacobi Medical Center. As of the time of publication, she remained in the ICU.
+
+At approximately 3 a.m., the operator of the vessel was allegedly arrested and charged with operating the vessel while intoxicated, along with additional charges, according to information provided to the Bronx Times. The operator tested above the legal alcohol limit.
+
+Exactly how the woman ended up in the water remains unclear.
+
+For residents surrounding Eastchester Bay and City Island, the Sept. 12 incident has brought attention back to an issue they say they have been dealing with for years.
+
+A City Island resident who has been documenting the issue and asked to remain anonymous said residents have repeatedly contacted agencies and provided videos of late night activity on the water.
+
+“At this point, this is so much more than just noise complaints,” the resident said. “We’ve been dealing with music and bass for months, years actually, and sometimes it’s for hours and into 4 or 5 in the morning. We call 311, NYPD Harbor Patrol, the Coast Guard, we send videos and document everything and yet we’re still dealing with the same thing night after night.”
+
+The resident said the concern goes beyond quality of life and has become a larger issue of safety on Eastchester Bay.
+
+Concerns have also been raised about unauthorized passenger charters, where boat operators allegedly take paying passengers onto the water without meeting the requirements of a legal charter operation.
+
+Those considering private boat trips are encouraged to check the captain’s credentials and make sure the operation is legitimate, particularly when trips for large groups are advertised with alcohol included.
+
+The incident also serves as a reminder of the importance of safety while using the city’s waterways. Boaters and passengers should always wear a properly fitted life jacket, particularly when traveling at night, and should never operate a vessel while under the influence of alcohol.
+
+For waterfront residents, the rescue is another reason they believe enforcement needs to happen before an emergency rather than after one.
+
+The push for additional Harbor Patrol coverage is not new. Waterfront communities surrounding Eastchester Bay have called for a greater NYPD Harbor presence for years as residents have dealt with late night noise and raised concerns about safety and enforcement on the water.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bxtimes.com/eastchester-bay-rescue-renews-residents-concerns-over-late-night-boat-activity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.bxtimes.com/wp-content/uploads/2026/09/Courtesy-of-Skyler-fire-NYPD-boat-rescue.jpg?quality=51&#038;w=384" width="384" height="250" /><post-id xmlns="com-wordpress:feed-additions:1">149093</post-id>	</item>
+		<item>
+		<title>Councilmember Kevin Riley expands Bronx youth entrepreneurship program with trip to Invest Fest</title>
+		<link>https://www.bxtimes.com/riley-expands-bronx-youth-program-invest-fest/</link>
+					<comments>https://www.bxtimes.com/riley-expands-bronx-youth-program-invest-fest/#respond</comments>
+		
+		<dc:creator><![CDATA[By Matthew McKay]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 19:45:53 +0000</pubDate>
+				<category><![CDATA[Community Celebration]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[AIMHIGH Empowerment Institute Inc.]]></category>
+		<category><![CDATA[atlanta]]></category>
+		<category><![CDATA[Councilmember Kevin Riley]]></category>
+		<category><![CDATA[Earn Your Leisure Earners Academy]]></category>
+		<category><![CDATA[financial-literacy]]></category>
+		<category><![CDATA[Invest Fest]]></category>
+		<category><![CDATA[James Madison University]]></category>
+		<category><![CDATA[kevin riley]]></category>
+		<category><![CDATA[Michael Collado]]></category>
+		<category><![CDATA[northeast bronx]]></category>
+		<category><![CDATA[Roads to Success]]></category>
+		<guid isPermaLink="false">https://www.bxtimes.com/?p=149100</guid>
+
+					<description><![CDATA[A group of young people from the Northeast Bronx got a firsthand look at entrepreneurship, investing and college life this summer as Council Member Kevin Riley expanded a program aimed at introducing local youth to new opportunities. Riley’s third annual “Roads to Invest Fest: From the Bronx to Atlanta” brought 60 young people between the...<br> <a class="read-more" href="https://www.bxtimes.com/riley-expands-bronx-youth-program-invest-fest/">Read More</a>]]></description>
+										<content:encoded><![CDATA[A group of young people from the Northeast Bronx got a firsthand look at entrepreneurship, investing and college life this summer as Council Member Kevin Riley expanded a program aimed at introducing local youth to new opportunities.
+
+Riley’s third annual “Roads to Invest Fest: From the Bronx to Atlanta” brought 60 young people between the ages of 14 and 21 from Council District 12 to Atlanta for Earn Your Leisure’s Invest Fest, held Aug. 7–9. The program grew from 40 participants in previous years.
+
+The trip was organized in partnership with Roads To Success and AIMHIGH Empowerment Institute and focused on financial literacy, entrepreneurship, mentorship and exposure to higher education.
+
+This year, the experience began before the group reached Atlanta. Participants attended workshops and leadership programming in New York and stopped at James Madison University for the program’s first college visit. They also participated in the inaugural Earn Your Leisure Earners Academy before attending Invest Fest.
+
+For returning participant Michael Collado, the trip also came with another opportunity to put what he had learned into practice.
+
+Collado, who won the High School Pitch Competition in 2025, returned to the competition this year and earned a $1,500 prize. Two graduates of AIMHIGH also received $250 each to open their own investment portfolios.
+
+“When we launched this initiative three years ago, our vision was simple: make sure Bronx youth have a seat at the tables where wealth is built, businesses are created, and futures are shaped,” Riley said.
+
+[caption id="attachment_149102" align="alignnone" width="700"]<img class="size-medium wp-image-149102" src="https://www.bxtimes.com/wp-content/uploads/2026/09/Courtesy-of-Council-Member-Kevin-Rileys-office-invest-fest-1.jpeg?quality=51&amp;w=700" alt="" width="700" height="467" /> <span class="image-caption">Now three years into the initiative, Invest Fest has grown both in the number of young people participating and in what they experience along the way. </span><span class="image-credit">Photo courtesy of Council Member Kevin Riley's office</span>[/caption]
+
+Riley said the goal has been to make the trip more than simply attending a conference.
+
+“We are exposing them to possibilities, connecting them with industry leaders, and giving them the tools, relationships and confidence to see themselves as entrepreneurs, investors, innovators and future leaders,” he said.
+
+Collado’s return to the pitch competition also showed how the program has grown beyond a one-time experience. Participants continue working with Roads To Success and AIMHIGH after returning to the Bronx, receiving mentorship, investment education and leadership development.
+
+For Riley, who represents District 12 in the Northeast Bronx, giving young people that continued exposure is a major part of the program.
+
+“Seeing Michael return to the pitch competition and win again, while two of our young people received their first funds to begin investing, shows what can happen when we give our youth access and an opportunity to put what they are learning into practice,” Riley said.
+
+Now three years into the initiative, the program has grown both in the number of young people participating and in what they experience along the way. For this year’s group, that meant a college campus, financial education, conversations with business leaders and, for several participants, their first chance to begin putting those lessons to work.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bxtimes.com/riley-expands-bronx-youth-program-invest-fest/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.bxtimes.com/wp-content/uploads/2026/09/Courtesy-of-Council-Member-Kevin-Rileys-office-invest-fest.jpeg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">149100</post-id>	</item>
+		<item>
+		<title>Tour de Bronx returns October 4 with routes across the borough</title>
+		<link>https://www.bxtimes.com/tour-de-bronx-returns-october-4/</link>
+					<comments>https://www.bxtimes.com/tour-de-bronx-returns-october-4/#respond</comments>
+		
+		<dc:creator><![CDATA[By Steven Goodstein]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 13:00:58 +0000</pubDate>
+				<category><![CDATA[Arts & Entertainment]]></category>
+		<category><![CDATA[Around Town]]></category>
+		<category><![CDATA[Community Celebration]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[5 things to do in the bronx]]></category>
+		<category><![CDATA[bicyclists]]></category>
+		<category><![CDATA[bike path]]></category>
+		<category><![CDATA[Bronx things to do]]></category>
+		<category><![CDATA[bronx tourism council]]></category>
+		<category><![CDATA[east 161st street]]></category>
+		<category><![CDATA[i love the bronx]]></category>
+		<category><![CDATA[pedaling through history]]></category>
+		<category><![CDATA[the Tour de Bronx]]></category>
+		<category><![CDATA[tour de bronx]]></category>
+		<category><![CDATA[vanessa gibson]]></category>
+		<category><![CDATA[Winston Peters]]></category>
+		<guid isPermaLink="false">https://www.bxtimes.com/?p=149071</guid>
+
+					<description><![CDATA[New York state’s largest free cycling event returns next month with three cycling routes to promote ridership and showcase the borough’s neighborhoods and history. Bronx Borough President Vanessa Gibson hosted a press conference at Lou Gehrig Plaza to officially announce the launch of this year’s annual Tour de Bronx cycling event, which will take place...<br> <a class="read-more" href="https://www.bxtimes.com/tour-de-bronx-returns-october-4/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;">New York state’s largest free cycling event returns next month with three cycling routes to promote ridership and showcase the borough’s neighborhoods and history.</span>
+
+<span style="font-weight: 400;">Bronx Borough President Vanessa Gibson hosted a press conference at Lou Gehrig Plaza to officially announce the launch of this year’s annual <a href="https://www.ilovethebronx.com/tour-de-bronx">Tour de Bronx</a> cycling event, which will take place on Sunday, Oct. 4 at 8 a.m.</span>
+
+<span style="font-weight: 400;">The bike routes for the upcoming </span><span style="font-weight: 400;">32nd annual Tour de Bronx</span><span style="font-weight: 400;"> include a 10-mile family-friendly route, the 25-mile intermediate route or the long distance 40-mile route covering waterfront parks and several areas of the borough including the South Bronx, Riverdale and Wakefield, among others.</span><span style="font-weight: 400;">
+</span>
+
+<span style="font-weight: 400;">All three routes conclude at New York Botanical Garden at 4 p.m. before the event transitions into an end-of-ride music festival and celebration. </span>
+
+<span style="font-weight: 400;">The Tour de Bronx has established itself as an annual flagship event and offers thousands of riders from beginners to experienced riders an opportunity to enjoy the cultural and historic gems throughout the borough.</span>
+
+<span style="font-weight: 400;">Along its routes, the Tour de Bronx guides riders through parks and other green spaces and also yields views of the Long Island Sound from multiple parts of the Bronx including City Island and Orchard Beach.</span>
+
+<span style="font-weight: 400;">All courses will officially start at East 161st Street and Grand Concourse.</span>
+
+<span style="font-weight: 400;">All three Tour de Bronx routes for this year’s events were said to be officially released at 6 a.m. on the morning of the bike tour, according to </span><a href="https://www.ilovethebronx.com"><span style="font-weight: 400;">I Love The Bronx</span></a><span style="font-weight: 400;">, the official website and slogan of the Bronx Tourism Council, which co-hosts and organizes the annual cycling event in cohesion with Borough President Gibson’s office.</span>
+
+<span style="font-weight: 400;">The theme for this year’s Tour de Bronx is "Pedaling Through History: A celebration of America’s 250th Anniversary," which pays homage to the history of the Bronx and the borough’s impact throughout the country.</span>
+
+<span style="font-weight: 400;">“As we celebrate 32 years of Tour de Bronx, we invite riders to explore the Bronx from a unique perspective while connecting with the neighborhoods, landmarks and places that have shaped our community,” said Bronx Tourism Council’s director for development Julius Drake said.</span>
+
+<span style="font-weight: 400;">Drake added the Bronx Tourism Council is proud to help bring this tradition to life and is grateful to the riders, sponsors, partners and volunteers for making Tour de Bronx a signature celebration of the borough.</span>
+
+<span style="font-weight: 400;">“This year’s theme, ‘Pedaling Through History,’ is aligned with the celebration of America’s 250th anniversary — and it provides a meaningful way to honor both our nation’s history and the Bronx’s unique story.”</span>
+
+<span style="font-weight: 400;">The Tour de Bronx was established in 1994 by the office of then-Borough President Fernando Ferrer in unity with the Bronx Tourism Council to promote healthy living, alternative transportation and showcase the borough’s scenic waterfronts, greenways and historic neighborhoods.</span>
+
+<span style="font-weight: 400;">The first Tour De Bronx highlighted the then-proposed Bronx River Greenway, which aimed to create <a href="https://www.bxtimes.com/tour-de-bronx-2025/">25 miles of green space</a> and multi-use paths along the Bronx River</span><span style="font-weight: 400;">.</span>
+
+<span style="font-weight: 400;">Now, more than three decades later, the Borough President’s office continues to act as a key co-host and partner and helps organize, promote and lead the event through co-hosting and leadership, community promotion.</span>
+
+<span style="font-weight: 400;">“Tour de Bronx highlights the beauty of the Bronx, and this year, we are once again offering rides for everyone,” Borough President Gibson said. “We welcome residents and visitors to join us as we pedal through history, ride with purpose and showcase the very best of our borough.”</span>
+
+<span style="font-weight: 400;">In each of the past few years since the COVID-19 pandemic, Tour de Bronx has seen </span><a href="https://www.bxtimes.com/thousands-pedal-through-the-bronx-in-the-30th-annual-tour-de-bronx-amid-perfect-cycling-weather/"><span style="font-weight: 400;">more than 4,000 riders</span></a><span style="font-weight: 400;"> participate in the bike tour, according to the Bronx Tourism Council and as previously reported by the Bronx Times.</span>
+
+<span style="font-weight: 400;">As of press time, more than 2,000 people had signed up for this year’s event, according to Borough President Gibson’s office.</span>
+
+<span style="font-weight: 400;">The Bronx Tourism Council, which operates as a subsidiary of the Bronx Economic Development Corporation (BXEDC), assists with route design and also overseas rider registration, volunteer staffing, safety marshals and partnerships for the annual bike tour.</span>
+
+<span style="font-weight: 400;">“The 32nd annual Tour de Bronx is more than just a ride; it is a celebration of our borough’s vibrant heritage and community spirit ,” said BXEDC president Winston Peters. “We invite families and friends of all ages to join us for an unforgettable journey.”</span>
+
+<span style="font-weight: 400;">Peters added the event showcases the very best of what the Bronx has to offer, whether the rider is a seasoned cyclist or just looking for a wonderful weekend outing with loved ones.</span>
+
+<span style="font-weight: 400;">Other core Tour de Bronx sponsors and contributors include Business Initiative Corporation of New York, Transportation Alternatives, the 161st Street Business Improvement District and the </span><a href="https://www.bxtimes.com/bronx-community-foundation-back-to-school-giveaway/"><span style="font-weight: 400;">Bronx Community Foundation</span></a><span style="font-weight: 400;">, along with other health care and corporate sponsors.</span>
+
+<span style="font-weight: 400;">Riders can register for any of the three cycling routes on </span><a href="https://www.eventbrite.com/e/tour-de-bronx-2026-tickets-1994692075694"><span style="font-weight: 400;">Eventbrite’s Tour de Bronx Registration Page</span></a><span style="font-weight: 400;"> or through the </span><a href="https://www.ilovethebronx.com"><span style="font-weight: 400;">Bronx Tourism Council</span></a><span style="font-weight: 400;">. </span>
+
+The Bronx Times/Schneps Media is a media sponsor for the event.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bxtimes.com/tour-de-bronx-returns-october-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.bxtimes.com/wp-content/uploads/2025/10/IMG_1119.jpg?quality=51&#038;w=384" width="384" height="288" /><post-id xmlns="com-wordpress:feed-additions:1">149071</post-id>	</item>
+		<item>
+		<title>America 250 event at Bronx Hall of Justice explores the borough’s history and evolution of court system</title>
+		<link>https://www.amny.com/law/america-250-event-at-bronx-hall-of-justice-explores-the-boroughs-history-and-evolution-of-justice-system/</link>
+					<comments>https://www.bxtimes.com/america-250-event-at-bronx-hall-of-justice-explores-the-boroughs-history-and-evolution-of-justice-system/#respond</comments>
+		
+		<dc:creator><![CDATA[amNewYork Law]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 11:30:54 +0000</pubDate>
+				<category><![CDATA[access-to-justice]]></category>
+		<category><![CDATA[america 250]]></category>
+		<category><![CDATA[angel hernandez]]></category>
+		<category><![CDATA[antonio-pacheco]]></category>
+		<category><![CDATA[Bronx]]></category>
+		<category><![CDATA[bronx county courthouse]]></category>
+		<category><![CDATA[bronx county supreme court]]></category>
+		<category><![CDATA[bronx hall of justice]]></category>
+		<category><![CDATA[bronx history]]></category>
+		<category><![CDATA[bronx-architecture]]></category>
+		<category><![CDATA[historical-society-of-the-new-york-courts]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legal-history]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[new york courts]]></category>
+		<category><![CDATA[new-york-city-criminal-court]]></category>
+		<category><![CDATA[pm-newsletter]]></category>
+		<category><![CDATA[robert-pigott]]></category>
+		<category><![CDATA[Yadhira Gonzalez-Taylor]]></category>
+		<guid isPermaLink="false">https://www.bxtimes.com/?p=149045</guid>
+
+					<description><![CDATA[The history of the Bronx — from its roots as an agrarian community to its emergence as one of New York City’s most diverse and bustling boroughs — took center stage Sept. 24 during “America 250: The Bronx Perspective” at the Bronx Hall of Justice. The Historical Society of the New York Courts, New… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/law/america-250-event-at-bronx-hall-of-justice-explores-the-boroughs-history-and-evolution-of-justice-system/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p class="isSelectedEnd">The history of the <a href="http://amny.com/bronx">Bronx</a> — from its roots as an agrarian community to its emergence as one of New York City’s most diverse and bustling boroughs — took center stage Sept. 24 during “America 250: The Bronx Perspective” at the Bronx Hall of Justice.</p>
+<p class="isSelectedEnd">The <a href="https://history.nycourts.gov/">Historical Society of the New York Courts</a>, <a href="http://nycourts.gov">New York City Criminal Court, Bronx County, and Bronx County Supreme Court, Criminal Term</a> hosted the program. The event examined the borough’s evolution through its legal landmarks and the changing laws and court systems that have shaped life in the Bronx from 1776 to today.</p>
+<p class="isSelectedEnd">Bronx County Civil Court Judge Yadhira Gonzalez-Taylor delivered opening remarks, welcoming attendees to the program.</p>
+<p class="isSelectedEnd">Robert Pigott, author of “New York’s Legal Landmarks,” presented historical documents illustrating important chapters in the Bronx’s past and highlighting the legal landmarks connected to the county’s development.</p>
+<p class="isSelectedEnd">Antonio Pacheco, a PhD candidate at the Massachusetts Institute of Technology, provided a presentation examining the history of the Bronx’s civil architecture, offering a look at how the borough’s built environment has evolved alongside its population and institutions.</p>
+<p class="isSelectedEnd">Bronx Borough Historian Angel Hernandez discussed the history of the Bronx County Courthouse, focusing on the landmark’s place in the borough’s civic and legal development.</p>
+<p class="isSelectedEnd">The program also explored how New York laws have evolved in response to the Bronx’s transformation and how the court system continues to address access-to-justice issues today.</p>
+<p>The event, part of the broader “America 250” commemoration, offered a distinctly Bronx-centered look at more than two centuries of legal, architectural and civic history.</p>
+
+[caption id="attachment_137872239" align="alignnone" width="1200"]<img class="size-large wp-image-137872239" src="https://www.amny.com/wp-content/uploads/2026/09/MTM7884.jpg?quality=51&amp;w=1200" alt="A person with short gray hair and glasses stands at a wooden podium, smiling while speaking into a microphone in a courtroom setting." width="1200" height="953" /> <span class="image-caption">Bronx County Civil Court Judge, Hon. Yadhira Gonzalez-Taylor, gives opening remarks.</span><span class="image-credit">Photo by Maggie McCann/OCA</span>[/caption] [caption id="attachment_137872243" align="alignnone" width="1200"]<img class="size-large wp-image-137872243" src="https://www.amny.com/wp-content/uploads/2026/09/MTM8296.jpg?quality=51&amp;w=1200" alt="A group of people are seated in a courtroom, attentively observing proceedings." width="1200" height="802" /> <span class="image-caption">Audience members enjoy presentations on Bronx County history.</span><span class="image-credit">Photo by Maggie McCann/OCA</span>[/caption] [caption id="attachment_137872242" align="alignnone" width="1200"]<img class="size-large wp-image-137872242" src="https://www.amny.com/wp-content/uploads/2026/09/MTM8222.jpg?quality=51&amp;w=1200" alt="A person in a suit stands at a podium, speaking into a microphone while holding glasses." width="1200" height="1200" /> <span class="image-caption">Bronx Borough Historian, Angel Hernandez, discusses the history of the Bronx County Courthouse.</span><span class="image-credit">Photo by Maggie McCann/OCA</span>[/caption] [caption id="attachment_137872241" align="alignnone" width="1200"]<img class="size-large wp-image-137872241" src="https://www.amny.com/wp-content/uploads/2026/09/MTM8159.jpg?quality=51&amp;w=1200" alt="A person in a suit and glasses stands at a podium, gesturing while speaking into a microphone." width="1200" height="800" /> <span class="image-caption">PhD Candidate at MIT, Antonio Pacheco, presents on the history of the Bronx's civil architecture.</span><span class="image-credit">Photo by Maggie McCann/OCA</span>[/caption] [caption id="attachment_137872240" align="alignnone" width="1200"]<img class="size-large wp-image-137872240" src="https://www.amny.com/wp-content/uploads/2026/09/MTM8078.jpg?quality=51&amp;w=1200" alt="A person in a suit stands in a courtroom, pointing to a large screen displaying a newspaper article from The New York Times dated July 22, 1982, titled &quot;New Bronx Court House.&quot;" width="1200" height="1098" /> <span class="image-caption">Author of "New York's Legal Landmarks," Robert Pigott, shares historical documents exhibiting the history of the Bronx.</span><span class="image-credit">Photo by Maggie McCann/OCA</span>[/caption]]]></content:encoded>
+					
+					<wfw:commentRss>https://www.bxtimes.com/america-250-event-at-bronx-hall-of-justice-explores-the-boroughs-history-and-evolution-of-justice-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">149045</post-id>	</item>
+	</channel>
+</rss>

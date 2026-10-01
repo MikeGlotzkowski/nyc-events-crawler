@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T10:48:04.910Z",
+  "responses": {
+    "https://www.westsiderag.com/this-weeks-events": {
+      "file": "westsiderag.com.html",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8"
+    }
+  }
+}

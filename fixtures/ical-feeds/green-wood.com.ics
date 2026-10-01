@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Green-Wood - ECPv6.17.5.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Green-Wood
+X-ORIGINAL-URL:https://www.green-wood.com
+X-WR-CALDESC:Events for Green-Wood
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T183000
+DTSTAMP:20260824T150956Z
+CREATED:20260824T150920Z
+LAST-MODIFIED:20260824T150956Z
+UID:10037868-1790874000-1790879400@www.green-wood.com
+SUMMARY:Fall Teacher Happy Hour: Green-House and Trolley Tour 
+DESCRIPTION:Credit: Green-Wood Staff\n\n\n\n\n\nCalling all Pre-K through 12th grade teachers and school staff! Join Green-Wood’s Education Department for a special after-school outing. \n\n\n\nKick back and explore the Cemetery on a sunset trolley tour\, followed by drinks\, snacks\, and conversation in our new welcome and exhibition space\, the Green-House. Discover the fascinating stories and historic landscape that make Green-Wood an unforgettable classroom beyond the classroom. Along the way\, learn all about the educational opportunities we offer students of all ages.  \n\n\n\n\n\nPrice: $5 suggested donation \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: The Green-Wood trolley can accommodate up to two wheelchairs. However\, the trolley may make stops where passengers are encouraged to disembark in areas that are not wheelchair accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-210-3080\, ext. 1 or events@green-wood.com. To accommodate a wheelchair or other mobility aid on the trolley\, please contact us at least one week in advance. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. \n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/fall-teacher-happy-hour-green-house-and-trolley-tour/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/Fall-Teacher-Happy-Hour-Green-House-and-Trolley-Tour.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261002T140000
+DTEND;TZID=America/New_York:20261002T160000
+DTSTAMP:20260927T224645Z
+CREATED:20260927T223139Z
+LAST-MODIFIED:20260927T224645Z
+UID:10038426-1790949600-1790956800@www.green-wood.com
+SUMMARY:TGIF! Afterschool Story and Craft Hour
+DESCRIPTION:Photo Credits: Aaron Pierce\n\n\n\n\n\nKick off the weekend with story time and crafts at Green-Wood! Presented in partnership with Brooklyn Public Library\, these sessions are led by Kidsmobile Librarian Michaela Donahue\, who brings wonderful book selections perfect for young readers. At every program\, the Library’s Bookmobile will be parked right outside the Green-House from 2–3pm. After you check out books\, come inside for stories and crafts from 3–4pm! It’s a perfect way to discover new favorites\, spark imagination\, and enjoy quality time together. Don’t have a library card yet? Sign up and get one on the spot!  \n\n\n\n \n\n\n\n\n\n\n\nPrice: Free \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nThe Green-House(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll children must be accompanied by an adult and all adults must be accompanied by a child to attend this program. \n\n\n\nParticipation is free; registration is recommended so we can get a rough headcount.\n\n\n\nKnow Before You Go:\n\n\n\nTickets: No registration required. Drop in and join us. Seating and activities are first come\, first served. \n\n\n\nRecommended for ages 2 to 5 years old. All children must be accompanied by a caregiver. \n\n\n\nWhere To Go: This program takes place at the Green-House (750 Fifth Avenue)\, near the Main Entrance on Fifth Avenue and 25th Street.  \n\n\n\nAccessibility & Safety: The Green-House is ADA-accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-768-7300 ext. 5\, or events@green-wood.com. \n\n\n\nAdult caregivers must stay with children at all times. \n\n\n\nGreen-Wood staff may photograph\, film and/or otherwise record this program.  If you do not wish to be photographed or recorded\, you must notify a Green-Wood staff member before the program begins. 
+URL:https://www.green-wood.com/event/tgif-1/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/TGIF.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+DTSTAMP:20260824T151256Z
+CREATED:20260824T151138Z
+LAST-MODIFIED:20260824T151256Z
+UID:10037869-1791021600-1791028800@www.green-wood.com
+SUMMARY:Stranger Than Fiction Trolley Tour 
+DESCRIPTION:Embark on a journey into the extraordinary\, where captivating stories and enigmatic characters await. Uncover the mysterious life of John Lockitt\, whose secret marriage was announced on the same day as his death. Delve into the fascinating tale of Mollie Fancher\, the “Brooklyn Enigma\,” who was alleged to have survived without food for years at a time. And discover the world of Anna Leah Fox Underhill\, renowned for her involvement in the Spiritualist movement. Is there truth to the seemingly unbelievable\, or has reality been buried beneath a mound of deception?  \n\n\n\n \n\n\n\n\n\nPrice: $30/$24 for members. \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: The Green-Wood trolley can accommodate up to two wheelchairs. However\, the trolley may make stops where passengers are encouraged to disembark in areas that are not wheelchair accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-210-3080\, ext. 1 or events@green-wood.com. To accommodate a wheelchair or other mobility aid on the trolley\, please contact us at least one week in advance. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. \n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/stranger-than-fiction-trolley-tour-4/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2023/08/Stranger-than-Fiction.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+DTSTAMP:20260910T132746Z
+CREATED:20260909T201832Z
+LAST-MODIFIED:20260910T132746Z
+UID:10038299-1791021600-1791028800@www.green-wood.com
+SUMMARY:Celebrate City of Forest Day at Green-Wood!
+DESCRIPTION:Join Green-Wood’s horticulturists for a morning dedicated to growing a greener\, healthier New York City by helping to plant some trees while connecting with with neighbors who care about the future of our urban forest and with the plants that are the future of it! During the event you will not only learn how to plant a tree properly\, what a tree needs to thrive\, but also discover why trees matter so much to our lives. We will supply all of the tools and equipment; you just need closed toe shoes and clothing that you don’t mind getting dirty. A bottle of drinking water and sun protection is recommended! \n\n\n\n \n\n\n\n\n\n\n\nPrice: Free\, registration recommended.  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nIn-Person Event(see details below)\n\n\n\n\n\nFree to attend\, registration required. All ages welcome! This program meets at the Main Entrance at 25th Street and Fifth Avenue.  \n\n\n\n\nFunding for this event is supported by the Urban and Community Forestry Grant as administered by the New York State Department of Environmental Conservation.  \n\n\n\n\n\n\n\n\n\n\n\n\nFree\, registration recommended. Please consider a $10 donation to the Green-Wood Historic Fund so that we can continue to offer more community-minded programs like this throughout the year. \n\n\n\nWhat to expect: The programming and education will be geared primarily toward an adult audience\, but kids are very welcome. Be prepared for at least 30 minutes of walking with some steep hills within the cemetery.
+URL:https://www.green-wood.com/event/celebrate-city-of-forest-day-at-green-wood/
+CATEGORIES:Death Education
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/tree-planting.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T101500
+DTEND;TZID=America/New_York:20261003T114500
+DTSTAMP:20260910T132006Z
+CREATED:20260824T171918Z
+LAST-MODIFIED:20260910T132006Z
+UID:10038233-1791022500-1791027900@www.green-wood.com
+SUMMARY:Dinosaurs in Action: Green-Wood’s Birds of Prey 
+DESCRIPTION:Green-Wood is one of the best places in New York City to spot birds of prey—and not just soaring overhead! Here\, you can witness raptors going about their daily lives: hunting and feeding\, courting and nesting\, learning to fly (a wobbly process!)\, and simply hanging out.  \n\n\n\nDrawing on years of observation and photography\, urban naturalist Matthew Wills will take you inside the fascinating world of Green-Wood’s raptors. Through a lively\, image-filled presentation\, you’ll discover the behaviors and lifestyles of these modern-day heirs of the theropod dinosaurs\, from daytime hunters like eagles\, hawks\, and falcons to the mysterious owls that emerge after dark.  \n\n\n\n\n\n\n\nPrice: $25 / $20 for members  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE RESERVING YOUR SPOT\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Green-House\, near the Main Entrance at Fifth Avenue and 25th Street (750 Fifth Avenue). \n\n\n\nAccessibility & Safety: The Green-House is ADA-accessible. For disability-related accommodations\, contact us at 718-768-7300 ext. 5 or events@green-wood.com. 
+URL:https://www.green-wood.com/event/dinosaurs-in-action-green-woods-birds-of-prey/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/08/RTH.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+DTSTAMP:20260930T141654Z
+CREATED:20260925T172411Z
+LAST-MODIFIED:20260930T141654Z
+UID:10038399-1791032400-1791039600@www.green-wood.com
+SUMMARY:Discover Green-Wood Trolley Tour
+DESCRIPTION:Credit: Green-Wood Staff\n\n\n\n\n\nHop on board our cozy\, warm trolley for an expert-led tour of Green-Wood’s historic landscape and some of the Cemetery’s most intriguing permanent residents. Whether you’re a first-time visitor or a seasoned explorer\, this is your chance to experience 478 acres of art\, history\, and nature. Walk in the footsteps of George Washington and his troops during the Battle of Brooklyn; visit the grave of Jean-Michel Basquiat\, one of America’s greatest artists; and discover so much more! \n\n\n\n \n\n\n\n\n\nPrice: $30/$24 for members. \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety: The Green-Wood trolley is wheelchair-accessible and ADA compliant. However\, please note that some stops where you may get off the trolley are not ADA accessible. Before reserving tickets\, we encourage visitors to contact our staff with any questions regarding accommodations and accessibility for trolley tours. In order to accommodate a wheelchair or other mobility aid on the trolley\, arrangements must be made in advance. Please call 718-210-3080\, ext. 1\, or email events@green-wood.com.\n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10.\n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.\n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/discover-green-wood-trolley-tour-23/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/https___cdn.evbuc_.com_images_1174387595_2829258341421_1_original.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T180000
+DTEND;TZID=America/New_York:20261003T200000
+DTSTAMP:20260930T134612Z
+CREATED:20260824T145236Z
+LAST-MODIFIED:20260930T134612Z
+UID:10038249-1791050400-1791057600@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-49/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261003T183000
+DTEND;TZID=America/New_York:20261003T203000
+DTSTAMP:20260930T143310Z
+CREATED:20260930T143305Z
+LAST-MODIFIED:20260930T143310Z
+UID:10038445-1791052200-1791059400@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-52/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T063000
+DTEND;TZID=America/New_York:20261004T080000
+DTSTAMP:20260824T143205Z
+CREATED:20260824T143201Z
+LAST-MODIFIED:20260824T143205Z
+UID:10038244-1791095400-1791100800@www.green-wood.com
+SUMMARY:Birding In Peace
+DESCRIPTION:Before our gates open to the public\, this early morning walking tour provides exclusive access to discover the many birds that call Green-Wood home\, at least temporarily.  \n\n\n\nStop by this fall and you will see a variety of species passing through. By September\, the offspring of summer’s nesting birds will be on their own. Returning warblers will be in their less flamboyant fall plumage. Catch a glimpse of spot blackbirds\, flycatchers\, sparrows\, vireos\, and swallows on the move. By October\, be on the lookout for returning waterfowl and raptors heading south. And by November\, overwintering feathered denizens return from the north.  \n\n\n\n\n\n\n\nPrice: $20 / $16 for members  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Main Entrance on Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-768-7300 ext. 5 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/birding-in-peace-32/2026-10-04/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/Birding-in-Peace-Fall.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T100000
+DTEND;TZID=America/New_York:20261004T113000
+DTSTAMP:20260513T210255Z
+CREATED:20260513T205951Z
+LAST-MODIFIED:20260513T210255Z
+UID:10037224-1791108000-1791113400@www.green-wood.com
+SUMMARY:Grave Beginnings: Walking Green-Wood 
+DESCRIPTION:Credit: Evan Rabeck\n\n\n\n\n\nDiscover Green-Wood’s stunning landscape and remarkable history on this free 90-minute walking tour. Perfect for first-time visitors\, this introductory tour takes you on a leisurely walk to hear about the lives of pioneering figures such as physicians Abraham and Mary Putnam Jacobi; scientist Eunice Newton Foote\, considered the first to discover greenhouse gases; and inventor and artist Samuel Morse\, who revolutionized long-distance communication.  \n\n\n\nThe tour also highlights other influential individuals who contributed to the city’s cultural\, scientific\, and civic life.  \n\n\n\n \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nThis tour series is funded by Simons Foundation International and administered by the Simons Foundation’s Science\, Society & Culture division.  \n\n\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process\, that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-210-3080\, ext. 1 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear. \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-10-04/
+CATEGORIES:The Green-House at Green-Wood
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/03/Grave-Beginnings-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T110000
+DTEND;TZID=America/New_York:20261004T123000
+DTSTAMP:20260824T134531Z
+CREATED:20260824T134526Z
+LAST-MODIFIED:20260824T134531Z
+UID:10037804-1791111600-1791117000@www.green-wood.com
+SUMMARY:Meet Your Green Neighbors
+DESCRIPTION:Whether you’re a budding botanist or simply enjoy wandering through Green-Wood\, you’ve likely noticed a remarkable diversity of plants at every turn. Learning how to identify them can seem daunting\, but with a little guidance and close observation\, you’ll be making connections in no time!  \n\n\n\nJoin environmental guide Molly Nash Rouzie for a tour of the Cemetery’s natural wonders and an introduction to plant identification. During this 90-minute walk\, you’ll learn which characteristics help botanists make sense of the plants they encounter and come to appreciate the role of these “green neighbors” in our ecosystem.  \n\n\n\n\n\n\n\nPrice: $25 / $20 for members  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-768-7300 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/meet-your-green-neighbors-11/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/Meet-Your-Green-Neighbors.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T130000
+DTEND;TZID=America/New_York:20261004T143000
+DTSTAMP:20260925T171410Z
+CREATED:20260925T160001Z
+LAST-MODIFIED:20260925T171410Z
+UID:10038352-1791118800-1791124200@www.green-wood.com
+SUMMARY:Green-Wood's Greatest Hits
+DESCRIPTION:Whether it’s your first visit to Green-Wood or your hundredth\, this walking tour offers a fresh perspective on one of New York City’s most iconic landmarks. \n\n\n\nLed by one of our expert guides\, this tour takes you to the heart of Brooklyn’s most fascinating stories. Walk in the footsteps of George Washington’s troops during the fight for independence\, uncover the tragic tale of the 1876 Brooklyn Theatre fire\, and pay tribute to luminaries like composer Leonard Bernstein. Along the way\, you’ll encounter hidden gems and learn about unforgettable moments that have shaped the city and its culture. \n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\n\n\n\n\nPrice: $25/20 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go: Check-in takes place at the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-210-3080\, ext. 1 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear.\n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets.\n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.\n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders.\n\n\n\nPhoto Credit: Evan Rabeck
+URL:https://www.green-wood.com/event/green-woods-greatest-hits-14/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/https___cdn.evbuc_.com_images_1173897710_2829258341421_1_original-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261006T183000
+DTEND;TZID=America/New_York:20261006T203000
+DTSTAMP:20260925T170533Z
+CREATED:20260925T170527Z
+LAST-MODIFIED:20260925T170533Z
+UID:10038392-1791311400-1791318600@www.green-wood.com
+SUMMARY:Grieving & Weaving
+DESCRIPTION:Credit: Jordana Bermudez\n\n\n\n\n\nJoin Gelsey Bell at this special edition of Grieving & Weaving. She will present her work that thematically covers the many faces of loss through her vocals and music. \n\n\n\nStitching together creativity and community\, this knitting and crocheting group is unique for one reason: it meets in a cemetery. Whether you’re an expert with yarn or just starting out\, you are welcome to join us as we share stories\, skills\, and grief resources in the comfort of Green-Wood’s Modern Chapel. As we create together\, we’ll talk about the significance of handmade items in both our personal and collective histories. To hear about past attendees’ experiences\, listen to and/or read this piece featured on NPR.     \n\n\n\nBeginners can join our knitting and crochet tutorial groups\, while experienced crafters are encouraged to bring ongoing projects and mentor others. Feel free to bring your own yarn\, needles\, and hooks; some materials will be available on a first-come\, first-served basis. Not a knitter? Not to worry\, you can bring whatever other crafts you are working on.   \n\n\n\nFree. Registration required. Please consider a $10 donation to the Green-Wood Historic Fund so that we can continue to offer more death education programs like this throughout the year.   \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nRegister\n\n\n\n\n\n\n\n\n\nIn-Person Event(see details below)\n\n\n\n\n\nKnow Before You Go:\n\n\n\n\nWhere To Go: This program will take place at the Modern Chapel near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: The Modern Chapel is not fully ADA compliant\, however\, accommodations for entrance can be made for visitors using wheelchairs or other mobility aids. Before reserving tickets\, we encourage visitors to contact our staff with any questions regarding accommodations and accessibility at 718-210-3080\, ext. 1\, or events@green-wood.com. 
+URL:https://www.green-wood.com/event/grieving-weaving-8/2026-10-06/
+CATEGORIES:Death Education
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/03/Grieving-Weaving-Green-Wood-Cemetery-Photo-Jordana-Bermudez-05435-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261007T063000
+DTEND;TZID=America/New_York:20261007T080000
+DTSTAMP:20260824T143205Z
+CREATED:20260824T143201Z
+LAST-MODIFIED:20260824T143205Z
+UID:10038245-1791354600-1791360000@www.green-wood.com
+SUMMARY:Birding In Peace
+DESCRIPTION:Before our gates open to the public\, this early morning walking tour provides exclusive access to discover the many birds that call Green-Wood home\, at least temporarily.  \n\n\n\nStop by this fall and you will see a variety of species passing through. By September\, the offspring of summer’s nesting birds will be on their own. Returning warblers will be in their less flamboyant fall plumage. Catch a glimpse of spot blackbirds\, flycatchers\, sparrows\, vireos\, and swallows on the move. By October\, be on the lookout for returning waterfowl and raptors heading south. And by November\, overwintering feathered denizens return from the north.  \n\n\n\n\n\n\n\nPrice: $20 / $16 for members  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Main Entrance on Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-768-7300 ext. 5 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/birding-in-peace-32/2026-10-07/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/Birding-in-Peace-Fall.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261007T103000
+DTEND;TZID=America/New_York:20261007T113000
+DTSTAMP:20260601T155500Z
+CREATED:20260310T160000Z
+LAST-MODIFIED:20260601T155500Z
+UID:10037294-1791369000-1791372600@www.green-wood.com
+SUMMARY:Green-Wood on Wheels: Stroller-Friendly Tour  
+DESCRIPTION:Green-Wood’s stunning landscapes\, where history\, nature\, and community come together. Designed for parents and caregivers\, this tour offers the perfect blend of discovery and connection as you uncover fascinating stories and serene beauty at a relaxed\, easy-going pace. Meet fellow explorers\, enjoy the outdoors\, and experience why this Brooklyn landmark is an unforgettable destination for all ages.  \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nPresented in partnership with Park Slope Parents\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process\, that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. Only one space may be reserved per person. \n\n\n\nWhere To Go: Check-in takes place at the Green-House on Fifth Avenue and 25th Street (750 Fifth Avenue) all dates except June 3. On June 3\, please check in with Green-Wood staff at the Gothic Arch\, up the hill from our Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: This walking tour follows a route designed for gentle movement over mostly even terrain. However\, some areas of the Cemetery include hills\, grass\, and uneven paths that may be challenging to navigate. The route is not fully ADA-compliant. We strongly recommend wearing suitable footwear. \n\n\n\nA Little More About Safety & Comfort: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Restrooms are available at the start and end of the tour\, but not along the route. Please consider these limitations before purchasing tickets. \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 2 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/green-wood-on-wheels-stroller-friendly-tour/2026-10-07/
+CATEGORIES:The Green-House at Green-Wood
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/03/JH214.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261007T183000
+DTEND;TZID=America/New_York:20261007T200000
+DTSTAMP:20260310T164412Z
+CREATED:20260310T164408Z
+LAST-MODIFIED:20260310T164412Z
+UID:10037365-1791397800-1791403200@www.green-wood.com
+SUMMARY:A Day in the Life of a Funeral Celebrant 
+DESCRIPTION:Credit: Shannon Taggart\n\n\n\n\n\nGreen-Wood’s A Day in the Life series turns its focus to funeral celebrants\, professionals who work closely with families to create meaningful\, personalized rituals and memorial services. Panelists will discuss what their day-to-day responsibilities entail\, from collaborating with families\, funeral directors\, and communities to designing services that reflect individual values\, cultures\, and beliefs. The conversation will also explore the logistics and emotional labor of the role\, as well as pathways into the profession. Attendees are invited to ask questions about training\, common misconceptions about celebrancy\, and the evolving ways people mark death today.  \n\n\n\nA Day in the Life brings together industry professionals for lively conversations about the many facets of work in the deathcare field.   \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nRegister\n\n\n\n\n\n\n\n\n\nIn-Person Event(see details below)\n\n\n\n\n\nKnow Before You Go:\n\n\n\n\nWhere To Go: This program will take place at The Green-House (750 Fifth Avenue)\, across the street from the Main Entrance of Green-Wood (500 25th Street). \n\n\n\nAccessibility & Safety: The Green-House is an ADA-compliant building; however\, extra accommodations for visitors using wheelchairs or other mobility aids are encouraged\, before reserving tickets. To contact our staff with any questions regarding accommodations and accessibility\, call 718-210-3080\, ext. 1\, or email events@green-wood.com. 
+URL:https://www.green-wood.com/event/a-day-in-the-life-of-a-funeral-celebrant/
+CATEGORIES:Death Education
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/03/NOV_1_2019_WEB_024.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261008T183000
+DTEND;TZID=America/New_York:20261008T203000
+DTSTAMP:20260925T170533Z
+CREATED:20260925T170527Z
+LAST-MODIFIED:20260925T170533Z
+UID:10038393-1791484200-1791491400@www.green-wood.com
+SUMMARY:Grieving & Weaving
+DESCRIPTION:Credit: Jordana Bermudez\n\n\n\n\n\nJoin Gelsey Bell at this special edition of Grieving & Weaving. She will present her work that thematically covers the many faces of loss through her vocals and music. \n\n\n\nStitching together creativity and community\, this knitting and crocheting group is unique for one reason: it meets in a cemetery. Whether you’re an expert with yarn or just starting out\, you are welcome to join us as we share stories\, skills\, and grief resources in the comfort of Green-Wood’s Modern Chapel. As we create together\, we’ll talk about the significance of handmade items in both our personal and collective histories. To hear about past attendees’ experiences\, listen to and/or read this piece featured on NPR.     \n\n\n\nBeginners can join our knitting and crochet tutorial groups\, while experienced crafters are encouraged to bring ongoing projects and mentor others. Feel free to bring your own yarn\, needles\, and hooks; some materials will be available on a first-come\, first-served basis. Not a knitter? Not to worry\, you can bring whatever other crafts you are working on.   \n\n\n\nFree. Registration required. Please consider a $10 donation to the Green-Wood Historic Fund so that we can continue to offer more death education programs like this throughout the year.   \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nRegister\n\n\n\n\n\n\n\n\n\nIn-Person Event(see details below)\n\n\n\n\n\nKnow Before You Go:\n\n\n\n\nWhere To Go: This program will take place at the Modern Chapel near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: The Modern Chapel is not fully ADA compliant\, however\, accommodations for entrance can be made for visitors using wheelchairs or other mobility aids. Before reserving tickets\, we encourage visitors to contact our staff with any questions regarding accommodations and accessibility at 718-210-3080\, ext. 1\, or events@green-wood.com. 
+URL:https://www.green-wood.com/event/grieving-weaving-8/2026-10-08/
+CATEGORIES:Death Education
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/03/Grieving-Weaving-Green-Wood-Cemetery-Photo-Jordana-Bermudez-05435-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+DTSTAMP:20260930T143059Z
+CREATED:20260930T134813Z
+LAST-MODIFIED:20260930T143059Z
+UID:10038442-1791568800-1791576000@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-50/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261009T183000
+DTEND;TZID=America/New_York:20261009T203000
+DTSTAMP:20260930T143410Z
+CREATED:20260930T143404Z
+LAST-MODIFIED:20260930T143410Z
+UID:10038446-1791570600-1791577800@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-53/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+DTSTAMP:20260824T151630Z
+CREATED:20260824T151627Z
+LAST-MODIFIED:20260824T151630Z
+UID:10037872-1791626400-1791633600@www.green-wood.com
+SUMMARY:Crime and Catastrophe Trolley Tour 
+DESCRIPTION:Credit: Green-Wood Staff\n\n\n\n\n\nMurders\, shipwrecks\, plane crashes\, gangsters: Do we have your attention yet? This nail-biting trolley tour delves deep into some of the finest true crime and disaster stories that Green-Wood has to offer. You will learn about the mysterious death of famed mentalist Washington Irving Bishop (who was allegedly killed by autopsy)\, discover the headline-grabbing murder of notorious mob boss Umberto “Albert” Anastasia\, hear the salacious tale of the Hall-Mills Murders\, and much more.  \n\n\n\n \n\n\n\n\n\nPrice: $30/$24 for members. \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: The Green-Wood trolley can accommodate up to two wheelchairs. However\, the trolley may make stops where passengers are encouraged to disembark in areas that are not wheelchair accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-210-3080\, ext. 1 or events@green-wood.com. To accommodate a wheelchair or other mobility aid on the trolley\, please contact us at least one week in advance. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. \n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/crime-and-catastrophe-trolley-tour-5/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2023/08/Crime-and-Catastrophe.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T150000
+DTSTAMP:20260930T141829Z
+CREATED:20260925T172712Z
+LAST-MODIFIED:20260930T141829Z
+UID:10038400-1791637200-1791644400@www.green-wood.com
+SUMMARY:Discover Green-Wood Trolley Tour
+DESCRIPTION:Credit: Green-Wood Staff\n\n\n\n\n\nHop on board our cozy\, warm trolley for an expert-led tour of Green-Wood’s historic landscape and some of the Cemetery’s most intriguing permanent residents. Whether you’re a first-time visitor or a seasoned explorer\, this is your chance to experience 478 acres of art\, history\, and nature. Walk in the footsteps of George Washington and his troops during the Battle of Brooklyn; visit the grave of Jean-Michel Basquiat\, one of America’s greatest artists; and discover so much more! \n\n\n\n \n\n\n\n\n\nPrice: $30/$24 for members. \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety: The Green-Wood trolley is wheelchair-accessible and ADA compliant. However\, please note that some stops where you may get off the trolley are not ADA accessible. Before reserving tickets\, we encourage visitors to contact our staff with any questions regarding accommodations and accessibility for trolley tours. In order to accommodate a wheelchair or other mobility aid on the trolley\, arrangements must be made in advance. Please call 718-210-3080\, ext. 1\, or email events@green-wood.com.\n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10.\n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.\n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/discover-green-wood-trolley-tour-24/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/https___cdn.evbuc_.com_images_1174387595_2829258341421_1_original.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T153000
+DTEND;TZID=America/New_York:20261010T180000
+DTSTAMP:20260109T162016Z
+CREATED:20260109T162011Z
+LAST-MODIFIED:20260109T162016Z
+UID:10037178-1791646200-1791655200@www.green-wood.com
+SUMMARY:Revolutionary Spirits
+DESCRIPTION:Courtesy of Fort Hamilton Distillery\n\n\n\n\n\nDelve into the storied past of distilled spirits in Brooklyn with Green-Wood and our neighbors at Fort Hamilton Distillery. The afternoon kicks off with a trolley tour of the Cemetery to discover influential figures of the Revolutionary War and distillers who made their mark on the young Republic. Afterward\, the trolley heads to Fort Hamilton Distillery in Industry City where you’ll experience “white” rye straight off the still\, sample whiskey directly from the barrel\, and learn how to bottle your own spirits! You’ll get a tasting of four whiskeys\, followed by a sampling of barrel-aged maple syrup. \n\n\n\n\n\nPrice: $50\, $45 for members \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nFort Hamilton Distillery started barreling whiskey in 2016 when founders Alex Clark and Amy Grindeland embarked on a mission to recapture America’s finest spirits. Based in Industry City\, Brooklyn\, just steps from the Cemetery\, the distillery is surrounded by landmarks of the Revolutionary War\, from which the whiskey maker draws his inspiration. \n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nAttendees MUST be 21 or older to participate. ID cards will be checked!\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go: Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety: The Green-Wood trolley is wheelchair-accessible and ADA compliant. However\, please note that some stops where you may get off the trolley are not ADA accessible. Before reserving tickets\, we encourage visitors to contact our staff with any questions regarding accommodations and accessibility for trolley tours. In order to accommodate a wheelchair or other mobility aid on the trolley\, arrangements must be made in advance. Please call 718-210-3080\, ext. 1\, or email events@green-wood.com.\n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10.\n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date. \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders.\n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/revolutionary-spirits-7/2026-10-10/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2022/12/Revolutionary-Spirits_Credit-Courtesy-of-For-Hamilton-Distillery.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T180000
+DTEND;TZID=America/New_York:20261010T200000
+DTSTAMP:20260930T134936Z
+CREATED:20260930T134930Z
+LAST-MODIFIED:20260930T134936Z
+UID:10038443-1791655200-1791662400@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-51/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T183000
+DTEND;TZID=America/New_York:20261010T203000
+DTSTAMP:20260930T143535Z
+CREATED:20260930T143530Z
+LAST-MODIFIED:20260930T143535Z
+UID:10038447-1791657000-1791664200@www.green-wood.com
+SUMMARY:Green-Wood After Hours
+DESCRIPTION:While we love the spirit of the Halloween season\, Green-Wood remains an active cemetery. Out of respect for the grounds\, masks and costumes are not permitted and guests wearing them will not be admitted on the tour.  \n\n\n\nThe dead don’t keep visiting hours\, but we do! Join us after dark for a walk through Green-Wood’s history\, legends\, and secrets. And before you depart\, step inside the Catacombs\, a space that is normally locked to the public.   \n\n\n\n \n\n\n\n\n\n\n\nPrice: $30/24 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nWalking tour routes cover hilly\, grassy\, and uneven terrain which may be difficult to navigate. This tour is not ADA compliant and is not recommended for children under the age of 10. There is no place to sit down during the tour. We strongly encourage attendees to wear suitable footwear.  \n\n\n\nThis tour takes place in the dark. Attendees are strongly encouraged to bring a flashlight. Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nAttendees must follow all instructions and guidance from Cemetery staff and volunteers. \n\n\n\nFeeling sick? Stay home if you are feeling sick or running a fever. \n\n\n\nAttendees assume all risk of injury\, harm\, or death\, and agree to release\, indemnify\, defend\, and forever discharge Green-Wood from all liability\, claims\, demands\, damages\, costs\, expenses\, and causes of action. \n\n\n\nBy registering for this tour\, you consent to be photographed\, filmed\, and/or otherwise recorded. 
+URL:https://www.green-wood.com/event/green-wood-after-hours-54/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/After-Hours.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T190000
+DTEND;TZID=America/New_York:20261010T193000
+DTSTAMP:20260722T154311Z
+CREATED:20260722T154306Z
+LAST-MODIFIED:20260722T154311Z
+UID:10037743-1791658800-1791660600@www.green-wood.com
+SUMMARY:Uprising/Downfall: 250 Years of Courage\, Repression\, and Resistance on the Road to American Democracy
+DESCRIPTION:This teach-in\, featuring artists\, activists\, advocates\, writers\, and scholars\, will examine 20th century social movements that advanced democracy and human rights\, and State activities that sought to repress them.
+URL:https://www.green-wood.com/event/uprising-downfall-250-years-of-courage-repression-and-resistance-on-the-road-to-american-democracy/
+LOCATION:Brooklyn Public Library\, 10 Grand Army Plaza\, Brooklyn\, New York\, 11238\, United States
+CATEGORIES:Brooklyn250,Exclude From Main
+ATTACH;FMTTYPE=image/png:https://www.green-wood.com/wp-content/uploads/2026/07/XvsEJWlQ.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261011T110000
+DTEND;TZID=America/New_York:20261011T130000
+DTSTAMP:20260925T180037Z
+CREATED:20260925T180028Z
+LAST-MODIFIED:20260925T180037Z
+UID:10038415-1791716400-1791723600@www.green-wood.com
+SUMMARY:Grave Beginnings: Green-Wood By Trolley
+DESCRIPTION:Credit: Maike Schulz\n\n\n\n\n\nDiscover Green-Wood’s stunning landscape and remarkable history on this free hour-long trolley tour. Perfect for first-time visitors\, this accessible introduction takes you on a leisurely ride to hear about notable residents\, including Auguste Renouard\, the “Father of modern day embalming”; industrialist William Colgate\, whose legacy extends far beyond soap; scientist John Draper\, a pioneer in photography and chemistry; and more. The tour also highlights other influential individuals who contributed to the city’s cultural\, scientific\, and civic life. \n\n\n\nThis tour series is funded by Simons Foundation International and administered by the Simons Foundation’s Science\, Society & Culture division. \n\n\n\n \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nTrolley Tour(see details below)\n\n\n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\nBefore Purchasing A Ticket\, Please Note:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go:Check-in takes place at the trolley by the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety:The Green-Wood trolley can accommodate up to two wheelchairs. However\, the trolley may make stops where passengers are encouraged to disembark in areas that are not wheelchair accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-210-3080\, ext. 1\, or events@green-wood.com. To accommodate a wheelchair or other mobility aid on the trolley\, please contact us at least one week in advance.\n\n\n\nA Little More About Safety:Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. This tour is not recommended for children under the age of 10.\n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders.\n\n\n\n\nNot a Member?\n\n\n\nClick here for all of our membership levels and information. \n\n\n\nAlready a Member?\n\n\n\nClick the gray tickets button to activate the Eventbrite pop-up\, then click Enter promo code. Type in your ID number and apply your discount. \n\n\n\nQuestions?\n\n\n\nDon’t know your Member ID number? Not sure which ticket or membership type to order? Call 718-210-3080 or email contactus@green-wood.com with any questions.
+URL:https://www.green-wood.com/event/grave-beginnings-green-wood-by-trolley-8/
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/https___cdn.evbuc_.com_images_1179427893_2633840636391_1_original-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261011T130000
+DTEND;TZID=America/New_York:20261011T143000
+DTSTAMP:20260925T181045Z
+CREATED:20260925T181040Z
+LAST-MODIFIED:20260925T181045Z
+UID:10038416-1791723600-1791729000@www.green-wood.com
+SUMMARY:Green-Wood's Greatest Hits
+DESCRIPTION:Whether it’s your first visit to Green-Wood or your hundredth\, this walking tour offers a fresh perspective on one of New York City’s most iconic landmarks. \n\n\n\nLed by one of our expert guides\, this tour takes you to the heart of Brooklyn’s most fascinating stories. Walk in the footsteps of George Washington’s troops during the fight for independence\, uncover the tragic tale of the 1876 Brooklyn Theatre fire\, and pay tribute to luminaries like composer Leonard Bernstein. Along the way\, you’ll encounter hidden gems and learn about unforgettable moments that have shaped the city and its culture. \n\n\n\nPlease note that if only 1 ticket shows as available during the purchase process that is the last ticket available. \n\n\n\n\n\n\n\nPrice: $25/20 for Members \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name.\n\n\n\nWhere To Go: Check-in takes place at the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street).\n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-210-3080\, ext. 1 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear.\n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets.\n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.\n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour\, and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders.\n\n\n\nPhoto Credit: Evan Rabeck
+URL:https://www.green-wood.com/event/green-woods-greatest-hits-15/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/https___cdn.evbuc_.com_images_1173897710_2829258341421_1_original-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261011T140000
+DTEND;TZID=America/New_York:20261011T160000
+DTSTAMP:20260824T142047Z
+CREATED:20260824T142043Z
+LAST-MODIFIED:20260824T142047Z
+UID:10038231-1791727200-1791734400@www.green-wood.com
+SUMMARY:Catch the Colors: Fall at Green-Wood  
+DESCRIPTION:Photo Credit: Evan Rabeck\n\n\n\n\n\nAutumn has arrived\, and Green-Wood is ablaze with the vibrant hues of the season! Each year\, the Cemetery transforms into a breathtaking canvas of fiery reds\, oranges\, and yellows as its thousands of trees showcase their seasonal splendor. Bring your camera\, your curiosity\, and your love of nature to this unforgettable exploration in one of Brooklyn’s most beautiful settings.  \n\n\n\n\n\n\n\nPrice: $25 / $20 for members  \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nWalking Tour(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nTickets: There is no need to print tickets! Attendees will be checked in by name. \n\n\n\nWhere To Go: Check-in takes place at the Gothic Arch near the Main Entrance at Fifth Avenue and 25th Street (500 25th Street). \n\n\n\nAccessibility & Safety: Walking tour routes cover hilly\, grassy\, and uneven terrain. This tour is not accessible for those using wheelchairs or other mobility aids and may be difficult for those with balance or other mobility issues. There is no place to sit down during the tour. For other disability-related accommodations\, contact us at 718-768-7300 or events@green-wood.com. This tour is not recommended for children under the age of 10. We strongly encourage attendees to wear suitable footwear. \n\n\n\nA Little More About Safety: Unless there is a medical emergency\, it may be difficult to exit quickly during the tour. Please consider these limitations before purchasing tickets. \n\n\n\nRefunds: All ticket sales are final. Refunds are only permissible if the tour is canceled by Green-Wood. Tickets cannot be exchanged for a different tour date.  \n\n\n\nInclement Weather Policy: We monitor weather conditions throughout the day for the best chance of proceeding with the tour and will not make a final decision until approximately 3 hours before the start of the tour. Cancellations will be announced via Eventbrite email blasts\, so check your email and spam folders. 
+URL:https://www.green-wood.com/event/catch-the-colors-fall-at-green-wood-2/2026-10-11/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/07/Catch-the-Colors.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261013T100000
+DTEND;TZID=America/New_York:20261013T113000
+DTSTAMP:20260601T155823Z
+CREATED:20260514T182847Z
+LAST-MODIFIED:20260601T155823Z
+UID:10037321-1791885600-1791891000@www.green-wood.com
+SUMMARY:Toddler Takeover at the Green-House 
+DESCRIPTION:Move over\, big kids! On Tuesday mornings\, it’s toddler time at the Green-House. Bring your little ones to the most fun pop-up play zone in Sunset Park for a morning of open play and sensory exploration. Activity stations will vary for each program. Got a train enthusiast? They’ll love the Cemetery’s toy vehicles! A budding builder? Our foam mausoleum blocks are perfect for tiny architects. Junior scientists can interact with bug specimens\, bird puppets\, magnifying glasses\, and more. \n\n\n\nCome hang out with fellow parents and caregivers while your children explore\, create\, and play. Don’t forget your strollers\, snacks\, and playful spirit!  \n\n\n\n\n\nPrice: Free \n\n\n\n\n\n\nBuy Tickets\n\n\n\n\n\n\n\n\n\nIn-Person Event(see details below)\n\n\n\n\n\nPresented in partnership with Park Slope Parents\n\n\n\nPlease note that if only 1 ticket shows as available during the registration process\, that is the last ticket available. \n\n\n\nKnow Before You Go:\n\n\n\n\nTickets: Due to program popularity and limited space\, registration is required. \n\n\n\nRecommended for ages 1 to 4 years old. All children must be accompanied by a caregiver. \n\n\n\nWhere To Go: This program takes place at the Green-House (750 Fifth Avenue)\, near the Main Entrance on Fifth Avenue and 25th Street.  \n\n\n\nAccessibility & Safety: The Green-House is ADA-accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-210-3080\, ext. 1\, or events@green-wood.com. 
+URL:https://www.green-wood.com/event/toddler-takeover-at-the-green-house-3/2026-10-13/
+CATEGORIES:The Green-House at Green-Wood
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/05/76bc950b-9a9e-4901-b82e-8054ac98a643.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261016T140000
+DTEND;TZID=America/New_York:20261016T160000
+DTSTAMP:20260927T225404Z
+CREATED:20260927T224402Z
+LAST-MODIFIED:20260927T225404Z
+UID:10038427-1792159200-1792166400@www.green-wood.com
+SUMMARY:TGIF! Afterschool Story and Craft Hour
+DESCRIPTION:Photo Credits: Aaron Pierce\n\n\n\n\n\nKick off the weekend with story time and crafts at Green-Wood! Presented in partnership with Brooklyn Public Library\, these sessions are led by Kidsmobile Librarian Michaela Donahue\, who brings wonderful book selections perfect for young readers. At every program\, the Library’s Bookmobile will be parked right outside the Green-House from 2–3pm. After you check out books\, come inside for stories and crafts from 3–4pm! It’s a perfect way to discover new favorites\, spark imagination\, and enjoy quality time together. Don’t have a library card yet? Sign up and get one on the spot!  \n\n\n\n \n\n\n\n\n\n\n\nPrice: Free \n\n\n\n\nGet Tickets\n\n\n\n\n\n\n\n\n\nThe Green-House(see details below)\n\n\n\n\n\nBEFORE PURCHASING YOUR TICKET\, PLEASE NOTE:\n\n\n\n\nAll children must be accompanied by an adult and all adults must be accompanied by a child to attend this program. \n\n\n\nParticipation is free; registration is recommended so we can get a rough headcount.\n\n\n\nKnow Before You Go:\n\n\n\nTickets: No registration required. Drop in and join us. Seating and activities are first come\, first served. \n\n\n\nRecommended for ages 2 to 5 years old. All children must be accompanied by a caregiver. \n\n\n\nWhere To Go: This program takes place at the Green-House (750 Fifth Avenue)\, near the Main Entrance on Fifth Avenue and 25th Street.  \n\n\n\nAccessibility & Safety: The Green-House is ADA-accessible. If you need accommodations for any reason\, please contact our staff before reserving tickets at 718-768-7300 ext. 5\, or events@green-wood.com. \n\n\n\nAdult caregivers must stay with children at all times. \n\n\n\nGreen-Wood staff may photograph\, film and/or otherwise record this program.  If you do not wish to be photographed or recorded\, you must notify a Green-Wood staff member before the program begins. 
+URL:https://www.green-wood.com/event/tgif-2/
+CATEGORIES:Walking Tour
+ATTACH;FMTTYPE=image/jpeg:https://www.green-wood.com/wp-content/uploads/2026/09/TGIF.jpg
+END:VEVENT
+END:VCALENDAR
