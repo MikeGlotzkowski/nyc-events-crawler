@@ -16,12 +16,14 @@ Sources (`crawlers/`): `nyc-parks` (RSS), `rss-blogs` (neighborhood blog RSS + L
 `bam` / `lincoln-center` (the JSON their calendars load), `carnegie-hall` (sitemap URLs; its pages sit behind a
 Queue-it waiting room), `resident-advisor` (ra.co GraphQL, NYC area, next 14 days; ra.co pages have a bot check,
 the GraphQL endpoint does not), `dice` (dice.fm New York browse pages' `__NEXT_DATA__`, a few days ahead, no
-descriptions), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
+descriptions), `timeout` (Time Out New York's weekend list page, each tile through the LLM extractor),
+`westsiderag` (Playwright), `nyccom` (NYC.com multi-category
 Playwright). **Tiers:** `all-tier1` = the non-Playwright crawlers (fast); `all-tier2` = the
 Playwright-based crawlers (`westsiderag`, `nyccom`) — the heavy daily job that motivated the public-repo
 migration (unlimited CI minutes). Left out because they serve bot challenges or waiting rooms to GitHub runners
 (checked 2026-10-01): the Met and Brooklyn Museum (Vercel checkpoint), MoMA and AMNH (Cloudflare), The Shed (Queue-it),
-Oh My Rockness (Cloudflare). BrooklynVegan no longer publishes a show list (its feed is news only).
+Oh My Rockness (Cloudflare). BrooklynVegan no longer publishes a show list (its feed is news only). Nonsense NYC is email-only (its site says so;
+no web archive or feed).
 
 > **Required secrets:** see `README.md` / `.env.example`. Secrets live in GitHub Actions Secrets, never
 > in code. A pre-public secret scan is recorded in `SECURITY-AUDIT.md`.

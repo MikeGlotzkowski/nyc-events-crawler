@@ -17,6 +17,7 @@ calendars, and Playwright scrapes, optionally enriches them with an LLM, and ups
 | `carnegie-hall` | Carnegie Hall performances from its sitemap | 1 (fast) |
 | `resident-advisor` | Resident Advisor NYC club nights, next 14 days (GraphQL) | 1 (fast) |
 | `dice` | DICE New York shows, DJ nights and parties (browse pages) | 1 (fast) |
+| `timeout` | Time Out New York's "things to do this weekend" list (LLM extraction) | 1 (fast) |
 | `westsiderag` | West Side Rag weekly events page (Playwright) | 2 (Playwright) |
 | `nyccom` | NYC.com multi-category crawl (Playwright) | 2 (Playwright) |
 
