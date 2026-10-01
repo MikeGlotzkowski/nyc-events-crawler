@@ -13,7 +13,15 @@
  *   westsiderag      West Side Rag weekly events page (Playwright)
  *   nyccom           NYC.com multi-category Playwright crawler
  *   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
- *   all-tier1        nyc-parks, nyc-opendata, ical-feeds, riverside-park, rss-blogs (no Playwright)
+  brooklyn-library   Brooklyn Public Library events (search API)
+  queens-library     Queens Public Library events (calendar pages)
+  van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
+  forest-park        Forest Park Trust (Squarespace JSON)
+ *   brooklyn-library   Brooklyn Public Library events (search API)
+ *   queens-library     Queens Public Library events (calendar pages)
+ *   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
+ *   forest-park        Forest Park Trust (Squarespace JSON)
+ *   all-tier1        every non-Playwright crawler above except seatgeek
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
  */
@@ -34,9 +42,13 @@ const CRAWLERS = {
   'westsiderag':    () => import('./crawlers/westsiderag.js').then(m => m.crawl),
   'nyccom':         () => import('./crawlers/nyccom.js').then(m => m.crawl),
   'seatgeek':       () => import('./crawlers/seatgeek.js').then(m => m.crawl),
+  'brooklyn-library':   () => import('./crawlers/brooklyn-library.js').then(m => m.crawl),
+  'queens-library':     () => import('./crawlers/queens-library.js').then(m => m.crawl),
+  'van-cortlandt-park': () => import('./crawlers/van-cortlandt-park.js').then(m => m.crawl),
+  'forest-park':        () => import('./crawlers/forest-park.js').then(m => m.crawl),
 };
 
-const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'rss-blogs'];
+const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'brooklyn-library', 'queens-library'];
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 
@@ -91,7 +103,11 @@ Targets:
   westsiderag      West Side Rag weekly events (Playwright)
   nyccom           NYC.com multi-category crawler (Playwright)
   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
-  all-tier1        Run: nyc-parks, nyc-opendata, ical-feeds, riverside-park, rss-blogs
+  brooklyn-library   Brooklyn Public Library events (search API)
+  queens-library     Queens Public Library events (calendar pages)
+  van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
+  forest-park        Forest Park Trust (Squarespace JSON)
+  all-tier1        Run every non-Playwright crawler except seatgeek
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
 `.trim();
