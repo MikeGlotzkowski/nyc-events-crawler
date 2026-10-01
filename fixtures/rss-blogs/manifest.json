@@ -1,0 +1,120 @@
+{
+  "capturedAt": "2026-10-01T10:43:53.656Z",
+  "responses": {
+    "https://www.ilovetheupperwestside.com/feed/": {
+      "file": "ilovetheupperwestside.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://www.westsiderag.com/feed/": {
+      "file": "westsiderag.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://harlemworldmagazine.com/feed/": {
+      "file": "harlemworldmagazine.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://evgrieve.com/feeds/posts/default": {
+      "file": "evgrieve.com.xml",
+      "status": 200,
+      "contentType": "text/xml; charset=utf-8"
+    },
+    "https://bedfordandbowery.com/feed/": {
+      "file": "bedfordandbowery.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://gothamist.com/feed": {
+      "file": "gothamist.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=utf-8"
+    },
+    "https://theskint.com/rss": {
+      "file": "theskint.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://www.brooklynpaper.com/feed/": {
+      "file": "brooklynpaper.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://bklyner.com/feed/": {
+      "file": "bklyner.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=utf-8"
+    },
+    "https://greenpointers.com/feed/": {
+      "file": "greenpointers.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://bushwickdaily.com/feed/": {
+      "file": "bushwickdaily.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://www.brownstoner.com/feed/": {
+      "file": "brownstoner.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://qns.com/feed/": {
+      "file": "qns.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://astoriapost.com/feed/": {
+      "file": "astoriapost.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://www.bxtimes.com/feed/": {
+      "file": "bxtimes.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://thebronxfreepress.com/feed/": {
+      "file": "thebronxfreepress.com.html",
+      "status": 202,
+      "contentType": "text/html"
+    },
+    "https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml": {
+      "file": "silive.com.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "https://citylimits.org/feed/": {
+      "file": "citylimits.org.html",
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "https://www.bricartsmedia.org/feed": {
+      "file": "bricartsmedia.org.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://tribecacitizen.com/feed/": {
+      "file": "tribecacitizen.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://ditmasparkcorner.com/feed/": {
+      "file": "ditmasparkcorner.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://sunnysidepost.com/feed/": {
+      "file": "sunnysidepost.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "https://www.foresthillstimes.com/feed/": {
+      "file": "foresthillstimes.com.xml",
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    }
+  }
+}

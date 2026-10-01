@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brooklyn Paper</title>
+	<atom:link href="https://www.brooklynpaper.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.brooklynpaper.com</link>
+	<description>Brooklyn Daily News &#38; Crime</description>
+	<lastBuildDate>Wed, 30 Sep 2026 21:41:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">229309223</site>	<item>
+		<title>NYC Council weighs how to regulate e-bikes, e-scooters, and mopeds during marathon hearing</title>
+		<link>https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/</link>
+					<comments>https://www.brooklynpaper.com/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/#respond</comments>
+		
+		<dc:creator><![CDATA[By Ethan Stark-Miller]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:41:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[city council]]></category>
+		<category><![CDATA[City Council speaker Julie Menin]]></category>
+		<category><![CDATA[council-member-shaun-abreu]]></category>
+		<category><![CDATA[dot-commmissioner-mike-flynn]]></category>
+		<category><![CDATA[e bikes]]></category>
+		<category><![CDATA[e-motos]]></category>
+		<category><![CDATA[e-scooters]]></category>
+		<category><![CDATA[illegal-e-bikes]]></category>
+		<category><![CDATA[mayor-zohran-mamdani]]></category>
+		<category><![CDATA[mopeds]]></category>
+		<category><![CDATA[nyc transit]]></category>
+		<category><![CDATA[nyc-evsa]]></category>
+		<category><![CDATA[priscillas-law]]></category>
+		<category><![CDATA[sam-levine]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249596&#038;preview=true&#038;preview_id=249596</guid>
+
+					<description><![CDATA[The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years. The 23 bills council members are proposing take a… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years.</p>
+<p>The 23 bills council members are proposing take a variety of approaches toward addressing persistent safety concerns around the ridership of electric micromobility devices, which are largely used by immigrant food delivery workers. Those include <a href="https://www.amny.com/nyc-transit/nyc-lawmaker-bills-e-motos-electronic-motorcycles/" target="_blank" rel="noopener">taking illegal devices that are involved in many crashes off the streets</a>, outlawing the fastest legal e-bikes, and better regulating the third-party apps that employ delivery workers. </p>
+<p>The suite of legislation under consideration, however, does not include a measure that would require that e-bike and e-scooter owners register and license their vehicles — a bill known as <a href="https://www.amny.com/news/priscillas-law-illegal-e-vehicles-in-nyc/" target="_blank" rel="noopener">“Priscilla’s Law.”</a></p>
+<p>City Council Speaker Julie Menin, who <a href="https://www.amny.com/news/city-council-e-bike-micromobility-bills/" target="_blank" rel="noopener">scheduled the hearing</a> amid a spate of e-micromobility-involved crashes over the summer, said the purpose of the proceeding was both to examine how the legislation can make riding motorized two-wheelers safer and how the city is enforcing already existing laws.</p>
+<p>"<span class="transcript-word" data-offset="3715359" data-word="106.3199:125.89:125.95">As</span> <span class="transcript-word" data-offset="3718239" data-word="106.3199:126.07:126.37">speaker,</span> <span class="transcript-word" data-offset="3727839" data-word="106.3199:126.67:126.7">I</span> <span class="transcript-word" data-offset="3729279" data-word="106.3199:126.76:127.12">believe</span> <span class="transcript-word" data-offset="3736959" data-word="106.3199:127.24:127.27">the</span> <span class="transcript-word" data-offset="3742239" data-word="106.3199:127.57:127.84">council</span> <span class="transcript-word" data-offset="3747999" data-word="106.3199:127.93:128.05">has</span> <span class="transcript-word" data-offset="3750879" data-word="106.3199:128.11:128.14">a</span> <span class="transcript-word" data-offset="3752799" data-word="106.3199:128.23:129.16">responsibility</span> <span class="transcript-word" data-offset="3771519" data-word="106.3199:129.4:129.46">to</span> <span class="transcript-word" data-offset="3775839" data-word="106.3199:129.67:130.51">meticulously</span> <span class="transcript-word" data-offset="3807519" data-word="106.3199:131.65:131.86">examine</span> <span class="transcript-word" data-offset="3810879" data-word="106.3199:131.86:131.89">the</span> micro<span class="transcript-word" data-offset="3813759" data-word="106.3199:132.04:132.37">mobility</span> <span class="transcript-word" data-offset="3822399" data-word="106.3199:132.58:133.06">landscape</span> <span class="transcript-word" data-offset="3837279" data-word="106.3199:133.51:133.6">and</span> <span class="transcript-word" data-offset="3841599" data-word="106.3199:133.78:134.08">address</span> <span class="transcript-word" data-offset="3846399" data-word="106.3199:134.08:134.1">the</span> <span class="transcript-word" data-offset="3852959" data-word="106.3199:134.49:134.85">major</span> <span class="transcript-word" data-offset="3860159" data-word="106.3199:134.94:135.33">gaps</span> <span class="transcript-word" data-offset="3869279" data-word="106.3199:135.51:135.57">in</span> <span class="transcript-word" data-offset="3871679" data-word="106.3199:135.66:135.72">our</span> <span class="transcript-word" data-offset="3875519" data-word="106.3199:135.9:136.2">laws</span> <span class="transcript-word" data-offset="3888479" data-word="106.3199:136.71:136.8">that</span> <span class="transcript-word" data-offset="3891359" data-word="106.3199:136.89:136.98">have</span> <span class="transcript-word" data-offset="3893759" data-word="106.3199:137.04:137.34">emerged,</span> <span class="transcript-word" data-offset="3906719" data-word="106.3199:137.85:138.42">particularly</span> <span class="transcript-word" data-offset="3920159" data-word="106.3199:138.69:138.75">as</span> <span class="transcript-word" data-offset="3923999" data-word="106.3199:138.93:139.65">technology</span> <span class="transcript-word" data-offset="3937919" data-word="106.3199:139.8:139.92">and</span> <span class="transcript-word" data-offset="3940319" data-word="106.3199:139.95:140.79">transportation</span> <span class="transcript-word" data-offset="3957599" data-word="106.3199:141.03:141.27">habits</span> <span class="transcript-word" data-offset="3963359" data-word="106.3199:141.39:141.48">have</span> <span class="transcript-word" data-offset="3967199" data-word="106.3199:141.63:142.11">changed," Menin said during her opening remarks. "</span><span class="transcript-word" data-offset="3981119" data-word="106.3199:142.5:142.62">But</span> <span class="transcript-word" data-offset="3983999" data-word="106.3199:142.68:142.71">we</span> <span class="transcript-word" data-offset="3986879" data-word="106.3199:142.86:143.13">also</span> <span class="transcript-word" data-offset="3993119" data-word="106.3199:143.25:143.34">have</span> <span class="transcript-word" data-offset="3995999" data-word="106.3199:143.43:143.46">the</span> <span class="transcript-word" data-offset="3997919" data-word="106.3199:143.55:144.39">responsibility</span> <span class="transcript-word" data-offset="4013759" data-word="106.3199:144.54:144.6">to</span> <span class="transcript-word" data-offset="4016159" data-word="106.3199:144.69:144.9">hold</span> <span class="transcript-word" data-offset="4021919" data-word="106.3199:145.05:145.08">the</span> <span class="transcript-word" data-offset="4022399" data-word="106.3199:145.08:145.8">administration</span> <span class="transcript-word" data-offset="4038239" data-word="106.3199:146.07:146.4">accountable</span> <span class="transcript-word" data-offset="4050719" data-word="106.3199:146.85:146.94">for</span> en<span class="transcript-word" data-offset="4052159" data-word="106.3199:146.94:147.12">forcing</span> <span class="transcript-word" data-offset="4056479" data-word="106.3199:147.21:147.24">the</span> <span class="transcript-word" data-offset="4059839" data-word="106.3199:147.42:147.72">laws</span> <span class="transcript-word" data-offset="4066559" data-word="106.3199:147.84:147.93">that</span> <span class="transcript-word" data-offset="4070879" data-word="106.3199:148.11:148.17">are</span> <span class="transcript-word" data-offset="4073279" data-word="106.3199:148.26:148.44">already</span> <span class="transcript-word" data-offset="4086239" data-word="106.3199:149.07:149.13">on</span> <span class="transcript-word" data-offset="4089119" data-word="106.3199:149.25:149.28">the</span> <span class="transcript-word" data-offset="4089599" data-word="106.3199:149.28:150.42">books."</span></p>
+<p>Over the course of the hearing, the council heard testimony from Mayor Zohran Mamdani's administration, including top officials with the Departments of Transporation (DOT) and Consumer and Worker Protection (DCWP) as well as the NYPD. They also heard from safe streets advocates, those in favor of stricter regulations on all e-micromobility devices, and other members of the public.</p>
+<h2>Crashes involving e-micromobility devices</h2>
+<p>The current landscape for e-bikes and e-scooters was shaped by the state's decision to legalize them in 2020.</p>
+<p>In doing so, Albany authorized three classes of e-bikes in the city, none of which can have motors exceeding 750 watts: Class 1 — pedal-assist e-bikes that can reach 20 miles per hour; Class 2 — throttle-assist bikes that can reach 20 mph; and Class 3 — throttle-assist e-bikes that can reach 25 mph. Legal e-scooters cannot exceed 20 mph top speeds.</p>
+<p>However, all micromobility devices in the city must abide by a 15 mph speed limit, which was instituted by former Mayor Eric Adams last year.</p>
+<p>The hearing comes after a few high-profile crashes involving e-micromobility devices over the summer.</p>
+<p>Among those incidents was a crash on the Queensboro Bridge between the rider of an illegal motorized scooter and a traditional cyclist, killing them both. Another incident in Lower Manhattan saw a 17-year-old riding an illegal e-moto killed when he <a href="https://www.amny.com/nyc-transit/consumer-alert-motorized-two-wheelers/" target="_blank" rel="noopener">collided with an SUV.</a></p>
+<p>"We need to integrate these <span class="transcript-word" data-offset="7324640" data-word="435.68:22.11:22.59">devices</span> <span class="transcript-word" data-offset="7333280" data-word="435.68:22.65:22.8">more</span> <span class="transcript-word" data-offset="7336160" data-word="435.68:22.83:23.4">intentionally</span> <span class="transcript-word" data-offset="7348640" data-word="435.68:23.61:23.79">into</span> <span class="transcript-word" data-offset="7352480" data-word="435.68:23.85:23.91">our</span> <span class="transcript-word" data-offset="7356320" data-word="435.68:24.09:24.27">street</span> <span class="transcript-word" data-offset="7359680" data-word="435.68:24.3:24.72">design</span> <span class="transcript-word" data-offset="7375040" data-word="435.68:25.26:25.34">and</span> <span class="transcript-word" data-offset="7376800" data-word="435.68:25.37:25.43">our</span> <span class="transcript-word" data-offset="7378240" data-word="435.68:25.46:26">regulatory</span> <span class="transcript-word" data-offset="7389280" data-word="435.68:26.15:26.54">schemes if</span> <span class="transcript-word" data-offset="7400320" data-word="435.68:26.84:26.87">we</span> <span class="transcript-word" data-offset="7401760" data-word="435.68:26.93:27.08">want</span> <span class="transcript-word" data-offset="7404640" data-word="435.68:27.11:27.17">to</span> <span class="transcript-word" data-offset="7406080" data-word="435.68:27.2:27.32">avoid</span> <span class="transcript-word" data-offset="7421440" data-word="435.68:28.16:28.4">tragedies</span> <span class="transcript-word" data-offset="7441600" data-word="435.68:29.42:29.51">like</span> <span class="transcript-word" data-offset="7443040" data-word="435.68:29.51:29.54">the</span> <span class="transcript-word" data-offset="7444000" data-word="435.68:29.57:29.69">ones</span> <span class="transcript-word" data-offset="7447360" data-word="435.68:29.78:29.81">we</span> <span class="transcript-word" data-offset="7450720" data-word="435.68:29.99:30.05">saw</span> <span class="transcript-word" data-offset="7454560" data-word="435.68:30.23:30.38">far</span> <span class="transcript-word" data-offset="7458400" data-word="435.68:30.47:30.53">too</span> <span class="transcript-word" data-offset="7463680" data-word="435.68:30.8:30.92">many</span> <span class="transcript-word" data-offset="7470880" data-word="435.68:31.25:31.31">of</span> <span class="transcript-word" data-offset="7473280" data-word="435.68:31.4:31.49">this</span> <span class="transcript-word" data-offset="7477600" data-word="435.68:31.67:31.79" data-selected="true">summer," City Council Transportation Chair Shaun Abreu said during the hearing.</span></p>
+<p>Several bills in the package aim to get illegal e-bikes and e-scooters, which can far exceed the 25 mph and 20 mph legal top speeds for the respective devices, off of the streets.</p>
+<p>Officials and advocates say that while most brick-and-morter stores in the city have ceased selling illegal devices, they end up in the five boroughs anyway via online sales. In those instances, online retailers market the devices as street legal, despite that not being the case.</p>
+<p>During his testimony, DOT Commissioner Mike Flynn said that roughly two of the 17 e-bike-related fatalities so far this year involved illegal devices, with the cause of another three being unknown. For the 11 e-scooter involved deaths this year, Flynn said, six were on illegal devices and four were unknown.</p>
+<p>But DOT chief of staff Madeline Labadie said the agency does not have a good sense of how many e-micromobility devices currently on city streets are legal versus illegal. She said that is due to most of the vehicles being privately owned and not licensed or registered.</p>
+<p>"Without <span class="transcript-word" data-offset="18922240" data-word="1165.68:16.96:17.05">any</span> <span class="transcript-word" data-offset="18925120" data-word="1165.68:17.14:17.41">license</span> <span class="transcript-word" data-offset="18930400" data-word="1165.68:17.47:17.92">requirement,</span> <span class="transcript-word" data-offset="18938080" data-word="1165.68:17.95:18.04">there</span> <span class="transcript-word" data-offset="18940480" data-word="1165.68:18.1:18.31">isn't</span> <span class="transcript-word" data-offset="18949120" data-word="1165.68:18.64:18.67">a</span> <span class="transcript-word" data-offset="18955360" data-word="1165.68:19.03:19.33">single</span> <span class="transcript-word" data-offset="18963040" data-word="1165.68:19.51:19.78">source</span> <span class="transcript-word" data-offset="18969280" data-word="1165.68:19.9:19.96">of</span> <span class="transcript-word" data-offset="18971680" data-word="1165.68:20.05:20.35">truth</span> <span class="transcript-word" data-offset="18978400" data-word="1165.68:20.47:20.56">where</span> <span class="transcript-word" data-offset="18980320" data-word="1165.68:20.59:20.65">they</span> <span class="transcript-word" data-offset="18983680" data-word="1165.68:20.8:20.86">are</span> <span class="transcript-word" data-offset="18996160" data-word="1165.68:21.58:21.88">captured</span> <span class="transcript-word" data-offset="19003840" data-word="1165.68:22.06:22.12">in</span> <span class="transcript-word" data-offset="19005760" data-word="1165.68:22.18:22.3">terms</span> <span class="transcript-word" data-offset="19010560" data-word="1165.68:22.48:22.54">of</span> <span class="transcript-word" data-offset="19011520" data-word="1165.68:22.54:22.57">the</span> <span class="transcript-word" data-offset="19021120" data-word="1165.68:23.14:23.41">amount</span> <span class="transcript-word" data-offset="19025920" data-word="1165.68:23.44:23.53">that</span> <span class="transcript-word" data-offset="19027840" data-word="1165.68:23.56:23.62">are</span> <span class="transcript-word" data-offset="19030720" data-word="1165.68:23.74:23.8">on</span> <span class="transcript-word" data-offset="19033600" data-word="1165.68:23.92:23.95">the</span> <span class="transcript-word" data-offset="19034080" data-word="1165.68:23.95:24.19">streets </span><span class="transcript-word" data-offset="19038400" data-word="1165.68:24.22:24.28">or</span> <span class="transcript-word" data-offset="19040320" data-word="1165.68:24.34:24.43">that</span> <span class="transcript-word" data-offset="19041760" data-word="1165.68:24.43:24.49">are</span> <span class="transcript-word" data-offset="19043680" data-word="1165.68:24.55:24.79" data-selected="true">sold," Labadie said.</span></p>
+<p>One piece of <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169793&amp;GUID=7256449B-55C5-4D87-9091-532B603AD741" target="_blank" rel="noopener">legislation meant to rein in the illegal devices</a>, sponsored by Abreu, would allow the owners of Class 3 e-bikes or illegal devices to trade them in for legal Class 1 or 2 bikes or obtain a voucher to buy a legal device themselves.</p>
+<p>That measure drew pushback from Flynn, who said that while DOT supports the "bill's intent," the agency has concerns about implementing it.</p>
+<p>"<span class="transcript-word" data-offset="49552160" data-word="3085.22:11.79:12.12">Standing</span> <span class="transcript-word" data-offset="49558400" data-word="3085.22:12.18:12.24">up</span> <span class="transcript-word" data-offset="49560320" data-word="3085.22:12.3:12.33">a</span> <span class="transcript-word" data-offset="49561280" data-word="3085.22:12.36:12.72">program</span> <span class="transcript-word" data-offset="49568000" data-word="3085.22:12.78:12.93">like</span> <span class="transcript-word" data-offset="49571360" data-word="3085.22:12.99:13.14">this</span> <span class="transcript-word" data-offset="49578080" data-word="3085.22:13.41:13.5">is</span> <span class="transcript-word" data-offset="49579520" data-word="3085.22:13.5:13.59">very</span> <span class="transcript-word" data-offset="49582400" data-word="3085.22:13.68:14.61">resource-intensive</span> <span class="transcript-word" data-offset="49599680" data-word="3085.22:14.76:14.88">and</span> <span class="transcript-word" data-offset="49601600" data-word="3085.22:14.88:14.91">a</span> <span class="transcript-word" data-offset="49603520" data-word="3085.22:15:15.21">narrower</span> <span class="transcript-word" data-offset="49610240" data-word="3085.22:15.42:15.71">approach</span> <span class="transcript-word" data-offset="49616800" data-word="3085.22:15.83:15.92">that</span> <span class="transcript-word" data-offset="49619200" data-word="3085.22:15.98:16.34">targets</span> <span class="transcript-word" data-offset="49624960" data-word="3085.22:16.34:16.37">the</span> <span class="transcript-word" data-offset="49627840" data-word="3085.22:16.52:16.73">most</span> <span class="transcript-word" data-offset="49631680" data-word="3085.22:16.76:17.21">dangerous</span> <span class="transcript-word" data-offset="49646560" data-word="3085.22:17.69:17.99">illegal</span> <span class="transcript-word" data-offset="49652320" data-word="3085.22:18.05:18.47">devices</span> <span class="transcript-word" data-offset="49661440" data-word="3085.22:18.62:18.74">could</span> <span class="transcript-word" data-offset="49664320" data-word="3085.22:18.8:18.98">prove</span> <span class="transcript-word" data-offset="49668160" data-word="3085.22:19.04:19.07">a</span> <span class="transcript-word" data-offset="49669600" data-word="3085.22:19.13:19.37">greater</span> <span class="transcript-word" data-offset="49675360" data-word="3085.22:19.49:19.76">impact</span> <span class="transcript-word" data-offset="49681600" data-word="3085.22:19.88:19.94">on</span> <span class="transcript-word" data-offset="49683520" data-word="3085.22:20:20.21">street</span> <span class="transcript-word" data-offset="49687840" data-word="3085.22:20.27:20.6">safety," Flynn said.</span></p>
+<p>Another <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169803&amp;GUID=AF5DC996-B226-4DCF-B6A5-F930845CF8AC" target="_blank" rel="noopener">bill would require</a> the NYPD and DOT to use devices known as dynamometers, which measure e-bikes' and e-scooters' voltage and maximum assisted speed in order to ascertain whether or not the devices they seize are legal.</p>
+<p>NYPD officials who testified at the hearing said that while the idea of using dynamometers to test devices' legality is "very interesting," they still have a lot of questions about how such a program would work in practice.</p>
+<p>"<span class="transcript-word has-highlight" data-offset="38853440" data-word="2390.96:37.38:37.47">It</span> <span class="transcript-word has-highlight" data-offset="38854880" data-word="2390.96:37.47:37.56">would</span> <span class="transcript-word has-highlight" data-offset="38856320" data-word="2390.96:37.56:37.59">be</span> <span class="transcript-word has-highlight" data-offset="38858240" data-word="2390.96:37.68:37.74">new</span> <span class="transcript-word has-highlight" data-offset="38861600" data-word="2390.96:37.89:37.95">to</span> <span class="transcript-word has-highlight" data-offset="38864000" data-word="2390.96:38.04:38.19">any</span> <span class="transcript-word has-highlight" data-offset="38867840" data-word="2390.96:38.28:38.58">major</span> <span class="transcript-word has-highlight" data-offset="38878880" data-word="2390.96:38.97:39.39">American</span> <span class="transcript-word has-highlight" data-offset="38887520" data-word="2390.96:39.51:39.72">city," said Michael Gerber, the NYPD's deputy commissioner of legal matters. "That</span> <span class="transcript-word has-highlight" data-offset="38912960" data-word="2390.96:41.1:41.25">raises</span> <span class="transcript-word has-highlight" data-offset="38916800" data-word="2390.96:41.34:41.37">a</span> <span class="transcript-word has-highlight" data-offset="38917760" data-word="2390.96:41.4:41.55">host</span> <span class="transcript-word has-highlight" data-offset="38921120" data-word="2390.96:41.61:41.67">of</span> <span class="transcript-word has-highlight" data-offset="38922080" data-word="2390.96:41.67:42.06">questions</span> <span class="transcript-word has-highlight" data-offset="38928800" data-word="2390.96:42.09:42.15">in</span> <span class="transcript-word has-highlight" data-offset="38931200" data-word="2390.96:42.24:42.45">terms</span> <span class="transcript-word has-highlight" data-offset="38936960" data-word="2390.96:42.6:42.66">of</span> <span class="transcript-word has-highlight" data-offset="38947520" data-word="2390.96:43.26:43.86">procurement</span> <span class="transcript-word has-highlight" data-offset="38963840" data-word="2390.96:44.28:44.43">and</span> <span class="transcript-word has-highlight" data-offset="38976800" data-word="2390.96:45.09:45.51">cost</span> <span class="transcript-word has-highlight" data-offset="38988800" data-word="2390.96:45.84:45.99">and</span> <span class="transcript-word has-highlight" data-offset="39040640" data-word="2390.96:49.08:49.5">operational</span> <span class="transcript-word has-highlight" data-offset="39048320" data-word="2390.96:49.56:49.98">functionality, r</span><span class="transcript-word has-highlight" data-offset="39057920" data-word="2390.96:50.16:50.31">ight?"</span></p>
+<p>Other bills in the package, sponsored by Council Member Crystal Hudson (D-Brooklyn), seek to <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862032&amp;GUID=FBA3B7D2-B295-4991-826B-B622192AAD5C" target="_blank" rel="noopener">ban both the sale</a> and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223710&amp;GUID=E603FDD2-B465-44EE-9D59-762B0BE124A8" target="_blank" rel="noopener">operation</a> of Class 3 e-bikes. The latter bill would be phased in over a two-year period, with the city distributing warnings to those still found to be riding Class 3 e-bikes through April 1, 2029, after which point they would be hit with escalating fines.</p>
+<p>Department of Consumer and Worker Protection Commissioner Sam Levine, during his testimony, raised concerns that outlawing the operation of Class 3 e-bikes could cause issues for immigrant delivery workers who may unwittingly continue using the devices.</p>
+<p>"We have significant concerns of unintended consequences that will most heavily impact delivery workers," Levine said. "Many of them are immigrants with limited English proficiency <span class="transcript-word" data-offset="70638560" data-word="4305.49:109.42:109.51">and</span> <span class="transcript-word" data-offset="70640480" data-word="4305.49:109.54:109.66">other</span> <span class="transcript-word" data-offset="70643840" data-word="4305.49:109.75:110.38">vulnerabilities.</span> <span class="transcript-word" data-offset="70666400" data-word="4305.49:111.16:111.46">Delivery</span> <span class="transcript-word" data-offset="70672640" data-word="4305.49:111.55:111.85">workers</span> <span class="transcript-word" data-offset="70678880" data-word="4305.49:111.94:112.03">could</span> <span class="transcript-word" data-offset="70680800" data-word="4305.49:112.06:112.24">face</span> <span class="transcript-word" data-offset="70688960" data-word="4305.49:112.57:112.87">losing</span> <span class="transcript-word" data-offset="70694240" data-word="4305.49:112.9:112.99" data-selected="true">their</span> <span class="transcript-word" data-offset="70696640" data-word="4305.49:113.05:113.41">livelihoods</span> <span class="transcript-word" data-offset="70707680" data-word="4305.49:113.74:113.8">as</span> <span class="transcript-word" data-offset="70710080" data-word="4305.49:113.89:114.01">well</span> <span class="transcript-word" data-offset="70712480" data-word="4305.49:114.04:114.1">as</span> <span class="transcript-word" data-offset="70714400" data-word="4305.49:114.16:114.55">increased</span> <span class="transcript-word" data-offset="70721120" data-word="4305.49:114.58:115.09">interactions</span> <span class="transcript-word" data-offset="70730240" data-word="4305.49:115.15:115.23">with</span> <span class="transcript-word" data-offset="70732480" data-word="4305.49:115.29:115.35">law</span> <span class="transcript-word" data-offset="70735840" data-word="4305.49:115.5:115.98">enforcement</span> <span class="transcript-word" data-offset="70752160" data-word="4305.49:116.52:116.58">at</span> <span class="transcript-word" data-offset="70753600" data-word="4305.49:116.61:116.64">a</span> <span class="transcript-word" data-offset="70755520" data-word="4305.49:116.73:116.91">time</span> <span class="transcript-word" data-offset="70758880" data-word="4305.49:116.94:117.06">when</span> <span class="transcript-word" data-offset="70762240" data-word="4305.49:117.15:117.33">many</span> <span class="transcript-word" data-offset="70768000" data-word="4305.49:117.51:117.57">are</span> <span class="transcript-word" data-offset="70769440" data-word="4305.49:117.6:118.08">especially</span> <span class="transcript-word" data-offset="70779520" data-word="4305.49:118.23:118.59">fearful</span> <span class="transcript-word" data-offset="70786240" data-word="4305.49:118.65:118.71">of</span> <span class="transcript-word" data-offset="70788160" data-word="4305.49:118.77:118.92">such</span> <span class="transcript-word" data-offset="70792960" data-word="4305.49:119.07:119.67">interactions."</span></p>
+<p>The legislation cracking down on third-party delivery apps includes bills that would require they <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067880&amp;GUID=E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3" target="_blank" rel="noopener">obtain business licenses</a> from the city Department of Consumer and Worker Protection, <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861511&amp;GUID=05BA3489-38FD-436D-9B55-B35A46A6CD96">retain delivery data</a>, and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862713&amp;GUID=D3AC8AFD-D4CD-4426-88D3-954A39C58493" target="_blank" rel="noopener">verify the registration of mopeds used for deliveries</a>.</p>
+<p>When it comes to Priscilla’s Law, some lawmakers and groups calling for cracking down on e-micromobility devices argue it would be the only effective way to regulate them.</p>
+<p>"Shaun you asked how to tell the difference between legal and illegal e-bikes, how about license plates for the legal ones?" Janet Schroeder, co-founder of the anti-e-bike group the NYC E Vehicle Safety Alliance, said to Abreu.</p>
+<p>But delivery workers contend it would put the largely undocumented immigrant advocates in the crosshairs of federal immigration authorities.</p>
+<p>Ligia Guallpa, executive director of the group the Workers Justice Project, said the package of bills does not address the "root causes" of street safety.</p>
+<p>"It leaves out the need for safer street infrastructure, stronger worker protections, a real transition plan, and real accountability to corporations," Guallpa said.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249596</post-id>	</item>
+		<item>
+		<title>Baby boom: Reynoso renews $50K fund for community baby showers</title>
+		<link>https://www.brooklynpaper.com/bp-reynoso-community-baby-shower-fund/</link>
+					<comments>https://www.brooklynpaper.com/bp-reynoso-community-baby-shower-fund/#respond</comments>
+		
+		<dc:creator><![CDATA[Olivia Seaman]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:01:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[antonio reynoso]]></category>
+		<category><![CDATA[baby shower]]></category>
+		<category><![CDATA[borough]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[Community Baby Shower Fund]]></category>
+		<category><![CDATA[community news]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kc]]></category>
+		<category><![CDATA[kids & family]]></category>
+		<category><![CDATA[kings county]]></category>
+		<category><![CDATA[local]]></category>
+		<category><![CDATA[local news]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[new york city]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249487</guid>
+
+					<description><![CDATA[Brooklyn nonprofits that help new and expecting parents can once again apply for funding to throw community baby showers, as Borough President Antonio Reynoso renews his Community Baby Shower Fund for a third year.  The $50,000 fund will provide eligible Brooklyn nonprofits with up to $5,000 in matching funds for non-personnel expenses associated with community...<br> <a class="read-more" href="https://www.brooklynpaper.com/bp-reynoso-community-baby-shower-fund/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Brooklyn nonprofits that help new and expecting parents can once again apply for funding to throw community baby showers, as Borough President Antonio Reynoso renews his Community Baby Shower Fund for a third year. </span></p>
+<p><span style="font-weight: 400;">The $50,000 fund will provide eligible Brooklyn nonprofits with up to $5,000 in matching funds for non-personnel expenses associated with community baby showers held between July 1, 2026, and May 31, 2027. </span></p>
+<p><span style="font-weight: 400;">The <a href="https://www.brooklynbp.nyc.gov/brooklyn-borough-president-antonio-reynoso-launches-third-annual-community-baby-shower-fund/">program</a> is part of Reynoso’s broader maternal health agenda, which focuses on addressing disparities in maternal health outcomes across Brooklyn. </span></p>
+<p><span style="font-weight: 400;">“We cannot improve maternal health outcomes solely within the walls of hospitals—new parents need support networks in their own neighborhoods,” Reynoso said in a statement. “Community baby showers foster those connections while equipping new parents with essential resources and celebrating the milestone that is starting or growing a family.”</span></p>
+
+[caption id="attachment_249489" align="aligncenter" width="677"]<img class=" wp-image-249489" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/babyshower20265.webp?quality=51&amp;w=700" alt="" width="677" height="508" /> <span class="image-caption">Applications will be awarded on a rolling basis and will conclude when the $50K total has been awarded.</span><span class="image-credit">Photo courtesy of Brooklyn Borough President Antonio Reynoso</span>[/caption]
+
+<p><span style="font-weight: 400;">Since the program launched in 2o24, the Borough President’s office said it has awarded $100,000 to local nonprofits serving new and expecting parents. </span></p>
+<p><span style="font-weight: 400;">Ten organizations received funding through the <a href="https://www.brooklynpaper.com/reynoso-community-baby-shower-fund-2026/">second annual Community Baby Shower Fund</a>, announced in July 2025. Their showers served hundreds of parents across the borough with everything from baby supplies and workshops to connections with clinical and social service providers. </span></p>
+<p><span style="font-weight: 400;">Second-year recipients included Life Equip Group in East New York and Brownsville; Brownsville Community Culinary Center; New Neighbors Partnership Association in Flatbush and Midwood; Kiwanis Kings Plaza &amp; Canarsie; and other organizations in Coney Island, Bed-Stuy, and Canarsie.</span></p>
+<p><span style="font-weight: 400;">For New Neighbors Partnership Association, the funding helped create a baby shower specifically designed to support recently resettled refugee mothers. </span></p>
+<p><span style="font-weight: 400;">Shoshana Barzel, the nonprofit’s founder and executive director, said each family received baby essentials worth over $500, transportation assistance to and from the shower, culturally familiar food, family portraits and more.</span></p>
+<p><span style="font-weight: 400;">“Support from the Brooklyn Borough President’s Community Baby Shower Fund allowed New Neighbors Partnership to create a welcoming space where recently resettled refugee moms from Ukraine, Afghanistan, Nicaragua and beyond could receive essential supplies while building connections with other parents and members of the community,” she said. “For families who are new to Brooklyn, these gatherings are an important opportunity to feel welcomed, less alone, and strengthen their support network.” </span></p>
+
+[caption id="attachment_249490" align="aligncenter" width="672"]<img class=" wp-image-249490" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/babyshower20263.webp?quality=51&amp;w=700" alt="" width="672" height="504" /> <span class="image-caption">The showers help provide community and support to local families.</span><span class="image-credit">Photo courtesy of Brooklyn Borough President Antonio Reynoso</span>[/caption]
+
+<p><span style="font-weight: 400;">Other organizations used the funding to pair baby supplies with health education and services. Kiwanis Kings Plaza &amp; Canarsie hosted an event at P.S. 276 that brought together more than 25 resource tables and served more than 300 local families, while Hope Development Corporation’s Brownsville event drew more than 140 expecting and new mothers. Holding Hands Ministries provided essential supplies and resources to new and expecting parents, and Brooklyn Perinatal Network hosted three smaller showers serving 55 individuals and their families, with events offering educational workshops, food, games and community services in multiple languages. </span></p>
+<p><b>Who can apply? </b></p>
+<p><span style="font-weight: 400;">The fund is open to Brooklyn nonprofits with current 501(c)(3) status that can match the amount of funding requested and have experience serving prenatal, postnatal or postpartum individuals and their families. </span></p>
+<p><span style="font-weight: 400;">The Borough President’s office will prioritize applicants hosting events in neighborhoods with historically high maternal mortality and morbidity rates: Brownsville, Crown Heights, Red Hook/Gowanus, East New York, East Flatbush, Bedford-Stuyvesant, Fort Greene/Brooklyn Heights and Flatlands/Canarsie.</span></p>
+
+[caption id="attachment_249491" align="aligncenter" width="405"]<img class=" wp-image-249491" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/babyshower20261.webp?quality=51&amp;w=469" alt="" width="405" height="604" /> <span class="image-caption">Priority will be given to applicants who plan showers in neighborhoods historically impacted by high maternal mortality and morbidity rates.</span><span class="image-credit">Photo courtesy of Rewrite Corporation &amp; MABCBK</span>[/caption]
+
+<p><span style="font-weight: 400;">Funding is available on a rolling basis until the $50,000 runs out. Awards are issued as reimbursements, and submitting an application does not guarantee funding. </span></p>
+<p><span style="font-weight: 400;">Nonprofits can apply through the Borough President’s budget page and must also submit a 501(c)(3) determination letter, their most recent Form 990 or financial statement and a project budget to funding@brooklynbp.</span><a href="http://nyc.gov"><span style="font-weight: 400;">nyc.gov</span></a><span style="font-weight: 400;"> with the subject line “Community Baby Shower Fund.” </span></p>
+<p><span style="font-weight: 400;">The <a href="https://www.brooklynbp.nyc.gov/departments/budget/" target="_blank" rel="noopener">application and forms</a> are available through the Brooklyn Borough President’s website. </span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/bp-reynoso-community-baby-shower-fund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.brooklynpaper.com/wp-content/uploads/2026/09/babyshoweecoverphoto.webp?quality=51&#038;w=384" width="384" height="288" /><post-id xmlns="com-wordpress:feed-additions:1">249487</post-id>	</item>
+		<item>
+		<title>NYCHA’s new repair model gets its first $607M test in Brooklyn</title>
+		<link>https://www.amny.com/politics/nychas-new-repair-model-test-in-brooklyn/</link>
+					<comments>https://www.brooklynpaper.com/nychas-new-repair-model-gets-its-first-607m-test-in-brooklyn/#respond</comments>
+		
+		<dc:creator><![CDATA[By Adam Daly]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:00:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[mamdani]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[nycha]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249581&#038;preview=true&#038;preview_id=249581</guid>
+
+					<description><![CDATA[The city closed the first financing deal through its Public Housing Preservation Trust this week, unlocking $607 million for a top-to-bottom overhaul of NYCHA's Nostrand Houses in Brooklyn. The deal will fund renovations to 1,148 apartments across 16 buildings in Sheepshead Bay, home to roughly 2,000 residents. City officials said the financing closed Sept.… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/politics/nychas-new-repair-model-test-in-brooklyn/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The city closed the first financing deal through its <a href="https://www.preservationtrust.org/">Public Housing Preservation Trust</a> this week, unlocking $607 million for a top-to-bottom overhaul of NYCHA's Nostrand Houses in Brooklyn.</span></p>
+<p><span style="font-weight: 400;">The deal will fund renovations to 1,148 apartments across 16 buildings in Sheepshead Bay, home to roughly 2,000 residents. City officials said the financing closed Sept. 29, with construction expected to begin later this fall.</span></p>
+<p data-pm-slice="1 1 []">NYCHA estimates it needs about $78 billion over the next 20 years to repair and upgrade its aging housing stock, according to the <a href="https://www.nyc.gov/site/nycha/about/physical-needs-assessment-faqs.page">authority’s latest update</a>, based on January 2026 data.</p>
+<p><span style="font-weight: 400;">Nostrand Houses is the first NYCHA development to reach financial closing through the Trust, which was <a href="https://politicsny.com/2022/06/16/hochul-signs-legislation-creating-nyc-public-housing-preservation-trust/">created in 2022</a> to bring in more federal funding for major repairs while keeping developments publicly owned and managed.</span></p>
+<p><span style="font-weight: 400;">The legislation allows up to 25,000 NYCHA apartments to enter the Trust, provided residents at each development first vote to do so. The Mamdani administration's housing plan says it plans to push toward that full target.</span></p>
+<p><span style="font-weight: 400;">Once a development joins, it is converted from the federal Section 9 subsidy program to Section 8, allowing it to draw greater and more flexible federal subsidies while preserving existing tenant rights and permanently affordable rents.</span></p>
+<p><span style="font-weight: 400;">At Nostrand Houses, that conversion is expected to roughly double the federal operating subsidy NYCHA currently receives for the development.</span></p>
+<h2>'If we do this right... this becomes the blueprint' for NYCHA</h2>
+
+[caption id="attachment_137872559" align="alignnone" width="700"]<img class="size-medium wp-image-137872559" src="https://www.amny.com/wp-content/uploads/2026/09/DSC_1519.jpg?quality=51&amp;w=700" alt="" width="700" height="393" /> <span class="image-caption">NYCHA's Nostrand Houses Photo</span><span class="image-credit"> by Lloyd Mitchell</span>[/caption] [caption id="attachment_137872560" align="alignnone" width="700"]<img class="size-medium wp-image-137872560" src="https://www.amny.com/wp-content/uploads/2026/09/DSC_1486.jpg?quality=51&amp;w=700" alt="" width="700" height="406" /> <span class="image-credit">Photo by Lloyd Mitchell</span>[/caption]
+
+<p>The Trust offers a <a href="https://www.bxtimes.com/our-forgotten-borough-nycha-nyc-worst-landlord/">different route from NYCHA’s PACT program</a>, which also taps Section 8 funding but brings in private firms to manage developments and carry out renovations.</p>
+<p><span style="font-weight: 400;"><a href="https://www.nysenate.gov/senators/julia-salazar">State Sen. Julia Salazar</a>, who sponsored the legislation that created the Trust, called Nostrand Houses a “proof of concept” for the model.</span></p>
+<p><span style="font-weight: 400;">“The whole city is watching because Nostrand Houses is the proof of concept,” Salazar said Wednesday. “If we do this right … it becomes the blueprint” for other developments across the city.</span></p>
+<p><span style="font-weight: 400;">Mayor Zohran Mamdani also cast the deal as the beginning of a broader push.</span></p>
+<p><span style="font-weight: 400;">“This is just the beginning of our work to revitalize tens of thousands of NYCHA homes across the city via the Preservation Trust,” Mamdani said.</span></p>
+<p><span style="font-weight: 400;">The planned work includes new kitchens and bathrooms, upgraded heating and cooling systems, new elevators, electrical and plumbing upgrades, lead and mold remediation, accessibility improvements and expanded security systems.</span></p>
+<p><span style="font-weight: 400;">The project is expected to take five years and will be completed in six phases. Most temporary relocations will take place on site, though some residents will be moved off site, Deputy Mayor for Housing and Planning Leila Bozorg said.</span></p>
+
+[caption id="attachment_137872561" align="alignnone" width="700"]<img class="size-medium wp-image-137872561" src="https://www.amny.com/wp-content/uploads/2026/09/DSC_1468.jpg?quality=51&amp;w=700" alt="" width="700" height="393" /> <span class="image-caption">Residents of Nostrand Houses watch as Mayor Zohran Mamdani and city housing officials announce a $607 million modernization of the Brooklyn NYCHA development. Photo</span><span class="image-credit"> by Lloyd Mitchell</span>[/caption]
+
+<p><span style="font-weight: 400;">Nostrand Houses residents <a href="https://www.amny.com/housing/nostrand-houses-first-nycha-campus-to-join-preservation-trust/">were the first in the city to vote to join the Trust</a>, approving the move in December 2023. Of 808 residents who participated, 464 voted to join the Trust, while 172 chose to remain under Section 9 and 163 opted for the Permanent Affordability Commitment Together, or PACT, program.</span></p>
+<p><span style="font-weight: 400;">At the time, city officials said the actual repair work would not begin until 2026 as NYCHA completed the subsidy conversion, selected contractors and finalized the scope of work.</span></p>
+<p><span style="font-weight: 400;">Three other developments — Bronx River Addition, Unity Towers and Hylan Houses — have since voted to join the Trust, with more elections underway.</span></p>
+<p><span style="font-weight: 400;">At Bronx River Addition, a 226-apartment senior development in Soundview, NYCHA and the Trust <a href="https://www.bxtimes.com/bronx-river-addition-set-for-93m-senior-housing-renovation-through-nycha-trust/">moved forward last year</a> with plans for a roughly $93 million renovation, including new kitchens and bathrooms, replacement heating systems and accessibility upgrades.</span></p>
+<p>The city’s five-year capital plan now includes <a href="https://www.nyc.gov/content/dam/nycgov/nyc-main/pdf/2026/block-by-block-report.pdf">$5.6 billion for NYCHA</a>, which the Mamdani administration says is the most city capital dedicated to the authority in recent history.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/nychas-new-repair-model-gets-its-first-607m-test-in-brooklyn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249581</post-id>	</item>
+		<item>
+		<title>Crown Heights landlord will re-register rent stabilized units in settlement with Attorney General</title>
+		<link>https://www.brooklynpaper.com/cheights-landlord-rent-stabilized-settlement/</link>
+					<comments>https://www.brooklynpaper.com/cheights-landlord-rent-stabilized-settlement/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirstyn Brendlen]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 20:20:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Crown Heights]]></category>
+		<category><![CDATA[Housing]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[1075 Dean Street]]></category>
+		<category><![CDATA[ag]]></category>
+		<category><![CDATA[apartments]]></category>
+		<category><![CDATA[attorney general]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[Claudette Henry]]></category>
+		<category><![CDATA[de-facto rent stabilization]]></category>
+		<category><![CDATA[DHCR]]></category>
+		<category><![CDATA[division of homes and community renewal]]></category>
+		<category><![CDATA[enforcement]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[John Anderson]]></category>
+		<category><![CDATA[landlord]]></category>
+		<category><![CDATA[letitia james]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[rent stabilization]]></category>
+		<category><![CDATA[settlement]]></category>
+		<category><![CDATA[tenants]]></category>
+		<category><![CDATA[units]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249577</guid>
+
+					<description><![CDATA[A Crown Heights landlord accused of lying about rent-stabilized apartments will re-register his units and offer all tenants rent-stabilized leases as part of a settlement with Attorney General Letitia James. James’ office sued John Anderson in June, accusing him of failing to comply with state law, overcharging and harassing tenants, and lying on government forms....<br> <a class="read-more" href="https://www.brooklynpaper.com/cheights-landlord-rent-stabilized-settlement/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">A Crown Heights landlord accused of lying about rent-stabilized apartments will re-register his units and offer all tenants rent-stabilized leases as part of a settlement with Attorney General Letitia James.</span></p>
+<p><span style="font-weight: 400;">James’ office </span><a href="https://www.brooklynpaper.com/ag-sues-brooklyn-landlords-rent-stabilized-units/"><span style="font-weight: 400;">sued</span></a><span style="font-weight: 400;"> John Anderson in June, accusing him o</span><span style="font-weight: 400;">f failing to comply with state law, overcharging and harassing tenants, and lying on government forms. All the while, city records show, the building in question — 1075 Dean St. — was falling into disrepair.</span></p>
+<p><span style="font-weight: 400;">The suit was part of </span><a href="https://ag.ny.gov/"><span style="font-weight: 400;">the AG’s</span></a><span style="font-weight: 400;"> “de-facto rent stabilization” enforcement unit, which was launched in 2025. Under state law, buildings with six or more units constructed before 1974 are automatically rent-stabilized. A later judicial doctrine ruled that buildings initially found to have too few units to qualify could be de-facto stabilized if landlords later added more apartments. </span></p>
+<p><span style="font-weight: 400;">Anderson bought 1075 Dean St. in 2004, per court records, and the building is still registered as having only three units. In 2016, DHCR ruled the building was subject to de-facto stabilization, as Anderson had added at least three apartments.</span></p>
+
+[caption id="attachment_249579" align="aligncenter" width="700"]<img class="size-medium wp-image-249579" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.29.46-PM.jpg?quality=51&amp;w=700" alt="crown heights rent stabilized building" width="700" height="677" /> <span class="image-caption">Anderson's building at 1075 Dean Street.</span><span class="image-credit">Photo courtesy of Google Maps/Gerardo Romo, NYC Council Media Unit</span>[/caption]
+
+<p><span style="font-weight: 400;">City records show that 1075 Dean St. has been repeatedly cited for illegal partitions and additions.</span></p>
+<p><span style="font-weight: 400;">But, for nearly ten years, Anderson failed to register the building with DHCR and never gave tenants stabilized leases, per the lawsuit. He allegedly illegally tried to evict one tenant and retaliated against a resident who asked for a stabilized lease by cutting off her utilities.</span></p>
+<p><span style="font-weight: 400;">Three months after the lawsuit was filed, Anderson and the AG’s office agreed on a <a href="https://ag.ny.gov/sites/default/files/settlements-agreements/new-york-v-john-anderson-and-921-fulton-st-corp-settlement-2026.pdf">settlement</a>. Anderson will register three units in the building with DHCR and provide stabilized leases to all tenants. DHCR will determine the “legal regulated rent” for each unit.</span></p>
+<p><span style="font-weight: 400;">Anderson will also be forced to pay back rent overcharges to his tenants, “cease any activity constituting harassment … against any tenant or occupant,” and fix any “immediately hazardous and hazardous conditions” within the next five months. </span></p>
+<p><span style="font-weight: 400;">City records show 1075 Dean St. currently has several open Department of Buildings violations and 138 open violations with the Department of Housing Preservation and Development for various issues, including water leaks, broken faucets, roach infestations and more. </span></p>
+<p><span style="font-weight: 400;">Anderson agreed that he owes the state $49,500 for failing to register the units. After reviewing his financial statements, James agreed not to collect on the fines if he keeps up with the terms of the settlement for a year. </span></p>
+<p><span style="font-weight: 400;">“New York City’s rent stabilization laws are clear, and my office will not hesitate to enforce them,” James said in a statement. “We created this compliance program to ensure that all New York City tenants are treated fairly and that all landlords are following the law. I am proud of the success this program has already shown, and I will continue to stand up for every New York tenant.”</span></p>
+<p><span style="font-weight: 400;">Since the de-facto rent stabilization program was launched in 2025, it was prevented 27 evictions, per the AG’s office, and forced 30 landlords to certify their compliance by returning units to stabilization. Earlier this year, James also sued Brownsville landlord Claudette Henry for allegedly refusing to register stabilized units. </span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/cheights-landlord-rent-stabilized-settlement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.brooklynpaper.com/wp-content/uploads/2026/09/53250534892_f2268444bb_6k.jpg?quality=51&#038;w=384" width="384" height="243" /><post-id xmlns="com-wordpress:feed-additions:1">249577</post-id>	</item>
+		<item>
+		<title>Dinner and a show: Arts festival brings Floyd Bennett Field’s historic hangars to life</title>
+		<link>https://www.brooklynpaper.com/jbrpc-floyd-bennett-field-arts-festival-2026/</link>
+					<comments>https://www.brooklynpaper.com/jbrpc-floyd-bennett-field-arts-festival-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Gabriele Holtermann]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 18:10:46 +0000</pubDate>
+				<category><![CDATA[Arts & Entertainment]]></category>
+		<category><![CDATA[art festival]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[floyd benett field]]></category>
+		<category><![CDATA[gateway national recreation area]]></category>
+		<category><![CDATA[Jamaica Bay-Rockaway Parks Conservancy]]></category>
+		<category><![CDATA[national park service]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[public art]]></category>
+		<category><![CDATA[the long table]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249553</guid>
+
+					<description><![CDATA[Jamaica Bay-Rockaway Parks Conservancy (JBRPC) will host a playful take on a “Dinner and a Show” at its second biennial Floyd Bennett Field Public Arts Festival at the historic Brooklyn airfield on Sat., Oct. 3, from 6 to 9:30 p.m. Fifteen newly commissioned artworks by 21 contemporary artists will come to life through projection mapping,...<br> <a class="read-more" href="https://www.brooklynpaper.com/jbrpc-floyd-bennett-field-arts-festival-2026/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Jamaica Bay-Rockaway Parks Conservancy (JBRPC) will host a playful take on a “Dinner and a Show” at its second biennial Floyd Bennett Field Public Arts Festival at the historic Brooklyn airfield on Sat., Oct. 3, from 6 to 9:30 p.m.</p>
+<p>Fifteen newly commissioned artworks by 21 contemporary artists will come to life through projection mapping, animation, light, sound and storytelling, transforming the monumental brick-and-glass Hangars 3 and 4 of New York City’s first municipal airport into a giant outdoor canvas.</p>
+<p>Festivalgoers are encouraged to bring their own picnic dinner — food will not be sold on-site — and settle on the Hangar Lawn or join <a href="https://www.longesttablecommunity.org/">The Longest Table</a>e to share a meal in a communal dining experience under the evening sky before the presentation begins at sunset.</p>
+<p>The festival will feature works by artists <a href="https://www.jbrpc.org/arts#l-derrick-adams">Derrick Adams</a>, <a href="https://www.jbrpc.org/arts#l-dj-manny">DJ Manny</a>, <a href="https://www.jbrpc.org/arts#l-iris-du">Iris Du</a>, <a href="https://www.jbrpc.org/arts#l-anne-wichmann">She’s Excited!</a>, <a href="https://www.jbrpc.org/arts#l-john-fitzgerald">John Fitzgerald</a>, <a href="https://www.jbrpc.org/arts#l-wills-glasspiegel">Wills Glasspiegel</a>, <a href="https://www.jbrpc.org/arts#l-ryan-hartley-smith">Ryan Hartley Smith</a>, <a href="https://www.jbrpc.org/arts#l-shannon-kavanagh">Shannon Kavanagh</a>, <a href="https://www.jbrpc.org/arts#l-becs-lee">Becs Lee</a>, <a href="https://www.jbrpc.org/arts#l-chengxin-liang">Chengxin Liang</a>, <a href="https://www.jbrpc.org/arts#l-matt-mccorkle">Matt McCorkle</a>, <a href="https://www.jbrpc.org/arts#l-lajune-mcmillian">LaJuné McMillian</a>, <a href="https://www.jbrpc.org/arts#l-camila-a-morales">Camila A. Morales</a>, <a href="https://www.jbrpc.org/arts#l-armon-naeini">Armon Naeini</a>, <a href="https://www.jbrpc.org/arts#l-slash-p">/p</a>, <a href="https://www.jbrpc.org/arts#l-chloe-pitkoff">Chloe Pitkoff</a>, <a href="https://www.jbrpc.org/arts#l-randy-polumbo">Randy Polumbo</a>, <a href="https://www.jbrpc.org/arts#l-daniel-tetreault">Daniel Tetreault</a>, <a href="https://www.jbrpc.org/arts#l-anke-schiemann">Anke Schiemann</a>, <a href="https://www.jbrpc.org/arts#l-dave-smoota-smith">Dave Smoota Smith</a> and <a href="https://www.jbrpc.org/arts#l-brendan-winick">Brendan Winick</a>.</p>
+<p>The historic Art Deco hangars are part of a major $100 million rehabilitation project between the National Park Service and JBRPC that will transform the vacant historic buildings into a vibrant community, science and climate resilience hub, creating new opportunities for arts, education, workforce development, research and innovation, and visitor services at Floyd Bennett Field.</p>
+
+[caption id="attachment_249556" align="alignnone" width="700"]<img class="size-medium wp-image-249556" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/BP_ArtFloydBennettField_042024-7.jpg?quality=51&amp;w=700" alt="" width="700" height="467" /> <span class="image-caption">Jamaica Bay-Rockaway Parks Conservancy is hosting its second biennial Floyd Bennett Field! Arts Festival. File photo by Gabriele Holtermann</span>[/caption]
+
+<p>The festival also marks the official launch of “Fifty for Floyd Bennett Field,” JBRPC’s campaign asking patrons to contribute $50 — or any amount from $5 to $500 and beyond — to support the hangars project.</p>
+<p>JBRPC Executive Director Terri Carta said the organization wanted to educate a wider audience about the historic value of Floyd Bennett Field and take advantage of its unparalleled recreational opportunities.</p>
+<p>“The Public Arts Festival is an important part of how JBRPC and the National Park Service are telling the story of Floyd Bennett Field and building excitement for its future,” Carta said in a statement. “We’re excited to present the Floyd Bennett Field! Public Arts Festival as a spectacular way to bring people into the story of Hangars 3 &amp; 4. Through large-scale, site-specific artworks projected onto the historic hangars, artists are transforming these remarkable structures into a canvas for creativity, storytelling, and imagination.”</p>
+<p>For Tom Secunda, JBRPC’s chairman, public art provides a unique opportunity to experience national parks from a different perspective.</p>
+<p>“That’s especially powerful here at Floyd Bennett Field, where art, history, and this extraordinary national park landscape come together," Secunda said. "Through partnership and investment, we are making this remarkable place more accessible and meaningful to present and future generations. The Public Arts Festival offers a glimpse of what that can look like."</p>
+<p>Located along Jamaica Bay at the southern end of Flatbush Avenue, between Marine Park and Jacob Riis Park, Floyd Bennett Field played an important role in the city’s aviation history. Named for Floyd Bennett, the aviator who received the Congressional Medal of Honor for his role in the first flight over the North Pole in 1926, the airfield became a center for experimental aviation and record-breaking attempts in speed and distance, attracting aviation pioneers including Amelia Earhart, Howard Hughes and Douglas Corrigan.</p>
+<p>In 1972, Floyd Bennett Field became part of Gateway National Recreation Area, the first unit of the National Park System specifically designated to be within easy reach of urban residents.</p>
+<p>Minka Sendich, acting superintendent of Gateway National Recreation Area, noted that the Public Arts Festival celebrates Gateway National Recreation Area, where millions of New Yorkers and visitors experience a national park in an urban setting.</p>
+<p>“We are proud to partner with the Jamaica Bay-Rockaway Parks Conservancy to bring this unique event to Floyd Bennett Field. The Festival will showcase contemporary digital art against the backdrop of this nationally significant site of aviation history, while building excitement for the anticipated rehabilitation and reactivation of historic Hangars 3 and 4,” Sendich said.</p>
+<p>The festival is presented by Jamaica Bay-Rockaway Parks Conservancy in partnership with the National Park Service at Gateway National Recreation Area. Major support is provided by Bloomberg Philanthropies and the Secunda Family Foundation, along with other sponsors and public officials.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/jbrpc-floyd-bennett-field-arts-festival-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.brooklynpaper.com/wp-content/uploads/2026/09/BP_ArtFloydBennettField_042024-18.jpg.webp?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">249553</post-id>	</item>
+		<item>
+		<title>Brooklyn Chamber lands $1M Google grant to expand AI training for small businesses statewide</title>
+		<link>https://www.brooklynpaper.com/brooklyn-chamber-1m-google-ai-training-grant/</link>
+					<comments>https://www.brooklynpaper.com/brooklyn-chamber-1m-google-ai-training-grant/#respond</comments>
+		
+		<dc:creator><![CDATA[Olivia Seaman]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 17:59:04 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[brooklyn businesses]]></category>
+		<category><![CDATA[brooklyn chamber of commerce]]></category>
+		<category><![CDATA[brooklyn economy]]></category>
+		<category><![CDATA[business development]]></category>
+		<category><![CDATA[economic development]]></category>
+		<category><![CDATA[Go Digital]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google.org]]></category>
+		<category><![CDATA[New York businesses]]></category>
+		<category><![CDATA[small businesses]]></category>
+		<category><![CDATA[staten island]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249563</guid>
+
+					<description><![CDATA[The Brooklyn Chamber of Commerce is taking its small-business AI training program statewide with a new $1 million grant from Google.org. Funding will support the second phase of the Chamber’s Go Digital Initiative, giving 20 Chambers of Commerce and local business-serving organizations across New York the resources and training to help small businesses incorporate artificial...<br> <a class="read-more" href="https://www.brooklynpaper.com/brooklyn-chamber-1m-google-ai-training-grant/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The Brooklyn Chamber of Commerce is taking its small-business AI training program statewide with a new $1 million grant from <a href="http://Google.org">Google.org</a>. </span></p>
+<p class="p1"><span class="s1">Funding will support the second phase of the Chamber’s <a href="https://www.facebook.com/brooklynchamberofcommerce/posts/1552111813624286/" target="_blank" rel="noopener">Go Digital Initiative</a>, giving 20 Chambers of Commerce and local business-serving organizations across New York the resources and training to help small businesses incorporate artificial intelligence into their regular operations.</span></p>
+<p class="p1"><span class="s1">The Chamber announced the grant Sept. 22, following its annual Economic Development Breakfast, which focused this year on AI and the New York City economy. </span></p>
+<p class="p1"><span class="s1">The <a href="https://www.brooklynpaper.com/brooklyn-chamber-gala-businesses/">Brooklyn Chamber</a> will use its existing AI curriculum, implementation model and partner network to train participating organizations, which will provide AI assistance and programming to businesses in their communities.</span></p>
+<p class="p1"><span class="s1">"AI is no longer a tool reserved for tech giants — it is an essential operational asset for main street small businesses looking to compete, scale, and thrive," Randy Peers, president and CEO of the Brooklyn Chamber of Commerce, said in a statement. </span></p>
+<p class="p1"><span class="s1">He added that the Chamber would distribute “our field-tested AI playbook” across the state, thanks to the grant. </span></p>
+<p class="p1"><span class="s1">"By funding and training local Chambers alongside Google, we are building a sustainable statewide infrastructure that ensures every small business community in New York has the tools needed to succeed in an AI-driven economy,” he continued.</span></p>
+
+[caption id="attachment_249565" align="alignnone" width="700"]<img class="size-medium wp-image-249565" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/IMG_5032.jpeg?quality=51&amp;w=700" alt="Grant Brooklyn Chamber" width="700" height="467" /> <span class="image-caption">The grant will allow 200 small businesses across the state to access the AI training models.</span><span class="image-credit">Photo courtesy of the Brooklyn Chamber of Commerce</span>[/caption]
+
+<p class="p1"><span class="s1">The grant program will provide $20,000 in implementation funding to each of the 20 participating Chambers, totaling $400,000 in direct support. Organizations will also receive AI curricula, marketing and recruitment toolkits, operational guidelines and implementation assistance from the <a href="https://affilagroup.com/" target="_blank" rel="noopener">Affila Group</a>.</span></p>
+<p class="p1"><span class="s1">The statewide rollout is expected to reach at least 200 small businesses during its initial phase, with the program aiming to improve AI literacy and help businesses use the technology to streamline operations and improve business performance. They added that the model is designed to continue beyond the initial rollout by giving local Chambers the tools and staff expertise needed to run their own AI training programs.</span></p>
+
+[caption id="attachment_249564" align="alignnone" width="700"]<img class="size-medium wp-image-249564" src="https://www.brooklynpaper.com/wp-content/uploads/2026/09/IMG_4906.jpeg?quality=51&amp;w=700" alt="" width="700" height="467" /> <span class="image-caption">New York City Comptroller Mark Levine served as the event's keynote speaker.</span><span class="image-credit">Photo courtesy of the Brooklyn Chamber of Commerce</span>[/caption]
+
+<p class="p1"><span class="s1">Google said the grant is intended to help small businesses across the state gain access to digital tools as AI becomes increasingly integrated into business operations. </span></p>
+<p class="p1"><span class="s1">"Small businesses are the backbone of New York’s economy, and making sure they have access to the latest digital tools is essential to keeping our communities competitive," Reggie Thomas, head of government affairs at Google New York, said in a statement. </span></p>
+<p class="p1"><span class="s1">He added that the models will “empower local Chambers across the state” to “optimize operations, scale and build long-term economic resilience.” </span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/brooklyn-chamber-1m-google-ai-training-grant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://www.brooklynpaper.com/wp-content/uploads/2026/09/IMG_5021.jpeg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">249563</post-id>	</item>
+		<item>
+		<title>New restaurant Sura brings modern Korean tapas to Bushwick</title>
+		<link>https://www.amny.com/lifestyle/eat-and-drink/sura-modern-korean-tapas-bushwick/</link>
+					<comments>https://www.brooklynpaper.com/new-restaurant-sura-brings-modern-korean-tapas-to-bushwick/#respond</comments>
+		
+		<dc:creator><![CDATA[By Emily Davenport-Salcedo]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 13:00:44 +0000</pubDate>
+				<category><![CDATA[Bushwick]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[eat-and-drink]]></category>
+		<category><![CDATA[eddie-hong]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[pm-newsletter]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[sura]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249534</guid>
+
+					<description><![CDATA[A new Bushwick restaurant is putting a new spin on Korean cuisine. Sura is a modern Korean and Korean-American restaurant that puts an emphasis on vibrant flavors that are meant for sharing. The menu features tapas-style dishes that put a creative twist on Korean dishes that honor the area’s culinary traditions. “I was a… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/lifestyle/eat-and-drink/sura-modern-korean-tapas-bushwick/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">A new Bushwick restaurant is putting a new spin on Korean cuisine.</span></p>
+<p><span style="font-weight: 400;">Sura is a modern Korean and Korean-American restaurant that puts an emphasis on vibrant flavors that are meant for sharing. The menu features tapas-style dishes that put a creative twist on Korean dishes that honor the area’s culinary traditions.</span></p>
+<p><span style="font-weight: 400;">“I was a chef for 15 years, and one of my partners worked with me as my sous chef for six years. When we were creating the menu for Bushwick, we wanted to create our menu with our style, but I had to understand what the market wanted,” said Eddie Hong, Sura’s owner and head chef. “The market in Bushwick is more of a party scene and the food is not like the city where there’s two or three Michelin star restaurants and high-end fancy things, so I had to pivot a little bit and make the menu a little bit more familiarized to the community.”</span></p>
+<p><span style="font-weight: 400;">The restaurant takes on a speakeasy-like appearance, with wood fixtures and cozy lighting encapsulating the 55-seat space. Hong told amNewYork that since the space is not huge, they wanted to maximize seating as best they could.</span></p>
+
+[caption id="attachment_137872275" align="aligncenter" width="1200"]<a href="https://www.amny.com/wp-content/uploads/2026/09/BV0A9128.jpg"><img class="size-large wp-image-137872275" src="https://www.amny.com/wp-content/uploads/2026/09/BV0A9128.jpg?quality=51&amp;w=1200" alt="Sura's bar." width="1200" height="799" /></a> <span class="image-caption">Sura's bar.</span><span class="image-credit">Photo by Atif Ali</span>[/caption] [caption id="attachment_137872276" align="aligncenter" width="1200"]<a href="https://www.amny.com/wp-content/uploads/2026/09/BV0A9107.jpg"><img class="size-large wp-image-137872276" src="https://www.amny.com/wp-content/uploads/2026/09/BV0A9107.jpg?quality=51&amp;w=1200" alt="Sura's interior." width="1200" height="799" /></a> <span class="image-caption">Sura's interior.</span><span class="image-credit">Photo by Atif Ali</span>[/caption]
+
+<p><span style="font-weight: 400;">The menu features a selection of hot and cold items, including the "Yook Hwe" Bibimbap, Sura Japchae, Korean "Yang Nyum" Wings, and Braised Pork Belly Bao, to name a few. The menu also includes some restaurant classics that have a Sura spin to them, such as the Not Your Ordinary Caesar salad, Sura Disco Potatoes, and Dry Aged Beef Sliders.</span></p>
+<p><span style="font-weight: 400;">Sura also has a cocktail program that has classic cocktails and Asian-inspired cocktails, such as the Lychee Martini (Tanqueray Gin, Lychee Purée, and St‑Germain), See You Tomato (Tequila Blanco, Tomato Water and Basil), The Sesame Conspiracy (Brown Butter Bourbon, Peanut, Sesame Orgeat, and Gochugaru), and Cool as a Cucumber (Soju, Cucumber, and Rice Vinegar Syrup).</span></p>
+<p><span style="font-weight: 400;">“Our manager, Elise, created the bar program. Her thought process was, let’s make cocktails that are not too complicated and are more straightforward, but with a little more refined combinations that have to do with Asian ingredients,” said Hong.</span></p>
+<p><span style="font-weight: 400;">Sura is not just a restaurant, though — in the front half of the building, you’ll find a boutique grocery store, adding to Sura’s speakeasy appearance. Open daily, the store features grab-and-go items that reflect the flavors you’ll find in Sura’s kitchen, including juices, salads, wraps and other portable menu items like Korean fried chicken.</span></p>
+<p><span style="font-weight: 400;">Hong says that the decision to have the grocery store came from observing the neighborhood and seeing that mornings were a bit of an untapped market.</span></p>
+
+[caption id="attachment_137872277" align="aligncenter" width="800"]<a href="https://www.amny.com/wp-content/uploads/2026/09/DSC06068.jpg"><img class="size-large wp-image-137872277" src="https://www.amny.com/wp-content/uploads/2026/09/DSC06068.jpg?quality=51&amp;w=800" alt="A cocktail at Sura." width="800" height="1200" /></a> <span class="image-caption">A cocktail at Sura.</span><span class="image-credit">Photo by Atif Ali</span>[/caption]
+
+<p><span style="font-weight: 400;">“I realized that [in Bushwick] it's mostly at night and in the morning there was no business, nobody was really walking around. So I thought, why don't we try to get the best out of the real estate?” said Hong. “[The store] is geared towards the morning crowd, grab and go, people taking the train to work.”</span></p>
+<p><span style="font-weight: 400;">Sura officially opened both concepts back in June, and Hong says the push to open in the summertime was strategically planned because of how bustling Bushwick is that time of year.</span></p>
+<p><span style="font-weight: 400;">“Bushwick is different than the city. The city is busier in the winter, Bushwick is busier in the summertime. We’re learning every day,” said Hong.</span></p>
+<p><span style="font-weight: 400;">So far, Hong says that feedback for Sura has been very positive, and he told amNewYork that the restaurant is just getting started. They plan on participating in the next round of NYC Restaurant Week, and they recently launched their “Don’t Make Me Choose” prix fixe menu.</span></p>
+<p><span style="font-weight: 400;">Sura is located at 31 Wyckoff Ave. For more information, visit </span><a href="https://suranyc.com/"><span style="font-weight: 400;">suranyc.com</span></a><span style="font-weight: 400;">.</span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/new-restaurant-sura-brings-modern-korean-tapas-to-bushwick/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249534</post-id>	</item>
+		<item>
+		<title>Explore Brooklyn’s Charter Schools on October 3rd!</title>
+		<link>https://www.newyorkfamily.com/brooklyn-charter-school-fair/</link>
+					<comments>https://www.brooklynpaper.com/explore-brooklyns-charter-schools-on-february-1st-at-the-brooklyn-basketball-training-center/#respond</comments>
+		
+		<dc:creator><![CDATA[By New York Family]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 11:00:49 +0000</pubDate>
+				<category><![CDATA[Arts & Entertainment]]></category>
+		<category><![CDATA[Things to Do]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Brooklyn]]></category>
+		<category><![CDATA[camps]]></category>
+		<category><![CDATA[charter schools]]></category>
+		<category><![CDATA[charter-schools-in-new-york]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[new york city]]></category>
+		<category><![CDATA[Parenting]]></category>
+		<category><![CDATA[region]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/explore-brooklyns-charter-schools-on-february-1st-at-the-brooklyn-basketball-training-center/</guid>
+
+					<description><![CDATA[New York Family hosts two in February <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.newyorkfamily.com/brooklyn-charter-school-fair/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>
+
+<img class="alignnone wp-image-413860 " src="https://www.newyorkfamily.com/wp-content/uploads/2025/12/BK-Charter-Eblast-Image.webp?quality=51&amp;w=822" alt="" width="653" height="608" />
+
+</div>
+</div>
+<h2>Explore Brooklyn’s Charter Schools on October 3rd!</h2>
+Hosted by Brooklyn Family, this event will be held at the Major Owens Community Center.
+
+Join us for a special afternoon where charter school representatives, afterschool programs, and community and family resources come together under one roof!
+
+This is a Free event; we'd love to add you to the list. Please <strong><a href="https://www.eventbrite.com/e/brooklyn-charter-school-fair-kids-activity-expo-tickets-1986911379422?aff=oddtdtcreator">RSVP today for your tickets</a>.</strong>
+
+<b>Saturday, October 3rd</b><span style="font-weight: 400;">
+</span><b>12:00 - 3:00 PM</b><span style="font-weight: 400;">
+</span><strong>Major R. Owens Health &amp; Wellness Community Center, 1561 Bedford Ave Brooklyn, NY 11225</strong>
+
+<img class="alignnone wp-image-413861 " src="https://www.newyorkfamily.com/wp-content/uploads/2025/12/BK-Charter-MOCC-2.webp?quality=51&amp;w=617" alt="" width="513" height="683" />
+
+<b>Why This Event Matters:</b>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Meet &amp; Greet Charter School Representatives</b><span style="font-weight: 400;"> – Get all your questions answered, explore different schools, and even complete same-day applications.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Discover Summer Camps &amp; Afterschool Programs</b><span style="font-weight: 400;"> – Find exciting opportunities to keep your child learning and having fun all year long.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Enjoy Free Family Fun</b><span style="font-weight: 400;"> – Bring the kids for a day packed with </span><b>interactive activities, arts &amp; crafts, music, games, and more.</b></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Experience Hands-On Learning</b> – Engage in fun, educational activities that spark curiosity and creativity.</li>
+</ul>
+<img class="alignnone wp-image-417161 " src="https://www.newyorkfamily.com/wp-content/uploads/2025/12/Spiderman-Boy1.webp?quality=51&amp;w=822" alt="" width="724" height="482" />
+
+<span style="font-weight: 400;">This event connects families with great educational opportunities in a relaxed,</span><span style="font-weight: 400;"> entertaining environment. Parents can explore school options while kids enjoy a fantastic day of activities. </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Don’t miss this chance to make </span><b>important decisions about your child’s future</b><span style="font-weight: 400;"> while having a great time with the whole family.</span>
+
+Featured exhibitors include:
+
+<img class=" wp-image-427652" src="https://www.newyorkfamily.com/wp-content/uploads/2026/09/10.3-BK-Charter-Logos-9_21.jpg?quality=51&amp;w=772" alt="" width="557" height="287" />
+
+<a style="font-weight: bold;" href="https://www.eventbrite.com/e/brooklyn-charter-school-fair-kids-activity-expo-tickets-1986911379422?aff=oddtdtcreator">RSVP is required</a><b>.</b>
+<p class="p7"><span style="font-weight: 400;">We can’t wait to welcome you to the Brooklyn Charter School Fair &amp; Kids Activity Expo. S</span><span style="font-weight: 400;">ee you there! </span></p>
+<p class="p11"><em>Psst... Check Out ....<a href="https://www.newyorkfamily.com/the-advantages-of-charter-school/"> The Advantages of Charter Schools</a></em></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/explore-brooklyns-charter-schools-on-february-1st-at-the-brooklyn-basketball-training-center/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">236730</post-id>	</item>
+		<item>
+		<title>Mamdani’s pied-à-terre tax hit with new lawsuit after homeowners win rollout challenge on Staten Island</title>
+		<link>https://www.amny.com/law/mamdanis-pied-a-terre-tax-hit-with-new-lawsuit/</link>
+					<comments>https://www.brooklynpaper.com/mamdanis-pied-a-terre-tax-hit-with-new-lawsuit-after-homeowners-win-rollout-challenge-on-staten-island/#respond</comments>
+		
+		<dc:creator><![CDATA[By Barbara Russo-Lennon]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 21:10:34 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[pied-a-terre-tax]]></category>
+		<category><![CDATA[pm-newsletter]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[randy mastro]]></category>
+		<category><![CDATA[real estate board of new york]]></category>
+		<category><![CDATA[zohran-mamdani]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249544</guid>
+
+					<description><![CDATA[Mayor Zohran Mamdani’s recent rollout of the pied-à-terre tax is facing yet another legal challenge. This time, it comes from a group of homeowners and a NYC co-op suing the state for its role in the second-home tax, alleging constitutional violations. The lawsuit comes the same day Staten Island homeowners came out victorious in… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/law/mamdanis-pied-a-terre-tax-hit-with-new-lawsuit/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Mayor Zohran Mamdani’s recent rollout of the <a href="https://www.amny.com/new-york/no-homeowners-pied-a-terre-suit-subject-tax/" target="_blank" rel="noopener">pied-à-terre tax</a> is facing yet another legal challenge. This time, it comes from a group of homeowners and a NYC co-op suing the state for its role in the second-home tax, alleging constitutional violations.</p>
+<p>The lawsuit comes the same day Staten Island homeowners came out victorious in a suit against the tax filed this summer. </p>
+<p>The plaintiffs, represented by former NYC First Deputy Mayor Randy Mastro and Dechert LLP, filed the lawsuit in New York Supreme Court on Sept. 29. They allege that the new pied-à-terre tax unconstitutionally discriminates against out-of-state property owners, burdens interstate commerce and retroactively creates tax liabilities that can fall on co-op boards and shareholders.</p>
+<p>“This tax was conceived in discrimination, enacted in haste, and rolled out in chaos. It is unconstitutional several times over, and it represents state overreach of exactly the kind the Framers sought to prevent when they drafted and ratified the U.S. Constitution,” Mastro said. “That is why our clients have brought this case, to overturn this illegal and unconstitutional tax.”</p>
+<p>The complaint argues that the tax violates several constitutional protections, including the Privileges and Immunities Clause, the Dormant Commerce Clause, the Due Process Clause, the Equal Protection Clause of the U.S. and New York State constitutions, and the Contracts Clause.<span class="Apple-converted-space"> </span></p>
+<p>The plaintiffs also challenge the law under provisions of the New York State Constitution governing taxation and home rule.<span class="Apple-converted-space"> </span></p>
+<p>According to the complaint, the tax places new financial obligations on certain property owners and could expose entire co-op buildings to liabilities stemming from individual shareholders. The plaintiffs specifically challenge the law’s Jan. 5, 2026, taxable-status date, arguing property owners had no opportunity to anticipate or plan for the tax before it was enacted.</p>
+<p>The complaint also alleges the tax raises the cost of owning and renting covered properties for nonresidents and could discourage interstate real estate activity.<span class="Apple-converted-space"> </span></p>
+<p>At issue is the tax’s rollout, including the publication of a supplemental property roll containing more than 900,000 properties and the issuance of roughly 17,000 notices telling recipients they could be subject to the surcharge unless they qualified for an exemption.<span class="Apple-converted-space"> </span></p>
+<p>The plaintiffs said that the process created widespread confusion, raised privacy concerns and “improperly shifted the burden onto homeowners” to prove eligibility for an exemption.</p>
+<p>“We warned from the moment this tax was proposed that it was being rushed forward without sufficient consideration of its legal, practical, and economic consequences,” said James Whelan, president of the <a href="https://www.rebny.com" target="_blank" rel="noopener">Real Estate Board of New York (REBNY)</a>. “This lawsuit raises serious constitutional questions, but it also highlights broader concerns about a policy that has been marked by confusion, administrative challenges, and unintended consequences.</p>
+<h2><b>A win on Staten Island, a setback for Mamdani</b></h2>
+<p>Meanwhile, on late Tuesday afternoon, a Staten Island judge ordered New York to cancel all notices for the pied-à-terre taxes—marking a victorious lawsuit in the case against the tax.<span class="Apple-converted-space"> </span></p>
+<p>Judge Wayne M. Ozzi sided with a group of homeowners, led by Mastro, and delivering a major setback to Mamdani’s “tax the rich” agenda.</p>
+<p>“We’re gratified that the court has recognized we were right all along,” he said. “The fact is that this administration failed to follow state law when it burdened New York City homeowners with proving they live in their own homes or be on the hook for paying a new surcharge.”</p>
+<p>Whelan applauded the Staten Island judge’s decision, but warned that the legal fights, including Tuesday’s filing, will continue.<span class="Apple-converted-space"> </span></p>
+<p>“This is an important victory for the thousands of New Yorkers who were wrongly swept into an arbitrary and confusing process. While the court's ruling focuses on the implementation of the tax, it reinforces broader concerns about the legality and fairness of the tax itself,” he said. “The legal challenges are far from over, and we remain confident that New York homeowners will continue to prevail as these cases move forward.”</p>
+<p>Borough President Vito Fossella said he agreed with the court ruling, adding that it was "fundamentally wrong to put more than a million people" on the luxury second-home tax list.</p>
+<p>"And, the vast majority of those who were on the list did not belong there at all," he said. "In being irresponsible and arbitrary, the city artificially created an atmosphere of confusion and fear about receiving this tax, and their information being wrongfully exposed, for no good reason. After doubling down countless times and leaving the erroneous list up for months, at a minimum, the city should apologize for needlessly putting hundreds of thousands of people in distress."</p>
+<p>Matt Rauschenbach, a spokesperson for the mayor, called today's ruling "wrong" and said the city will continue to "fairly" implement the tax with a stay.</p>
+<p>“Today’s decision is wrong, and we will invoke a stay of the injunction," he said. "With a stay, we will continue implementing the surcharge fairly, efficiently, and in full compliance with the law, as we have since day one."</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/mamdanis-pied-a-terre-tax-hit-with-new-lawsuit-after-homeowners-win-rollout-challenge-on-staten-island/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249544</post-id>	</item>
+		<item>
+		<title>‘Life does not stop at 5 p.m.’: Disability advocates demand MTA push back Access-a-Ride reservation deadline</title>
+		<link>https://www.amny.com/nyc-transit/disability-advocates-mta-access-a-ride-reservations/</link>
+					<comments>https://www.brooklynpaper.com/disability-advocates-demand-mta-push-back-access-a-ride-reservation-deadline/#respond</comments>
+		
+		<dc:creator><![CDATA[By Ethan Stark-Miller]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 20:25:00 +0000</pubDate>
+				<category><![CDATA[access a ride]]></category>
+		<category><![CDATA[brooklyn-center-for-the-independence-of-the-disabled]]></category>
+		<category><![CDATA[Dan Garodnick]]></category>
+		<category><![CDATA[disabled-in-action]]></category>
+		<category><![CDATA[e-hail]]></category>
+		<category><![CDATA[elizabeth-valdez]]></category>
+		<category><![CDATA[joe-rappaport]]></category>
+		<category><![CDATA[monica-bartley]]></category>
+		<category><![CDATA[mta]]></category>
+		<category><![CDATA[nyc transit]]></category>
+		<category><![CDATA[rachel-cohen]]></category>
+		<guid isPermaLink="false">https://www.brooklynpaper.com/?p=249539&#038;preview=true&#038;preview_id=249539</guid>
+
+					<description><![CDATA[A group of disabled transit riders and accessibility advocates want the MTA to push the reservation deadline for its Access-a-Ride paratransit service several hours back, from 5 p.m. until 11:59 p.m., the night before the day of their scheduled trip. One after another, during the MTA Board's New York City Transit Committee meeting on… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/nyc-transit/disability-advocates-mta-access-a-ride-reservations/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>A group of disabled transit riders and accessibility advocates want the MTA to push the reservation deadline for its <a href="https://www.mta.info/accessibility/access-a-ride">Access-a-Ride paratransit service</a> several hours back, from 5 p.m. until 11:59 p.m., the night before the day of their scheduled trip.</p>
+<p>One after another, during the MTA Board's New York City Transit Committee meeting on Sept. 28, the riders and advocates said the current 5 p.m. deadline for booking an Access-a-Ride for the next day is far too early. They said they need greater flexibility in scheduling trips to account for last-minute errands, doctor's appointments, family obligations, or other events.</p>
+<p>Unlike the subways and busways, which run frequent service on schedules, Access-a-Ride only provides door-to-door service with its accessible vans upon request. For most paratransit users, this requires booking a trip the day before, although a small number of riders have access to an on-demand version of the service.</p>
+<p>One Access-a-Ride user, Elizabeth Valdez, who is also the systems advocate at the Brooklyn Center for the Independence of the Disabled (BCID), testified that the reservation window should be widened because "life does not stop at 5 p.m." for people with disabilities.</p>
+<p>"Many of us have unpredictable schedules," she said. "Appointments become available at 5 p.m. Obligations change. Family emergencies happen. Sometimes, we don't know until the evening that we need transportation the following day."</p>
+<p>Valdez said that closing reservations at 5 p.m. could lead disabled riders to cancel appointments, miss obligations, or pay out of pocket for other forms of transportation "that are not financially feasible."</p>
+<p>Monica Bartley, another Access-a-Ride user and a member of the group <a href="https://www.disabledinaction.org/">Disabled in Action</a>, said the 5 p.m. deadline makes it difficult for her to "be spontaneous" in her life.</p>
+<p>"Sometimes I simply forget to reserve my ride by 5 p.m.," Bartley said. "If I receive an invitation later that evening to meet a friend, attend an event, or do something unexpected, I may have to turn it down because I can't arrange transportation...Everyone should have the ability to make plans when opportunities come up. Access-a-Ride riders deserve that same freedom."</p>
+<p>Bartley also called for the MTA to expand its on-demand Access-a-Ride service, dubbed <a href="https://www.mta.info/ehail">E-Hail</a>, which allows some paratransit users to book trips in real time via taxis or for-hire vehicle services, such as Uber and Lyft. The MTA has been piloting E-Hail for several years, but has yet to make it available to most paratransit users.</p>
+<h2>MTA pushes back on later reservations</h2>
+<p>When reached for comment, the MTA referred amNewYork to remarks its senior vice president of paratransit, Rachel Cohen, made during the board meeting.</p>
+<p>Cohen said that the MTA needs to gather requests by 5 p.m. in order to schedule routes that will ensure the most reliable service the next day. She said those considerations include whether each rider needs a van with a wheelchair lift, the size of their party, and where they are going.</p>
+<p>"The reason for that next day booking is that every night my team is putting together a bespoke schedule for the next day of 50,000 trips," Cohen said. "And we need that information, so that we can get everybody on time to get where they need to go on the day of service."</p>
+<p>However, Joe Rappaport, executive director of BCID, pushed back on Cohen's points. He argued that the MTA must embrace the GPS technology utilized by ride-hail apps, which allow them to plan and adjust trips in real time, for planning Access-a-Ride routes, rather than continuing to use the system she described.</p>
+<p>"GPS came into common use more than a quarter century ago, in 2000," Rappaport said. "Uber and Lyft came into New York almost 15 years ago, using GPS to allow riders to connect with drivers and get a ride within minutes. And yet other than a select handful, Access-a-Ride riders must reserve a ride the day before."</p>
+<p>The plea from disabled riders and advocates appeared to resonate with at least one MTA board member.</p>
+<p>The member, former Department of City Planning Commissioner Dan Garodnick, asked Cohen: "Is there any way to add some more flexibility" in having a later deadline than 5 p.m.</p>
+<p>"It feels early, at least from a rider's perspective," Garodnick said.</p>
+<p>Cohen said she and her team are always looking at how technology can improve service.</p>
+<p>"We can take the feedback certainly and look at that process," she said. "But sitting here today, I don't think we can commit to a particular moment in time."</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.brooklynpaper.com/disability-advocates-demand-mta-push-back-access-a-ride-reservation-deadline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249539</post-id>	</item>
+	</channel>
+</rss>

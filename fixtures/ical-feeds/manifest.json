@@ -1,0 +1,20 @@
+{
+  "capturedAt": "2026-10-01T10:43:36.706Z",
+  "responses": {
+    "https://www.green-wood.com/events/?ical=1": {
+      "file": "green-wood.com.ics",
+      "status": 200,
+      "contentType": "text/calendar; charset=UTF-8"
+    },
+    "https://www.randallsisland.org/events/?ical=1": {
+      "file": "randallsisland.org.ics",
+      "status": 200,
+      "contentType": "text/calendar; charset=UTF-8"
+    },
+    "https://industrycity.com/events/?ical=1": {
+      "file": "industrycity.com.ics",
+      "status": 200,
+      "contentType": "text/calendar; charset=UTF-8"
+    }
+  }
+}

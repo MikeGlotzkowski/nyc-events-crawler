@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Randall&#039;s Island - ECPv6.17.5.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Randall&#039;s Island
+X-ORIGINAL-URL:https://randallsisland.org
+X-WR-CALDESC:Events for Randall&#039;s Island
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20250101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T100000
+DTEND;TZID=UTC:20261003T113000
+DTSTAMP:20260924T151628Z
+CREATED:20260911T205223Z
+LAST-MODIFIED:20260924T151628Z
+UID:10002251-1791021600-1791027000@randallsisland.org
+SUMMARY:City of Forest Day - Forest Walk & Birding
+DESCRIPTION:Come explore the urban forest of Randall’s Island Park through a guided nature walk. We will identify and age trees\, watch birds\, and learn about the relationships between the two. Binoculars will be available to borrow.  \nThis event is a part of City of Forest Day which is an annual day of activities across the city to raise awareness of the importance of the New York City urban forest. City of Forest Day is organized by Forests for All NYC\, a coalition of organizations across the city working to demonstrate the vast support for the New York City urban forest.   \nLocation: Meet at Icahn Stadium \nRegistration is required. Click here to register! \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/city-of-forest-day-forest-walk-birding
+LOCATION:Icahn Stadium
+CATEGORIES:Arts & Culture,Environmental Education
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/09/400-x-400-photos-37.png
+GEO:40.792778;-73.924666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261003T100000
+DTEND;TZID=UTC:20261003T120000
+DTSTAMP:20260224T191508Z
+CREATED:20260224T191508Z
+LAST-MODIFIED:20260224T191508Z
+UID:10002108-1791021600-1791028800@randallsisland.org
+SUMMARY:2026 Jesse Owens Track & Field Youth Program - Fall
+DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nProgram Dates:  Every Saturday \nSpring: 4/11 – 6/20\, no program on 5/23  \nFall:  9/12 – 10/31  \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Thomas Jefferson Park \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-2/2026-10-03
+LOCATION:Thomas Jefferson Park
+CATEGORIES:Fitness,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
+GEO:40.793886;-73.935355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261004T113000
+DTEND;TZID=UTC:20261004T130000
+DTSTAMP:20260930T201718Z
+CREATED:20260224T194245Z
+LAST-MODIFIED:20260930T201718Z
+UID:10002115-1791113400-1791118800@randallsisland.org
+SUMMARY:Bike Ride to Harvest Festival
+DESCRIPTION:Ride to the Harvest Festival at Randall’s Island Park with El Barrio Bikes! Meet up at Maria Sola Community Greenspace in the Bronx and enjoy a scenic ride along the riverfront and through the park\, ending at the Festival!   \nFree Citi Bikes will be provided thanks to our partnership with Citi Bike\, and we can offer a limited number of free helmets. In order to reserve a bike and helmet\, please email publicprograms@randallsisland.org.  \nThere will be a free Bike Valet provided by Transportation Alternatives so you can safely park your bikes and enjoy the festivities with ease of mind. Citi Bikes will not be included in this valet service\, so if you take a Citi Bike to the festival\, please find the nearest docking station to park\, or ask a RIPA staff member where to dock. You can find the four Citi Bike docks on our interactive map!  \nAfter the festival\, enjoy some time exploring the park’s 9+ miles of cyclist and pedestrian pathways!  \nRegistration required here. \nLocation: Maria Sola Community Greenspace \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/bike-ride-to-harvest-festival-3
+LOCATION:Thomas Jefferson Park
+CATEGORIES:Festival,Fitness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-6.png
+GEO:40.793886;-73.935355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261004T120000
+DTEND;TZID=UTC:20261004T150000
+DTSTAMP:20260922T185828Z
+CREATED:20260219T211554Z
+LAST-MODIFIED:20260922T185828Z
+UID:10001834-1791115200-1791126000@randallsisland.org
+SUMMARY:Harvest Festival
+DESCRIPTION:Step into autumn at the free Randall’s Island Harvest Festival! Celebrate the end of the growing season with a family-friendly day of outdoor fun. Explore our pumpkin patch\, watch seasonal cooking demonstrations\, enjoy live performances\, get creative with face painting\, and discover nature through hands-on activities with local partners. With crisp air and golden leaves all around\, it’s the perfect way to embrace the season and enjoy the outdoors in the heart of New York City. \nThere will be a free Bike Valet provided by Transportation Alternatives so you can safely park your bikes and enjoy the festivities with ease of mind. \nWith crisp air and golden leaves all around\, it’s the perfect way to embrace the season and enjoy the outdoors in the heart of New York City.  \nSchedule: \n\n12 – 2 PM: Live Music with Gloria Anderson + Friends\n12 – 2 PM: Bubble Dad\n12:30 – 1 PM: Cooking Demo with Chef Evie\n1 – 2 PM: Storytime Stretches\n1:30 – 2 PM: Cooking Demo with Chef Evie\n2 – 3 PM: City That Drinks the Mountain Sky by Arm of the Sea Theatre\n\nLocation: Urban Farm + Fields 62/63  \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/harvest-festival-3
+LOCATION:Icahn Stadium
+CATEGORIES:Arts & Culture,Environmental Education,Festival,Urban Farm
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-3.png
+GEO:40.792778;-73.924666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261007T093000
+DTEND;TZID=UTC:20261007T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001789-1791365400-1791376200@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-07
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261010T100000
+DTEND;TZID=UTC:20261010T120000
+DTSTAMP:20260224T191508Z
+CREATED:20260224T191508Z
+LAST-MODIFIED:20260224T191508Z
+UID:10002109-1791626400-1791633600@randallsisland.org
+SUMMARY:2026 Jesse Owens Track & Field Youth Program - Fall
+DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nProgram Dates:  Every Saturday \nSpring: 4/11 – 6/20\, no program on 5/23  \nFall:  9/12 – 10/31  \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Thomas Jefferson Park \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-2/2026-10-10
+LOCATION:Thomas Jefferson Park
+CATEGORIES:Fitness,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
+GEO:40.793886;-73.935355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261014T093000
+DTEND;TZID=UTC:20261014T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001790-1791970200-1791981000@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-14
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261017T100000
+DTEND;TZID=UTC:20261017T120000
+DTSTAMP:20260224T191508Z
+CREATED:20260224T191508Z
+LAST-MODIFIED:20260224T191508Z
+UID:10002110-1792231200-1792238400@randallsisland.org
+SUMMARY:2026 Jesse Owens Track & Field Youth Program - Fall
+DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nProgram Dates:  Every Saturday \nSpring: 4/11 – 6/20\, no program on 5/23  \nFall:  9/12 – 10/31  \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Thomas Jefferson Park \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-2/2026-10-17
+LOCATION:Thomas Jefferson Park
+CATEGORIES:Fitness,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
+GEO:40.793886;-73.935355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261018T100000
+DTEND;TZID=UTC:20261018T130000
+DTSTAMP:20260824T151454Z
+CREATED:20260218T205438Z
+LAST-MODIFIED:20260824T151454Z
+UID:10001830-1792317600-1792328400@randallsisland.org
+SUMMARY:Urban Farm Volunteers
+DESCRIPTION:Volunteer with our team to manage our one-acre Urban Farm! \nWhether you are new to our farm or have been a tried-and-true weekly volunteer\, come and join us! Our farmers have a lot of farm chores and composting to do weekly and you can help us take care of this important urban educational agricultural resource. \nOn Sundays we not only do farm chores\, but we are joined by the NYC Compost Project with Big Reuse who help us manage our 5-bin compost system to create much needed organic matter for our planting beds! \nIndividuals under the age of 16 must be accompanied by an adult who volunteers with them. Individuals ages 16 & 17 can volunteer if a parent or guardian has signed a waiver. Please find a downloadable waiver here: Waiver for unaccompanied 16 & 17 year olds \nThis volunteer event is for individuals from the community and not open to groups larger than 5 people. If you wish to bring more than 5 people\, you must first contact us at volunteers@randallsisland.org. \nNew volunteers must register for this event here. \nLocation: Urban Farm \nFor inquiries about accessibility\, to request accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/urban-farm-volunteers-5/2026-10-18
+LOCATION:Urban Farm
+CATEGORIES:Urban Farm,Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-17-1.png
+GEO:40.783753;-73.925686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261021T093000
+DTEND;TZID=UTC:20261021T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001791-1792575000-1792585800@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-21
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261024T100000
+DTEND;TZID=UTC:20261024T120000
+DTSTAMP:20260224T191522Z
+CREATED:20260224T191522Z
+LAST-MODIFIED:20260224T191522Z
+UID:10002098-1792836000-1792843200@randallsisland.org
+SUMMARY:2026 Jesse Owens Track & Field Youth Program at Boo Bash!
+DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nThis week’s event will take place before our annual Boo Bash event at Randall’s Island Park! \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Hilltop Picnic Area/Urban Farm \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-3
+LOCATION:Hilltop Picnic Area\, 11 Wards Meadow Loop\, New York\, NY\, 10035\, United States
+CATEGORIES:Fitness,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
+GEO:40.783232;-73.926214
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hilltop Picnic Area 11 Wards Meadow Loop New York NY 10035 United States;X-APPLE-RADIUS=500;X-TITLE=11 Wards Meadow Loop:geo:-73.926214,40.783232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261024T120000
+DTEND;TZID=UTC:20261024T150000
+DTSTAMP:20260302T200400Z
+CREATED:20260225T185826Z
+LAST-MODIFIED:20260302T200400Z
+UID:10002166-1792843200-1792854000@randallsisland.org
+SUMMARY:Halloween Boo Bash
+DESCRIPTION:Celebrate Halloween park-style at the Randall’s Island Park Alliance’s free\, family-friendly Halloween Boo Bash! Come in costume and celebrate Halloween with themed activities\, crafts\, music\, treats\, and more!  \nWe’ll dance to our favorite music\, both spooky-themed and year-round hits\, enjoy pastries from a local bakery\, hear a Halloween story\, and celebrate fall in our beautiful White Garden. We can’t wait to see your awesome costumes and dance moves!  \nLocation: White Garden \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/boo-bash
+LOCATION:The White Garden
+CATEGORIES:Arts & Culture,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-13-1.png
+GEO:40.783007;-73.926694
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261026T150000
+DTEND;TZID=UTC:20261026T170000
+DTSTAMP:20260911T201942Z
+CREATED:20260306T170501Z
+LAST-MODIFIED:20260911T201942Z
+UID:10002173-1793026800-1793034000@randallsisland.org
+SUMMARY:Wild Oyster Survey
+DESCRIPTION:Wild oysters are a key indicator of ecosystem health in the New York Harbor. Randall’s Island Park Alliance is partnering with the Billion Oyster Project to conduct a wild oyster survey in the Little Hell Gate Salt Marsh.  \nVolunteers will have the opportunity to identify oysters and take multiple parameters to determine the abundance\, size\, and health of the wild oyster population. Be sure to wear clothing and footwear you don’t mind getting muddy! Volunteers will meet at the entrance to the Little Hell Gate Salt Marsh near the Asphalt Pad.  \nRegistration will open 10/8 at 1 PM  \nLocation: Little Hell Gate Salt Marsh \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/wild-oyster-survey-2
+LOCATION:Little Hell Gate Salt Marsh
+CATEGORIES:Environmental Education
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/03/400-x-400-photos-20.png
+GEO:40.79162;-73.926796
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261028T093000
+DTEND;TZID=UTC:20261028T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001792-1793179800-1793190600@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-28
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261031T100000
+DTEND;TZID=UTC:20261031T120000
+DTSTAMP:20260224T191508Z
+CREATED:20260224T191508Z
+LAST-MODIFIED:20260224T191508Z
+UID:10002111-1793440800-1793448000@randallsisland.org
+SUMMARY:2026 Jesse Owens Track & Field Youth Program - Fall
+DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nProgram Dates:  Every Saturday \nSpring: 4/11 – 6/20\, no program on 5/23  \nFall:  9/12 – 10/31  \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Thomas Jefferson Park \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-2/2026-10-31
+LOCATION:Thomas Jefferson Park
+CATEGORIES:Fitness,Health & Wellness
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
+GEO:40.793886;-73.935355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261104T093000
+DTEND;TZID=UTC:20261104T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001793-1793784600-1793795400@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-11-04
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261111T093000
+DTEND;TZID=UTC:20261111T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001794-1794389400-1794400200@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-11-11
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261114T130000
+DTEND;TZID=UTC:20261114T150000
+DTSTAMP:20260827T141409Z
+CREATED:20260827T141347Z
+LAST-MODIFIED:20260827T141409Z
+UID:10002230-1794661200-1794668400@randallsisland.org
+SUMMARY:Fire Cider Workshop
+DESCRIPTION:Learn how to make fire cider with herbs and produce grown on the Urban Farm! \nFire cider is an herbal tonic that is used to boost immunity and warm you up during the colder months. We’ll provide all the materials and guide you through the process\, so you can make your own batch to take home and enjoy.  \nLocation: Urban Farm \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+URL:https://randallsisland.org/events/fire-cider-workshop
+LOCATION:Urban Farm
+CATEGORIES:Health & Wellness
+ATTACH;FMTTYPE=image/jpeg:https://randallsisland.org/wp-content/uploads/2026/08/DSCF0601-scaled.jpg
+GEO:40.783753;-73.925686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261118T093000
+DTEND;TZID=UTC:20261118T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001795-1794994200-1795005000@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-11-18
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261125T093000
+DTEND;TZID=UTC:20261125T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001796-1795599000-1795609800@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-11-25
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261202T093000
+DTEND;TZID=UTC:20261202T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001797-1796203800-1796214600@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-12-02
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261209T093000
+DTEND;TZID=UTC:20261209T123000
+DTSTAMP:20260721T185216Z
+CREATED:20260211T143512Z
+LAST-MODIFIED:20260721T185216Z
+UID:10001798-1796808600-1796819400@randallsisland.org
+SUMMARY:Team RIVER Volunteers
+DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/team-river-volunteers-4/2026-12-09
+CATEGORIES:Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261212T120000
+DTEND;TZID=UTC:20261212T140000
+DTSTAMP:20260831T194914Z
+CREATED:20260831T194914Z
+LAST-MODIFIED:20260831T194914Z
+UID:10002233-1797076800-1797084000@randallsisland.org
+SUMMARY:Winter Wreath Workshop
+DESCRIPTION:Celebrate the season with a cozy\, hands-on wreath making workshop! Guided by our staff\, you’ll create your own one-of-a-kind wreath using seasonal greenery\, dried flowers\, and natural materials foraged from the Park’s landscape. All materials and instruction are provided. No experience necessary! \nRegistration is required; opens 2 weeks in advance \nLocation: Icahn Stadium Classroom \nFor inquiries about accessibility\, to request accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/winter-wreath-workshop-2
+LOCATION:Icahn Stadium
+CATEGORIES:Arts & Culture
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/08/400-x-400-photos-27.png
+GEO:40.792778;-73.924666
+END:VEVENT
+END:VCALENDAR

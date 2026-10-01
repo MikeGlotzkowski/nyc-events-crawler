@@ -1,0 +1,510 @@
+<div class="test">
+<script>        
+// var arrJsonData_chamo = {};
+// var arrJsonData_cal = {};
+var arrCal = {}; 
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136091756-3,AW-17739266945"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-136091756-3,AW-17739266945", {"groups":"default","anonymize_ip":true});</script>
+
+  
+             
+  
+  
+              <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_004673-0926_853_4" tabindex="2008650">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/004673-09-26_SpaceMonth26_259x396_Event.jpg" alt="Storytime with Craft image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(0-5), Kids(6-11)</p>
+               <p class="title" >Storytime with Craft</p>
+               <p class="date" id="date_004673-0926" >Oct 21, 4:00pm - 5:00pm</p>
+               <p class="location" >Long Island City</p>
+                              <p class="description" >Celebrate Space Month in October! 3! 2! 1! Blast Off! Enjoy a space-themed storytime and rocket ship craft to celeb...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_004673-0926_853_4">
+              <a title="Storytime with Craft : Card 853" class="quickviewSearch" id="cal_004673-0926_853_4" aria-label="Quick View of Storytime with Craft" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_004673-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['004673-0926'] = '{&quot;jobID&quot;:&quot;004673-0926&quot;,&quot;title&quot;:&quot;Storytime with Craft&quot;,&quot;descr&quot;:&quot;Celebrate Space Month in October! 3! 2! 1! Blast Off! Enjoy a space-themed storytime and rocket ship craft to celeb...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/storytime-with-craft\/004673-0926&quot;,&quot;PDF&quot;:&quot;004673-09-26_004673.pdf&quot;,&quot;prgm_image&quot;:&quot;004673-09-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;prgm_age&quot;:&quot;Kids(0-5), Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Children\u2019s Program, General&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Long Island City&quot;,&quot;date_show&quot;:&quot;Oct 21, 4:00pm - 5:00pm&quot;,&quot;date_show_timestamp&quot;:1792612800,&quot;branch_location&quot;:&quot;97300000&quot;,&quot;all_times&quot;:{&quot;1792612800&quot;:&quot;Oct 21, 4:00pm - 5:00pm&quot;},&quot;set_of_timestamp&quot;:[1792612800],&quot;other_sessions&quot;:{&quot;1792612800-90&quot;:{&quot;jobID&quot;:&quot;004673-09\/26&quot;,&quot;index&quot;:&quot;1792612800-90&quot;,&quot;timestamp_GMT&quot;:1792612800,&quot;date_time&quot;:&quot;10\/21\/26   4:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 21, 4:00pm - 5:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;97300000&quot;,&quot;branch&quot;:&quot;Long Island City&quot;},&quot;roomID&quot;:90,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Celebrate Space Month in October! 3! 2! 1! Blast Off! Enjoy a space-themed storytime and rocket ship craft to celeb...&quot;,&quot;prgmAge&quot;:&quot;For Kids(0-5), Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/004673-09-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/004673-09-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;date_event&quot;:&quot;Oct 21, 4:00pm - 5:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['004673-0926'] = $.parseJSON( arrJsonData_cal['004673-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['004673-0926'].all_times );
+                    // console.log( arrCal['004673-0926'].set_of_timestamp );
+                    for ( let st in arrCal['004673-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['004673-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['004673-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['004673-0926'].all_times[ arrCal['004673-0926'].set_of_timestamp[st] ] );
+                           $('p#date_004673-0926.date').html( arrCal['004673-0926'].all_times[ arrCal['004673-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['004673-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['004673-0926'].all_times[ arrCal['004673-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_004937-0926_854_4" tabindex="2008660">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/images/default/ProgramType/event_small/DefaultWebImage_259x396_Canary.png" alt="STEAM Kids image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(6-11)</p>
+               <p class="title" >STEAM Kids</p>
+               <p class="date" id="date_004937-0926" >Oct 21, 4:30pm - 5:30pm</p>
+               <p class="location" >Hillcrest</p>
+                              <p class="description" >Join us at Hillcrest Library as we explore STEAM (science technology engineering art and math) concepts. There will...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_004937-0926_854_4">
+              <a title="STEAM Kids : Card 854" class="quickviewSearch" id="cal_004937-0926_854_4" aria-label="Quick View of STEAM Kids" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_004937-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['004937-0926'] = '{&quot;jobID&quot;:&quot;004937-0926&quot;,&quot;title&quot;:&quot;STEAM Kids&quot;,&quot;descr&quot;:&quot;Join us at Hillcrest Library as we explore STEAM (science technology engineering art and math) concepts. There will...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/steam-kids\/004937-0926&quot;,&quot;PDF&quot;:&quot;004937-09-26_004937.pdf&quot;,&quot;prgm_image&quot;:&quot;no img&quot;,&quot;prgm_age&quot;:&quot;Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Children\u2019s Program, General&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Hillcrest&quot;,&quot;date_show&quot;:&quot;Oct 21, 4:30pm - 5:30pm&quot;,&quot;date_show_timestamp&quot;:1792614600,&quot;branch_location&quot;:&quot;96500000&quot;,&quot;all_times&quot;:{&quot;1792614600&quot;:&quot;Oct 21, 4:30pm - 5:30pm&quot;},&quot;set_of_timestamp&quot;:[1792614600],&quot;other_sessions&quot;:{&quot;1792614600-67&quot;:{&quot;jobID&quot;:&quot;004937-09\/26&quot;,&quot;index&quot;:&quot;1792614600-67&quot;,&quot;timestamp_GMT&quot;:1792614600,&quot;date_time&quot;:&quot;10\/21\/26   4:30PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 21, 4:30pm - 5:30pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;96500000&quot;,&quot;branch&quot;:&quot;Hillcrest&quot;},&quot;roomID&quot;:67,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Join us at Hillcrest Library as we explore STEAM (science technology engineering art and math) concepts. There will...&quot;,&quot;prgmAge&quot;:&quot;For Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_small\/DefaultWebImage_259x396_Canary.png&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_large\/DefaultWebImage_259x396_Canary.png&quot;,&quot;date_event&quot;:&quot;Oct 21, 4:30pm - 5:30pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['004937-0926'] = $.parseJSON( arrJsonData_cal['004937-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['004937-0926'].all_times );
+                    // console.log( arrCal['004937-0926'].set_of_timestamp );
+                    for ( let st in arrCal['004937-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['004937-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['004937-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['004937-0926'].all_times[ arrCal['004937-0926'].set_of_timestamp[st] ] );
+                           $('p#date_004937-0926.date').html( arrCal['004937-0926'].all_times[ arrCal['004937-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['004937-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['004937-0926'].all_times[ arrCal['004937-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_004561-0926_855_4" tabindex="2008670">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/images/default/ProgramType/event_small/DefaultWebImage_259x396_Lilac.png" alt="Grownup Board Game Nightmare! image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults, Seniors</p>
+               <p class="title" >Grownup Board Game Nightmare!</p>
+               <p class="date" id="date_004561-0926" >Oct 21, 5:00pm - 7:00pm</p>
+               <p class="location" >Central Library</p>
+                              <p class="description" >Join us for Grownup Board Game Night! Make a new friend and play some new classic board games and our main game: Ni...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_004561-0926_855_4">
+              <a title="Grownup Board Game Nightmare! : Card 855" class="quickviewSearch" id="cal_004561-0926_855_4" aria-label="Quick View of Grownup Board Game Nightmare!" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_004561-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['004561-0926'] = '{&quot;jobID&quot;:&quot;004561-0926&quot;,&quot;title&quot;:&quot;Grownup Board Game Nightmare!&quot;,&quot;descr&quot;:&quot;Join us for Grownup Board Game Night! Make a new friend and play some new classic board games and our main game: Ni...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/grownup-board-game-nightmare\/004561-0926&quot;,&quot;PDF&quot;:&quot;004561-09-26_004561.pdf&quot;,&quot;prgm_image&quot;:&quot;no img&quot;,&quot;prgm_age&quot;:&quot;Adults, Seniors&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Gaming&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Central Library&quot;,&quot;date_show&quot;:&quot;Oct 21, 5:00pm - 7:00pm&quot;,&quot;date_show_timestamp&quot;:1792616400,&quot;branch_location&quot;:&quot;11000000&quot;,&quot;all_times&quot;:{&quot;1792616400&quot;:&quot;Oct 21, 5:00pm - 7:00pm&quot;},&quot;set_of_timestamp&quot;:[1792616400],&quot;other_sessions&quot;:{&quot;1792616400-19&quot;:{&quot;jobID&quot;:&quot;004561-09\/26&quot;,&quot;index&quot;:&quot;1792616400-19&quot;,&quot;timestamp_GMT&quot;:1792616400,&quot;date_time&quot;:&quot;10\/21\/26   5:00PM&quot;,&quot;duration&quot;:7200,&quot;date_time_format&quot;:&quot;Oct, 21, 5:00pm - 7:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;11000000&quot;,&quot;branch&quot;:&quot;Central Library&quot;},&quot;roomID&quot;:19,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Join us for Grownup Board Game Night! Make a new friend and play some new classic board games and our main game: Ni...&quot;,&quot;prgmAge&quot;:&quot;For Adults, Seniors&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_small\/DefaultWebImage_259x396_Lilac.png&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_large\/DefaultWebImage_259x396_Lilac.png&quot;,&quot;date_event&quot;:&quot;Oct 21, 5:00pm - 7:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['004561-0926'] = $.parseJSON( arrJsonData_cal['004561-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['004561-0926'].all_times );
+                    // console.log( arrCal['004561-0926'].set_of_timestamp );
+                    for ( let st in arrCal['004561-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['004561-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['004561-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['004561-0926'].all_times[ arrCal['004561-0926'].set_of_timestamp[st] ] );
+                           $('p#date_004561-0926.date').html( arrCal['004561-0926'].all_times[ arrCal['004561-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['004561-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['004561-0926'].all_times[ arrCal['004561-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_002988-0826_856_4" tabindex="2008680">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/012702-03-25_Flower Arrangements_259x396_Event_15.jpg" alt="The Art of Flower Arrangements by Anna Kao image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults</p>
+               <p class="title" >The Art of Flower Arrangements...</p>
+               <p class="date" id="date_002988-0826" >Oct 22, 2:00pm - 4:00pm</p>
+               <p class="location" >Bay Terrace</p>
+                              <p class="description" >Floral artist Anna Kao will teach you the fine art of flower arranging from a simple corsage to more complicated ar...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_002988-0826_856_4">
+              <a title="The Art of Flower Arrangements... : Card 856" class="quickviewSearch" id="cal_002988-0826_856_4" aria-label="Quick View of The Art of Flower Arrangements by Anna Kao" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_002988-0826"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['002988-0826'] = '{&quot;jobID&quot;:&quot;002988-0826&quot;,&quot;title&quot;:&quot;The Art of Flower Arrangements by Anna Kao&quot;,&quot;descr&quot;:&quot;Floral artist Anna Kao will teach you the fine art of flower arranging from a simple corsage to more complicated ar...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/the-art-of-flower-arrangements-by-anna-kao\/002988-0826&quot;,&quot;PDF&quot;:&quot;002988-08-26_002988.pdf&quot;,&quot;prgm_image&quot;:&quot;012702-03-25_Flower Arrangements_259x396_Event_15.jpg&quot;,&quot;prgm_age&quot;:&quot;Adults&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Cultural Arts&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Bay Terrace&quot;,&quot;date_show&quot;:&quot;Oct 22, 2:00pm - 4:00pm&quot;,&quot;date_show_timestamp&quot;:1792692000,&quot;branch_location&quot;:&quot;96600000&quot;,&quot;all_times&quot;:{&quot;1792692000&quot;:&quot;Oct 22, 2:00pm - 4:00pm&quot;},&quot;set_of_timestamp&quot;:[1792692000],&quot;other_sessions&quot;:{&quot;1792692000-312&quot;:{&quot;jobID&quot;:&quot;002988-08\/26&quot;,&quot;index&quot;:&quot;1792692000-312&quot;,&quot;timestamp_GMT&quot;:1792692000,&quot;date_time&quot;:&quot;10\/22\/26   2:00PM&quot;,&quot;duration&quot;:7200,&quot;date_time_format&quot;:&quot;Oct, 22, 2:00pm - 4:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;96600000&quot;,&quot;branch&quot;:&quot;Bay Terrace&quot;},&quot;roomID&quot;:312,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Floral artist Anna Kao will teach you the fine art of flower arranging from a simple corsage to more complicated ar...&quot;,&quot;prgmAge&quot;:&quot;For Adults&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/012702-03-25_Flower Arrangements_259x396_Event_15.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/012702-03-25_Flower Arrangements_259x396_Event_15.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 2:00pm - 4:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['002988-0826'] = $.parseJSON( arrJsonData_cal['002988-0826'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['002988-0826'].all_times );
+                    // console.log( arrCal['002988-0826'].set_of_timestamp );
+                    for ( let st in arrCal['002988-0826'].set_of_timestamp ) {
+                        // console.log ( arrCal['002988-0826'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['002988-0826'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['002988-0826'].all_times[ arrCal['002988-0826'].set_of_timestamp[st] ] );
+                           $('p#date_002988-0826.date').html( arrCal['002988-0826'].all_times[ arrCal['002988-0826'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['002988-0826'].set_of_timestamp[st] );
+                           // console.log ( arrCal['002988-0826'].all_times[ arrCal['002988-0826'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+               <div class="KickingPopUp result-grid" style="display:none;" id="nBlock_214"></div>
+              <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_004316-0926_857_4" tabindex="2008690">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/images/default/ProgramType/event_small/DefaultWebImage_259x396_Purple.png" alt="Book Discussion: Poetry image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults, Kids(0-5)</p>
+               <p class="title" >Book Discussion: Poetry</p>
+               <p class="date" id="date_004316-0926" >Oct 22, 2:00pm - 3:00pm</p>
+               <p class="location" >McGoldrick</p>
+                              <p class="description" >Come to McGoldrick for our October book discussion and we will discuss poetry. You are welcome to bring your own ho...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_004316-0926_857_4">
+              <a title="Book Discussion: Poetry : Card 857" class="quickviewSearch" id="cal_004316-0926_857_4" aria-label="Quick View of Book Discussion: Poetry" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_004316-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['004316-0926'] = '{&quot;jobID&quot;:&quot;004316-0926&quot;,&quot;title&quot;:&quot;Book Discussion: Poetry&quot;,&quot;descr&quot;:&quot;Come to McGoldrick for our October book discussion and we will discuss poetry. You are welcome to bring your own ho...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/book-discussion-poetry\/004316-0926&quot;,&quot;PDF&quot;:&quot;004316-09-26_004316.pdf&quot;,&quot;prgm_image&quot;:&quot;no img&quot;,&quot;prgm_age&quot;:&quot;Adults, Kids(0-5)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Adult Program, General&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;McGoldrick&quot;,&quot;date_show&quot;:&quot;Oct 22, 2:00pm - 3:00pm&quot;,&quot;date_show_timestamp&quot;:1792692000,&quot;branch_location&quot;:&quot;93800000&quot;,&quot;all_times&quot;:{&quot;1792692000&quot;:&quot;Oct 22, 2:00pm - 3:00pm&quot;},&quot;set_of_timestamp&quot;:[1792692000],&quot;other_sessions&quot;:{&quot;1792692000-262&quot;:{&quot;jobID&quot;:&quot;004316-09\/26&quot;,&quot;index&quot;:&quot;1792692000-262&quot;,&quot;timestamp_GMT&quot;:1792692000,&quot;date_time&quot;:&quot;10\/22\/26   2:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 2:00pm - 3:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;93800000&quot;,&quot;branch&quot;:&quot;McGoldrick&quot;},&quot;roomID&quot;:262,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Come to McGoldrick for our October book discussion and we will discuss poetry. You are welcome to bring your own ho...&quot;,&quot;prgmAge&quot;:&quot;For Adults, Kids(0-5)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_small\/DefaultWebImage_259x396_Purple.png&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_large\/DefaultWebImage_259x396_Purple.png&quot;,&quot;date_event&quot;:&quot;Oct 22, 2:00pm - 3:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['004316-0926'] = $.parseJSON( arrJsonData_cal['004316-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['004316-0926'].all_times );
+                    // console.log( arrCal['004316-0926'].set_of_timestamp );
+                    for ( let st in arrCal['004316-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['004316-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['004316-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['004316-0926'].all_times[ arrCal['004316-0926'].set_of_timestamp[st] ] );
+                           $('p#date_004316-0926.date').html( arrCal['004316-0926'].all_times[ arrCal['004316-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['004316-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['004316-0926'].all_times[ arrCal['004316-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_004534-0926_858_4" tabindex="2008700">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/013491-03-25_Computer_259x396_Event_97.jpg" alt="Intro to Computers: Software image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults</p>
+               <p class="title" >Intro to Computers: Software</p>
+               <p class="date" id="date_004534-0926" >Oct 22, 2:30pm - 4:00pm</p>
+               <p class="location" >Central Library</p>
+                              <p class="description" >This beginner-friendly workshop is designed to help you navigate essential software tools with ease. From basic nav...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_004534-0926_858_4">
+              <a title="Intro to Computers: Software : Card 858" class="quickviewSearch" id="cal_004534-0926_858_4" aria-label="Quick View of Intro to Computers: Software" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_004534-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['004534-0926'] = '{&quot;jobID&quot;:&quot;004534-0926&quot;,&quot;title&quot;:&quot;Intro to Computers: Software&quot;,&quot;descr&quot;:&quot;This beginner-friendly workshop is designed to help you navigate essential software tools with ease. From basic nav...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/intro-to-computers-software\/004534-0926&quot;,&quot;PDF&quot;:&quot;004534-09-26_004534.pdf&quot;,&quot;prgm_image&quot;:&quot;013491-03-25_Computer_259x396_Event_97.jpg&quot;,&quot;prgm_age&quot;:&quot;Adults&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Computer Classes&quot;,&quot;rgstrtion&quot;:true,&quot;staff_only&quot;:0,&quot;wait_list&quot;:0,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Central Library&quot;,&quot;date_show&quot;:&quot;Oct 22, 2:30pm - 4:00pm&quot;,&quot;date_show_timestamp&quot;:1792693800,&quot;branch_location&quot;:&quot;11000000&quot;,&quot;all_times&quot;:{&quot;1792693800&quot;:&quot;Oct 22, 2:30pm - 4:00pm&quot;},&quot;set_of_timestamp&quot;:[1792693800],&quot;other_sessions&quot;:{&quot;1792693800-342&quot;:{&quot;jobID&quot;:&quot;004534-09\/26&quot;,&quot;index&quot;:&quot;1792693800-342&quot;,&quot;timestamp_GMT&quot;:1792693800,&quot;date_time&quot;:&quot;10\/22\/26   2:30PM&quot;,&quot;duration&quot;:5400,&quot;date_time_format&quot;:&quot;Oct, 22, 2:30pm - 4:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;11000000&quot;,&quot;branch&quot;:&quot;Central Library&quot;},&quot;roomID&quot;:342,&quot;registration&quot;:{&quot;is_active&quot;:true,&quot;wait&quot;:0,&quot;available_spots&quot;:29,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;This beginner-friendly workshop is designed to help you navigate essential software tools with ease. From basic nav...&quot;,&quot;prgmAge&quot;:&quot;For Adults&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/013491-03-25_Computer_259x396_Event_97.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/013491-03-25_Computer_259x396_Event_97.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 2:30pm - 4:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['004534-0926'] = $.parseJSON( arrJsonData_cal['004534-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['004534-0926'].all_times );
+                    // console.log( arrCal['004534-0926'].set_of_timestamp );
+                    for ( let st in arrCal['004534-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['004534-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['004534-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['004534-0926'].all_times[ arrCal['004534-0926'].set_of_timestamp[st] ] );
+                           $('p#date_004534-0926.date').html( arrCal['004534-0926'].all_times[ arrCal['004534-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['004534-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['004534-0926'].all_times[ arrCal['004534-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_005235-0926_859_4" tabindex="2008710">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/images/default/ProgramType/event_small/DefaultWebImage_259x396_Purple.png" alt="Halloween Read: Book Club at Pomonok image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults, Seniors</p>
+               <p class="title" >Halloween Read: Book Club at P...</p>
+               <p class="date" id="date_005235-0926" >Oct 22, 3:00pm - 4:30pm</p>
+               <p class="location" >Pomonok</p>
+                              <p class="description" >For Halloween lets read Liz Moore’s The God of the Woods a spooky mystery about upstate New York in the 1970s getti...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_005235-0926_859_4">
+              <a title="Halloween Read: Book Club at P... : Card 859" class="quickviewSearch" id="cal_005235-0926_859_4" aria-label="Quick View of Halloween Read: Book Club at Pomonok" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_005235-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['005235-0926'] = '{&quot;jobID&quot;:&quot;005235-0926&quot;,&quot;title&quot;:&quot;Halloween Read: Book Club at Pomonok&quot;,&quot;descr&quot;:&quot;For Halloween lets read Liz Moore\u2019s The God of the Woods a spooky mystery about upstate New York in the 1970s getti...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/halloween-read-book-club-at-pomonok\/005235-0926&quot;,&quot;PDF&quot;:&quot;005235-09-26_005235.pdf&quot;,&quot;prgm_image&quot;:&quot;no img&quot;,&quot;prgm_age&quot;:&quot;Adults, Seniors&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Book Discussion Group&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Pomonok&quot;,&quot;date_show&quot;:&quot;Oct 22, 3:00pm - 4:30pm&quot;,&quot;date_show_timestamp&quot;:1792695600,&quot;branch_location&quot;:&quot;94500000&quot;,&quot;all_times&quot;:{&quot;1792695600&quot;:&quot;Oct 22, 3:00pm - 4:30pm&quot;},&quot;set_of_timestamp&quot;:[1792695600],&quot;other_sessions&quot;:{&quot;1792695600-274&quot;:{&quot;jobID&quot;:&quot;005235-09\/26&quot;,&quot;index&quot;:&quot;1792695600-274&quot;,&quot;timestamp_GMT&quot;:1792695600,&quot;date_time&quot;:&quot;10\/22\/26   3:00PM&quot;,&quot;duration&quot;:5400,&quot;date_time_format&quot;:&quot;Oct, 22, 3:00pm - 4:30pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;94500000&quot;,&quot;branch&quot;:&quot;Pomonok&quot;},&quot;roomID&quot;:274,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;For Halloween lets read Liz Moore\u2019s The God of the Woods a spooky mystery about upstate New York in the 1970s getti...&quot;,&quot;prgmAge&quot;:&quot;For Adults, Seniors&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_small\/DefaultWebImage_259x396_Purple.png&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_large\/DefaultWebImage_259x396_Purple.png&quot;,&quot;date_event&quot;:&quot;Oct 22, 3:00pm - 4:30pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['005235-0926'] = $.parseJSON( arrJsonData_cal['005235-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['005235-0926'].all_times );
+                    // console.log( arrCal['005235-0926'].set_of_timestamp );
+                    for ( let st in arrCal['005235-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['005235-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['005235-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['005235-0926'].all_times[ arrCal['005235-0926'].set_of_timestamp[st] ] );
+                           $('p#date_005235-0926.date').html( arrCal['005235-0926'].all_times[ arrCal['005235-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['005235-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['005235-0926'].all_times[ arrCal['005235-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_002303-0826_860_4" tabindex="2008720">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/002303-08-26_SpaceMonth26_259x396_Event.jpg" alt="Space Technology with Mad Science image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(6-11)</p>
+               <p class="title" >Space Technology with Mad Scie...</p>
+               <p class="date" id="date_002303-0826" >Oct 22, 3:00pm - 4:00pm</p>
+               <p class="location" >South Ozone Park</p>
+                              <p class="description" >Celebrate Space Month in October! Discover technology designed for outer space! Steer a laser beam through a laser ...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_002303-0826_860_4">
+              <a title="Space Technology with Mad Scie... : Card 860" class="quickviewSearch" id="cal_002303-0826_860_4" aria-label="Quick View of Space Technology with Mad Science" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_002303-0826"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['002303-0826'] = '{&quot;jobID&quot;:&quot;002303-0826&quot;,&quot;title&quot;:&quot;Space Technology with Mad Science&quot;,&quot;descr&quot;:&quot;Celebrate Space Month in October! Discover technology designed for outer space! Steer a laser beam through a laser ...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/space-technology-with-mad-science\/002303-0826&quot;,&quot;PDF&quot;:&quot;002303-08-26_002303.pdf&quot;,&quot;prgm_image&quot;:&quot;002303-08-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;prgm_age&quot;:&quot;Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Children\u2019s Program, General&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;South Ozone Park&quot;,&quot;date_show&quot;:&quot;Oct 22, 3:00pm - 4:00pm&quot;,&quot;date_show_timestamp&quot;:1792695600,&quot;branch_location&quot;:&quot;95500000&quot;,&quot;all_times&quot;:{&quot;1792695600&quot;:&quot;Oct 22, 3:00pm - 4:00pm&quot;},&quot;set_of_timestamp&quot;:[1792695600],&quot;other_sessions&quot;:{&quot;1792695600-121&quot;:{&quot;jobID&quot;:&quot;002303-08\/26&quot;,&quot;index&quot;:&quot;1792695600-121&quot;,&quot;timestamp_GMT&quot;:1792695600,&quot;date_time&quot;:&quot;10\/22\/26   3:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 3:00pm - 4:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;95500000&quot;,&quot;branch&quot;:&quot;South Ozone Park&quot;},&quot;roomID&quot;:121,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Celebrate Space Month in October! Discover technology designed for outer space! Steer a laser beam through a laser ...&quot;,&quot;prgmAge&quot;:&quot;For Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/002303-08-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/002303-08-26_SpaceMonth26_259x396_Event.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 3:00pm - 4:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['002303-0826'] = $.parseJSON( arrJsonData_cal['002303-0826'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['002303-0826'].all_times );
+                    // console.log( arrCal['002303-0826'].set_of_timestamp );
+                    for ( let st in arrCal['002303-0826'].set_of_timestamp ) {
+                        // console.log ( arrCal['002303-0826'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['002303-0826'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['002303-0826'].all_times[ arrCal['002303-0826'].set_of_timestamp[st] ] );
+                           $('p#date_002303-0826.date').html( arrCal['002303-0826'].all_times[ arrCal['002303-0826'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['002303-0826'].set_of_timestamp[st] );
+                           // console.log ( arrCal['002303-0826'].all_times[ arrCal['002303-0826'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+               <div class="KickingPopUp result-grid" style="display:none;" id="nBlock_215"></div>
+              <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_002088-0826_861_4" tabindex="2008730">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/008849-12-25_Suncatchers_259x396_Event_2.jpg" alt="Suncatcher Art image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(0-5), Kids(6-11)</p>
+               <p class="title" >Suncatcher Art</p>
+               <p class="date" id="date_002088-0826" >Oct 22, 3:30pm - 4:30pm</p>
+               <p class="location" >Arverne</p>
+                              <p class="description" >Come to Arverne Library for a beautiful suncatcher craft!</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_002088-0826_861_4">
+              <a title="Suncatcher Art : Card 861" class="quickviewSearch" id="cal_002088-0826_861_4" aria-label="Quick View of Suncatcher Art" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_002088-0826"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['002088-0826'] = '{&quot;jobID&quot;:&quot;002088-0826&quot;,&quot;title&quot;:&quot;Suncatcher Art&quot;,&quot;descr&quot;:&quot;Come to Arverne Library for a beautiful suncatcher craft!&quot;,&quot;callUrl&quot;:&quot;\/calendar\/suncatcher-art\/002088-0826&quot;,&quot;PDF&quot;:&quot;002088-08-26_002088.pdf&quot;,&quot;prgm_image&quot;:&quot;008849-12-25_Suncatchers_259x396_Event_2.jpg&quot;,&quot;prgm_age&quot;:&quot;Kids(0-5), Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Children\u2019s Program, General&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Arverne&quot;,&quot;date_show&quot;:&quot;Oct 22, 3:30pm - 4:30pm&quot;,&quot;date_show_timestamp&quot;:1792697400,&quot;branch_location&quot;:&quot;92300000&quot;,&quot;all_times&quot;:{&quot;1792697400&quot;:&quot;Oct 22, 3:30pm - 4:30pm&quot;},&quot;set_of_timestamp&quot;:[1792697400],&quot;other_sessions&quot;:{&quot;1792697400-1&quot;:{&quot;jobID&quot;:&quot;002088-08\/26&quot;,&quot;index&quot;:&quot;1792697400-1&quot;,&quot;timestamp_GMT&quot;:1792697400,&quot;date_time&quot;:&quot;10\/22\/26   3:30PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 3:30pm - 4:30pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;92300000&quot;,&quot;branch&quot;:&quot;Arverne&quot;},&quot;roomID&quot;:1,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Come to Arverne Library for a beautiful suncatcher craft!&quot;,&quot;prgmAge&quot;:&quot;For Kids(0-5), Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/008849-12-25_Suncatchers_259x396_Event_2.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/008849-12-25_Suncatchers_259x396_Event_2.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 3:30pm - 4:30pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['002088-0826'] = $.parseJSON( arrJsonData_cal['002088-0826'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['002088-0826'].all_times );
+                    // console.log( arrCal['002088-0826'].set_of_timestamp );
+                    for ( let st in arrCal['002088-0826'].set_of_timestamp ) {
+                        // console.log ( arrCal['002088-0826'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['002088-0826'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['002088-0826'].all_times[ arrCal['002088-0826'].set_of_timestamp[st] ] );
+                           $('p#date_002088-0826.date').html( arrCal['002088-0826'].all_times[ arrCal['002088-0826'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['002088-0826'].set_of_timestamp[st] );
+                           // console.log ( arrCal['002088-0826'].all_times[ arrCal['002088-0826'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_005574-0926_862_4" tabindex="2008740">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/005574-09-26_4688-0926_259x396_event2.jpg" alt="Watch Party - Meet a NASA Navigator and Analog Astronaut! image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(6-11)</p>
+               <p class="title" >Watch Party - Meet a NASA Navi...</p>
+               <p class="date" id="date_005574-0926" >Oct 22, 4:00pm - 5:00pm</p>
+               <p class="location" >Hunters Point</p>
+                              <p class="description" >Celebrate Space Month in October! Join us for a virtual conversation with Sarah Elizabeth McCandless from NASAs Jet...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_005574-0926_862_4">
+              <a title="Watch Party - Meet a NASA Navi... : Card 862" class="quickviewSearch" id="cal_005574-0926_862_4" aria-label="Quick View of Watch Party - Meet a NASA Navigator and Analog Astronaut!" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_005574-0926"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['005574-0926'] = '{&quot;jobID&quot;:&quot;005574-0926&quot;,&quot;title&quot;:&quot;Watch Party - Meet a NASA Navigator and Analog Astronaut!&quot;,&quot;descr&quot;:&quot;Celebrate Space Month in October! Join us for a virtual conversation with Sarah Elizabeth McCandless from NASAs Jet...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/watch-party--meet-a-nasa-navigator-and-analog-astronaut\/005574-0926&quot;,&quot;PDF&quot;:&quot;005574-09-26_005574.pdf&quot;,&quot;prgm_image&quot;:&quot;005574-09-26_4688-0926_259x396_event2.jpg&quot;,&quot;prgm_age&quot;:&quot;Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Environmental&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Hunters Point&quot;,&quot;date_show&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;date_show_timestamp&quot;:1792699200,&quot;branch_location&quot;:&quot;97400000&quot;,&quot;all_times&quot;:{&quot;1792699200&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;},&quot;set_of_timestamp&quot;:[1792699200],&quot;other_sessions&quot;:{&quot;1792699200-410&quot;:{&quot;jobID&quot;:&quot;005574-09\/26&quot;,&quot;index&quot;:&quot;1792699200-410&quot;,&quot;timestamp_GMT&quot;:1792699200,&quot;date_time&quot;:&quot;10\/22\/26   4:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 4:00pm - 5:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;97400000&quot;,&quot;branch&quot;:&quot;Hunters Point&quot;},&quot;roomID&quot;:410,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Celebrate Space Month in October! Join us for a virtual conversation with Sarah Elizabeth McCandless from NASAs Jet...&quot;,&quot;prgmAge&quot;:&quot;For Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/005574-09-26_4688-0926_259x396_event2.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/005574-09-26_4688-0926_259x396_event2.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['005574-0926'] = $.parseJSON( arrJsonData_cal['005574-0926'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['005574-0926'].all_times );
+                    // console.log( arrCal['005574-0926'].set_of_timestamp );
+                    for ( let st in arrCal['005574-0926'].set_of_timestamp ) {
+                        // console.log ( arrCal['005574-0926'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['005574-0926'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['005574-0926'].all_times[ arrCal['005574-0926'].set_of_timestamp[st] ] );
+                           $('p#date_005574-0926.date').html( arrCal['005574-0926'].all_times[ arrCal['005574-0926'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['005574-0926'].set_of_timestamp[st] );
+                           // console.log ( arrCal['005574-0926'].all_times[ arrCal['005574-0926'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_000443-0726_863_4" tabindex="2008750">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/styles/event_small/000443-07-26_Piano_0826_259x396_Event.jpg" alt="CANCELLED: Chopin Piano Recital featuring Dr. Albert Zak image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Adults, Kids(0-5)</p>
+               <p class="title" >CANCELLED: Chopin Piano Recita...</p>
+               <p class="date" id="date_000443-0726" >Oct 22, 4:00pm - 5:00pm</p>
+               <p class="location" >Flushing</p>
+                              <p class="description" >This program has been cancelled; in the event that it is rescheduled the QPL calendar will be updated. Browse addit...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_000443-0726_863_4">
+              <a title="CANCELLED: Chopin Piano Recita... : Card 863" class="quickviewSearch" id="cal_000443-0726_863_4" aria-label="Quick View of CANCELLED: Chopin Piano Recital featuring Dr. Albert Zak" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_000443-0726"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['000443-0726'] = '{&quot;jobID&quot;:&quot;000443-0726&quot;,&quot;title&quot;:&quot;CANCELLED: Chopin Piano Recital featuring Dr. Albert Zak&quot;,&quot;descr&quot;:&quot;This program has been cancelled; in the event that it is rescheduled the QPL calendar will be updated. Browse addit...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/cancelled-chopin-piano-recital-featuring-dr-albert-zak\/000443-0726&quot;,&quot;PDF&quot;:&quot;000443-07-26_000443.pdf&quot;,&quot;prgm_image&quot;:&quot;000443-07-26_Piano_0826_259x396_Event.jpg&quot;,&quot;prgm_age&quot;:&quot;Adults, Kids(0-5)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;Concerts&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Flushing&quot;,&quot;date_show&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;date_show_timestamp&quot;:1792699200,&quot;branch_location&quot;:&quot;91400000&quot;,&quot;all_times&quot;:{&quot;1792699200&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;},&quot;set_of_timestamp&quot;:[1792699200],&quot;other_sessions&quot;:{&quot;1792699200-49&quot;:{&quot;jobID&quot;:&quot;000443-07\/26&quot;,&quot;index&quot;:&quot;1792699200-49&quot;,&quot;timestamp_GMT&quot;:1792699200,&quot;date_time&quot;:&quot;10\/22\/26   4:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 4:00pm - 5:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;91400000&quot;,&quot;branch&quot;:&quot;Flushing&quot;},&quot;roomID&quot;:49,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;This program has been cancelled; in the event that it is rescheduled the QPL calendar will be updated. Browse addit...&quot;,&quot;prgmAge&quot;:&quot;For Adults, Kids(0-5)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_small\/000443-07-26_Piano_0826_259x396_Event.jpg&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/styles\/event_large\/000443-07-26_Piano_0826_259x396_Event.jpg&quot;,&quot;date_event&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['000443-0726'] = $.parseJSON( arrJsonData_cal['000443-0726'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['000443-0726'].all_times );
+                    // console.log( arrCal['000443-0726'].set_of_timestamp );
+                    for ( let st in arrCal['000443-0726'].set_of_timestamp ) {
+                        // console.log ( arrCal['000443-0726'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['000443-0726'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['000443-0726'].all_times[ arrCal['000443-0726'].set_of_timestamp[st] ] );
+                           $('p#date_000443-0726.date').html( arrCal['000443-0726'].all_times[ arrCal['000443-0726'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['000443-0726'].set_of_timestamp[st] );
+                           // console.log ( arrCal['000443-0726'].all_times[ arrCal['000443-0726'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+            <div class="search-results card">
+                              
+          <div class="cardWrapper" id="wrapper_cal_003519-0826_864_4" tabindex="2008760">
+                        <div class="clipped"><img class="img img-responsive" src="https://image.queenslibrary.org/lamps/images/default/ProgramType/event_small/DefaultWebImage_259x396_Bubblegum.png" alt="STEM Club: Painting the Northern Lights image"></div>
+            <div class="searchResultEachBlock inner " >
+                              <p class="category" >For Kids(6-11)</p>
+               <p class="title" >STEM Club: Painting the Northe...</p>
+               <p class="date" id="date_003519-0826" >Oct 22, 4:00pm - 5:00pm</p>
+               <p class="location" >Langston Hughes</p>
+                              <p class="description" >Join us every Thursday for a STEM Activity for ages 7-13. This week is Painting the Northern Lights. Learn about th...</p>
+                           </div>
+           </div>
+            <p class="call-to-action" id="callto_003519-0826_864_4">
+              <a title="STEM Club: Painting the Northe... : Card 864" class="quickviewSearch" id="cal_003519-0826_864_4" aria-label="Quick View of STEM Club: Painting the Northern Lights" >Quick View</a>
+            </p>
+            <div class="searchToolTip" id="tooltip_003519-0826"><div class="ql-list-default-slider-quick-view-tip"></div></div>
+            <script>try{ arrJsonData_cal['003519-0826'] = '{&quot;jobID&quot;:&quot;003519-0826&quot;,&quot;title&quot;:&quot;STEM Club: Painting the Northern Lights&quot;,&quot;descr&quot;:&quot;Join us every Thursday for a STEM Activity for ages 7-13. This week is Painting the Northern Lights. Learn about th...&quot;,&quot;callUrl&quot;:&quot;\/calendar\/stem-club-painting-the-northern-lights\/003519-0826&quot;,&quot;PDF&quot;:&quot;003519-08-26_003519.pdf&quot;,&quot;prgm_image&quot;:&quot;no img&quot;,&quot;prgm_age&quot;:&quot;Kids(6-11)&quot;,&quot;delivery_format&quot;:&quot;In-Person&quot;,&quot;delivery_format_text&quot;:&quot;How to Attend? &quot;,&quot;prgm_type&quot;:&quot;STEM&quot;,&quot;rgstrtion&quot;:false,&quot;staff_only&quot;:0,&quot;wait_list&quot;:null,&quot;single_shared&quot;:0,&quot;action&quot;:&quot;updateJobWeb&quot;,&quot;updated&quot;:&quot;&quot;,&quot;updated_timestamp&quot;:&quot;&quot;,&quot;branch_name&quot;:&quot;Langston Hughes&quot;,&quot;date_show&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;date_show_timestamp&quot;:1792699200,&quot;branch_location&quot;:&quot;98200000&quot;,&quot;all_times&quot;:{&quot;1792699200&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;},&quot;set_of_timestamp&quot;:[1792699200],&quot;other_sessions&quot;:{&quot;1792699200-75&quot;:{&quot;jobID&quot;:&quot;003519-08\/26&quot;,&quot;index&quot;:&quot;1792699200-75&quot;,&quot;timestamp_GMT&quot;:1792699200,&quot;date_time&quot;:&quot;10\/22\/26   4:00PM&quot;,&quot;duration&quot;:3600,&quot;date_time_format&quot;:&quot;Oct, 22, 4:00pm - 5:00pm&quot;,&quot;location&quot;:{&quot;virtua&quot;:&quot;98200000&quot;,&quot;branch&quot;:&quot;Langston Hughes&quot;},&quot;roomID&quot;:75,&quot;registration&quot;:{&quot;is_active&quot;:false,&quot;wait&quot;:null,&quot;available_spots&quot;:null,&quot;not_active_reason&quot;:null}}},&quot;descrQV&quot;:&quot;Join us every Thursday for a STEM Activity for ages 7-13. This week is Painting the Northern Lights. Learn about th...&quot;,&quot;prgmAge&quot;:&quot;For Kids(6-11)&quot;,&quot;cal_image_small&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_small\/DefaultWebImage_259x396_Bubblegum.png&quot;,&quot;cal_image_large&quot;:&quot;https:\/\/image.queenslibrary.org\/lamps\/images\/default\/ProgramType\/event_large\/DefaultWebImage_259x396_Bubblegum.png&quot;,&quot;date_event&quot;:&quot;Oct 22, 4:00pm - 5:00pm&quot;,&quot;widgetParam2&quot;:3}'; } catch(e) { console.log('C-Debug') } </script>
+            <script>
+               try { 
+                 arrCal['003519-0826'] = $.parseJSON( arrJsonData_cal['003519-0826'].replace(/&quot;/g,'"') ); 
+                 if ( calTimeStamp != '' ) {
+                    // console.log( arrCal['003519-0826'].all_times );
+                    // console.log( arrCal['003519-0826'].set_of_timestamp );
+                    for ( let st in arrCal['003519-0826'].set_of_timestamp ) {
+                        // console.log ( arrCal['003519-0826'].set_of_timestamp[st] );
+                        if ( calTimeStamp < arrCal['003519-0826'].set_of_timestamp[st] ) {
+                           // console.log ( arrCal['003519-0826'].all_times[ arrCal['003519-0826'].set_of_timestamp[st] ] );
+                           $('p#date_003519-0826.date').html( arrCal['003519-0826'].all_times[ arrCal['003519-0826'].set_of_timestamp[st] ] );
+                           break;
+                        } else {
+                           // console.log ( '[ not true ]' );
+                           // console.log ( calTimeStamp );
+                           // console.log ( arrCal['003519-0826'].set_of_timestamp[st] );
+                           // console.log ( arrCal['003519-0826'].all_times[ arrCal['003519-0826'].set_of_timestamp[st] ] );
+                        }
+                    }
+                 } 
+               } catch(e) { console.log('CC-Debug'); }
+            </script>
+
+                 </div>
+               <div class="KickingPopUp result-grid" style="display:none;" id="nBlock_216"></div>
+  <input type="hidden" class="prTotalNum71" value="12" />
+</div>

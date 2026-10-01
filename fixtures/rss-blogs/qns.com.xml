@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QNS</title>
+	<atom:link href="https://qns.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://qns.com</link>
+	<description>Queens News and Community</description>
+	<lastBuildDate>Wed, 30 Sep 2026 23:08:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">229344052</site>	<item>
+		<title>NYC Council weighs how to regulate e-bikes, e-scooters, and mopeds during marathon hearing</title>
+		<link>https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/</link>
+					<comments>https://qns.com/2026/09/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/#respond</comments>
+		
+		<dc:creator><![CDATA[By Ethan Stark-Miller]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:41:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[City Council]]></category>
+		<category><![CDATA[City Council Speaker Julie Menin]]></category>
+		<category><![CDATA[council-member-shaun-abreu]]></category>
+		<category><![CDATA[dot-commmissioner-mike-flynn]]></category>
+		<category><![CDATA[e-bikes]]></category>
+		<category><![CDATA[e-motos]]></category>
+		<category><![CDATA[e-scooters]]></category>
+		<category><![CDATA[illegal-e-bikes]]></category>
+		<category><![CDATA[mayor-zohran-mamdani]]></category>
+		<category><![CDATA[mopeds]]></category>
+		<category><![CDATA[NYC Transit]]></category>
+		<category><![CDATA[nyc-evsa]]></category>
+		<category><![CDATA[Priscilla’s Law]]></category>
+		<category><![CDATA[sam-levine]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624360</guid>
+
+					<description><![CDATA[The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years. The 23 bills council members are proposing take a… <a class="read-more" style="color: black;font-weight:bold;text-transform:uppercase;text-decoration:none;font-size:80%;" href="https://www.amny.com/news/nyc-council-weighs-regulate-e-bikes-e-scooters/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>The NYC Council held an hours-long hearing Wednesday in which lawmakers heard testimony from city officials and the public on nearly two dozen measures aimed at strengthening regulations around e-bikes, e-scooters, and mopeds that have exploded in popularity across the five boroughs in recent years.</p>
+<p>The 23 bills council members are proposing take a variety of approaches toward addressing persistent safety concerns around the ridership of electric micromobility devices, which are largely used by immigrant food delivery workers. Those include <a href="https://www.amny.com/nyc-transit/nyc-lawmaker-bills-e-motos-electronic-motorcycles/" target="_blank" rel="noopener">taking illegal devices that are involved in many crashes off the streets</a>, outlawing the fastest legal e-bikes, and better regulating the third-party apps that employ delivery workers. </p>
+<p>The suite of legislation under consideration, however, does not include a measure that would require that e-bike and e-scooter owners register and license their vehicles — a bill known as <a href="https://www.amny.com/news/priscillas-law-illegal-e-vehicles-in-nyc/" target="_blank" rel="noopener">“Priscilla’s Law.”</a></p>
+<p>City Council Speaker Julie Menin, who <a href="https://www.amny.com/news/city-council-e-bike-micromobility-bills/" target="_blank" rel="noopener">scheduled the hearing</a> amid a spate of e-micromobility-involved crashes over the summer, said the purpose of the proceeding was both to examine how the legislation can make riding motorized two-wheelers safer and how the city is enforcing already existing laws.</p>
+<p>"<span class="transcript-word" data-offset="3715359" data-word="106.3199:125.89:125.95">As</span> <span class="transcript-word" data-offset="3718239" data-word="106.3199:126.07:126.37">speaker,</span> <span class="transcript-word" data-offset="3727839" data-word="106.3199:126.67:126.7">I</span> <span class="transcript-word" data-offset="3729279" data-word="106.3199:126.76:127.12">believe</span> <span class="transcript-word" data-offset="3736959" data-word="106.3199:127.24:127.27">the</span> <span class="transcript-word" data-offset="3742239" data-word="106.3199:127.57:127.84">council</span> <span class="transcript-word" data-offset="3747999" data-word="106.3199:127.93:128.05">has</span> <span class="transcript-word" data-offset="3750879" data-word="106.3199:128.11:128.14">a</span> <span class="transcript-word" data-offset="3752799" data-word="106.3199:128.23:129.16">responsibility</span> <span class="transcript-word" data-offset="3771519" data-word="106.3199:129.4:129.46">to</span> <span class="transcript-word" data-offset="3775839" data-word="106.3199:129.67:130.51">meticulously</span> <span class="transcript-word" data-offset="3807519" data-word="106.3199:131.65:131.86">examine</span> <span class="transcript-word" data-offset="3810879" data-word="106.3199:131.86:131.89">the</span> micro<span class="transcript-word" data-offset="3813759" data-word="106.3199:132.04:132.37">mobility</span> <span class="transcript-word" data-offset="3822399" data-word="106.3199:132.58:133.06">landscape</span> <span class="transcript-word" data-offset="3837279" data-word="106.3199:133.51:133.6">and</span> <span class="transcript-word" data-offset="3841599" data-word="106.3199:133.78:134.08">address</span> <span class="transcript-word" data-offset="3846399" data-word="106.3199:134.08:134.1">the</span> <span class="transcript-word" data-offset="3852959" data-word="106.3199:134.49:134.85">major</span> <span class="transcript-word" data-offset="3860159" data-word="106.3199:134.94:135.33">gaps</span> <span class="transcript-word" data-offset="3869279" data-word="106.3199:135.51:135.57">in</span> <span class="transcript-word" data-offset="3871679" data-word="106.3199:135.66:135.72">our</span> <span class="transcript-word" data-offset="3875519" data-word="106.3199:135.9:136.2">laws</span> <span class="transcript-word" data-offset="3888479" data-word="106.3199:136.71:136.8">that</span> <span class="transcript-word" data-offset="3891359" data-word="106.3199:136.89:136.98">have</span> <span class="transcript-word" data-offset="3893759" data-word="106.3199:137.04:137.34">emerged,</span> <span class="transcript-word" data-offset="3906719" data-word="106.3199:137.85:138.42">particularly</span> <span class="transcript-word" data-offset="3920159" data-word="106.3199:138.69:138.75">as</span> <span class="transcript-word" data-offset="3923999" data-word="106.3199:138.93:139.65">technology</span> <span class="transcript-word" data-offset="3937919" data-word="106.3199:139.8:139.92">and</span> <span class="transcript-word" data-offset="3940319" data-word="106.3199:139.95:140.79">transportation</span> <span class="transcript-word" data-offset="3957599" data-word="106.3199:141.03:141.27">habits</span> <span class="transcript-word" data-offset="3963359" data-word="106.3199:141.39:141.48">have</span> <span class="transcript-word" data-offset="3967199" data-word="106.3199:141.63:142.11">changed," Menin said during her opening remarks. "</span><span class="transcript-word" data-offset="3981119" data-word="106.3199:142.5:142.62">But</span> <span class="transcript-word" data-offset="3983999" data-word="106.3199:142.68:142.71">we</span> <span class="transcript-word" data-offset="3986879" data-word="106.3199:142.86:143.13">also</span> <span class="transcript-word" data-offset="3993119" data-word="106.3199:143.25:143.34">have</span> <span class="transcript-word" data-offset="3995999" data-word="106.3199:143.43:143.46">the</span> <span class="transcript-word" data-offset="3997919" data-word="106.3199:143.55:144.39">responsibility</span> <span class="transcript-word" data-offset="4013759" data-word="106.3199:144.54:144.6">to</span> <span class="transcript-word" data-offset="4016159" data-word="106.3199:144.69:144.9">hold</span> <span class="transcript-word" data-offset="4021919" data-word="106.3199:145.05:145.08">the</span> <span class="transcript-word" data-offset="4022399" data-word="106.3199:145.08:145.8">administration</span> <span class="transcript-word" data-offset="4038239" data-word="106.3199:146.07:146.4">accountable</span> <span class="transcript-word" data-offset="4050719" data-word="106.3199:146.85:146.94">for</span> en<span class="transcript-word" data-offset="4052159" data-word="106.3199:146.94:147.12">forcing</span> <span class="transcript-word" data-offset="4056479" data-word="106.3199:147.21:147.24">the</span> <span class="transcript-word" data-offset="4059839" data-word="106.3199:147.42:147.72">laws</span> <span class="transcript-word" data-offset="4066559" data-word="106.3199:147.84:147.93">that</span> <span class="transcript-word" data-offset="4070879" data-word="106.3199:148.11:148.17">are</span> <span class="transcript-word" data-offset="4073279" data-word="106.3199:148.26:148.44">already</span> <span class="transcript-word" data-offset="4086239" data-word="106.3199:149.07:149.13">on</span> <span class="transcript-word" data-offset="4089119" data-word="106.3199:149.25:149.28">the</span> <span class="transcript-word" data-offset="4089599" data-word="106.3199:149.28:150.42">books."</span></p>
+<p>Over the course of the hearing, the council heard testimony from Mayor Zohran Mamdani's administration, including top officials with the Departments of Transporation (DOT) and Consumer and Worker Protection (DCWP) as well as the NYPD. They also heard from safe streets advocates, those in favor of stricter regulations on all e-micromobility devices, and other members of the public.</p>
+<h2>Crashes involving e-micromobility devices</h2>
+<p>The current landscape for e-bikes and e-scooters was shaped by the state's decision to legalize them in 2020.</p>
+<p>In doing so, Albany authorized three classes of e-bikes in the city, none of which can have motors exceeding 750 watts: Class 1 — pedal-assist e-bikes that can reach 20 miles per hour; Class 2 — throttle-assist bikes that can reach 20 mph; and Class 3 — throttle-assist e-bikes that can reach 25 mph. Legal e-scooters cannot exceed 20 mph top speeds.</p>
+<p>However, all micromobility devices in the city must abide by a 15 mph speed limit, which was instituted by former Mayor Eric Adams last year.</p>
+<p>The hearing comes after a few high-profile crashes involving e-micromobility devices over the summer.</p>
+<p>Among those incidents was a crash on the Queensboro Bridge between the rider of an illegal motorized scooter and a traditional cyclist, killing them both. Another incident in Lower Manhattan saw a 17-year-old riding an illegal e-moto killed when he <a href="https://www.amny.com/nyc-transit/consumer-alert-motorized-two-wheelers/" target="_blank" rel="noopener">collided with an SUV.</a></p>
+<p>"We need to integrate these <span class="transcript-word" data-offset="7324640" data-word="435.68:22.11:22.59">devices</span> <span class="transcript-word" data-offset="7333280" data-word="435.68:22.65:22.8">more</span> <span class="transcript-word" data-offset="7336160" data-word="435.68:22.83:23.4">intentionally</span> <span class="transcript-word" data-offset="7348640" data-word="435.68:23.61:23.79">into</span> <span class="transcript-word" data-offset="7352480" data-word="435.68:23.85:23.91">our</span> <span class="transcript-word" data-offset="7356320" data-word="435.68:24.09:24.27">street</span> <span class="transcript-word" data-offset="7359680" data-word="435.68:24.3:24.72">design</span> <span class="transcript-word" data-offset="7375040" data-word="435.68:25.26:25.34">and</span> <span class="transcript-word" data-offset="7376800" data-word="435.68:25.37:25.43">our</span> <span class="transcript-word" data-offset="7378240" data-word="435.68:25.46:26">regulatory</span> <span class="transcript-word" data-offset="7389280" data-word="435.68:26.15:26.54">schemes if</span> <span class="transcript-word" data-offset="7400320" data-word="435.68:26.84:26.87">we</span> <span class="transcript-word" data-offset="7401760" data-word="435.68:26.93:27.08">want</span> <span class="transcript-word" data-offset="7404640" data-word="435.68:27.11:27.17">to</span> <span class="transcript-word" data-offset="7406080" data-word="435.68:27.2:27.32">avoid</span> <span class="transcript-word" data-offset="7421440" data-word="435.68:28.16:28.4">tragedies</span> <span class="transcript-word" data-offset="7441600" data-word="435.68:29.42:29.51">like</span> <span class="transcript-word" data-offset="7443040" data-word="435.68:29.51:29.54">the</span> <span class="transcript-word" data-offset="7444000" data-word="435.68:29.57:29.69">ones</span> <span class="transcript-word" data-offset="7447360" data-word="435.68:29.78:29.81">we</span> <span class="transcript-word" data-offset="7450720" data-word="435.68:29.99:30.05">saw</span> <span class="transcript-word" data-offset="7454560" data-word="435.68:30.23:30.38">far</span> <span class="transcript-word" data-offset="7458400" data-word="435.68:30.47:30.53">too</span> <span class="transcript-word" data-offset="7463680" data-word="435.68:30.8:30.92">many</span> <span class="transcript-word" data-offset="7470880" data-word="435.68:31.25:31.31">of</span> <span class="transcript-word" data-offset="7473280" data-word="435.68:31.4:31.49">this</span> <span class="transcript-word" data-offset="7477600" data-word="435.68:31.67:31.79" data-selected="true">summer," City Council Transportation Chair Shaun Abreu said during the hearing.</span></p>
+<p>Several bills in the package aim to get illegal e-bikes and e-scooters, which can far exceed the 25 mph and 20 mph legal top speeds for the respective devices, off of the streets.</p>
+<p>Officials and advocates say that while most brick-and-morter stores in the city have ceased selling illegal devices, they end up in the five boroughs anyway via online sales. In those instances, online retailers market the devices as street legal, despite that not being the case.</p>
+<p>During his testimony, DOT Commissioner Mike Flynn said that roughly two of the 17 e-bike-related fatalities so far this year involved illegal devices, with the cause of another three being unknown. For the 11 e-scooter involved deaths this year, Flynn said, six were on illegal devices and four were unknown.</p>
+<p>But DOT chief of staff Madeline Labadie said the agency does not have a good sense of how many e-micromobility devices currently on city streets are legal versus illegal. She said that is due to most of the vehicles being privately owned and not licensed or registered.</p>
+<p>"Without <span class="transcript-word" data-offset="18922240" data-word="1165.68:16.96:17.05">any</span> <span class="transcript-word" data-offset="18925120" data-word="1165.68:17.14:17.41">license</span> <span class="transcript-word" data-offset="18930400" data-word="1165.68:17.47:17.92">requirement,</span> <span class="transcript-word" data-offset="18938080" data-word="1165.68:17.95:18.04">there</span> <span class="transcript-word" data-offset="18940480" data-word="1165.68:18.1:18.31">isn't</span> <span class="transcript-word" data-offset="18949120" data-word="1165.68:18.64:18.67">a</span> <span class="transcript-word" data-offset="18955360" data-word="1165.68:19.03:19.33">single</span> <span class="transcript-word" data-offset="18963040" data-word="1165.68:19.51:19.78">source</span> <span class="transcript-word" data-offset="18969280" data-word="1165.68:19.9:19.96">of</span> <span class="transcript-word" data-offset="18971680" data-word="1165.68:20.05:20.35">truth</span> <span class="transcript-word" data-offset="18978400" data-word="1165.68:20.47:20.56">where</span> <span class="transcript-word" data-offset="18980320" data-word="1165.68:20.59:20.65">they</span> <span class="transcript-word" data-offset="18983680" data-word="1165.68:20.8:20.86">are</span> <span class="transcript-word" data-offset="18996160" data-word="1165.68:21.58:21.88">captured</span> <span class="transcript-word" data-offset="19003840" data-word="1165.68:22.06:22.12">in</span> <span class="transcript-word" data-offset="19005760" data-word="1165.68:22.18:22.3">terms</span> <span class="transcript-word" data-offset="19010560" data-word="1165.68:22.48:22.54">of</span> <span class="transcript-word" data-offset="19011520" data-word="1165.68:22.54:22.57">the</span> <span class="transcript-word" data-offset="19021120" data-word="1165.68:23.14:23.41">amount</span> <span class="transcript-word" data-offset="19025920" data-word="1165.68:23.44:23.53">that</span> <span class="transcript-word" data-offset="19027840" data-word="1165.68:23.56:23.62">are</span> <span class="transcript-word" data-offset="19030720" data-word="1165.68:23.74:23.8">on</span> <span class="transcript-word" data-offset="19033600" data-word="1165.68:23.92:23.95">the</span> <span class="transcript-word" data-offset="19034080" data-word="1165.68:23.95:24.19">streets </span><span class="transcript-word" data-offset="19038400" data-word="1165.68:24.22:24.28">or</span> <span class="transcript-word" data-offset="19040320" data-word="1165.68:24.34:24.43">that</span> <span class="transcript-word" data-offset="19041760" data-word="1165.68:24.43:24.49">are</span> <span class="transcript-word" data-offset="19043680" data-word="1165.68:24.55:24.79" data-selected="true">sold," Labadie said.</span></p>
+<p>One piece of <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169793&amp;GUID=7256449B-55C5-4D87-9091-532B603AD741" target="_blank" rel="noopener">legislation meant to rein in the illegal devices</a>, sponsored by Abreu, would allow the owners of Class 3 e-bikes or illegal devices to trade them in for legal Class 1 or 2 bikes or obtain a voucher to buy a legal device themselves.</p>
+<p>That measure drew pushback from Flynn, who said that while DOT supports the "bill's intent," the agency has concerns about implementing it.</p>
+<p>"<span class="transcript-word" data-offset="49552160" data-word="3085.22:11.79:12.12">Standing</span> <span class="transcript-word" data-offset="49558400" data-word="3085.22:12.18:12.24">up</span> <span class="transcript-word" data-offset="49560320" data-word="3085.22:12.3:12.33">a</span> <span class="transcript-word" data-offset="49561280" data-word="3085.22:12.36:12.72">program</span> <span class="transcript-word" data-offset="49568000" data-word="3085.22:12.78:12.93">like</span> <span class="transcript-word" data-offset="49571360" data-word="3085.22:12.99:13.14">this</span> <span class="transcript-word" data-offset="49578080" data-word="3085.22:13.41:13.5">is</span> <span class="transcript-word" data-offset="49579520" data-word="3085.22:13.5:13.59">very</span> <span class="transcript-word" data-offset="49582400" data-word="3085.22:13.68:14.61">resource-intensive</span> <span class="transcript-word" data-offset="49599680" data-word="3085.22:14.76:14.88">and</span> <span class="transcript-word" data-offset="49601600" data-word="3085.22:14.88:14.91">a</span> <span class="transcript-word" data-offset="49603520" data-word="3085.22:15:15.21">narrower</span> <span class="transcript-word" data-offset="49610240" data-word="3085.22:15.42:15.71">approach</span> <span class="transcript-word" data-offset="49616800" data-word="3085.22:15.83:15.92">that</span> <span class="transcript-word" data-offset="49619200" data-word="3085.22:15.98:16.34">targets</span> <span class="transcript-word" data-offset="49624960" data-word="3085.22:16.34:16.37">the</span> <span class="transcript-word" data-offset="49627840" data-word="3085.22:16.52:16.73">most</span> <span class="transcript-word" data-offset="49631680" data-word="3085.22:16.76:17.21">dangerous</span> <span class="transcript-word" data-offset="49646560" data-word="3085.22:17.69:17.99">illegal</span> <span class="transcript-word" data-offset="49652320" data-word="3085.22:18.05:18.47">devices</span> <span class="transcript-word" data-offset="49661440" data-word="3085.22:18.62:18.74">could</span> <span class="transcript-word" data-offset="49664320" data-word="3085.22:18.8:18.98">prove</span> <span class="transcript-word" data-offset="49668160" data-word="3085.22:19.04:19.07">a</span> <span class="transcript-word" data-offset="49669600" data-word="3085.22:19.13:19.37">greater</span> <span class="transcript-word" data-offset="49675360" data-word="3085.22:19.49:19.76">impact</span> <span class="transcript-word" data-offset="49681600" data-word="3085.22:19.88:19.94">on</span> <span class="transcript-word" data-offset="49683520" data-word="3085.22:20:20.21">street</span> <span class="transcript-word" data-offset="49687840" data-word="3085.22:20.27:20.6">safety," Flynn said.</span></p>
+<p>Another <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8169803&amp;GUID=AF5DC996-B226-4DCF-B6A5-F930845CF8AC" target="_blank" rel="noopener">bill would require</a> the NYPD and DOT to use devices known as dynamometers, which measure e-bikes' and e-scooters' voltage and maximum assisted speed in order to ascertain whether or not the devices they seize are legal.</p>
+<p>NYPD officials who testified at the hearing said that while the idea of using dynamometers to test devices' legality is "very interesting," they still have a lot of questions about how such a program would work in practice.</p>
+<p>"<span class="transcript-word has-highlight" data-offset="38853440" data-word="2390.96:37.38:37.47">It</span> <span class="transcript-word has-highlight" data-offset="38854880" data-word="2390.96:37.47:37.56">would</span> <span class="transcript-word has-highlight" data-offset="38856320" data-word="2390.96:37.56:37.59">be</span> <span class="transcript-word has-highlight" data-offset="38858240" data-word="2390.96:37.68:37.74">new</span> <span class="transcript-word has-highlight" data-offset="38861600" data-word="2390.96:37.89:37.95">to</span> <span class="transcript-word has-highlight" data-offset="38864000" data-word="2390.96:38.04:38.19">any</span> <span class="transcript-word has-highlight" data-offset="38867840" data-word="2390.96:38.28:38.58">major</span> <span class="transcript-word has-highlight" data-offset="38878880" data-word="2390.96:38.97:39.39">American</span> <span class="transcript-word has-highlight" data-offset="38887520" data-word="2390.96:39.51:39.72">city," said Michael Gerber, the NYPD's deputy commissioner of legal matters. "That</span> <span class="transcript-word has-highlight" data-offset="38912960" data-word="2390.96:41.1:41.25">raises</span> <span class="transcript-word has-highlight" data-offset="38916800" data-word="2390.96:41.34:41.37">a</span> <span class="transcript-word has-highlight" data-offset="38917760" data-word="2390.96:41.4:41.55">host</span> <span class="transcript-word has-highlight" data-offset="38921120" data-word="2390.96:41.61:41.67">of</span> <span class="transcript-word has-highlight" data-offset="38922080" data-word="2390.96:41.67:42.06">questions</span> <span class="transcript-word has-highlight" data-offset="38928800" data-word="2390.96:42.09:42.15">in</span> <span class="transcript-word has-highlight" data-offset="38931200" data-word="2390.96:42.24:42.45">terms</span> <span class="transcript-word has-highlight" data-offset="38936960" data-word="2390.96:42.6:42.66">of</span> <span class="transcript-word has-highlight" data-offset="38947520" data-word="2390.96:43.26:43.86">procurement</span> <span class="transcript-word has-highlight" data-offset="38963840" data-word="2390.96:44.28:44.43">and</span> <span class="transcript-word has-highlight" data-offset="38976800" data-word="2390.96:45.09:45.51">cost</span> <span class="transcript-word has-highlight" data-offset="38988800" data-word="2390.96:45.84:45.99">and</span> <span class="transcript-word has-highlight" data-offset="39040640" data-word="2390.96:49.08:49.5">operational</span> <span class="transcript-word has-highlight" data-offset="39048320" data-word="2390.96:49.56:49.98">functionality, r</span><span class="transcript-word has-highlight" data-offset="39057920" data-word="2390.96:50.16:50.31">ight?"</span></p>
+<p>Other bills in the package, sponsored by Council Member Crystal Hudson (D-Brooklyn), seek to <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862032&amp;GUID=FBA3B7D2-B295-4991-826B-B622192AAD5C" target="_blank" rel="noopener">ban both the sale</a> and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223710&amp;GUID=E603FDD2-B465-44EE-9D59-762B0BE124A8" target="_blank" rel="noopener">operation</a> of Class 3 e-bikes. The latter bill would be phased in over a two-year period, with the city distributing warnings to those still found to be riding Class 3 e-bikes through April 1, 2029, after which point they would be hit with escalating fines.</p>
+<p>Department of Consumer and Worker Protection Commissioner Sam Levine, during his testimony, raised concerns that outlawing the operation of Class 3 e-bikes could cause issues for immigrant delivery workers who may unwittingly continue using the devices.</p>
+<p>"We have significant concerns of unintended consequences that will most heavily impact delivery workers," Levine said. "Many of them are immigrants with limited English proficiency <span class="transcript-word" data-offset="70638560" data-word="4305.49:109.42:109.51">and</span> <span class="transcript-word" data-offset="70640480" data-word="4305.49:109.54:109.66">other</span> <span class="transcript-word" data-offset="70643840" data-word="4305.49:109.75:110.38">vulnerabilities.</span> <span class="transcript-word" data-offset="70666400" data-word="4305.49:111.16:111.46">Delivery</span> <span class="transcript-word" data-offset="70672640" data-word="4305.49:111.55:111.85">workers</span> <span class="transcript-word" data-offset="70678880" data-word="4305.49:111.94:112.03">could</span> <span class="transcript-word" data-offset="70680800" data-word="4305.49:112.06:112.24">face</span> <span class="transcript-word" data-offset="70688960" data-word="4305.49:112.57:112.87">losing</span> <span class="transcript-word" data-offset="70694240" data-word="4305.49:112.9:112.99" data-selected="true">their</span> <span class="transcript-word" data-offset="70696640" data-word="4305.49:113.05:113.41">livelihoods</span> <span class="transcript-word" data-offset="70707680" data-word="4305.49:113.74:113.8">as</span> <span class="transcript-word" data-offset="70710080" data-word="4305.49:113.89:114.01">well</span> <span class="transcript-word" data-offset="70712480" data-word="4305.49:114.04:114.1">as</span> <span class="transcript-word" data-offset="70714400" data-word="4305.49:114.16:114.55">increased</span> <span class="transcript-word" data-offset="70721120" data-word="4305.49:114.58:115.09">interactions</span> <span class="transcript-word" data-offset="70730240" data-word="4305.49:115.15:115.23">with</span> <span class="transcript-word" data-offset="70732480" data-word="4305.49:115.29:115.35">law</span> <span class="transcript-word" data-offset="70735840" data-word="4305.49:115.5:115.98">enforcement</span> <span class="transcript-word" data-offset="70752160" data-word="4305.49:116.52:116.58">at</span> <span class="transcript-word" data-offset="70753600" data-word="4305.49:116.61:116.64">a</span> <span class="transcript-word" data-offset="70755520" data-word="4305.49:116.73:116.91">time</span> <span class="transcript-word" data-offset="70758880" data-word="4305.49:116.94:117.06">when</span> <span class="transcript-word" data-offset="70762240" data-word="4305.49:117.15:117.33">many</span> <span class="transcript-word" data-offset="70768000" data-word="4305.49:117.51:117.57">are</span> <span class="transcript-word" data-offset="70769440" data-word="4305.49:117.6:118.08">especially</span> <span class="transcript-word" data-offset="70779520" data-word="4305.49:118.23:118.59">fearful</span> <span class="transcript-word" data-offset="70786240" data-word="4305.49:118.65:118.71">of</span> <span class="transcript-word" data-offset="70788160" data-word="4305.49:118.77:118.92">such</span> <span class="transcript-word" data-offset="70792960" data-word="4305.49:119.07:119.67">interactions."</span></p>
+<p>The legislation cracking down on third-party delivery apps includes bills that would require they <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8067880&amp;GUID=E7924D7A-85A7-4EF4-B464-9D95F3DAFDB3" target="_blank" rel="noopener">obtain business licenses</a> from the city Department of Consumer and Worker Protection, <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861511&amp;GUID=05BA3489-38FD-436D-9B55-B35A46A6CD96">retain delivery data</a>, and <a href="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7862713&amp;GUID=D3AC8AFD-D4CD-4426-88D3-954A39C58493" target="_blank" rel="noopener">verify the registration of mopeds used for deliveries</a>.</p>
+<p>When it comes to Priscilla’s Law, some lawmakers and groups calling for cracking down on e-micromobility devices argue it would be the only effective way to regulate them.</p>
+<p>"Shaun you asked how to tell the difference between legal and illegal e-bikes, how about license plates for the legal ones?" Janet Schroeder, co-founder of the anti-e-bike group the NYC E Vehicle Safety Alliance, said to Abreu.</p>
+<p>But delivery workers contend it would put the largely undocumented immigrant advocates in the crosshairs of federal immigration authorities.</p>
+<p>Ligia Guallpa, executive director of the group the Workers Justice Project, said the package of bills does not address the "root causes" of street safety.</p>
+<p>"It leaves out the need for safer street infrastructure, stronger worker protections, a real transition plan, and real accountability to corporations," Guallpa said.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/nyc-council-weighs-how-to-regulate-e-bikes-e-scooters-and-mopeds-during-marathon-hearing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">624360</post-id>	</item>
+		<item>
+		<title>Fresh Meadows dentist busted for defrauding Medicaid out of $300K in a false billing scheme: AG James</title>
+		<link>https://qns.com/2026/09/fresh-meadows-dentist-defraud-medicaid/</link>
+					<comments>https://qns.com/2026/09/fresh-meadows-dentist-defraud-medicaid/#respond</comments>
+		
+		<dc:creator><![CDATA[Bill Parry]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 21:00:24 +0000</pubDate>
+				<category><![CDATA[Fresh Meadows]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Police & Fire]]></category>
+		<category><![CDATA[Medicaid]]></category>
+		<category><![CDATA[Medicaid Fraud Control Unit]]></category>
+		<category><![CDATA[New York Attorney General Letitia James]]></category>
+		<category><![CDATA[Queens Criminal Court]]></category>
+		<category><![CDATA[Suleman Nasimi]]></category>
+		<category><![CDATA[Tooth Fresh Meadows]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624353</guid>
+
+					<description><![CDATA[A Fresh Meadows dentist was arrested on Monday and charged with 40 crimes for allegedly stealing more than $300,000 from Medicaid by billing for hundreds of dental procedures he never performed while his patients suffered, New York Attorney General Letitia James announced on Monday, Sept. 28. Suleman Nasimi, 46, of Hicksville, LI, was arraigned in...<br> <a class="read-more" href="https://qns.com/2026/09/fresh-meadows-dentist-defraud-medicaid/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;">A <a href="https://qns.com/neighborhoods/fresh-meadows/">Fresh Meadows</a> dentist was arrested on Monday and charged with 40 crimes for allegedly stealing more than $300,000 from Medicaid by billing for hundreds of dental procedures he never performed while his patients suffered, New York Attorney General Letitia James announced on Monday, Sept. 28. </span>
+
+<span style="font-weight: 400;">Suleman Nasimi, 46, of Hicksville, LI, was arraigned in Queens Criminal Court on Monday on two separate 40-count felony complaints following an investigation by the Office of the Attorney General’s (OAG) Medicaid Fraud Control Unit (MFCU) found that Nasimi allegedly submitted false claims to Medicaid, even billing Medicaid for procedures conducted on the same days he was on vacation in Europe. </span>
+
+<span style="font-weight: 400;">The OAG’s investigation alleges that from Jan. 1, 2020, through Aug. 31, 2024, Nasimi, through his practice <a href="https://www.yelp.com/biz/tooth-fresh-meadows-2">Tooth Fresh Meadows</a>, located at 61-07 Utopia Pkwy., claimed that he performed hundreds of procedures, including root canals and porcelain crown installations, even though none of them ever happened. As a result, several of his patients were allegedly unable to get the dental treatment they needed because Medicaid records showed that they had already received the procedure that Nasimi billed but never performed. When these patients went to other dentists for procedures, they were denied prior approval for their dental care because Medicaid had already paid Nasimi for those procedures. In July 2022 alone, Nasimi is alleged to have billed for more than $140,000 worth of procedures during periods when his Fresh Meadows practice was closed while he vacationed in England, France, and Greece.</span>
+
+&nbsp;
+
+[caption id="attachment_624358" align="alignnone" width="408"]<img class="size-full wp-image-624358" src="https://qns.com/wp-content/uploads/2026/09/fresh-meadows-dentist-defraud-medicaid02.jpg" alt="Suleman Nasimi, of Nassau County, through his pactice at Tooth Fresh Meadows at 61-07 Utopia Parkway, claimed he prformed hundreds of procedures even though none of them happened, according to the charges. " width="408" height="240" /> <span class="image-caption">Suleman Nasimi, of Nassau County, through his practice at Tooth Fresh Meadows at 61-07 Utopia Parkway, claimed he performed hundreds of procedures even though none of them happened, according to the charges. Photo via Google Maps</span>[/caption]
+
+<span style="font-weight: 400;">“Fraudsters who steal from Medicaid with fake billing schemes put vulnerable New Yorkers at risk by making it harder for them to get the care they need,” James said. "All New Yorkers deserve quality dental care, and my office will not tolerate dentists who put personal greed before their patients.”</span>
+
+<span style="font-weight: 400;">Nasimi and Tooth Fresh Meadows were charged with one count of grand larceny in the second degree, two counts of health care fraud and 35 counts of offering a false instrument for filing in the first degree. Nasimi pleaded not guilty to the charges before Queens Criminal Court Judge Jennifer Saint-Preux, who released him on his own recognizance. If convicted on the top count, Nasimi faces a maximum sentence of five to fifteen years in state prison on the top count.</span>
+
+<span style="font-weight: 400;">“We will continue to ensure that Medicaid fraudsters are held accountable and criminally prosecuted when they break the law,” James said.</span>]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/fresh-meadows-dentist-defraud-medicaid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/fresh-meadows-dentist-defraud-medicaid01.webp?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">624353</post-id>	</item>
+		<item>
+		<title>GrowNYC and MoMA PS1 collaborate for seasonal Greenmarkets in Long Island City</title>
+		<link>https://qns.com/2026/09/grownyc-greenmarket-moma-ps1-long-island-city/</link>
+					<comments>https://qns.com/2026/09/grownyc-greenmarket-moma-ps1-long-island-city/#respond</comments>
+		
+		<dc:creator><![CDATA[Renee DeLorenzo]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 20:30:58 +0000</pubDate>
+				<category><![CDATA[Long Island City]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Things to Do]]></category>
+		<category><![CDATA[Daily Newsletter]]></category>
+		<category><![CDATA[greenmarkets]]></category>
+		<category><![CDATA[GrowNYC]]></category>
+		<category><![CDATA[MoMA PS1]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624332</guid>
+
+					<description><![CDATA[GrowNYC, an environmental and food access nonprofit, collaborated with the Museum of Modern Art Public School 1 (Moma PS1) to present a seasonal Greenmarket farmers market in Long Island City this fall. The market will be open every Saturday from 8 a.m. to 3 p.m. through Nov. 21, bringing the region’s freshest bounty directly to...<br> <a class="read-more" href="https://qns.com/2026/09/grownyc-greenmarket-moma-ps1-long-island-city/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;"><a href="https://grownyc.org/">GrowNYC,</a> an environmental and food access nonprofit, collaborated with the <a href="https://www.momaps1.org/en">Museum of Modern Art Public School 1 (Moma PS1)</a> to present a seasonal Greenmarket farmers market in <a href="https://qns.com/neighborhoods/long-island-city/">Long Island City</a> this fall.</span>
+
+<span style="font-weight: 400;">The market will be open every Saturday from 8 a.m. to 3 p.m. through Nov. 21, bringing the region’s freshest bounty directly to the LIC community. </span>
+
+[caption id="attachment_624334" align="alignnone" width="1200"]<img class="size-large wp-image-624334" src="https://qns.com/wp-content/uploads/2026/09/greenmarket.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">Fresh produce offered at one of the Greenmarket farmers markets. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]
+
+<span style="font-weight: 400;">Both Greenmarket and MoMA PS1, two long-standing city institutions, are commemorating their 50th anniversaries — a milestone celebration that inspired the partnership.</span>
+
+<span style="font-weight: 400;">"We are thrilled to bring a great selection of fresh fruits, vegetables, meats, bread, baked goods and more to the Long Island City community," said Angela Davis, director of GrowNYC Food Access and Agriculture. </span>
+
+<span style="font-weight: 400;">“We’re thrilled to be bringing a much-needed Greenmarket to MoMA PS1’s public plaza this fall in partnership with GrowNYC,” added Connie Butler, the Agnes Gund director of MoMA PS1. “As a hub for the community offering free admission for all, visitors will be able to explore our galleries, experience Precious Okoyomon’s living installation in the courtyard, and pick up fresh local foods to take home.”</span>
+
+[caption id="attachment_624335" align="alignnone" width="1200"]<img class="size-large wp-image-624335" src="https://qns.com/wp-content/uploads/2026/09/GrowNYC_DagHammerskold_Greenmarket_AmandaGentile_ADGPhotography_8_19-33_1.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">Guests browse the farmers market. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]
+
+<span style="font-weight: 400;">Participating farmers and producers include:  </span>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://www.halalpastures.com/">Halal Pastures</a>, offering certified organic vegetables, certified organic eggs and honey from Orange County, NY.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://www.breezyhillorchard.com/">Breezy Hill Orchard</a>, offering orchard fruit, berries, cider and baked goods from Dutchess County, NY.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://kneadlovebakerynyc.com/?srsltid=AU7gw4UIo_K4dyqsEsyNSxU4dmuR_ugZsqGsiAho3E4KsA-FG7zbRzAM">Knead Love Bakery</a>, offering gluten-free breads and baked goods from Kings County, NY. </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://www.visitnorwalk.org/directory/wave-hill-breads/">Wave Hill Bakery</a>, offering breads and baked goods from Fairfield County, CT.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://millbrookbeefdairy.com/">Millbrook Beef and Dairy</a>, offering eggs, beef, chicken, pork and cheese from Dutchess County, NY.</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://www.mushroomqueens.com/">Mushroom Queens</a>, offering cultivated gourmet mushrooms from Queens County, NY.</span></li>
+</ul>
+[caption id="attachment_624336" align="alignnone" width="1200"]<img class="size-large wp-image-624336" src="https://qns.com/wp-content/uploads/2026/09/GrowNYC_Greenmarket_ADG_Photography_Amanda_Gentile_10_18-83_1.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">Young guests browse produce. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]
+
+<span style="font-weight: 400;">Since 1976, Greenmarkets have promoted regional agriculture and ensured a continual supply of fresh, local food to the city. GrowNYC operates more than 45 producer-only markets, meaning farms and food makers can only sell products they’ve grown, raised, caught or baked themselves. </span>
+
+<span style="font-weight: 400;">All Greenmarket producers come from 250 miles north, 120 miles south and 170 miles east and west of NYC, providing New Yorkers with the fresh, healthy food while helping to preserve farmland in New York’s regional foodshed.</span>
+
+[caption id="attachment_624337" align="alignnone" width="1200"]<img class="size-large wp-image-624337" src="https://qns.com/wp-content/uploads/2026/09/065-JACKSON.HTS_08.20.2023_R5_1472_1.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">A vendor offers fresh potatoes during a Greenmarket in Jackson Heights. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]
+
+<span style="font-weight: 400;">The Greenmarket program has hosted 46 seasonal and year-round markets that bring fresh produce to NYC neighborhoods. It maintains a network of over 175 farmers and producers, sources food from over 49,000 acres of farmland stewarded and cultivated by farmers and provides over 6,000 unique and heirloom varieties of fruits and vegetables grown by farmers.</span>
+
+<span style="font-weight: 400;">As part of GrowNYC’s mission to provide equitable access to fresh and local food, all Greenmarket locations accept SNAP EBT, Summer EBT, cash, debit and credit, Healthfirst OTC cards — LIP and CC members only — WIC and Senior Farmers Market Nutrition Program (FMNP) coupons, Fresh Connect Checks and Greenmarket Bucks. </span>
+
+<span style="font-weight: 400;">Customers using SNAP EBT or Summer EBT that spend $2 receive a bonus $2 Health Buck, up to $10 per day.</span>
+
+[caption id="attachment_624338" align="alignnone" width="1200"]<img class="size-large wp-image-624338" src="https://qns.com/wp-content/uploads/2026/09/043-FT.GRN_2024.11.2_C1_6II6752_1.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">More guests visit one of GrowNYC's Greenmarkets. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]
+
+<span style="font-weight: 400;">For more information, follow GrowNYC on Instagram, <a href="https://www.instagram.com/grownycgreenmarket/?hl=en">@grownycgreenmarket</a>, for up-to-date news and special announcements. Guests can also visit individual market webpages for daily farmer attendance and information about upcoming activities such as cooking demonstrations and family-friendly programming.</span>
+
+[caption id="attachment_624339" align="alignnone" width="1200"]<img class="size-large wp-image-624339" src="https://qns.com/wp-content/uploads/2026/09/Corona_2018_1.jpg?quality=51&amp;w=1200" alt="" width="1200" height="800" /> <span class="image-caption">Martin Rodriguez sells his vegetables at the Corona Farmers Market. </span><span class="image-credit">Photo courtesy of GrowNYC Greenmarket</span>[/caption]]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/grownyc-greenmarket-moma-ps1-long-island-city/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/Union_Square_Greenmarket_AmandaGentilePhoto_24-16_1.jpg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">624332</post-id>	</item>
+		<item>
+		<title>Queens among 150 best cities for renters in U.S.: Report</title>
+		<link>https://qns.com/2026/09/queens-150-best-cities-renters-us-report/</link>
+					<comments>https://qns.com/2026/09/queens-150-best-cities-renters-us-report/#respond</comments>
+		
+		<dc:creator><![CDATA[By Ethan Marshall]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 19:30:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Real Estate newsletter]]></category>
+		<category><![CDATA[rentcafe]]></category>
+		<category><![CDATA[RentCafe report]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624304</guid>
+
+					<description><![CDATA[Queens was ranked the 147th best place to live for renters in the United States in 2026 in a report from RentCafe. The ranking was based on an analysis of 20 key metrics, which were then grouped into three broad categories: cost of living and housing, local economy and quality of life. Queens ranked 144th...<br> <a class="read-more" href="https://qns.com/2026/09/queens-150-best-cities-renters-us-report/">Read More</a>]]></description>
+										<content:encoded><![CDATA[Queens was ranked the 147th best place to live for renters in the United States in 2026 in a <a href="https://www.rentcafe.com/blog/rental-market/market-snapshots/best-cities-for-renters/">report</a> from <a href="https://www.rentcafe.com/">RentCafe</a>.
+
+The ranking was based on an analysis of 20 key metrics, which were then grouped into three broad categories: cost of living and housing, local economy and quality of life.
+
+Queens ranked 144th in housing and cost of living, which accounts for 40% of the overall score. The cost of living there was 53.8% more than the national average. Its 15.2% share of new apartments was the second-highest of the three New York City boroughs included on the list, ahead of Manhattan's 4% and right behind Brooklyn's 15.6%. The average apartment size of 730 square feet in Queens was the smallest among the boroughs and the third-smallest out of the 150 locations. Queens also had the third-highest occupancy rate nationwide, at 97.8%.
+
+The borough ranked much better in the local economy, in 98th place, accounting for 35% of the overall ranking. This is in large part thanks to a 31.4% jump in renter income over the last five years. However, there was just a 0.4% increase in job growth over this period of time. The report also determined that Queens has 148 businesses per 10,000 residents.
+
+Queens placed 76th in quality of life, which factored into 25% of the ranking. The borough performed well in the percentage of renters who use public transportation or who walk, at 46.8%, ranking third in the nation. It also had the best school quality ranking among the boroughs included and the 22nd best in the United States, with a score of 5.64. However, 62.1% of renters in Queens experience long solo commutes, which is the third-highest nationally. Additionally, only 9.6% of apartments there are found in top-rated locations.]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/queens-150-best-cities-renters-us-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/gettyimages-1089347170-612x612-2.jpg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">624304</post-id>	</item>
+		<item>
+		<title>Corona man charged in fatal stabbing of Jackson Heights man on Roosevelt Avenue: NYPD</title>
+		<link>https://qns.com/2026/09/corona-man-charged-fatal-stabbing/</link>
+					<comments>https://qns.com/2026/09/corona-man-charged-fatal-stabbing/#respond</comments>
+		
+		<dc:creator><![CDATA[Bill Parry]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 19:00:22 +0000</pubDate>
+				<category><![CDATA[Corona]]></category>
+		<category><![CDATA[Courts]]></category>
+		<category><![CDATA[Jackson Heights]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Police & Fire]]></category>
+		<category><![CDATA[115th Precinct]]></category>
+		<category><![CDATA[Angel Marcelo Escalante Gamazo]]></category>
+		<category><![CDATA[criminal possession of a weapon]]></category>
+		<category><![CDATA[Daily Newsletter]]></category>
+		<category><![CDATA[fatal stabbing]]></category>
+		<category><![CDATA[Jose Luis Rodriguez Balda]]></category>
+		<category><![CDATA[Murder]]></category>
+		<category><![CDATA[Queens Criminal Court]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624309</guid>
+
+					<description><![CDATA[A Corona man is being held without bail for allegedly stabbing another man to death on Roosevelt Avenue in Jackson Heights during the early morning of Thursday, Sept. 17. Jose Luis Rodriguez Balda, 38, of 38th Avenue, was arraigned on Sept. 19 in Queens Criminal Court on a complaint charging him with murder in the...<br> <a class="read-more" href="https://qns.com/2026/09/corona-man-charged-fatal-stabbing/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;">A <a href="https://qns.com/neighborhoods/corona/">Corona</a> man is being held without bail for allegedly stabbing another man to death on Roosevelt Avenue in <a href="https://qns.com/neighborhoods/jackson-heights/">Jackson Heights</a> during the early morning of Thursday, Sept. 17. </span>
+
+<span style="font-weight: 400;">Jose Luis Rodriguez Balda, 38, of 38th Avenue, was arraigned on Sept. 19 in Queens Criminal Court on a complaint charging him with murder in the second degree and criminal possession of a weapon for killing Angel Marcelo Escalante Gamazo, 48, of Roosevelt Avenue near 76th Street.</span>
+
+<span style="font-weight: 400;">The two men had a verbal dispute in front of a small business at 76-09 Roosevelt Ave. just after 4 a.m., when the argument turned violent. Rodriguez Balda brandished a knife and plunged it into the victim’s torso, just under the arm, causing damage to his axillary artery, according to the criminal complaint.</span>
+
+<span style="font-weight: 400;">Police from the <a href="https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/115th-precinct.page">115th Precinct</a> in Jackson Heights responded to a 911 call of a man stabbed at the location, where they found Escalante lying in a pool of blood less than a block west of his home. EMS rushed him to Elmhurst Hospital, where he was listed in critical condition. Escalante succumbed to his injuries and was pronounced dead on Friday, Sept. 18.</span>
+
+<span style="font-weight: 400;">Homicide detectives from the 115th Precinct arrested Rodriguez hours later after interviewing witnesses and reviewing video surveillance from the crime scene, as well as admissions made by the defendant. Rodriguez Balda was arraigned a day later before Queens Criminal Court Judge Lana Schlesinger, who remanded him into custody without bail.</span>]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/corona-man-charged-fatal-stabbing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/corona-man-charged-fatal-stabbing01.jpg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">624309</post-id>	</item>
+		<item>
+		<title>QueensLink launches series of federally funded studies to explore economic impact, boost community engagement</title>
+		<link>https://qns.com/2026/09/queenslink-federally-funded-studies/</link>
+					<comments>https://qns.com/2026/09/queenslink-federally-funded-studies/#respond</comments>
+		
+		<dc:creator><![CDATA[Shane O’Brien]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 18:45:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Catalina Cruz]]></category>
+		<category><![CDATA[Daily Newsletter]]></category>
+		<category><![CDATA[donovan richards]]></category>
+		<category><![CDATA[QueensLink]]></category>
+		<category><![CDATA[RFEI]]></category>
+		<category><![CDATA[RFP]]></category>
+		<category><![CDATA[Rockaway Beach branch]]></category>
+		<category><![CDATA[Rockaway Beach Branch LIRR]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624302</guid>
+
+					<description><![CDATA[QueensLink, the nonprofit advocating for the reactivation of the abandoned Rockaway Beach Branch rail line to improve north-south transit connections in Queens, has launched a series of federally funded studies to explore the project&#8217;s housing and economic impacts as well as boost community engagement. The nonprofit has launched two Requests for Proposals (RFPs) and one...<br> <a class="read-more" href="https://qns.com/2026/09/queenslink-federally-funded-studies/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<a href="https://thequeenslink.org/">QueensLink</a>, the nonprofit advocating for the reactivation of the abandoned Rockaway Beach Branch rail line to improve north-south transit connections in Queens, has launched a series of federally funded studies to explore the project's housing and economic impacts as well as boost community engagement.
+
+The nonprofit has launched two Requests for Proposals (RFPs) and one Request for Expressions of Interest (RFEI), which will run concurrently and deliver findings to elected officials, community stakeholders, developers and nonprofit organizations.
+
+The federally funded studies are supported by $500,000 in grants by the Federal Highway Administration (FHWA) through the USDOT Reconnecting Communities Program.
+
+The QueensLink project proposes reactivating the Rockaway Beach Branch, an LIRR corridor abandoned since 1962, and repurposing it into a subway extension that would connect Rego Park to <a href="https://qns.com/neighborhoods/ozone-park/">Ozone Park</a>—and ultimately link with the A train to the Rockaways. Advocates say the project would slash travel times, cut congestion, create tens of thousands of jobs, and promote environmental sustainability by utilizing already existing infrastructure.
+
+The federally funded studies launched by the nonprofit aim to ensure that communities living along the corridor benefit from the project.
+
+One study, entitled the Regional Economic Input/Output Analysis, will be issued as an RFP to solicit qualified economics and transportation economics firms. Budgeted at $150,000, the study aims to build on QueenLink's Initial Business Case (IBC), which was released earlier in 2026 and found that the project would generate billions of dollars in economic input while also introducing significant travel time savings.
+
+The firm selected to carry out the study will examine capital investment trends in the study area dating back to 2005, evaluate active and planned development projects, and assess the economic potential <span class="il">QueensLink</span> could unlock for local businesses and residents.
+
+A second study, entitled Housing Tenure &amp; Anti-Displacement Study, will also launch as an RFP and will examine existing housing stock along the corridor and evaluate the risk of displacement. Also budgeted at $150,000, the study will develop a 20-year housing plan alongside concrete policy recommendations and funding strategies to protect existing residents.
+
+The final study, entitled the Community Engagement Plan and Program Delivery initiative, will be launched as an RFEI to gather ideas about community engagement and advocacy work. The results of that $25,000 study will then directly shape a $125,000 RFP for a Community Engagement Plan.
+
+Proposals for the two RFPs are due Nov. 18,  with an RSVP-required information session due to take place on Oct. 14. Responses to the Community Engagement RFEI are due Oct. 16, with a quick turnaround on the Community Engagement RFP to be released within that week.
+
+Several elected officials and proponents of the QueensLink proposal welcomed the launch of the studies, stating that the analyses will help make the case for the project to be included in the MTA's 2030-34 Capital Plan.
+
+Queens Borough President Donovan Richards said the studies would represent a step forward in making Queens a more navigable borough for all residents, especially those in transit deserts in south Queens and the Rockaways.
+
+"When it comes to speeding up commute times for <span class="il">Queens</span> residents and expanding our city's public transportation network, we must leave no stone unturned in creating opportunities to do exactly that," Richards said in a statement. "For families in transit deserts across South <span class="il">Queens</span> and Rockaway, that means identifying more options beyond just driving or riding the bus along Woodhaven and Cross Bay boulevards."
+
+Assemblymember Catalina Cruz, meanwhile, said the studies will help ensure that it delivers real economic opportunities to residents living along the corridor.
+
+"<span class="il">QueensLink</span> represents exactly the kind of forward-thinking investment our communities need," Cruz said in a statement. "These studies will help ensure the project delivers real economic opportunity while protecting longtime residents from displacement and strengthening affordable housing along the corridor."
+
+Rick Horan, executive director of QueensLink, said the studies will showcase how the project will benefit more than 75,000 Queens commuters.
+
+"On behalf of <span class="il">Queens</span> residents, we thank USDOT and New York State for funding these studies," Horan said in a statement. "This new data will show how reconnecting <span class="il">Queens</span> with rails and trails will benefit more than 75,000 commuters and makes the case to include QueenLink in MTA’s 2030-2034 Capital Plan."]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/queenslink-federally-funded-studies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2025/01/QL_AtlanticPlat_2.jpg?quality=51&#038;w=384" width="384" height="261" /><post-id xmlns="com-wordpress:feed-additions:1">624302</post-id>	</item>
+		<item>
+		<title>Suspect wanted for unprovoked assault of a teenager waiting for F train in a Jamaica Hills subway station: NYPD</title>
+		<link>https://qns.com/2026/09/suspect-assault-teen-jamaica-hills-subway-station/</link>
+					<comments>https://qns.com/2026/09/suspect-assault-teen-jamaica-hills-subway-station/#respond</comments>
+		
+		<dc:creator><![CDATA[Bill Parry]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 16:40:00 +0000</pubDate>
+				<category><![CDATA[Jamaica Hills]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Police & Fire]]></category>
+		<category><![CDATA[107th precinct]]></category>
+		<category><![CDATA[Assault]]></category>
+		<category><![CDATA[NYPD]]></category>
+		<category><![CDATA[Transit District 20]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624286</guid>
+
+					<description><![CDATA[Police from the 107th Precinct in Fresh Meadows and Transit District 20 are searching for a sinister-looking suspect who punched out a teenager during an unprovoked attack at the 169th Street subway station in Jamaica Hills on the morning of Friday, Sept. 25. The 17-year-old male victim was on the platform waiting for an F...<br> <a class="read-more" href="https://qns.com/2026/09/suspect-assault-teen-jamaica-hills-subway-station/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;">Police from the <a href="https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/107th-precinct.page">107th Precinct</a> in Fresh Meadows and <a href="https://www.nyc.gov/site/nypd/bureaus/transit-housing/transit-district-20.page">Transit District 20</a> are searching for a sinister-looking suspect who punched out a teenager during an unprovoked attack at the 169th Street subway station in <a href="https://qns.com/neighborhoods/jamaica-hills/">Jamaica Hills</a> on the morning of Friday, Sept. 25. </span>
+
+<span style="font-weight: 400;">The 17-year-old male victim was on the platform waiting for an F train just before 8 a.m. when a stranger approached and engaged the teen in a verbal dispute. The argument escalated into violence when the older man slugged the youngster in the face with a closed fist before storming off in an unknown direction, police said. EMS responded to the station and treated the victim at the scene for minor facial injuries.</span>
+
+<span style="font-weight: 400;">The NYPD released surveillance images of the suspect on Wednesday and described him as having a dark complexion and wearing a black hooded winter jacket over a black hoodie and black pants.</span>
+
+[video width="640" height="480" mp4="https://qns.com/wp-content/uploads/2026/09/2525-26-Assault-107-Pct-TD20-9-25-26-Video.mp4"][/video]
+
+<span style="font-weight: 400;">A reward of up to $3,500 is being offered for information that leads to his arrest and indictment.</span>
+
+[caption id="attachment_624295" align="alignnone" width="960"]<a href="https://qns.com/2026/09/suspect-assault-teen-jamaica-hills-subway-station/ind_queens_boulevard_169th_street_northbound_platform/" rel="attachment wp-att-624295"><img class="size-full wp-image-624295" src="https://qns.com/wp-content/uploads/2026/09/IND_Queens_Boulevard_169th_Street_Northbound_Platform.jpg" alt="" width="960" height="720" /></a> <span class="image-caption">Transit crimes are trending higher in the 107th Precinct, according to the latest CompStat report. </span><span class="image-credit">QNS file photo</span>[/caption]
+
+<span style="font-weight: 400;">Anyone with information regarding this random assault is asked to call the NYPD’s Crime Stoppers Hotline at 1-800-577-TIPS (8477) or, for Spanish, 1-888-57-PISTA (74782). The public can also submit their tips by logging on to the Crime Stoppers website at </span><a href="http://crimestoppers.nypdonline.org/"><span style="font-weight: 400;">crimestoppers.nypdonline.org</span></a><span style="font-weight: 400;"> or on X (the platform formerly known as Twitter) @NYPDTips. All calls and messages are strictly confidential. </span>
+
+<span style="font-weight: 400;">Through Sept. 27, the 107th Precinct has reported 175 felony assaults so far in 2026, 20 fewer than the 195 reported at the same point last year, a decline of 10.3%, according to the most recent CompStat report. Transit crimes are on the rise in the precinct, with 34 reported so far this year, 13 more than the 21 reported at the same point in 2025, an increase of 61.9%, according to CompStat.</span>]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/suspect-assault-teen-jamaica-hills-subway-station/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/2525-26-Assault-107-Pct-TD20-9-25-26-Photo-e1790786779200.jpg?quality=51&#038;w=384" width="384" height="277" /><post-id xmlns="com-wordpress:feed-additions:1">624286</post-id>	</item>
+		<item>
+		<title>What does a rock-and-roll bass player and a nature-loving podcaster love about Queens?</title>
+		<link>https://qns.com/2026/09/rock-bass-player-nature-loving-podcaster-queens/</link>
+					<comments>https://qns.com/2026/09/rock-bass-player-nature-loving-podcaster-queens/#respond</comments>
+		
+		<dc:creator><![CDATA[By Tammy Scileppi]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 16:00:28 +0000</pubDate>
+				<category><![CDATA[Arts & Entertainment]]></category>
+		<category><![CDATA[Forest Hills]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[Things to Do]]></category>
+		<category><![CDATA[Mitch Zykofsky]]></category>
+		<category><![CDATA[Queens Out of Doors]]></category>
+		<category><![CDATA[Shari Romar]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624272</guid>
+
+					<description><![CDATA[There are 8.5 million stories in New York City and close to 2.4 million stories in the second-most populous borough of Queens, where more than half of residents were born in another country. Featured here are two New Yorkers who were eager to share their own stories — and why they love their favorite borough...<br> <a class="read-more" href="https://qns.com/2026/09/rock-bass-player-nature-loving-podcaster-queens/">Read More</a>]]></description>
+										<content:encoded><![CDATA[There are 8.5 million stories in New York City and close to 2.4 million stories in the second-most populous borough of Queens, where more than half of residents were born in another country. Featured here are two New Yorkers who were eager to share their own stories — and why they love their favorite borough - with <a href="https://qns.com/">QNS</a> readers.
+
+Die-hard Queens fans Mitch Zykofsky, a retired NYPD sergeant who plays bass guitar with his English-style rock band, the <a href="https://www.facebook.com/PinUpsNYC">Pin Ups</a>, and his lovely wife, <a href="https://www.queensoutofdoors.com/">Queens Out of Doors</a> podcaster Shari Romar, have been living in <a href="https://qns.com/neighborhoods/forest-hills/">Forest Hills</a> for more than 35 years.
+
+The active couple likes to keep busy while pursuing their unique passions: When Zykofsky isn’t rocking with the band, he works part-time at the <a href="https://havanadreamsnyc.com/">Havana Dreams</a> cigar lounge in <a href="https://qns.com/neighborhoods/rego-park/">Rego Park</a>. And Romar is a nature-loving photographer-turned-podcaster who can’t get enough of the great outdoors and highlights all that Queens has to offer in each episode. She also chats with interesting locals and others who have something enlightening to share with viewers about a variety of Queens-related topics. And even longtime residents can discover new things to do in their unique borough.
+
+Rob MacKay, deputy director at <a href="https://www.queensny.org/">Queens Economic Development Corporation</a> (QEDC) and director of the <a href="https://www.queensny.org/programs/queens-tourism-council">Queens Tourism Council</a>, was featured on the podcast a while back. He told QNS: “Shari used to work for the <a href="https://queensbotanical.org/">Queens Botanical Garden</a> (QBG). She's a fantastic nature photographer, especially of birds. Later, she had a company that made hats. So, I got to know her first. She invited me onto her podcast about nature in Queens, and I met Mitch in their apartment.”
+
+“Since then, I've been friends with both of them. They are great people and big supporters of Queens and Queens life. So, I always see them at events and in restaurants, and all that. They're also very talented in their own fields.”
+
+He added: “I am much richer for having made their acquaintances.”
+
+Here are some things Mitch loves about Queens. Keep reading to find out about Shari’s favorite picks and more about Queens Out of Doors.
+<h2><strong>Good eats</strong></h2>
+Zykofsky told <a href="https://itsinqueens.com/">It’s In Queens</a> that there are so many great places, like <a href="https://www.dirtypierres.com/">Dirty Pierre’s</a> (13 Station Square, Forest Hills), where he and his wife have been regulars for more than 25 years.
+
+“It has great food, great drinks and great ambiance. I don’t normally like mussels, but theirs are great, and the hamburgers are excellent. Plus, the co-owner and manager, Raquel, is a hoot,” he raved, adding, “<a href="https://www.tuscanhillsnyc.com/">Tuscan Hills</a> (110-60 Queens Blvd., Forest Hills) is high on my list, too, because the food is fantastic and the owners are the best.”
+
+Heading out of the neighborhood, he recommends <a href="https://www.jacksondiner.com/">Jackson Diner</a> (37-47 74th St., <a href="https://qns.com/neighborhoods/jackson-heights/">Jackson Heights</a>), which (surprisingly) “serves the best Indian food I’ve ever eaten.” Over in <a href="https://qns.com/neighborhoods/long-island-city/">Long Island City</a>, there’s <a href="https://www.tournesolnyc.com/">Tournesol</a> (50-12 Vernon Blvd.), which Zykofsky frequents for their “top-notch French cuisine.” And he also appreciates how owner/host Patrice “makes you feel at home, plus you don’t get hit over the head with the bill.”
+<h2><strong>Wanderers</strong></h2>
+The former policer officer also told It’s In Queens that he and his wife love to experience nature in Queens’ parks.
+
+“One of our favorite routes is to walk from Little Bay Park to <a href="https://www.nycgovparks.org/parks/fort-totten-park">Fort Totten</a>. It’s kind of like walking back in time, with all the historical buildings and other details that remind you that a U.S. Army base once operated there. We also like the peacefulness and the great birdwatching.”
+
+He added: “I’m a bass player, and I love the fact that so many important musicians came from Queens or lived here while they made it work: Bix Beiderbecke, Louis Armstrong, Ella Fitzgerald, Tony Bennett, Simon and Garfunkel, the Ramones and Walter Becker from Steely Dan are just a few. It amazes me!”
+<h2><strong>Historic feats</strong></h2>
+“Not one, but two World’s Fairs took place in Flushing Meadows Corona Park, and many structures from those major events are still there. <a href="https://www.nyctourism.com/attractions-tours/the-unisphere/">The Unisphere</a> is probably the most obvious one. I think it’s one of NYC’s most iconic structures,” Zykofsky noted.
+
+QNS chatted with the avid Queens supporters about their lives and interests.
+<h2><strong>Shari Romar</strong></h2>
+“I always loved nature but soon after moving to Queens nearly 30 years ago, I became much more interested in actually studying it - particularly birds. Mitch got me a pair of binoculars for my birthday and the next day – a very hot August afternoon – we made our first trip to <a href="https://www.nps.gov/gate/learn/historyculture/jamaica-bay-wildlife-refuge.htm">Jamaica Bay Wildlife Refuge</a>. We were hooked!”
+
+“Not long after that experience, I started working at the <a href="https://www.wcs.org/">Wildlife Conservation Society</a>, commuting to the Bronx via three buses, including the Q44, which is how I discovered Queens Botanical Garden, as it sits along the bus route. Like so many people, I thought to myself, ‘Gee, I didn’t know Queens had a botanical garden…’”
+
+She added: “Who knew only a short time later, that I’d begin a career change into the horticulture industry, and a few years later, working at QBG?”
+
+<strong>QNS</strong>: What inspired you to start podcasting?
+
+<strong>SR</strong>: I joke around that I will talk to anyone about nature who will stand still long enough, and that’s especially true if I’m talking about nature in Queens... and it’s nice that people are very interested!
+
+As the medium became more prevalent, Mitch and I had a favorite podcast from Scotland about their outdoor areas. One fall afternoon, after listening to an episode, Mitch suggested I start a podcast, since I was so enthusiastic about our local outdoor areas and how much I enjoy telling others about great places to go and things to see. Next thing I knew, I was starting a website, taking a couple online workshops, buying a microphone and launching the podcast in March 2024.
+
+<strong>QNS</strong>: How did living in Queens influence your voice and perspective?
+
+<strong>SR</strong>: I was raised in a northwestern Indiana town called Munster, just outside of Chicago. But my mom was raised in Westchester, so there were regular summer trips to see family. In my teens, I was set on moving here, and in 1988, I did. My first years were in Manhattan and then Brooklyn when Mitch and I met. We ‘discovered’ Queens when visiting friends who lived in Forest Hills. Soon after those early visits we decided to move here.
+
+I liked Brooklyn, and I expected to like living in Queens as well, but I was - and still am - in awe of how much I grew to love this borough. It’s the place I’ve lived most of my life and really feels like home. Over the years, we’ve toyed around with moving elsewhere, but when it comes right down to it, we always come back to Queens. It’s home.
+
+So, the podcast kind of grew out of my connection to the borough and from enjoying the variety of outdoor spaces and activities, and how much I like sharing that with others. I admit that the podcast tends to focus more on nature, and I plan to incorporate more outdoor sports – I just happen to know more about nature than sports!
+
+<strong>QNS</strong>: What fascinates you about the borough's outdoor adventures?
+
+<strong>SR</strong>: I’m a lover of the great outdoors - always! Not long after I moved to New York, I started getting interested in urban nature – I like cities and nature, so they became a combined interest.
+
+People understandably think that cities are concrete, buildings and the like. But gosh! There’s so much outdoors to enjoy and appreciate, plus loads of beautiful species that also enjoy our open spaces! Also, people often think they need to be someplace remote or exotic to experience nature. Those areas are great, but you can find so much to enjoy right here, and I like bringing that to everyone’s attention!
+
+As for nature photography, I’ve been taking pictures since I was a kid. But soon after taking up birding all those years ago, it became clear very quickly that nature photography would start to take over my life. It’s just so rewarding to be outside anyway, and if I can capture a nice photo of my experience, it’s extra special.
+
+<strong>QNS</strong>: Tell readers about the episode with Rob MacKay, who was a guest on your podcast: <a href="https://www.queensoutofdoors.com/podcast/episode55">queensoutofdoors.com/podcast/episode55</a>.
+
+<strong>SR</strong>: It was marvelous to have Rob on the podcast, and it was great to hear his favorite outdoor spots.
+
+Rob is the greatest! We met during my time at QBG, and I’m so grateful that we’ve stayed in touch all these years since. Besides being an all-around nice guy, I think his work promoting Queens is terrific – we’re all lucky to have him here! And after all, who better to talk to about great places in Queens than the person who spends his working hours – and beyond – promoting our borough!
+
+<strong>QNS</strong>: Who are some other interesting people featured on your podcast?
+
+<strong>SR</strong>: One of the unexpected treats of the podcast is having the opportunity to meet and talk to so many wonderful people! On the most recent (9/17/26) episode, I spoke with a former Queens resident who completed a solo trans-Atlantic journey on a 21-foot sailboat! She happened to find out about the podcast via a Google search and reached out to me. To say she was amazing would be a big understatement!
+
+It’s always a pleasure to talk with Don Riepe, the Jamaica Bay Guardian, who was one of the first people I featured. Mitch and I have known Don for nearly 30 years, since he was still a National Park Ranger at Jamaica Bay Wildlife Refuge. Don knows everything about nature in our area and beyond, plus he is so engaging and just plain fun to talk with.
+
+Jason Antos has been on the podcast a few times, talking about Queens’ history and important sites around the borough. I always enjoy meeting with him at the <a href="https://queenshistoricalsociety.org/">Queens Historical Society</a>, where he’s the executive director. Jason is a delight and such a great storyteller – he really makes history come alive. And I’m in perpetual awe of how much information and detail he can recall right off the top of his head!
+
+I actually met Jason through Maureen Regan of <a href="https://greenearthurbangardens.org/">Green Earth Urban Gardens</a>. She was a terrific podcast guest, and I am always impressed with all her efforts - not only keeping our outdoor spaces pretty, but also how much work she puts into her programs for Queens teenagers.
+
+Speaking of working with kids, I was lucky enough to meet Deborah Camp, a Queens artist who has made my little local spot, MacDonald Park, far more engaging and cheerful with her colorful series of six sizable murals. She is so sweet, and I love that she brings art to so many children through her workshops.
+
+I really could go on and on, as every person I’ve spoken with has been very interesting and enthusiastic. All the episodes are posted on Queens Out of Doors, so you can scroll through to catch other great people working in our borough (or find episodes on <a href="https://podcasts.apple.com/us/podcast/queens-out-of-doors/id1776697846">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0QuDcC61ADBNY6FuVgjK7M">Spotify</a>, <a href="https://www.iheart.com/podcast/269-queens-out-of-doors-232367251/">iHeartRadio</a> and Amazon Music).
+
+<strong>QNS</strong>: If you had to introduce someone to the “real Queens” in one day, where would you take them?
+
+<strong>SR</strong>: I’d only have one day?! That is a challenge!
+
+There are so many itineraries... from culture to architecture to history and, of course, food. And there are people far more qualified to speak about those topics than I. But if I were to show someone around who has never been here, and assuming they want to spend some time outdoors, here are some thoughts which include a few food spots.
+
+Start the day at <a href="https://www.utopiabagelsny.com/">Utopia Bagels</a>, then enjoy said bagels at Little Bay Park, enjoying the views of the Long Island Sound and Triboro Bridge. Next, Queens Botanical Garden for a stroll, but I think a quick stop at the <a href="https://www.queensfarm.org/">Queens Farm Museum</a> is nice, even if it’s just for a short time, to show off this historical working farm, and to buy some pellets to feed their animals.
+
+After QBG, we might be a little hungry, and dim sum is always a fun treat. There are so many terrific places in <a href="https://qns.com/neighborhoods/flushing/">Flushing</a>, but I tend to go to <a href="https://www.facebook.com/LakePavilion/">Lake Pavilion</a> on Main Street – the food is always great! Since it’s pretty close, I’d stop by Flushing Meadows Corona Park to see the Unisphere and remaining structures of the World’s Fair, then a quick stop to the <a href="https://queensmuseum.org/">Queens Museum</a> for the <a href="https://queensmuseum.org/exhibition/panorama-of-the-city-of-new-york/">Panorama of the City of New York</a> – a great way to get a view of the entire city, and every visitor I’ve brought has been bowled over.
+
+Jamaica Bay Wildlife Refuge is a perfect place for some afternoon nature enjoyment (even though I could spend all day there). I love the beach, so after the Refuge, I’d take my visitors to <a href="https://www.nps.gov/gate/learn/historyculture/jacob-riis-park.htm">Riis Beach</a> for the sunset and maybe we’ll get lucky and see a humpback whale or bottlenose dolphins. Afterwards, I’d vote for dinner along Jamaica Bay at <a href="https://bungalowbarny.com/home/">Bungalow Bar</a>. Finally, end the day at <a href="https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park">Gantry Plaza State Park</a> because most visitors want to see that Manhattan skyline, and I think Gantry is the best spot around – plus it’s a lovely park.
+
+<strong>QNS</strong>: What was it like working at QBG?
+
+<strong>SR</strong>: In a word, delightful! What a special place and special history! We were a small staff, so we all did a variety of things: at first, I was the grant writer, then took on more marketing and promotion, and was often involved in public programs, either leading tours, bird/nature walks or helping to run larger festivals. Since I always had my camera with me, I’d step in as photographer for events or other occasions when needed.
+
+It was a very busy job, but what a treat to be part of a great team working in a beautiful location. I particularly loved building up our bird list – unless the weather was terrible.
+
+<strong>QNS</strong>: Favorite local spots?
+
+<strong>SR</strong>: We’re lucky to have several great spots in Forest Hills. Tuscan Hills (110-60 Queens Blvd.) is a go-to for stunning Italian food, and the owners are not only delightful but the real deal, as they are from Tuscany. For more New York-style Italian or a quick slice of pizza, <a href="https://gloriapizza.com/">Gloria’s</a> is the spot. Besides great food, it’s always nice to have a chat with Rob behind the counter or the other guys – makes one feel like part of the neighborhood.
+
+We have a weekly take-out (or delivery) from Sushi Time. Jenna, the owner, has become a friend over the years, and that would go for all the people who work for her. She is a staple in the neighborhood. <a href="https://www.kingwokflushingny.com/">King Wok</a> is another regular take-out spot. Whenever friends come to our place for dinner and want good Chinese food, I just give them a call.
+
+<a href="https://5burrocafe.com/">Five Burros</a> is legendary, but we don’t go as often as we like because so many others flock there and there’s always a line. But it’s easier to get in for a weekday lunch – a fun treat! And a new lunch spot for us is <a href="https://pink-forest.square.site/">Pink Forest</a>. The food is terrific and the staff is so engaging. It’s become a regular spot when I want a sandwich or an iced tea break. Beyond Forest Hills: <a href="https://fillmorestavern.com/">Fillmore's Tavern</a> (166-02 65 th Ave., Flushing) for an old-time Queens feeling plus great food and service.
+
+I could go on and on…
+
+<strong>QNS</strong>: Best family activities?
+
+<strong>SR</strong>: Loads of locations have great programming for all ages, like QBG, Gantry Plaza State Park and the <a href="https://www.vomuseum.org/">Voelker Orth Museum</a>. I adore the Queens Farm and buy plenty of pellets, so I can feed the goats. Besides that, they have loads of family-friendly events and activities.
+
+These are just a few suggestions, but on the podcast, I offer a sizable list of outdoor highlights for little ones, older kids, adults and the whole family. I’m always rather overwhelmed by how many great activities and events are right here in Queens!
+
+A special note: our wonderful Urban Park Rangers have exceptional events for kids, adults and families, ranging from hikes or walks, to history, to fishing, to canoeing and beyond. I think our entire city owes a debt of gratitude to these rangers for all their hard work, commitment and enthusiasm.
+
+<strong>QNS</strong>: How has Queens changed over the years?
+
+<strong>SR</strong>: Like in so many other places, there’s been a lot of development – and I’m not saying that’s good or bad, but just something I’ve seen over all these years. Long Island City is a great example – it looks completely different than it did 15 or 20 years ago.
+
+I also think that Queens is more ‘on the radar’ than it was when we moved here. Back then, Manhattan, and later, Brooklyn, were on everyone’s minds, and Queens was, let’s say, understated. I think the growing interest in the food scene plus our borough’s diversity in cultures made a lot of people notice.
+
+<strong>QNS</strong>: What do you think people living outside of Queens misunderstand about the borough?
+
+<strong>SR</strong>: If you asked me this question about 20 years ago, I might’ve said that people equate Queens with Archie Bunker. But of course, that wasn’t the case – there’s always been all sorts of people who live and work here with varying degrees of interests, opinions, mindsets, politics and backgrounds. And these days, I’m not sure if many people would understand the reference to Archie Bunker, so clearly, I’m showing my age!
+
+Another thing I never thought of until we decided to move here in the mid/late 1990s was the perception of some people in other boroughs that Queens is far away and inaccessible. I recall Mitch’s aunt, Brooklyn-born and bred, nearly falling over when we said we were moving here – until I pointed out that we were only a few miles farther away than our Brooklyn apartment at the time.
+
+Similarly, a friend who lived in Manhattan commented that he probably wouldn’t see us too much anymore once we moved. Until he took the subway here and realized that it’s not far or hard to reach! Of course, these days, given how Queens has become more popular and populated, I think this perception has diminished.
+
+<strong>QNS</strong>: What makes Queens such a unique place for artists, creators and entrepreneurs?
+
+<strong>SR</strong>: This probably isn’t surprising, but it’s the diversity. I think when you have all sorts of cultures and people coming together, it creates some neat stuff. In terms of entrepreneurs, I’d really have to give a big shout-out to the Queens Economic Development Corporation. They have incredible programs and are a great help to both prospective businesses and those still growing.
+<h2><strong>Mitch Zykofsky</strong></h2>
+[caption id="attachment_624282" align="alignnone" width="607"]<a href="https://qns.com/2026/09/rock-bass-player-nature-loving-podcaster-queens/image-40-2/" rel="attachment wp-att-624282"><img class="size-full wp-image-624282" src="https://qns.com/wp-content/uploads/2026/09/image-40.jpg" alt="" width="607" height="800" /></a> <span class="image-caption">Mitch Zykofsky. </span><span class="image-credit">Photo courtesy of Mitch Zykofsky and Shari Romar</span>[/caption]
+
+<strong>QNS</strong>: What about Queens inspires and excites you?
+
+<strong>MZ</strong>: I find the history of Queens to be an ever-unfolding tale of discovery. From the <a href="https://washingtonspytrail.com/">(George) Washington Spy Trail</a> to the story of the Flushing River, to an ash heap that became Queens Botanical Garden - and these are just a few examples. As far as what excites me, all I can say is ‘Let’s Go Mets!’
+
+<strong>QNS</strong>: Why is your neighborhood special?
+
+<strong>MZ</strong>: Forest Hills is a mixture of old-world charm and modern style. Walking through <a href="https://qns.com/neighborhoods/forest-hills-gardens/">Forest Hills Gardens</a> is a bit of a time machine. As you get off the LIRR at Station Square, you have the same view that President Teddy Roosevelt did when he stepped off that train. Then there’s the <a href="https://www.ntc.usta.com/">tennis stadium</a>, home of the U.S. Open for many years and where the Beatles, The Who and countless other musicians have performed - and still do.
+
+<strong>QNS</strong>: What achievements in your career as a police officer are you most proud of?
+
+<strong>MZ</strong>: Just going to work every day to do the best I could for the people of NYC. It was amazing in its own way!
+
+<strong>QNS</strong>: When did you start making music and performing?
+
+<strong>MZ</strong>: I first picked up the electric bass guitar in about 1975. After learning how to play, it was off to the downtown music clubs of the time.
+
+<strong>QNS</strong>: Where have you performed around NYC?
+
+<strong>MZ</strong>: I play in a band, Pin Ups, and our style is that of the 1960s “Mod”  music scene - a very British thing. We’ve played at several venues, mostly in the East Village and the Lower East Side. Playing in a band is great fun, exciting and transports you away from your worries and cares.
+
+<strong>QNS</strong>: Who are your biggest musical influences?
+
+<strong>MZ</strong>: The music of the Who, the Small Faces and the Kinks come to my mind, but I can’t leave out the great blues artists, such as Howlin Wolf, Muddy Waters, B.B. King and John Mayall. The list goes on and on.
+
+<strong>QNS</strong>: What made you decide to join the NYPD?
+
+<strong>MZ</strong>: One day, I saw some police officers responding to an emergency call in lower Manhattan, and it just hit me - that looks like something very meaningful to be a part of.
+
+<strong>QNS</strong>: What was a typical shift like?
+
+<strong>MZ</strong>: As clichéd as it might sound, there was no such thing as a “typical day” - there were so many variables to take into account, making every tour different. Some days, the 911 calls were so numerous that you didn’t have time for a meal; other days were slow.
+
+<strong>QNS</strong>: What do people misunderstand most about being a NYPD officer?
+
+<strong>MZ</strong>: That police officers are just people, with a hard job to do. Believe me, nobody wants to arrest someone, but there are times it must be done.
+
+<strong>QNS</strong>: What kinds of situations were the most difficult to handle?
+
+<strong>MZ</strong>: The most difficult, dangerous and unpredictable jobs were domestic disputes.
+
+<strong>QNS</strong>: What helps build trust between police and residents?
+
+<strong>MZ</strong>: An understanding that we all want the same thing: safety, respect and to be able to go home to your family when work is done.
+
+<strong>QNS</strong>: What is one thing you wish the public understood about NYPD officers?
+
+<strong>MZ</strong>: That we are people and come mainly from the city we serve.
+
+<strong>QNS</strong>: What is the biggest lesson you took away from your career?
+
+<strong>MZ</strong>: Respect and kindness go a long way.]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/rock-bass-player-nature-loving-podcaster-queens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/DSC00096-copy-e1790784101423.jpeg?quality=51&#038;w=384" width="384" height="307" /><post-id xmlns="com-wordpress:feed-additions:1">624272</post-id>	</item>
+		<item>
+		<title>Three women sought for allegedly assaulting a young woman before robbing her of nearly $2K in Woodhaven: NYPD</title>
+		<link>https://qns.com/2026/09/three-assault-rob-woman-woodhaven/</link>
+					<comments>https://qns.com/2026/09/three-assault-rob-woman-woodhaven/#respond</comments>
+		
+		<dc:creator><![CDATA[Bill Parry]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 15:30:48 +0000</pubDate>
+				<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Police & Fire]]></category>
+		<category><![CDATA[Woodhaven]]></category>
+		<category><![CDATA[102nd Precinct]]></category>
+		<category><![CDATA[Assault]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Daily Newsletter]]></category>
+		<category><![CDATA[felony assault]]></category>
+		<category><![CDATA[NYPD]]></category>
+		<category><![CDATA[Police]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624275</guid>
+
+					<description><![CDATA[Police from the 102nd Precinct are looking for three nasty women who assaulted and robbed a young lady in Woodhaven on the night of Friday, Sept. 4. The 25-year-old victim was in front of a business at 84-21 Jamaica Ave. at around 10:30 p.m. when she was confronted by three strangers who engaged her in...<br> <a class="read-more" href="https://qns.com/2026/09/three-assault-rob-woman-woodhaven/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<span style="font-weight: 400;">Police from the <a href="https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/102nd-precinct.page">102nd Precinct</a> are looking for three nasty women who assaulted and robbed a young lady in <a href="https://qns.com/neighborhoods/woodhaven/">Woodhaven</a> on the night of Friday, Sept. 4. </span>
+
+<span style="font-weight: 400;">The 25-year-old victim was in front of a business at 84-21 Jamaica Ave. at around 10:30 p.m. when she was confronted by three strangers who engaged her in a conversation before punching her in the face multiple times with closed fists, causing minor injuries, police said. During the assault, the victim’s purse containing $1,800 in cash and two necklaces was forcibly removed from her possession. The muggers ran off on foot on Jamaica Avenue in an unknown direction.</span>
+
+<span style="font-weight: 400;">The victim was treated at the scene for her facial injuries.</span>
+
+<span style="font-weight: 400;">The NYPD released surveillance images of the three suspects and described one as having a light complexion with a heavy build, wearing a black short-sleeved shirt. The second perpetrator has a medium complexion with long black hair, heavily tattooed arms and was last seen wearing a white tank top and blue jeans. The third assailant has a light complexion with long black hair and wore a black tank top, black pants and black-rimmed eyeglasses.</span>
+
+<span style="font-weight: 400;">A reward of up to $3,500 is being offered for information that leads to his arrest and indictment.</span>
+
+<span style="font-weight: 400;">Anyone with information regarding this investigation is asked to call the NYPD’s Crime Stoppers Hotline at 800-577-TIPS (8477) or, for Spanish, 888-57-PISTA (74782). The public can also submit their tips by logging on to the Crime Stoppers website at </span><a href="http://crimestoppers.nypdonline.org/"><span style="font-weight: 400;">crimestoppers.nypdonline.org</span></a><span style="font-weight: 400;"> or on X (the platform formerly known as Twitter) @NYPDTips. All calls and messages are strictly confidential.</span>
+
+<span style="font-weight: 400;">Through Sept. 27, the 102nd Precinct has reported 247 felony assaults so far in 2026, nine more than the 238 reported at the same point last year, an increase of 3.8%, according to the most recent CompStat report. Felony assaults are trending higher in the precinct as well, with 121 reported so far this year, 15 more than the 106 reported at the same point in 2025, an increase of 14.2%, according to CompStat.</span>]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/three-assault-rob-woman-woodhaven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/three-assault-rob-woman-woodhaven01.jpg?quality=51&#038;w=384" width="384" height="271" /><post-id xmlns="com-wordpress:feed-additions:1">624275</post-id>	</item>
+		<item>
+		<title>Photos | Elmhurst Hospital introduces new facility therapy dog, Weasley II</title>
+		<link>https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/</link>
+					<comments>https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/#respond</comments>
+		
+		<dc:creator><![CDATA[Ethan Marshall &#38; QNS News Team]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 14:30:43 +0000</pubDate>
+				<category><![CDATA[Elmhurst]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Neighborhoods]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Photo Gallery]]></category>
+		<category><![CDATA[Canine Companions]]></category>
+		<category><![CDATA[Elmhurst Hospital]]></category>
+		<category><![CDATA[NYC Health + Hospitals/Elmhurst]]></category>
+		<category><![CDATA[therapy dog]]></category>
+		<guid isPermaLink="false">https://qns.com/?p=624260</guid>
+
+					<description><![CDATA[NYC Health + Hospitals/Elmhurst introduced Weasley II, a 2-year-old Labrador/Golden Retriever mix and the new facility dog, during a red-carpet arrival celebration on Tuesday, Sept. 29. Weasley II will be tasked with providing emotional support to patients as part of their care at the hospital, located at 79-01 Broadway in Elmhurst, through its PAWS to...<br> <a class="read-more" href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<a href="https://www.nychealthandhospitals.org/locations/elmhurst/">NYC Health + Hospitals/Elmhurst</a> introduced Weasley II, a 2-year-old Labrador/Golden Retriever mix and the new facility dog, during a red-carpet arrival celebration on Tuesday, Sept. 29.
+
+Weasley II will be tasked with providing emotional support to patients as part of their care at the hospital, located at 79-01 Broadway in <a href="https://qns.com/neighborhoods/elmhurst/">Elmhurst</a>, through its PAWS to HEAL (Psychiatry Animal-Assisted Wellness Support to Help Ease All Loads) program. He will help deliver comfort, connection and joy to hospital patients, their families and staff members.
+
+[caption id="attachment_624269" align="alignnone" width="6192"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/dsc_9953-2/" rel="attachment wp-att-624269"><img class="size-full wp-image-624269" src="https://qns.com/wp-content/uploads/2026/09/DSC_9953-2.jpg" alt="" width="6192" height="4128" /></a> <span class="image-credit">Weasley II with his primary handler, Dr. Angelica Terepka. Photo by Ramy Mahmoud</span>[/caption]
+
+Working primarily with patients in the adult, adolescent and forensic inpatient behavioral health units, as well as select outpatient groups, Weasley II's activities will focus mainly on emotional regulation, anxiety reduction, socialization, communication, self-esteem and patient engagement. The structured sessions with Weasley II may include mindfulness exercises, creative arts activities and opportunities for patients to interact with him. Additionally, this new furry friend will make occasional appearances through the hospital's employee wellness center.
+
+[caption id="attachment_624267" align="alignnone" width="5392"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/weasley-and-angelica-terepka/" rel="attachment wp-att-624267"><img class="size-full wp-image-624267" src="https://qns.com/wp-content/uploads/2026/09/Weasley-and-Angelica-Terepka.jpg" alt="" width="5392" height="3592" /></a> <span class="image-caption">Weasley II walks down the red carpet. </span><span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+The non-profit <a href="https://canine.org/">Canine Companions</a> trained Weasley II. This organization specializes in training facility dogs to work with professionals in healthcare and other settings. These dogs are trained to a higher standard than traditional therapy dogs.
+
+Numerous doctors, nurses, staff members, hospital leadership and elected officials were on hand for the red-carpet arrival. Among them were NYC Health + Hospitals/Elmhurst CEO Alina Moran, NYC Health + Hospitals/Elmhurst Director of Creative Arts Therapy and Activity Therapy Michelle Helfman, NYC Health + Hospitals/Elmhurst Director of Psychology Dr. Angelica Terepka, who serves as Weasley II's primary handler, and New York State Assemblymember Catalina Cruz.
+
+[caption id="attachment_624263" align="alignnone" width="5307"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/ademola-ladapo-and-michelle-helman-and-angelica-terepka-and-catalina-cruz-and-alina-moran/" rel="attachment wp-att-624263"><img class="size-full wp-image-624263" src="https://qns.com/wp-content/uploads/2026/09/ADEMOLA-LADAPO-and-MICHELLE-HELMAN-and-Angelica-Terepka-and-Catalina-Cruz-and-Alina-Moran.jpg" alt="" width="5307" height="3538" /></a> <span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+“Weasley and our PAWS to HEAL program bring an innovative dimension to the high-quality behavioral health services we provide,” Moran said. “Hospital pet therapy dogs can bring tremendous joy to patients, offering comfort, connection, play and engagement as part of the healing process. I am incredibly proud of our Behavioral Health team for the creativity and dedication they have shown in developing this program and finding new ways to support mental health in our community.”
+
+[caption id="attachment_624261" align="alignnone" width="6192"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/alina-moran/" rel="attachment wp-att-624261"><img class="size-full wp-image-624261" src="https://qns.com/wp-content/uploads/2026/09/Alina-Moran.jpg" alt="" width="6192" height="4128" /></a> <span class="image-caption">NYC Health + Hospitals/Elmhurst CEO Alina Moran greets Weasley II. </span><span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+“The goal of animal-assisted therapy is to enhance the therapeutic environment and support patients in their recovery,” Helfman said. “Interactions with a trained facility dog can provide comfort, encourage positive social interaction and help patients participate more fully in treatment. We are delighted to welcome Weasley and expand a program we have been working toward for many years.”
+
+“Weasley has a remarkable ability to connect with people,” Dr. Terepka said. “He often gravitates toward someone who needs comfort, resting his head on a patient’s lap or simply sitting quietly beside them. In behavioral health, healing is built on connection, and Weasley reminds us that compassion can take many forms.”
+
+[caption id="attachment_624264" align="alignnone" width="2984"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/dsc_9864/" rel="attachment wp-att-624264"><img class="size-full wp-image-624264" src="https://qns.com/wp-content/uploads/2026/09/DSC_9864.jpg" alt="" width="2984" height="3467" /></a> <span class="image-caption">Weasley II with Dr. Terepka. </span><span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+“Creating different ways to connect with the needs of people is something Elmhurst has always been fantastic at doing, and using animals for our therapy is one of those ways, Cruz said. “It was such a beautiful experience, not only to play with the doggy, but to see how welcome he is as part of our community. And I look forward to seeing how much he can connect with our neighbors.”
+
+[caption id="attachment_624262" align="alignnone" width="6192"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/catalina-cruz-2-2/" rel="attachment wp-att-624262"><img class="size-full wp-image-624262" src="https://qns.com/wp-content/uploads/2026/09/Catalina-Cruz-2.jpg" alt="" width="6192" height="4128" /></a> <span class="image-caption">Weasley II and Dr. Terepka with Assemblymember Catalina Cruz. </span><span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+Following his walk down the red carpet, Weasley II fulfilled an Elmhurst Hospital tradition by stamping his first timecard, marking the start of his healing mission.
+
+[caption id="attachment_624265" align="alignnone" width="4095"]<a href="https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/dsc_0034-7/" rel="attachment wp-att-624265"><img class="size-full wp-image-624265" src="https://qns.com/wp-content/uploads/2026/09/DSC_0034.jpg" alt="" width="4095" height="2727" /></a> <span class="image-caption">Weasley II stamped his first timecard. </span><span class="image-credit">Photo by Ramy Mahmoud</span>[/caption]
+
+Dr. Terepka or Weasley II's secondary handler, Erin Caroll, LCAT, will be present whenever the dog is working with patients. They are trained to monitor his behavior, comfort and level of engagement throughout the day.
+
+Weasley II will be working four days a week, with group interactions running between 30 and 45 minutes. As Weasley II visits the various behavioral health units, he will also have designated rest periods between sessions.
+
+At the end of Weasley II's workday, he goes home with Dr. Terepka, where he can rest and play before his next workday.]]></content:encoded>
+					
+					<wfw:commentRss>https://qns.com/2026/09/elmhurst-hospital-therapy-dog-weasley-ii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="https://qns.com/wp-content/uploads/2026/09/DSC_9950-1.jpg?quality=51&#038;w=384" width="384" height="256" /><post-id xmlns="com-wordpress:feed-additions:1">624260</post-id>	</item>
+	</channel>
+</rss>

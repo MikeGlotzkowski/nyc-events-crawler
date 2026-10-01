@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T10:43:52.581Z",
+  "responses": {
+    "https://www.forestparktrust.org/events?format=json": {
+      "file": "forestparktrust.org.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    }
+  }
+}

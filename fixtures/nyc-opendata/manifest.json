@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-01T10:43:36.464Z",
+  "responses": {
+    "https://data.cityofnewyork.us/resource/tvpp-9vvx.json?%24limit=5000&%24where=start_date_time+%3E%3D+%272026-10-01T06%3A43%3A36%27+AND+start_date_time+%3C%3D+%272026-11-30T05%3A43%3A36%27+AND+event_type+in%28%27Farmers+Market%27%2C+%27Street+Event%27%2C+%27Block+Party%27%2C+%27Parade%27%2C+%27Plaza+Event%27%2C+%27Plaza+Partner+Event%27%2C+%27Open+Street+Partner+Event%27%2C+%27Athletic+Race+%2F+Tour%27%2C+%27Single+Block+Festival%27%2C+%27Street+Festival%27%2C+%27Health+Fair%27%29&%24order=start_date_time+ASC": {
+      "file": "data.cityofnewyork.us.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    }
+  }
+}
