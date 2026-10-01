@@ -23,4 +23,4 @@ jobs:
       - name: Test
         run: npm test
       - name: Probe candidate feeds (temporary)
-        run: node scripts/probe-feeds.js
+        run: SUPABASE_URL=https://example.invalid SUPABASE_SERVICE_KEY=x node scripts/probe-feeds.js
