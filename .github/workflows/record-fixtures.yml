@@ -11,8 +11,6 @@ on:
         description: "Crawler to re-record (empty = all)"
         default: ""
         type: string
-  push:
-    branches: [claude/project-thread-bkm4zy]
 
 permissions:
   contents: write
