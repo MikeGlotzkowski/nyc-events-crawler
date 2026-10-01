@@ -7,11 +7,16 @@
  *   problems, issue     → refresh the body; comment only when the set of problems changes
  *   no problems, issue  → comment and close it
  *
+ * It also writes the data-quality report (lib/quality.js) to the job summary, and its
+ * "degraded" findings count as problems for the same issue.
+ *
  * Without GITHUB_TOKEN (local runs) it just prints the report.
  */
 
 import { supabase } from './lib/supabase.js';
 import { evaluateHealth, DEFAULTS } from './lib/health.js';
+import { buildQualityReport, QUALITY_DEFAULTS } from './lib/quality.js';
+import { appendFileSync } from 'node:fs';
 
 const TITLE = 'Crawler health alert';
 
@@ -20,7 +25,7 @@ const now = new Date();
 const [{ data: configs, error: cfgErr }, { data: runs, error: runsErr }, { count: upcoming7d, error: upErr }] = await Promise.all([
   supabase.from('crawler_config').select('source_name, enabled'),
   supabase.from('crawl_runs')
-    .select('source_name, status, started_at, events_found, error_messages')
+    .select('source_name, status, started_at, events_found, events_new, error_count, error_messages')
     .gte('started_at', new Date(now.getTime() - DEFAULTS.windowDays * 86400_000).toISOString())
     .order('started_at', { ascending: false })
     .limit(5000),
@@ -32,7 +37,25 @@ const [{ data: configs, error: cfgErr }, { data: runs, error: runsErr }, { count
 const dbErr = cfgErr || runsErr || upErr;
 if (dbErr) throw new Error(`Supabase read failed: ${dbErr.message}`);
 
-const problems = evaluateHealth({ configs, runs, upcoming7d, now });
+// Data-quality report: every visible upcoming event (paged; PostgREST caps a response at 1000 rows).
+const events = [];
+for (let from = 0; ; from += 1000) {
+  const { data, error } = await supabase.from('events')
+    .select('source, title, start_at, created_at, image, time, canonical_category, borough')
+    .is('hidden_reason', null)
+    .gte('start_at', now.toISOString())
+    .order('id')
+    .range(from, from + 999);
+  if (error) throw new Error(`Supabase read failed: ${error.message}`);
+  events.push(...data);
+  if (data.length < 1000) break;
+}
+const recentRuns = runs.filter(r => new Date(r.started_at).getTime() >= now.getTime() - QUALITY_DEFAULTS.newHours * 3600_000);
+const quality = buildQualityReport({ runs: recentRuns, events, now });
+if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, quality.markdown);
+else console.log(quality.markdown);
+
+const problems = [...evaluateHealth({ configs, runs, upcoming7d, now }), ...quality.problems];
 const keys = problems.map(p => p.key).sort();
 
 const body = [
@@ -40,7 +63,8 @@ const body = [
   '',
   ...problems.map(p => `- ${p.text}`),
   '',
-  `Rules: ${DEFAULTS.failStreak} failed runs in a row, no events found for ${DEFAULTS.staleHours}h, or fewer than ${DEFAULTS.minUpcoming7d} events in the next 7 days. ` +
+  `Rules: ${DEFAULTS.failStreak} failed runs in a row, no events found for ${DEFAULTS.staleHours}h, fewer than ${DEFAULTS.minUpcoming7d} events in the next 7 days, ` +
+  `or a source's new events having an image, time, category or borough ${QUALITY_DEFAULTS.dropPoints}+ points less often than its older ones. ` +
   'Disable a source in `crawler_config.enabled` to silence it.',
   '',
   `<!-- health-keys: ${keys.join(',')} -->`,

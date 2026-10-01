@@ -2,12 +2,20 @@ name: "Source health"
 
 # Opens (and later closes) a "Crawler health alert" issue when a crawler source
 # keeps failing, stops finding events, or the upcoming feed gets thin.
-# Runs separately from the crawl workflows so it still fires if those stop running.
+# Also writes the data-quality report to the job summary; a source whose new events degrade
+# goes into the same issue. Runs on its own schedule so it still fires if the crawls stop,
+# and after the evening (Playwright) crawl.
 
 on:
   schedule:
     - cron: "0 9,21 * * *"
+  workflow_run:
+    workflows: ["Tier 2 Crawlers (Playwright)"]
+    types: [completed]
   workflow_dispatch:
+
+concurrency:
+  group: source-health
 
 permissions:
   contents: read
