@@ -34,7 +34,8 @@ export const CRAWLERS = [
 
 // Saved bodies are cut down so fixtures stay small: one page per paginated
 // endpoint (later pages answer 404, which ends each crawler's paging loop),
-// the first rows of a JSON list and the first items of a feed.
+// rows spread evenly through a JSON list (calendars that open on past days still keep
+// upcoming rows) and the first items of a feed.
 const MAX_JSON_ROWS = 25;
 const MAX_FEED_ITEMS = 5;
 // Large non-list values in a JSON object (lincoln-center's page model and rendered HTML) are
@@ -115,13 +116,18 @@ export function loadManifest(crawler) {
   return JSON.parse(fs.readFileSync(manifestPath(crawler), 'utf8'));
 }
 
+function sampleRows(rows) {
+  if (rows.length <= MAX_JSON_ROWS) return rows;
+  return Array.from({ length: MAX_JSON_ROWS }, (_, i) => rows[Math.floor(i * rows.length / MAX_JSON_ROWS)]);
+}
+
 function trimBody(body, contentType) {
   if (/json/.test(contentType)) {
     try {
       const data = JSON.parse(body);
-      if (Array.isArray(data)) return JSON.stringify(data.slice(0, MAX_JSON_ROWS));
+      if (Array.isArray(data)) return JSON.stringify(sampleRows(data));
       for (const [key, value] of Object.entries(data ?? {})) {
-        if (Array.isArray(value)) data[key] = value.slice(0, MAX_JSON_ROWS);
+        if (Array.isArray(value)) data[key] = sampleRows(value);
         else if (JSON.stringify(value).length > MAX_JSON_VALUE_CHARS) data[key] = null;
       }
       return JSON.stringify(data);
