@@ -62,7 +62,14 @@ export async function crawl() {
     const page = await context.newPage();
 
     log(`[westsiderag] Navigating to ${PAGE_URL}`);
-    await page.goto(PAGE_URL, { waitUntil: 'domcontentloaded', timeout: 20000 });
+    const navOptions = { waitUntil: 'domcontentloaded', timeout: 45000 };
+    try {
+      await page.goto(PAGE_URL, navOptions);
+    } catch (err) {
+      log('[westsiderag] Navigation failed, retrying once: ' + err.message);
+      await page.waitForTimeout(3000);
+      await page.goto(PAGE_URL, navOptions);
+    }
     await page.waitForTimeout(2000);
 
     // Extract raw event data from the DOM
