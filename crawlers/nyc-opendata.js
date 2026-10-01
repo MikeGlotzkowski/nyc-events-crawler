@@ -2,31 +2,31 @@
  * NYC Open Data (Socrata) Crawler
  * Keyless by default — if NYC_OPENDATA_APP_TOKEN is set, it's sent as X-App-Token.
  *
- * Datasets:
- *   tvpp-9vvx — NYC Permitted Event Information (citywide, ~60-day forward window)
- *   w3wp-dpdi — NYC Parks Public Events (14-day upcoming window)
+ * Dataset: tvpp-9vvx — NYC Permitted Event Information (citywide, ~60-day forward window).
+ * NYC Parks public events (w3wp-dpdi) are crawled by crawlers/nyc-parks.js.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 
 const SOURCE_PERMITTED = 'NYC Open Data — Permitted Events';
-const SOURCE_PARKS     = 'NYC Open Data — Parks Events';
 
 const BASE = 'https://data.cityofnewyork.us/resource';
 
-// Event types we want from the permitted-events dataset (drop film/production-shoot noise)
-const PERMITTED_TYPE_ALLOWLIST = new Set([
-  'Street Festival',
-  'Special Event',
+// Public-facing event types in tvpp-9vvx. Everything else is dropped: youth/adult sports
+// permits, production shoots, sidewalk sales, religious services, clean-ups, load-ins, and
+// 'Special Event' — those are all Parks Department permits, overwhelmingly private picnics,
+// parties and lawn closures; public Parks events come from crawlers/nyc-parks.js instead.
+export const PERMITTED_TYPE_ALLOWLIST = new Set([
   'Farmers Market',
-  'Fair/Festival',
+  'Street Event',
   'Block Party',
-  'Parade/March',
   'Parade',
-  'Concert/Performance',
-  'Athletic Competition',
-  'Walk/Run/Bike Tour',
-  'Community Event',
-  'Street Fair',
+  'Plaza Event',
+  'Plaza Partner Event',
+  'Open Street Partner Event',
+  'Athletic Race / Tour',
+  'Single Block Festival',
+  'Street Festival',
+  'Health Fair',
 ]);
 
 function appTokenHeader() {
@@ -34,33 +34,46 @@ function appTokenHeader() {
   return token ? { 'X-App-Token': token } : {};
 }
 
-function forwardWindowDates(days = 60) {
-  const now = new Date();
-  const end = new Date(now);
-  end.setDate(end.getDate() + days);
-  return { from: now.toISOString(), to: end.toISOString() };
+const nycFmt = new Intl.DateTimeFormat('en-US', {
+  timeZone: 'America/New_York', hourCycle: 'h23',
+  year: 'numeric', month: '2-digit', day: '2-digit',
+  hour: '2-digit', minute: '2-digit', second: '2-digit',
+});
+
+/** Date → 'YYYY-MM-DDTHH:MM:SS' NYC wall clock (Socrata floating timestamps reject a 'Z'). */
+export function toNycFloating(date) {
+  const p = Object.fromEntries(nycFmt.formatToParts(date).map(x => [x.type, x.value]));
+  return `${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}:${p.second}`;
 }
+
+export function buildPermittedWhere(now = new Date(), days = 60) {
+  const end = new Date(now.getTime() + days * 86400000);
+  const types = [...PERMITTED_TYPE_ALLOWLIST].map(t => `'${t.replace(/'/g, "''")}'`).join(', ');
+  return `start_date_time >= '${toNycFloating(now)}' AND start_date_time <= '${toNycFloating(end)}' AND event_type in(${types})`;
+}
+
+// Private or non-event permits that slip through the type allowlist
+const TITLE_DENYLIST = /\b(wedding|closure|no amplified sound|funeral|memorial service)\b/i;
 
 // ── Permitted Events (tvpp-9vvx) ─────────────────────────────────
 
-function mapPermittedEvent(row) {
+export function mapPermittedEvent(row) {
   const title = row.event_name?.trim();
-  if (!title) return null;
+  if (!title || TITLE_DENYLIST.test(title)) return null;
 
-  // Filter by event type
   const eventType = (row.event_type ?? '').trim();
-  if (eventType && !PERMITTED_TYPE_ALLOWLIST.has(eventType)) return null;
+  if (!PERMITTED_TYPE_ALLOWLIST.has(eventType)) return null;
 
   // Socrata floating timestamps (no offset) are NYC wall-clock; upsertEvent interprets them.
   const startDate = row.start_date_time ?? null;
   const endDate   = row.end_date_time   ?? null;
   if (!startDate) return null;
 
-  const borough = normalizeBoroughName(row.event_borough ?? row.borough ?? null);
-  const address = [row.street_address, row.between_streets].filter(Boolean).join(' between ') || null;
+  const borough = normalizeBoroughName(row.event_borough ?? null);
+  const address = row.event_location?.trim() || null;
 
   return {
-    id:          generateEventId(`nyc-opendata-permitted-${row.event_id ?? row.eventtimeid ?? ''}`, title),
+    id:          generateEventId(`nyc-opendata-permitted-${row.event_id ?? ''}`, title),
     source:      SOURCE_PERMITTED,
     sourceUrl:   'https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information/tvpp-9vvx',
     title,
@@ -70,16 +83,16 @@ function mapPermittedEvent(row) {
     time:        null,
     location: {
       name:    address ?? borough ?? 'New York City',
-      address: address,
+      address,
       city:    'New York',
       lat:     null,
       lng:     null,
     },
     price:       { isFree: true, min: 0, max: 0, currency: 'USD' },
-    categories:  [eventType || 'Special Event'],
+    categories:  [eventType],
     tags:        ['permitted', 'citywide'],
-    organizer:   row.event_contact_name?.trim() ?? null,
-    attendance:  row.attendees ? Number(row.attendees) : null,
+    organizer:   null,
+    attendance:  null,
     ticketUrl:   null,
     images:      [],
     rawText:     null,
@@ -88,11 +101,21 @@ function mapPermittedEvent(row) {
   };
 }
 
+/** The dataset repeats an event_id per permitted location/time slot; keep the first (earliest). */
+export function dedupeByEventId(rows) {
+  const seen = new Set();
+  return rows.filter(r => {
+    const key = r.event_id ?? `${r.event_name}|${r.start_date_time}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 async function fetchPermittedEvents() {
-  const { from, to } = forwardWindowDates(60);
   const params = new URLSearchParams({
-    '$limit':  '1000',
-    '$where':  `start_date_time >= '${from}' AND start_date_time <= '${to}'`,
+    '$limit':  '5000',
+    '$where':  buildPermittedWhere(),
     '$order':  'start_date_time ASC',
   });
 
@@ -103,72 +126,7 @@ async function fetchPermittedEvents() {
     headers: { 'Accept': 'application/json', ...appTokenHeader() },
     signal: AbortSignal.timeout(30000),
   });
-  if (!res.ok) throw new Error(`tvpp-9vvx HTTP ${res.status}`);
-  return res.json();
-}
-
-// ── Parks Public Events (w3wp-dpdi) ──────────────────────────────
-
-function mapParksEvent(row) {
-  const title = (row.name ?? row.event_name ?? '').trim();
-  if (!title) return null;
-
-  const startDate = row.startdate ?? row.start_date ?? null;
-  const endDate   = row.enddate   ?? row.end_date   ?? null;
-  const legacyStartIso = startDate ? new Date(startDate).toISOString() : null; // id input — keep stable
-
-  const parkName = (row.park ?? row.park_name ?? row.location ?? '').trim() || null;
-  const borough  = normalizeBoroughName(row.borough ?? null);
-
-  const url = (row.url ?? row.link ?? '').trim() || null;
-  const id = url
-    ? generateEventId(url, title)
-    : generateEventId(`nyc-parks-opendata-${parkName ?? ''}-${legacyStartIso ?? ''}`, title);
-
-  return {
-    id,
-    source:      SOURCE_PARKS,
-    sourceUrl:   url ?? 'https://data.cityofnewyork.us/Recreation/NYC-Parks-Public-Events-Upcoming-14-Days/w3wp-dpdi',
-    title,
-    description: (row.description ?? row.event_description ?? '').trim(),
-    startDate,
-    endDate,
-    time:        (row.time ?? row.event_time ?? null)?.trim() ?? null,
-    location: {
-      name:    parkName ?? borough ?? 'NYC Park',
-      address: row.address?.trim() ?? null,
-      city:    'New York',
-      lat:     row.latitude  ? parseFloat(row.latitude)  : null,
-      lng:     row.longitude ? parseFloat(row.longitude) : null,
-    },
-    price:       { isFree: true, min: 0, max: 0, currency: 'USD' },
-    categories:  [(row.category ?? row.event_type ?? 'Parks & Recreation').trim()],
-    tags:        ['parks', 'outdoor', 'free'],
-    organizer:   'NYC Parks',
-    attendance:  null,
-    ticketUrl:   url,
-    images:      [],
-    rawText:     null,
-    neighborhood: parkName,
-    borough,
-  };
-}
-
-async function fetchParksEvents() {
-  const { from } = forwardWindowDates(0); // dataset already scoped to 14-day window
-  const params = new URLSearchParams({
-    '$limit': '500',
-    '$order': 'startdate ASC',
-  });
-
-  const url = `${BASE}/w3wp-dpdi.json?${params}`;
-  log(`[nyc-opendata] Fetching parks events: ${url}`);
-
-  const res = await fetch(url, {
-    headers: { 'Accept': 'application/json', ...appTokenHeader() },
-    signal: AbortSignal.timeout(30000),
-  });
-  if (!res.ok) throw new Error(`w3wp-dpdi HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`tvpp-9vvx HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
   return res.json();
 }
 
@@ -195,9 +153,8 @@ export async function crawl() {
   const errors = [];
   let totalFound = 0, totalNew = 0, totalUpdated = 0;
 
-  // Dataset 1: Permitted Events
   try {
-    const rows = await fetchPermittedEvents();
+    const rows = dedupeByEventId(await fetchPermittedEvents());
     log(`[nyc-opendata] Permitted events: ${rows.length} rows`);
     const events = rows.map(mapPermittedEvent).filter(Boolean);
     log(`[nyc-opendata] Permitted events: ${events.length} mapped`);
@@ -212,25 +169,6 @@ export async function crawl() {
   } catch (err) {
     logError('[nyc-opendata] Permitted events fetch failed', err);
     errors.push(`permitted-events: ${err.message}`);
-  }
-
-  // Dataset 2: Parks Public Events
-  try {
-    const rows = await fetchParksEvents();
-    log(`[nyc-opendata] Parks events: ${rows.length} rows`);
-    const events = rows.map(mapParksEvent).filter(Boolean);
-    log(`[nyc-opendata] Parks events: ${events.length} mapped`);
-
-    if (events.length > 0) {
-      const result = await upsertEvents(events);
-      totalFound   += events.length;
-      totalNew     += result.new;
-      totalUpdated += result.updated;
-      errors.push(...result.errors);
-    }
-  } catch (err) {
-    logError('[nyc-opendata] Parks events fetch failed', err);
-    errors.push(`parks-events: ${err.message}`);
   }
 
   log(`[nyc-opendata] Done — ${totalNew} new, ${totalUpdated} updated, ${errors.length} errors`);

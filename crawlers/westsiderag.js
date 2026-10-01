@@ -62,7 +62,14 @@ export async function crawl() {
     const page = await context.newPage();
 
     log(`[westsiderag] Navigating to ${PAGE_URL}`);
-    await page.goto(PAGE_URL, { waitUntil: 'domcontentloaded', timeout: 20000 });
+    const navOptions = { waitUntil: 'domcontentloaded', timeout: 45000 };
+    try {
+      await page.goto(PAGE_URL, navOptions);
+    } catch (err) {
+      log('[westsiderag] Navigation failed, retrying once: ' + err.message);
+      await page.waitForTimeout(3000);
+      await page.goto(PAGE_URL, navOptions);
+    }
     await page.waitForTimeout(2000);
 
     // Extract raw event data from the DOM
@@ -120,9 +127,9 @@ export async function crawl() {
         const title = link.textContent?.trim();
         if (!title || title.length < 3) continue;
 
-        // Extract time: text before the link that looks like a time range
+        // Extract time: a time or range like "7:00 PM–9:00 PM" or "10:00 a.m.-11:00 a.m."
         const fullText = el.textContent.trim();
-        const timeMatch = fullText.match(/(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)(?:\s*[–—-]\s*\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))?)/i);
+        const timeMatch = fullText.match(/(\d{1,2}:\d{2}\s*[ap]\.?m\.?(?:\s*[–—-]\s*\d{1,2}:\d{2}\s*[ap]\.?m\.?)?)/i);
         const time = timeMatch ? timeMatch[1] : null;
 
         // Description: remaining text after removing time and title

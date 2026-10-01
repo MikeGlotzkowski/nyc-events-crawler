@@ -1,0 +1,36 @@
+name: "Source health"
+
+# Opens (and later closes) a "Crawler health alert" issue when a crawler source
+# keeps failing, stops finding events, or the upcoming feed gets thin.
+# Runs separately from the crawl workflows so it still fires if those stop running.
+
+on:
+  schedule:
+    - cron: "0 9,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node health-check.js

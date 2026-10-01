@@ -12,14 +12,21 @@
     "crawl:rss": "node index.js rss-blogs",
     "crawl:ical": "node index.js ical-feeds",
     "crawl:riverside": "node index.js riverside-park",
+    "crawl:bpl": "node index.js brooklyn-library",
+    "crawl:qpl": "node index.js queens-library",
+    "crawl:vancortlandt": "node index.js van-cortlandt-park",
+    "crawl:forestpark": "node index.js forest-park",
     "crawl:westsiderag": "node index.js westsiderag",
     "crawl:seatgeek": "node index.js seatgeek",
     "crawl:nyccom": "node index.js nyccom",
     "crawl:tier1": "node index.js all-tier1",
     "crawl:tier2": "node index.js all-tier2",
-    "test": "node --test --experimental-test-module-mocks lib/*.test.js",
+    "test": "node --test --experimental-test-module-mocks lib/*.test.js crawlers/*.test.js",
     "test-llm": "node test-llm.js",
-    "upload": "node upload-to-s3.js"
+    "upload": "node upload-to-s3.js",
+    "health": "node health-check.js",
+    "fixtures:record": "node --experimental-test-module-mocks scripts/record-fixtures.js",
+    "fixtures:expected": "node --experimental-test-module-mocks scripts/record-fixtures.js --expected-only"
   },
   "keywords": [
     "crawler",
@@ -36,5 +43,8 @@
     "openai": "^4.24.0",
     "playwright": "^1.41.0",
     "xml2js": "^0.6.0"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
   }
 }

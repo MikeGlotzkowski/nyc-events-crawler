@@ -1,0 +1,15 @@
+{
+  "capturedAt": "2026-10-01T10:47:49.938Z",
+  "responses": {
+    "https://riversideparknyc.org/wp-json/tribe/events/v1/events?per_page=50&status=publish&start_date=2026-10-01": {
+      "file": "riversideparknyc.org.json",
+      "status": 200,
+      "contentType": "application/json; charset=UTF-8"
+    },
+    "https://riversideparknyc.org/wp-json/tribe/events/v1/events/?per_page=50&start_date=2026-10-01+00%3A00%3A00&end_date=2028-10-01+23%3A59%3A59&status=publish&page=2": {
+      "file": "riversideparknyc.org-2.json",
+      "status": 200,
+      "contentType": "application/json; charset=UTF-8"
+    }
+  }
+}

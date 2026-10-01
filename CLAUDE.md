@@ -10,7 +10,9 @@ and upserts them into Supabase (with optional AWS S3 / local JSON output). `inde
 dispatches to one crawler or a tier group.
 
 Sources (`crawlers/`): `nyc-parks` (RSS), `rss-blogs` (neighborhood blog RSS + LLM extraction),
-`riverside-park` (WordPress calendar), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
+`riverside-park` / `van-cortlandt-park` (WordPress calendar), `forest-park` (Squarespace JSON),
+`brooklyn-library` / `queens-library` (library event calendars, next 14 days, service sessions skipped;
+`brooklyn-library` is not in a tier because Cloudflare challenges GitHub Actions runners), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
 Playwright). **Tiers:** `all-tier1` = the non-Playwright crawlers (fast); `all-tier2` = the
 Playwright-based crawlers (`westsiderag`, `nyccom`) — the heavy daily job that motivated the public-repo
 migration (unlimited CI minutes).
@@ -26,6 +28,9 @@ node index.js <crawler>   # run one crawler: nyc-parks | rss-blogs | riverside-p
 node index.js all-tier2   # Playwright tier (westsiderag, nyccom)
 node index.js all         # every crawler
 npm run upload            # Upload existing data files to S3 (requires AWS env vars)
+npm run health            # Source health check (lib/health.js rules); in CI it syncs a GitHub issue
+npm run fixtures:expected # Regenerate fixtures/<crawler>/expected.json after an intended parser change
+npm run fixtures:record   # Re-capture live source snapshots (run the record-fixtures workflow; sources block most networks)
 ```
 
 Passing env vars inline:
@@ -79,6 +84,20 @@ Runs only when `OPENAI_API_KEY` is set and `ENABLE_ENRICHMENT != 'false'`. Three
   accumulating events in the array on each save.
 - **S3** (`STORAGE_MODE=s3`): also writes locally, then uploads the full file to
   `s3://<bucket>/events/<filename>` after each event save. Optional/legacy.
+
+### Fixture tests
+
+`crawlers/fixtures.test.js` runs every enabled crawler's real `crawl()` against saved responses in
+`fixtures/<crawler>/` (network, Supabase, LLM extraction and og:image lookups stubbed by `fixtures/harness.js`,
+Date frozen at capture time) and requires exactly the events in `expected.json`. A new crawler needs an entry in
+`CRAWLERS` in the harness plus a recording. Review the `expected.json` diff whenever you regenerate it.
+
+### Source health alert
+
+`.github/workflows/source-health.yml` runs `health-check.js` twice a day. It opens one "Crawler health alert"
+issue (assigned to the repo owner) when an enabled source fails 3 runs in a row, finds no events for 48h, or
+fewer than 75 events start in the next 7 days, and closes it once everything recovers. Rules live in
+`lib/health.js`. Disable a source in `crawler_config.enabled` to silence it.
 
 ### Environment
 

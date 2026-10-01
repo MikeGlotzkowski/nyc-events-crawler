@@ -7,18 +7,16 @@
 import nodeIcal from 'node-ical';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { localYmd } from '../lib/nyc-time.js';
+import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
 
 // ── Source registry ───────────────────────────────────────────────
 // Verified: each URL returns a valid VCALENDAR (checked 2026-06-27).
 
 export const ICAL_SOURCES = [
   // Parks & outdoor spaces
-  {
-    name:         'Prospect Park Alliance',
-    feed:         'https://www.prospectpark.org/?ical=1',
-    neighborhood: 'Prospect Park',
-    borough:      'Brooklyn',
-  },
+  // Prospect Park Alliance (https://www.prospectpark.org/?ical=1) is off: Cloudflare serves a
+  // bot challenge (403, cf-mitigated: challenge) to GitHub Actions IPs on every endpoint,
+  // whatever the headers. It works from residential IPs only. Checked 2026-10-01.
   {
     name:         "Green-Wood Cemetery",
     feed:         'https://www.green-wood.com/events/?ical=1',
@@ -96,6 +94,38 @@ function expandEvents(parsedData, windowStart, windowEnd) {
   return events;
 }
 
+// ── Images ───────────────────────────────────────────────────────
+
+const IMAGE_EXT_RE = /\.(jpe?g|png|webp|gif|avif)(\?|$)/i;
+const PAGE_FETCH_CONCURRENCY = 4;
+
+/** Image from a VEVENT's ATTACH/IMAGE property (The Events Calendar feeds set ATTACH;FMTTYPE=image/*). */
+export function veventImage(vevent) {
+  for (const key of ['attach', 'image']) {
+    const values = [vevent[key] ?? []].flat();
+    for (const v of values) {
+      const raw  = typeof v === 'string' ? v : v?.val;
+      const type = typeof v === 'object' ? v?.params?.FMTTYPE ?? v?.params?.fmttype : null;
+      if (typeof raw !== 'string') continue;
+      if (!(type?.startsWith('image/') || IMAGE_EXT_RE.test(raw))) continue;
+      const url = cleanImageUrl(raw);
+      if (url) return url;
+    }
+  }
+  return null;
+}
+
+/** Fill in images for events whose VEVENT had none, from their event page's og:image. */
+async function addPageImages(events, source) {
+  const missing = events.filter(e => e.images.length === 0 && e.sourceUrl && e.sourceUrl !== source.feed);
+  for (let i = 0; i < missing.length; i += PAGE_FETCH_CONCURRENCY) {
+    await Promise.all(missing.slice(i, i + PAGE_FETCH_CONCURRENCY).map(async (event) => {
+      const image = await fetchPageImage(event.sourceUrl);
+      if (image) event.images = [image];
+    }));
+  }
+}
+
 function mapVEvent(vevent, source) {
   const summary = (typeof vevent.summary === 'string' ? vevent.summary : vevent.summary?.val ?? '').trim();
   if (!summary) return null;
@@ -110,6 +140,7 @@ function mapVEvent(vevent, source) {
   const location  = (typeof vevent.location === 'string' ? vevent.location : vevent.location?.val ?? '').trim() || null;
   const description = (typeof vevent.description === 'string' ? vevent.description : vevent.description?.val ?? '').trim();
   const url       = (vevent.url ?? '').toString().trim() || null;
+  const image     = veventImage(vevent);
 
   const id = url
     ? generateEventId(url, summary)
@@ -137,7 +168,7 @@ function mapVEvent(vevent, source) {
     organizer:   source.name,
     attendance:  null,
     ticketUrl:   url,
-    images:      [],
+    images:      image ? [image] : [],
     rawText:     null,
     neighborhood: source.neighborhood ?? null,
     borough:      source.borough ?? null,
@@ -162,7 +193,8 @@ async function processSource(source) {
   log(`[ical-feeds]   ${source.name}: ${vevents.length} events in window`);
 
   const events = vevents.map(v => mapVEvent(v, source)).filter(Boolean);
-  log(`[ical-feeds]   ${source.name}: ${events.length} mapped`);
+  await addPageImages(events, source);
+  log(`[ical-feeds]   ${source.name}: ${events.length} mapped, ${events.filter(e => e.images.length).length} with images`);
 
   return { events, errors: [] };
 }

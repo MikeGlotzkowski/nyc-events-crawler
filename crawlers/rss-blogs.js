@@ -6,6 +6,7 @@
 import { parseStringPromise } from 'xml2js';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { extractEventsFromPost, looksLikeEventPost } from '../lib/llm-extract.js';
+import { cleanImageUrl, extractImageFromContent, fetchPageImage } from '../lib/og-image.js';
 
 // ── Source registry ───────────────────────────────────────────
 
@@ -56,6 +57,29 @@ export const RSS_SOURCES = [
 
 // ── RSS fetch + parse ─────────────────────────────────────────
 
+const stripTags = (html) => html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+
+/** Image declared on the feed item itself: media:content/thumbnail or an image enclosure. */
+export function feedItemImage(item, link) {
+  for (const key of ['media:content', 'media:thumbnail']) {
+    for (const media of item[key] ?? []) {
+      const attrs = media?.['$'] ?? {};
+      if (attrs.medium && attrs.medium !== 'image') continue;
+      if (attrs.type && !attrs.type.startsWith('image/')) continue;
+      const url = cleanImageUrl(attrs.url, link);
+      if (url) return url;
+    }
+  }
+  for (const enc of item.enclosure ?? []) {
+    const attrs = enc?.['$'] ?? {};
+    if ((attrs.type ?? '').startsWith('image/')) {
+      const url = cleanImageUrl(attrs.url, link);
+      if (url) return url;
+    }
+  }
+  return null;
+}
+
 async function fetchFeed(url) {
   const res = await fetch(url, {
     headers: { 'User-Agent': 'fomo3-events-bot/1.0 (+https://github.com/fomo3)' },
@@ -68,23 +92,38 @@ async function fetchFeed(url) {
   // Handle both RSS 2.0 and Atom
   const channel = parsed?.rss?.channel?.[0];
   if (channel) {
-    return (channel.item ?? []).map(item => ({
-      title:   item.title?.[0]?.trim() ?? '',
-      link:    item.link?.[0]?.trim()  ?? '',
-      pubDate: item.pubDate?.[0]?.trim() ?? null,
-      content: (item['content:encoded']?.[0] ?? item.description?.[0] ?? '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(),
-    }));
+    return (channel.item ?? []).map(item => {
+      const link = item.link?.[0]?.trim() ?? '';
+      const raw  = item['content:encoded']?.[0] ?? item.description?.[0] ?? '';
+      return {
+        title:   item.title?.[0]?.trim() ?? '',
+        link,
+        pubDate: item.pubDate?.[0]?.trim() ?? null,
+        content: stripTags(typeof raw === 'string' ? raw : ''),
+        image:   feedItemImage(item, link || undefined),
+        contentImage: extractImageFromContent(typeof raw === 'string' ? raw : '', link || undefined),
+      };
+    });
   }
 
   // Atom feed
   const feed = parsed?.feed;
   if (feed) {
-    return (feed.entry ?? []).map(entry => ({
-      title:   (Array.isArray(entry.title) ? entry.title[0]?._ ?? entry.title[0] : entry.title) ?? '',
-      link:    entry.link?.[0]?.['$']?.href ?? '',
-      pubDate: entry.updated?.[0] ?? entry.published?.[0] ?? null,
-      content: (entry.content?.[0]?._ ?? entry.summary?.[0] ?? '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(),
-    }));
+    return (feed.entry ?? []).map(entry => {
+      const link = entry.link?.[0]?.['$']?.href ?? '';  // feeds event ids; keep as-is
+      const pageUrl = (entry.link ?? []).find(l => (l?.['$']?.rel ?? 'alternate') === 'alternate')?.['$']?.href ?? link;
+      const rawNode = entry.content?.[0] ?? entry.summary?.[0] ?? '';
+      const raw = typeof rawNode === 'string' ? rawNode : rawNode?._ ?? '';
+      return {
+        title:   (Array.isArray(entry.title) ? entry.title[0]?._ ?? entry.title[0] : entry.title) ?? '',
+        link,
+        pubDate: entry.updated?.[0] ?? entry.published?.[0] ?? null,
+        pageUrl,
+        content: stripTags(raw),
+        image:   feedItemImage(entry, pageUrl || undefined),
+        contentImage: extractImageFromContent(raw, pageUrl || undefined),
+      };
+    });
   }
 
   return [];
@@ -122,6 +161,12 @@ async function processSource(source) {
         borough:      source.borough,
       });
 
+      // One image per post, shared by every event extracted from it. The post's og:image
+      // (its featured image) beats the first inline <img>, which is often an ad or byline.
+      const image = extracted.some(ev => ev.title)
+        ? item.image ?? await fetchPageImage(item.pageUrl ?? item.link) ?? item.contentImage
+        : null;
+
       for (const ev of extracted) {
         if (!ev.title) continue;
         allEvents.push({
@@ -140,7 +185,7 @@ async function processSource(source) {
           organizer:   null,
           attendance:  null,
           ticketUrl:   ev.ticketUrl   ?? null,
-          images:      [],
+          images:      image ? [image] : [],
           rawText:     null,
           neighborhood: source.neighborhood,
           borough:      source.borough,

@@ -1,0 +1,44 @@
+name: record-fixtures
+
+# Re-captures the saved source snapshots behind crawlers/fixtures.test.js and
+# regenerates their expected events. Runs here because several sources block
+# other networks. Commits to the branch it runs on, or to a new branch from main.
+
+on:
+  workflow_dispatch:
+    inputs:
+      crawler:
+        description: "Crawler to re-record (empty = all)"
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+env:
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Record
+        run: npm run fixtures:record -- ${{ inputs.crawler }}
+        continue-on-error: true
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fixtures
+          git diff --cached --quiet && { echo "No fixture changes"; exit 0; }
+          git commit -m "test: re-record crawler fixtures"
+          branch="${GITHUB_REF_NAME}"
+          [ "$branch" = "main" ] && branch="fixtures/refresh-${GITHUB_RUN_ID}"
+          git push origin "HEAD:${branch}"
+          echo "Pushed to ${branch}" >> "$GITHUB_STEP_SUMMARY"
