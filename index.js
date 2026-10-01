@@ -13,15 +13,15 @@
  *   westsiderag      West Side Rag weekly events page (Playwright)
  *   nyccom           NYC.com multi-category Playwright crawler
  *   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
-  brooklyn-library   Brooklyn Public Library events (search API)
+  brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
   queens-library     Queens Public Library events (calendar pages)
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
   forest-park        Forest Park Trust (Squarespace JSON)
- *   brooklyn-library   Brooklyn Public Library events (search API)
+ *   brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
  *   queens-library     Queens Public Library events (calendar pages)
  *   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
  *   forest-park        Forest Park Trust (Squarespace JSON)
- *   all-tier1        every non-Playwright crawler above except seatgeek
+ *   all-tier1        every non-Playwright crawler above except seatgeek and brooklyn-library
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
  */
@@ -48,7 +48,7 @@ const CRAWLERS = {
   'forest-park':        () => import('./crawlers/forest-park.js').then(m => m.crawl),
 };
 
-const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'brooklyn-library', 'queens-library'];
+const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'queens-library'];
 const TIER2 = ['westsiderag', 'nyccom'];
 const ALL   = [...TIER1, ...TIER2];
 
@@ -103,11 +103,11 @@ Targets:
   westsiderag      West Side Rag weekly events (Playwright)
   nyccom           NYC.com multi-category crawler (Playwright)
   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
-  brooklyn-library   Brooklyn Public Library events (search API)
+  brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
   queens-library     Queens Public Library events (calendar pages)
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
   forest-park        Forest Park Trust (Squarespace JSON)
-  all-tier1        Run every non-Playwright crawler except seatgeek
+  all-tier1        Run every non-Playwright crawler except seatgeek and brooklyn-library
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
 `.trim();
