@@ -11,6 +11,10 @@ calendars, and Playwright scrapes, optionally enriches them with an LLM, and ups
 | `nyc-parks` | NYC Parks RSS feed | 1 (fast) |
 | `rss-blogs` | 25 neighborhood blog RSS feeds + LLM extraction | 1 (fast) |
 | `riverside-park` | Riverside Park WordPress events calendar | 1 (fast) |
+| `whitney` | Whitney Museum events (JSON API) | 1 (fast) |
+| `bam` | BAM calendar (JSON) | 1 (fast) |
+| `lincoln-center` | Lincoln Center campus calendar, all resident organizations (JSON) | 1 (fast) |
+| `carnegie-hall` | Carnegie Hall performances from its sitemap | 1 (fast) |
 | `westsiderag` | West Side Rag weekly events page (Playwright) | 2 (Playwright) |
 | `nyccom` | NYC.com multi-category crawl (Playwright) | 2 (Playwright) |
 
