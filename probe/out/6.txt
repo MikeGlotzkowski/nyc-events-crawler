@@ -1,1523 +1,262 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
 <head>
-  <title>Events calendar | Whitney Museum of American Art</title>
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="google-site-verification" content="7H-upWFqE2QIpO83eIsNxpEUchG7lrWFMOZlOzoM3GI"/>
-<meta name="theme-color" content="#FFFFFF"/>
-<meta name="color-scheme" content="dark light">
-<meta name="turbo-cache-control" content="no-cache">
-<meta name="turbo-prefetch" content="false">
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<meta id="queue-it_log" data-proxyurl="https://logging.queue-it.net/logging/event" data-assemblyversion="4.5.1424.0" />
+<title>Queue-it</title>
 
+    
 
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//assets.queue-it.net/static/QueueFront/img/apple-touch-icon-144x144_29e646ca6d609e633b5f791d0913604f.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//assets.queue-it.net/static/QueueFront/img/apple-touch-icon-152x152_ee39e8d3c4bb5623edd65272d40d8427.png" />
+<link rel="apple-touch-icon" href="//assets.queue-it.net/static/QueueFront/img/queue-it_appletouch_29e646ca6d609e633b5f791d0913604f.png" />
+<link rel="icon" type="image/png" href="//assets.queue-it.net/static/QueueFront/img/favicon-32x32_db5bd2788089dda936f8f4bded2412f0.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="//assets.queue-it.net/static/QueueFront/img/favicon-16x16_51810b2d850343672d06e018b57e3104.png" sizes="16x16" />
+<link rel="shortcut icon" href="//assets.queue-it.net/static/QueueFront/img/queue-it_82d5a7733c6e1326072db6acb28f7146.ico" />
+<meta name="application-name" content="&nbsp;" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="//assets.queue-it.net/static/QueueFront/img/mstile-144x144_29e646ca6d609e633b5f791d0913604f.png" />
+    <link rel='stylesheet' href='//assets.queue-it.net/static/QueueFront/css/combined/style_359bb2f6a6df87aa12ef3126e6507eef.css' type='text/css' /><!--[if lte IE 7]><link rel='stylesheet' href='//assets.queue-it.net/static/QueueFront/css/combined/ie_4b54882dedf0983371a71bad7d11556a.css' type='text/css' /><![endif]--><link rel='stylesheet' href='//assets.queue-it.net/carnegiehall/userdata/2025/queue-it-2025.css' type='text/css' />
 
-<meta property="og:title" content="Events calendar"/>
-<meta property="og:site_name" content="Whitney Museum of American Art" />
-<meta property="og:type" content="website"/>
-<meta property="og:url" content="https://whitney.org/events?page=2"/>
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:site" content="@whitneymuseum"/>
+    <script>
+    (function () {
+        if (!window.console)
+            window.console = {};
 
-<meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="nABaAo7GxwoePPsr-YWA8WooC8oQXBczN16g596-hvoRsNWuxDcJAujhlUKJ-tMxe5yZU0NpOiiieT6Tj_GNIA" />
-<meta name="action-cable-url" content="/cable" />
+        if (!window.console.log)
+            window.console.log = function () { };
 
-<link rel="canonical" href="https://whitney.org/events"/>
-
+        if (!window.console.debug)
+            window.console.debug = function () { };
+    })();
+</script>
 <script>
-    window.dataLayer = [];
-    window.locales = { english: 'en', spanish: 'es' };
+    function getScriptBasePath() {
+        return '/Script/combined/';
+    }
 </script>
+<script type="text/javascript" src="//assets.queue-it.net/static/QueueFront/Script/combined/common_cd9b8a9f27810c8940ac9d7ac6d4b9f7.js" integrity="sha384-KchOzmaITJRQ34m8lj+alM5vsprNm7hXOu05MVhJgevc5yI4dhyChotv36t1ntai" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="' + getScriptBasePath() + 'common.js' + '"><\/script>')</script>
+<script type="text/javascript" src="//assets.queue-it.net/static/QueueFront/Script/combined/queueit_8e862588c8a064232e96197b9e158a32.js" integrity="sha384-93VM1fhSWhJ5bB/atPgewFUcGMGAsfep2DNvdpgXnrpnE0qZ2Cee111sJXSY8s6+" crossorigin="anonymous"></script>
+<script>
+    window.QueueIt || document.write('<script src="' + getScriptBasePath() + 'queueit.js' + '"><\/script>');
 
-  <link rel="stylesheet" href="/assets/application-412998f4.css" media="all" />
-  <script src="/assets/global-125d187d.js" type="module"></script>
-  <script src="/assets/application-4efa91f3.js" type="module"></script>
+    if (window.soundManager)
+        window.soundManager.debugMode = false;
+</script>
+    <script type="text/javascript"
+            id="queueit-perftiming-script"
+            src="//assets.queue-it.net/script/statistics-1.0.317.min.js"
+            integrity="sha384-f5hjbSeb9WBd9AAymf5fnugW6mTsfRrM2H73Hpia4FA6V6bapwk39K8MTGwxZgw6"
+            crossorigin="anonymous"
+            data-queueit-c="carnegiehall"
+            data-queueit-host="eu-west-1-perf-api.queue-it.net"
+            data-queueit-tag-eventid="pnsafetynet2023"
+            data-queueit-tag-queueid="00000000-0000-0000-0000-000000000000"
+            data-queueit-tag-queueit="queue"
+            data-queueit-disableajax="true">
+    </script>
 
 
-<link rel="apple-touch-icon" sizes="128x128" href="/guide/app_icon_128.png">
-<link rel="apple-touch-icon" sizes="256x256" href="/guide/app_icon_256.png">
-<link rel="apple-touch-icon" sizes="512x512" href="/guide/app_icon_512.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    
 
 <script type="text/javascript">
-    const overrideDark = new URLSearchParams(window.location.search).get('dark') === 'false';
-    if (!overrideDark && localStorage.getItem('dark') === 'true') {
-        document.documentElement.classList.add('dark');
-        document.querySelector('meta[name=theme-color]')?.setAttribute('content', '#000000');
-    }
+    $(document).ready(function () {
+        var language = 'en-US';
+    });
+
+    var queueViewModel = new QueueIt.Queue.SoftblockViewModel({
+        customerId: 'carnegiehall',
+        eventId: 'pnsafetynet2023',
+        challengeVerifyEndpoint: '/challengeapi/carnegiehall/pnsafetynet2023/verify',
+        inqueueUrl: '%2F%3Fc%3Dcarnegiehall%26e%3Dpnsafetynet2023%26t%3Dhttps%253A%252F%252Fwww.carnegiehall.org%252FCalendar%252F2026%252F10%252F02%252FLudovico-Einaudi-0800PM%26cid%3Den-US%26enqueuetoken%3DeyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3OTA4NTM3NTg2ODMsImV4cCI6MTc5MDg1Mzk5ODY4MywidGkiOiIyNWRlMjk4My1mZDQxLTRlNmQtYmI1NC1mNzk5NmZkMWIzY2IiLCJjIjoiY2FybmVnaWVoYWxsIiwiZSI6InBuc2FmZXR5bmV0MjAyMyIsImlwIjoiMTcyLjIxLjQuNzAifQ.RUNIOBehy-1QxChj4qv2LlqQT0SuzXKG0l4BgtzJUyA.oZRgm7aVfBxJZTpGwVrB_r8QS60kT_GltVuq0GzvTpU',
+        tags: [],
+        proofOfWorkSource: '//assets.queue-it.net/static/challenge/script/par-eu-west-1-b/proofofwork.min.js',
+        proofOfWorkHost: 'inline.carnegiehall.org',
+        botDetectSource: '//assets.queue-it.net/static/challenge/script/par-eu-west-1-b/botdetect.min.js',
+        botDetectHost: 'inline.carnegiehall.org',
+        reCaptchaSource: '//assets.queue-it.net/static/challenge/script/par-eu-west-1-b/recaptcha.min.js',
+        reCaptchaHost: 'inline.carnegiehall.org',
+        turnstileSource: '//assets.queue-it.net/static/challenge/script/par-eu-west-1-b/turnstile.min.js',
+        turnstileHost: 'inline.carnegiehall.org',
+        inviteOnlyEmailVerificationSource: '//assets.queue-it.net/static/challenge/inviteonly/email-verification.js',
+        inviteOnlyEmailVerificationHost: 'inline.carnegiehall.org',
+        showInviteOnlyEmailVerificationChallenge: false,
+        challenges: [{"name":"BotDeflector","hasAnimation":false}],
+        challengesIssuedByReason: 2,
+        ruleId: 'eb7b2732-7f79-407a-8cbc-717f77d47c5b',
+        ruleName: 'All visitors do POW',
+        culture: 'en-US',
+        challengeApiChecksumHash: 'wH4Zt0YznRWQmm1+HtgUW3h0dmJEWOdyzTDHesbEQv0=',
+        queuePathPrefix: '',
+        akamaiBotManagerHeaderVerificationSource: '//assets.queue-it.net/static/challenge/script/par-eu-west-1-b/akamai-bot-manager-header-verification.min.js',
+        akamaiBotManagerHeaderVerificationHost: 'inline.carnegiehall.org',
+        showAkamaiBotManagerHeaderVerificationChallenge: false,
+        botDeflectorSource: 'https://dual.challenge.queue-it.net/api.js',
+        botDeflectorJwtToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50SWQiOiJjYXJuZWdpZWhhbGwiLCJzaXRlS2V5IjoicG5zYWZldHluZXQyMDIzIiwiY2hhbGxlbmdlRmxvdyI6W3sidHlwZSI6ImludiIsImNvbXBsZXhpdHkiOjF9XSwic2Vzc2lvbklkIjoiMzBiZDRmNTAtZjlmMS00MDdkLTllMGItMzFkM2M4NzBiYWM4IiwiaWF0IjoxNzkwODUzNzU5LCJleHAiOjE3OTA4NTM4NzksImF1dG9TdGFydCI6dHJ1ZX0.teSXyTK9sHn2MRNbVhDEPP1u8SEJxp9kecVdLpkJBb0',
+        botDeflectorVerifyEndpoint: '/spa-api/queue/carnegiehall/pnsafetynet2023/challenge/botdeflector/verify',
+        thirdPartyChallengeVerifyEndpoint: '',
+        targetUrl: decodeURIComponent('https%3A%2F%2Fwww.carnegiehall.org%2FCalendar%2F2026%2F10%2F02%2FLudovico-Einaudi-0800PM'),
+        customUrlParams: '',
+        layout: '2025 Safety Queue (Use theme)',
+    });
+
+    $(document).ready(function () {
+        window.queueViewModel.onReady("softblock");
+    });
 </script>
 
-<script type="text/javascript">
-    // Mirrors the precedence in user-preferences.js: query param, then saved preference, then client preference
-    function reducedMotionEnabled() {
-        const param = new URLSearchParams(window.location.search).get('reduced-motion');
-        if (param) return param === 'true';
-        const saved = localStorage.getItem('reducedMotion');
-        if (saved !== null) return saved === 'true';
-        return window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    }
-
-    // Strip autoplay from videos as they're parsed, marking them so videos.js can still find them
-    // (re-checked per mutation so Turbo visits and mid-session toggles stay correct)
-    new MutationObserver(() => {
-        // Signage always autoplays regardless of user preferences
-        if (document.body?.classList.contains('sign-wrapper')) return;
-        if (!reducedMotionEnabled()) return;
-
-        document.querySelectorAll('video[autoplay]').forEach((video) => {
-            video.removeAttribute('autoplay');
-            video.dataset.autoplay = '1';
-        });
-    }).observe(document.documentElement, { childList: true, subtree: true });
-</script>
-
-<style>
-    /* Body */
-    @font-face {
-        font-family: 'haas-grotesk-text';
-        src: url('/fonts/Haas_Grot_Text_55_Roman.woff2') format('woff2');
-        font-weight: 400;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'haas-grotesk-text';
-        src: url('/fonts/Haas_Grot_Text_56_Italic.woff2') format('woff2');
-        font-weight: 400;
-        font-style: italic;
-    }
-
-    @font-face {
-        font-family: 'haas-grotesk-text';
-        src: url('/fonts/Haas_Grot_Text_75_Bold.woff2') format('woff2');
-        font-weight: 700;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'haas-grotesk-text';
-        src: url('/fonts/Haas_Grot_Text_76_Bold_Italic.woff2') format('woff2');
-        font-weight: 700;
-        font-style: italic;
-    }
-
-    /* Headline */
-    @font-face {
-        font-family: 'haas-grotesk-sign';
-        src: url('/fonts/HaasGrotSign-65Medium-Web.woff2') format('woff2');
-        font-weight: 700;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'haas-grotesk-sign';
-        src: url('/fonts/HaasGrotSign-66MediumItalic-Web.woff2') format('woff2');
-        font-weight: 700;
-        font-style: italic;
-    }
-</style>
-
-
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PTT6ZS');</script>
-
-<!-- Fathom - beautiful, simple website analytics -->
-<script src="https://cdn.usefathom.com/script.js" data-site="HUPIRANV" defer></script>
-
+    <script type='text/javascript' src='//assets.queue-it.net/carnegiehall/userdata/ch-google-tag-manager.js'></script>
 
 </head>
+<body data-pageid="softblock" data-culture="en-US" class="softblock">
+    
 
-<body class="">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTT6ZS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-
-  <header id="navigation" class="header" data-turbo-permanent>
-  <a href="#main" class="skip-to-content body-medium-bold">Skip to main content</a>
-
-  <div class="navigation content-wrapper">
-    <div class="w">
-      <a href="/" class="w__link" tabindex="-1" aria-label="Whitney Museum of American Art">
-        <img class="w__text" alt="" src="/assets/whitney_text-a190f486.png" />
-      </a>
-
-      <svg class="w__svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-        <polyline points="" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"/>
-      </svg>
+<noscript>
+    
+<div class="modal" role="dialog" aria-describedby="BodyTop_nojavascriptenabled">
+    <div id="BodyTop_nojavascriptenabled" class="nojavascript alert alert-error">
+        The site requires JavaScript to be enabled! The browser you're using doesn't support JavaScript, or has JavaScript turned off. <br>Try again with a browser that has JavaScript turned on. <a autofocus href="https://www.enable-javascript.com/" target="_blank">Learn More</a>
     </div>
+</div>
 
-    <dialog class="primary-nav-wrapper primary-nav-wrapper--line">
-      <div class="mini-header-wrapper">
-        <div class="mini-header body-medium">
-          <div class="mini-header__left">
-            <a href="/" class="mini-header__title body-medium-bold">Whitney Museum <br>of American Art</a>
-          </div>
+</noscript>
 
-          <div class="mini-header__right">
-              <a class="mini-header__hours body-medium" href="/visit#hours">Open today: 10:30 am–6 pm</a>
-
-            <div class="mini-header__actions">
-              <a class="nav-action nav-action--default" href="/admission">
-                <div class="nav-action__inner btn">Tickets</div>
-</a>                <a class="nav-action" href="/admission">
-    <div class="nav-action__inner btn">
-      Book tickets
+<div style="display: none" class="modal" id="BodyTop_missingjavascriptfeatures" role="dialog"
+    aria-describedby="BodyTop_missingjavascriptfeatures">
+    <div class="nojavascript alert alert-error">
+        Your browser is outdated and cannot be used. Update your browser to the most current version, and try again.
     </div>
-</a>
+</div>
 
-  <a class="nav-action" href="/memberships">
-    <div class="nav-action__inner btn">
-      Become a member
+<script type="text/javascript">
+    var hasES6Support = function () {
+        // Test for essential ES6 built-in objects
+        if (typeof Promise === 'undefined' ||
+            typeof Map === 'undefined' ||
+            typeof Set === 'undefined' ||
+            typeof Symbol === 'undefined') {
+            return false;
+        }
+
+        // Test for ES6 methods on existing objects
+        if (!Array.prototype.find ||
+            !Array.prototype.includes ||
+            !Object.assign) {
+            return false;
+        }
+
+        return true;
+    };
+
+    if (!hasES6Support()) {
+        $("#BodyTop_missingjavascriptfeatures").show();
+    }
+</script>
+
+<div id="toppanel" data-bind="visible: layout.topPanelVisible">
+    <iframe id='toppanel_iframe' src='//assets.queue-it.net/carnegiehall/userdata/2025/header-2025.html?c=carnegiehall&e=pnsafetynet2023&q=00000000-0000-0000-0000-000000000000&cid=en-US' allowtransparency='true'
+        frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.toppanelIFrameSrc }"
+        title="top panel content"></iframe>
+</div>
+
+    <div id="wrapper">
+        <div id="leftpanel" style="display: none;" data-bind="visible: layout.leftPanelVisible">
+    <iframe id='leftpanel_iframe' src='' allowtransparency='true' frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.leftpanelIFrameSrc }" title="right panel content"></iframe>
+</div>
+
+        <div id="main" role="main">
+            <div id="main-top">
+    <div id="main-top-message">
+        <p class="item">
+            <span id="lbCookieInfo" data-bind="text: texts.cookiesInfoText, attr: { class: texts.cookiesInfoClass, title: texts.cookiesInfoTooltip }"></span>
+        </p>
     </div>
-</a>
+    <div id="language-selector" style="display: none;" data-bind="visible: languageSelector.languages().length > 1 && languageSelector.languageSelectorVisible">
+        <label id="lbLanguage-selector" for="language-selector">Choose language:</label>
+        <select id="SharedTexts_Languages_SelectedValue" aria-labelledby="lbLanguage-selector"
+                data-bind="options: languageSelector.languages, optionsText:'text', optionsValue:'value', value:languageSelector.selectedLanguage, event: { keydown: languageSelector.whenClosedPreventChangeWithKeyboard }"></select>
+    </div>
+</div>
 
+            <div id="main_t" class="t"></div>
+            <div id="main_c" class="c">
+                <div id="content">
+                    <div id="header">
+    <div id="logocontainer" class="logo" style="display: none;" data-bind="visible: layout.logoVisible">
+        <img src="//assets.queue-it.net/carnegiehall/userdata/Wordmark438x43_Red.svg" id="imgCustomerLogo" alt="Carnegie Hall" longdesc="company logo for Carnegie Hall" data-bind="attr: { src: texts.logoSrc }" />
+    </div>
+    <div id="headerparagraph">
+        <span id="lbHeaderP" data-bind="html: texts.body">We are currently experiencing a high volume of traffic. Please wait here to enter our website.
+Visitors will gain access in the order they arrive.</span>
+    </div>
+</div>
+
+                    
+<div id="MainPart_divWarningBox">
+    <div id="divChallenge">
+        <div id="divChallenge_Content">
+            <div id="challenge-widget-container">
+                <div id="challenge-container"></div>
+                <div class="hidden" id="three-bar-loader-container">
+                    <div class="three-bar-loader"></div>
+                    <div class="three-bar-loader"></div>
+                    <div class="three-bar-loader"></div>
+                </div>
             </div>
-
-            <button class="mini-header__top" type="button" aria-label="Scroll to menu">Menu</button>
-
-            <button class="mini-header__menu body-medium-bold" type="button" aria-label="Menu" aria-haspopup="true">
-              <svg  width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 15.25H31V16.75H1V15.25ZM1 5V6.5H31V5H1ZM1 27H31V25.5H1V27Z" style="fill: var(--color-text);"/></svg>
-            </button>
-
-            <button class="mini-header__close body-medium-bold" type="button" aria-label="Close menu">
-              <svg  width="32" height="32" viewBox="0 0 32 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="2" x2="30" y2="30"/><line x1="2" y1="30" x2="30" y2="2"/></svg>
-            </button>
-          </div>
         </div>
-      </div>
-
-      <div class="primary-nav">
-        <nav class="primary-nav__nav" aria-label="Main">
-          <ul class="primary-nav__list p-0">
-              <li class="primary-nav-item">
-                  <button class="primary-nav-link primary-nav-link--toggle" aria-haspopup="true" aria-expanded="false" data-toggle="visit" data-value="visit">
-                    <span class="primary-nav__text">Visit</span>
-                    <svg class="primary-nav-link__plus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H16.76V1H15.26V15.25H1V16.75H15.26L15.25 31H16.75L16.76 16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                    <svg class="primary-nav-link__minus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H1V16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                  </button>
-
-                  <div class="secondary-nav" aria-hidden="false" aria-label="Secondary navigation" data-toggle="visit">
-                    <ul class="secondary-nav__list">
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="plan your visit" href="/visit">
-                            <span class="secondary-nav__text">Plan your visit</span>
-
-                            <span class="secondary-nav__description">
-                                Admission, hours, and directions
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="planea tu visita (en español)" href="/visit/en-espanol">
-                            <span class="secondary-nav__text">Planea tu visita (en español)</span>
-
-                            <span class="secondary-nav__description">
-                                Admisión, horarios y ubicación
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="book tickets" href="/admission">
-                            <span class="secondary-nav__text">Book tickets</span>
-
-                            <span class="secondary-nav__description">
-                                Advance tickets are recommended
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="membership" href="/support/membership">
-                            <span class="secondary-nav__text">Membership</span>
-
-                            <span class="secondary-nav__description">
-                                Free admission, exhibition previews, and more
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="accessibility" href="/visit/access">
-                            <span class="secondary-nav__text">Accessibility</span>
-
-                            <span class="secondary-nav__description">
-                                Resources for visitors with disabilities
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="dining" href="/visit/dining">
-                            <span class="secondary-nav__text">Dining</span>
-
-                            <span class="secondary-nav__description">
-                                Studio Bar and Frenchette Bakery at the Whitney
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="group visits" href="/visit/groups">
-                            <span class="secondary-nav__text">Group visits</span>
-
-                            <span class="secondary-nav__description">
-                                For schools and groups of 10+
-                            </span>
-</a>                        </li>
-                    </ul>
-                  </div>
-              </li>
-              <li class="primary-nav-item">
-                  <button class="primary-nav-link primary-nav-link--toggle" aria-haspopup="true" aria-expanded="false" data-toggle="what’s on" data-value="what’s on">
-                    <span class="primary-nav__text">What’s on</span>
-                    <svg class="primary-nav-link__plus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H16.76V1H15.26V15.25H1V16.75H15.26L15.25 31H16.75L16.76 16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                    <svg class="primary-nav-link__minus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H1V16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                  </button>
-
-                  <div class="secondary-nav" aria-hidden="false" aria-label="Secondary navigation" data-toggle="what’s on">
-                    <ul class="secondary-nav__list">
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="exhibitions" href="/exhibitions">
-                            <span class="secondary-nav__text">Exhibitions</span>
-
-                            <span class="secondary-nav__description">
-                                Current and upcoming
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="events calendar" href="/events">
-                            <span class="secondary-nav__text">Events calendar</span>
-
-                            <span class="secondary-nav__description">
-                                Upcoming events, tours, programs, and more
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="artport" href="/artport">
-                            <span class="secondary-nav__text">artport</span>
-
-                            <span class="secondary-nav__description">
-                                Online portal for digital art commissions
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="performance" href="/exhibitions/performance">
-                            <span class="secondary-nav__text">Performance</span>
-
-                            <span class="secondary-nav__description">
-                                Upcoming and past
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="the whitney biennial" href="/exhibitions/the-biennial">
-                            <span class="secondary-nav__text">The Whitney Biennial</span>
-
-                            <span class="secondary-nav__description">
-                                The longest running survey of American art
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="exhibition archive" href="/exhibitions/archive">
-                            <span class="secondary-nav__text">Exhibition archive</span>
-
-                            <span class="secondary-nav__description">
-                                Exhibitions going back to 1931
-                            </span>
-</a>                        </li>
-                    </ul>
-                  </div>
-              </li>
-              <li class="primary-nav-item">
-                  <button class="primary-nav-link primary-nav-link--toggle" aria-haspopup="true" aria-expanded="false" data-toggle="art &amp; artists" data-value="art &amp; artists">
-                      <span class="primary-nav__text-medium">Art</span>
-                    <span class="primary-nav__text">Art &amp; Artists</span>
-                    <svg class="primary-nav-link__plus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H16.76V1H15.26V15.25H1V16.75H15.26L15.25 31H16.75L16.76 16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                    <svg class="primary-nav-link__minus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H1V16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                  </button>
-
-                  <div class="secondary-nav" aria-hidden="false" aria-label="Secondary navigation" data-toggle="art &amp; artists">
-                    <ul class="secondary-nav__list">
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="collection" href="/collection/works">
-                            <span class="secondary-nav__text">Collection</span>
-
-                            <span class="secondary-nav__description">
-                                27,000+ works
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="artists" href="/artists">
-                            <span class="secondary-nav__text">Artists</span>
-
-                            <span class="secondary-nav__description">
-                                7,000+ artists
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="audio" href="/audio">
-                            <span class="secondary-nav__text">Audio</span>
-
-                            <span class="secondary-nav__description">
-                                Guides, podcasts, and other audio
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="videos" href="/media">
-                            <span class="secondary-nav__text">Videos</span>
-
-                            <span class="secondary-nav__description">
-                                Featuring art, artists, exhibitions, and programs
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="essays" href="/essays">
-                            <span class="secondary-nav__text">Essays</span>
-
-                            <span class="secondary-nav__description">
-                                Essays and catalogue excerpts
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="publications" href="/publications">
-                            <span class="secondary-nav__text">Publications</span>
-
-                            <span class="secondary-nav__description">
-                                Exhibition catalogues and publications
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="conservation" href="/conservation">
-                            <span class="secondary-nav__text">Conservation</span>
-
-                            <span class="secondary-nav__description">
-                                Preservation and care of collection works
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="research" href="/research">
-                            <span class="secondary-nav__text">Research</span>
-
-                            <span class="secondary-nav__description">
-                                Materials, library, and study center
-                            </span>
-</a>                        </li>
-                    </ul>
-                  </div>
-              </li>
-              <li class="primary-nav-item">
-                  <button class="primary-nav-link primary-nav-link--toggle" aria-haspopup="true" aria-expanded="false" data-toggle="learn" data-value="learn">
-                    <span class="primary-nav__text">Learn</span>
-                    <svg class="primary-nav-link__plus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H16.76V1H15.26V15.25H1V16.75H15.26L15.25 31H16.75L16.76 16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                    <svg class="primary-nav-link__minus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H1V16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                  </button>
-
-                  <div class="secondary-nav" aria-hidden="false" aria-label="Secondary navigation" data-toggle="learn">
-                    <ul class="secondary-nav__list">
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="education at the whitney" href="/education/about-history">
-                            <span class="secondary-nav__text">Education at the Whitney</span>
-
-                            <span class="secondary-nav__description">
-                                About &amp; history
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="public programs" href="/education/public-programs">
-                            <span class="secondary-nav__text">Public Programs</span>
-
-                            <span class="secondary-nav__description">
-                                Events, tours, talks, courses, and more
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="access programs" href="/education/access">
-                            <span class="secondary-nav__text">Access Programs</span>
-
-                            <span class="secondary-nav__description">
-                                For Deaf and disabled visitors
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="families" href="/education/families">
-                            <span class="secondary-nav__text">Families</span>
-
-                            <span class="secondary-nav__description">
-                                Programming and activities for kids and adults
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="schools &amp; educators" href="/education/schools-educators">
-                            <span class="secondary-nav__text">Schools &amp; educators</span>
-
-                            <span class="secondary-nav__description">
-                                K–12, teachers, colleges, and universities
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="teens" href="/education/teens">
-                            <span class="secondary-nav__text">Teens</span>
-
-                            <span class="secondary-nav__description">
-                                Programs and events for high school students
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="community initiatives" href="/education/community">
-                            <span class="secondary-nav__text">Community initiatives</span>
-
-                            <span class="secondary-nav__description">
-                                Building connections with organizations in NYC
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="en español" href="/education/en-espanol">
-                            <span class="secondary-nav__text">En español</span>
-
-                            <span class="secondary-nav__description">
-                                Recursos y programas
-                            </span>
-</a>                        </li>
-                    </ul>
-                  </div>
-              </li>
-              <li class="primary-nav-item">
-                  <button class="primary-nav-link primary-nav-link--toggle" aria-haspopup="true" aria-expanded="false" data-toggle="shop" data-value="shop">
-                    <span class="primary-nav__text">Shop</span>
-                    <svg class="primary-nav-link__plus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H16.76V1H15.26V15.25H1V16.75H15.26L15.25 31H16.75L16.76 16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                    <svg class="primary-nav-link__minus" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 15.25H1V16.75H31V15.25Z" style="fill: var(--color-text);"/></svg>
-                  </button>
-
-                  <div class="secondary-nav" aria-hidden="false" aria-label="Secondary navigation" data-toggle="shop">
-                    <ul class="secondary-nav__list">
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="shop online" href="https://shop.whitney.org">
-                            <span class="secondary-nav__text">Shop online</span>
-
-                            <span class="secondary-nav__description">
-                                Products designed to educate and inspire
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="print shop" href="https://printshop.whitney.org/?lid=124226">
-                            <span class="secondary-nav__text">Print shop</span>
-
-                            <span class="secondary-nav__description">
-                                Custom prints of art from the Whitney&#39;s collection
-                            </span>
-</a>                        </li>
-                        <li class="secondary-nav-item">
-                          <a class="secondary-nav-link body-medium" data-value="gift membership" href="/gift-membership">
-                            <span class="secondary-nav__text">Gift membership</span>
-
-                            <span class="secondary-nav__description">
-                                Share art with someone who matters to you
-                            </span>
-</a>                        </li>
-                    </ul>
-                  </div>
-              </li>
-
-            <li class="primary-nav-item primary-nav-item--shuffle">
-              <a aria-label="Shuffle" class="primary-nav-link primary-nav-link--shuffle" data-turbo="false" data-value="shuffle" href="/shuffle">
-                Shuffle
-                <svg class="primary-nav__shuffle-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.3498 19.58C13.0598 22.07 10.4598 23.77 7.45977 23.77H2.00977V25.27H7.45977C10.6298 25.27 13.4098 23.66 15.0798 21.22C14.8998 20.9 14.7398 20.58 14.5898 20.24C14.4998 20.02 14.4298 19.8 14.3498 19.58Z" fill="var(--color-text)"/><path d="M23.3098 20.18L27.7098 23.77H24.4798C20.1998 23.77 16.7198 20.29 16.7198 16.01C16.7198 14.72 16.4498 13.48 15.9698 12.36C14.5498 9.06 11.2698 6.74 7.45977 6.74H2.00977V8.24H7.45977C11.7398 8.24 15.2198 11.72 15.2198 16C15.2198 17.29 15.4898 18.53 15.9698 19.65C17.3898 22.95 20.6698 25.27 24.4798 25.27H27.7098L23.3098 28.86L24.2598 30.02L30.9998 24.51L24.2598 19L23.3098 20.18Z" fill="var(--color-text)"/><path d="M17.5998 12.44C18.8898 9.95 21.4898 8.25 24.4898 8.25H27.7298L23.3098 11.86L24.2598 13.02L30.9998 7.51L24.2598 2L23.3098 3.16L27.6998 6.74H24.4898C21.3198 6.74 18.5398 8.35 16.8698 10.79C17.0498 11.11 17.2098 11.43 17.3598 11.77C17.4498 11.99 17.5198 12.21 17.5998 12.44Z" fill="var(--color-text)"/></svg>
-</a>            </li>
-
-            <li class="primary-nav-item primary-nav-item--search">
-              <button class="primary-nav-link primary-nav-link--toggle primary-nav-link--search" aria-haspopup="true" aria-expanded="false" aria-label="Search" data-toggle="search" data-value="search">
-                Search
-                <svg class="primary-nav__search-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M31 29.94L21.15 20.09C22.93 18.06 24.02 15.42 24.02 12.51C24.02 6.15 18.86 1 12.51 1C6.16 1 1 6.15 1 12.51C1 18.87 6.15 24.02 12.51 24.02C15.42 24.02 18.07 22.93 20.09 21.15L29.94 31L31 29.94ZM12.51 22.52C6.99 22.52 2.5 18.03 2.5 12.51C2.5 6.99 6.99 2.5 12.51 2.5C18.03 2.5 22.52 6.99 22.52 12.51C22.52 18.03 18.03 22.52 12.51 22.52Z" fill="var(--color-text)"/></svg>
-              </button>
-
-              <div class="search search--nav secondary-nav secondary-nav--search" aria-hidden="false" aria-label="Secondary navigation" data-toggle="search">
-                <form class="nav-search" role="search">
-                  <input aria-label="Search" class="nav-search__input input input--large" data-label="search" placeholder="Search everything" type="search" name="q" />
-
-                  <button class="input__clear input__clear--large input__clear--search input__clear--nav active" type="button" aria-label="Clear">
-                    <svg  width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><line x1="1.5" y1="1.5" x2="22.5" y2="22.5"/><line x1="1.5" y1="22.5" x2="22.5" y2="1.5"/></svg>
-                  </button>
-
-                  <button type="submit" class="input__submit btn btn--large" aria-label="Search">
-                    Go
-                  </button>
-                </form>
-              </div>
-            </li>
-          </ul>
-        </nav>
-
-          <a class="primary-nav__hours body-large underline" href="/visit#hours">Open today: 10:30 am–6 pm</a>
-
-        <div class="primary-nav__actions">
-            <a class="nav-action" href="/admission">
-    <div class="nav-action__inner btn">
-      Book tickets
     </div>
-</a>
-
-  <a class="nav-action" href="/memberships">
-    <div class="nav-action__inner btn">
-      Become a member
-    </div>
-</a>
-
-        </div>
-      </div>
-    </dialog>
-  </div>
-</header>
-
-
-  <main id="main" class="content-wrapper main">
-    
-    
-    
-    
-
-    <div class="events-header-area mb-l">
-  <h1><a href="/events">Events calendar</a></h1>
-
-  <p class="large">Discover upcoming exhibitions, events, programs, tours, and more.</p>
+</div>
+                </div>
+                <div id="middlepanel" style="display: none;" data-bind="visible: layout.middlePanelVisible">
+    <iframe id='middlepanel_iframe' src='' allowtransparency='true' frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.middlepanelIFrameSrc }" title="middle panel content"></iframe>
 </div>
 
-<form class="events-form" data-turbo-frame="turbo_events_list" action="/events" accept-charset="UTF-8" method="get">
-  <div class="events-controls">
-  <turbo-frame class="day-picker-frame" id="turbo_day_picker">
-  <div class="day-picker"
-        react
-        data-initial-date-from=""
-        data-initial-date-to=""
-        data-dates-with-events="[&quot;2026-07-10&quot;,&quot;2026-07-11&quot;,&quot;2026-07-12&quot;,&quot;2026-07-14&quot;,&quot;2026-07-17&quot;,&quot;2026-07-19&quot;,&quot;2026-07-23&quot;,&quot;2026-07-24&quot;,&quot;2026-07-25&quot;,&quot;2026-07-26&quot;,&quot;2026-07-28&quot;,&quot;2026-07-31&quot;,&quot;2026-08-01&quot;,&quot;2026-08-07&quot;,&quot;2026-08-09&quot;,&quot;2026-08-14&quot;,&quot;2026-08-19&quot;,&quot;2026-08-20&quot;,&quot;2026-08-28&quot;,&quot;2026-09-04&quot;,&quot;2026-09-09&quot;,&quot;2026-09-12&quot;,&quot;2026-09-13&quot;,&quot;2026-09-18&quot;,&quot;2026-09-19&quot;,&quot;2026-09-25&quot;,&quot;2026-10-01&quot;,&quot;2026-10-02&quot;,&quot;2026-10-03&quot;,&quot;2026-10-07&quot;,&quot;2026-10-08&quot;,&quot;2026-10-11&quot;,&quot;2026-10-28&quot;,&quot;2026-10-29&quot;,&quot;2026-10-31&quot;,&quot;2026-11-08&quot;,&quot;2026-12-05&quot;,&quot;2027-01-10&quot;,&quot;2027-06-13&quot;,&quot;2026-08-22&quot;,&quot;2026-08-27&quot;,&quot;2026-09-14&quot;,&quot;2026-10-09&quot;,&quot;2026-11-13&quot;,&quot;2026-11-16&quot;,&quot;2026-11-18&quot;,&quot;2026-07-01&quot;,&quot;2026-07-02&quot;,&quot;2026-07-03&quot;,&quot;2026-07-04&quot;,&quot;2026-07-05&quot;,&quot;2026-07-06&quot;,&quot;2026-07-07&quot;,&quot;2026-07-08&quot;,&quot;2026-07-09&quot;,&quot;2026-07-13&quot;,&quot;2026-07-15&quot;,&quot;2026-07-16&quot;,&quot;2026-07-18&quot;,&quot;2026-07-20&quot;,&quot;2026-07-21&quot;,&quot;2026-07-22&quot;,&quot;2026-07-27&quot;,&quot;2026-07-29&quot;,&quot;2026-07-30&quot;,&quot;2026-08-02&quot;,&quot;2026-08-03&quot;,&quot;2026-08-04&quot;,&quot;2026-08-05&quot;,&quot;2026-08-06&quot;,&quot;2026-08-08&quot;,&quot;2026-08-10&quot;,&quot;2026-08-11&quot;,&quot;2026-08-12&quot;,&quot;2026-08-13&quot;,&quot;2026-08-15&quot;,&quot;2026-08-16&quot;,&quot;2026-08-17&quot;,&quot;2026-08-18&quot;,&quot;2026-08-21&quot;,&quot;2026-08-23&quot;,&quot;2026-08-24&quot;,&quot;2026-08-26&quot;,&quot;2026-08-29&quot;,&quot;2026-08-30&quot;,&quot;2026-08-31&quot;,&quot;2026-09-02&quot;,&quot;2026-09-03&quot;,&quot;2026-09-05&quot;,&quot;2026-09-06&quot;,&quot;2026-09-07&quot;,&quot;2026-09-10&quot;,&quot;2026-09-11&quot;,&quot;2026-09-16&quot;,&quot;2026-09-17&quot;,&quot;2026-09-20&quot;,&quot;2026-09-21&quot;,&quot;2026-09-23&quot;,&quot;2026-09-24&quot;,&quot;2026-09-26&quot;,&quot;2026-09-27&quot;,&quot;2026-09-28&quot;,&quot;2026-09-30&quot;,&quot;2026-10-04&quot;,&quot;2026-10-05&quot;,&quot;2026-10-10&quot;,&quot;2026-10-12&quot;,&quot;2026-10-14&quot;,&quot;2026-10-15&quot;,&quot;2026-10-16&quot;,&quot;2026-10-17&quot;,&quot;2026-10-18&quot;,&quot;2026-10-19&quot;,&quot;2026-10-21&quot;,&quot;2026-10-22&quot;,&quot;2026-10-23&quot;,&quot;2026-10-24&quot;,&quot;2026-10-25&quot;,&quot;2026-10-26&quot;,&quot;2026-10-30&quot;,&quot;2026-11-01&quot;,&quot;2026-11-02&quot;,&quot;2026-11-04&quot;,&quot;2026-11-05&quot;,&quot;2026-11-06&quot;,&quot;2026-11-07&quot;,&quot;2026-11-09&quot;,&quot;2026-11-11&quot;,&quot;2026-11-12&quot;,&quot;2026-11-14&quot;,&quot;2026-11-15&quot;,&quot;2026-11-19&quot;,&quot;2026-11-20&quot;,&quot;2026-11-21&quot;,&quot;2026-11-22&quot;,&quot;2026-11-23&quot;,&quot;2026-11-25&quot;,&quot;2026-11-26&quot;,&quot;2026-11-27&quot;,&quot;2026-11-28&quot;,&quot;2026-11-29&quot;,&quot;2026-11-30&quot;,&quot;2026-12-02&quot;,&quot;2026-12-03&quot;,&quot;2026-12-04&quot;,&quot;2026-12-06&quot;,&quot;2026-12-07&quot;,&quot;2026-12-09&quot;,&quot;2026-12-10&quot;,&quot;2026-12-11&quot;,&quot;2026-12-12&quot;,&quot;2026-12-13&quot;,&quot;2026-12-14&quot;,&quot;2026-12-16&quot;,&quot;2026-12-17&quot;,&quot;2026-12-18&quot;,&quot;2026-12-19&quot;,&quot;2026-12-20&quot;,&quot;2026-12-21&quot;,&quot;2026-12-23&quot;,&quot;2026-12-24&quot;,&quot;2026-12-25&quot;,&quot;2026-12-26&quot;,&quot;2026-12-27&quot;,&quot;2026-12-28&quot;,&quot;2026-12-30&quot;,&quot;2026-12-31&quot;,&quot;2027-01-01&quot;,&quot;2027-01-02&quot;,&quot;2027-01-03&quot;,&quot;2027-01-04&quot;,&quot;2027-01-06&quot;,&quot;2027-01-07&quot;,&quot;2027-01-08&quot;,&quot;2027-01-09&quot;,&quot;2027-01-15&quot;,&quot;2027-01-22&quot;,&quot;2027-01-29&quot;,&quot;2027-02-05&quot;,&quot;2027-02-12&quot;,&quot;2027-02-14&quot;,&quot;2027-02-19&quot;,&quot;2027-02-26&quot;,&quot;2027-03-05&quot;,&quot;2027-03-12&quot;,&quot;2027-03-14&quot;,&quot;2027-03-19&quot;,&quot;2027-03-26&quot;,&quot;2027-04-02&quot;,&quot;2027-04-09&quot;,&quot;2027-04-11&quot;,&quot;2027-04-16&quot;,&quot;2027-04-23&quot;,&quot;2027-04-30&quot;,&quot;2027-05-07&quot;,&quot;2027-05-09&quot;,&quot;2027-07-11&quot;,&quot;2027-08-08&quot;,&quot;2027-09-12&quot;,&quot;2027-10-10&quot;,&quot;2027-11-14&quot;,&quot;2027-12-12&quot;,&quot;2028-01-09&quot;]"
-        data-no-events="false"
-        data-icon="%3Csvg%20%20width%3D%2216%22%20height%3D%228%22%20viewBox%3D%220%200%2016%208%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%208.01L0%201.14L0.98%200L8%206.03L15.02%200L16%201.14L8%208.01Z%22%20fill%3D%22var%28--color-text%29%22%2F%3E%3C%2Fsvg%3E">
-  </div>
-</turbo-frame>
+                <div id="footer">
+    <div id="footer-disclaimer" data-bind="html: texts.disclaimerText">Users must enable cookies to access the website</div>
 
-  <div class="events-buttons">
-    <div class="events-filters">
-      <button class="events-filters-toggle btn btn--small btn--lowercase m-0" type="button">
-        <span class="events-filters-toggle-text">Narrow <span>your</span> search</span>
-        <svg class="ml-t events-filters-arrow" width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 8.01L0 1.14L0.98 0L8 6.03L15.02 0L16 1.14L8 8.01Z" fill="var(--color-text)"/></svg>
-        <svg class="ml-t events-filters-plus" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 6.25H7.75V0H6.25V6.25H0V7.75H6.25V14H7.75V7.75H14V6.25Z" fill="var(--color-text)"/></svg>
-      </button>
-
-      <dialog class="events-filters-menu" aria-modal="true">
-        <!--      <dialog class="overlay overlay--events" aria-modal="true">-->
-        <div class="events-filters-header mb-l">
-          <h2 class="m-0">Narrow search</h2>
-          <button class="events-filters-x btn btn--icon-only" aria-label="Close" type="button">
-            <svg  width="32" height="32" viewBox="0 0 32 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="2" x2="30" y2="30"/><line x1="2" y1="30" x2="30" y2="2"/></svg>
-          </button>
-        </div>
-
-        <ul>
-          <li>
-            <label class="checkbox events-checkbox--all">
-              <input type="checkbox" class="checkbox__input checkbox__input--small events-checkbox-input--all"/>
-              All filters
-            </label>
-          </li>
-        </ul>
-
-        <h3 class="events-filters-menu__title body-large-bold">Type</h3>
-
-        <div class="mb-m events-toggle-group">
-            <button class="events-toggle events-toggle__mobile btn btn--small btn--lowercase m-0" type="button" data-tag-value="en_espanol">
-              En español
-              <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-            </button>
-            <button class="events-toggle events-toggle__mobile btn btn--small btn--lowercase m-0" type="button" data-tag-value="online">
-              Online
-              <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-            </button>
-            <button class="events-toggle events-toggle__mobile btn btn--small btn--lowercase m-0" type="button" data-tag-value="member_events">
-              Members
-              <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-            </button>
-
-        </div>
-        <ul>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_access_programs">
-                <input type="checkbox" name="tags[]" id="tag_access_programs" value="access_programs" class="checkbox__input checkbox__input--small" />
-                Access
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_ASL">
-                <input type="checkbox" name="tags[]" id="tag_ASL" value="ASL" class="checkbox__input checkbox__input--small" />
-                ASL
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_biennial_2026">
-                <input type="checkbox" name="tags[]" id="tag_biennial_2026" value="biennial_2026" class="checkbox__input checkbox__input--small" />
-                Biennial 2026
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_biennial_2026_performances">
-                <input type="checkbox" name="tags[]" id="tag_biennial_2026_performances" value="biennial_2026_performances" class="checkbox__input checkbox__input--small" />
-                Biennial 2026 Performances
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_discussions_and_workshops">
-                <input type="checkbox" name="tags[]" id="tag_discussions_and_workshops" value="discussions_and_workshops" class="checkbox__input checkbox__input--small" />
-                Discussions &amp; workshops
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_family_programs">
-                <input type="checkbox" name="tags[]" id="tag_family_programs" value="family_programs" class="checkbox__input checkbox__input--small" />
-                Families
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_film_and_video_screenings">
-                <input type="checkbox" name="tags[]" id="tag_film_and_video_screenings" value="film_and_video_screenings" class="checkbox__input checkbox__input--small" />
-                Films
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_free_friday_nights">
-                <input type="checkbox" name="tags[]" id="tag_free_friday_nights" value="free_friday_nights" class="checkbox__input checkbox__input--small" />
-                Free Friday Nights
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_free_second_sundays">
-                <input type="checkbox" name="tags[]" id="tag_free_second_sundays" value="free_second_sundays" class="checkbox__input checkbox__input--small" />
-                Free Second Sundays
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_member_nights">
-                <input type="checkbox" name="tags[]" id="tag_member_nights" value="member_nights" class="checkbox__input checkbox__input--small" />
-                Member Nights
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_performances">
-                <input type="checkbox" name="tags[]" id="tag_performances" value="performances" class="checkbox__input checkbox__input--small" />
-                Performances
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_pride">
-                <input type="checkbox" name="tags[]" id="tag_pride" value="pride" class="checkbox__input checkbox__input--small" />
-                Pride
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_Schools_and_Educators">
-                <input type="checkbox" name="tags[]" id="tag_Schools_and_Educators" value="Schools_and_Educators" class="checkbox__input checkbox__input--small" />
-                Schools and Educators
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_spanish_interpretation">
-                <input type="checkbox" name="tags[]" id="tag_spanish_interpretation" value="spanish_interpretation" class="checkbox__input checkbox__input--small" />
-                Spanish Interpretation
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_talks_and_readings">
-                <input type="checkbox" name="tags[]" id="tag_talks_and_readings" value="talks_and_readings" class="checkbox__input checkbox__input--small" />
-                Talks &amp; readings
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_teen_events">
-                <input type="checkbox" name="tags[]" id="tag_teen_events" value="teen_events" class="checkbox__input checkbox__input--small" />
-                Teens
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_free_tours">
-                <input type="checkbox" name="tags[]" id="tag_free_tours" value="free_tours" class="checkbox__input checkbox__input--small" />
-                Tours
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_virtual">
-                <input type="checkbox" name="tags[]" id="tag_virtual" value="virtual" class="checkbox__input checkbox__input--small" />
-                Virtual
-</label>            </li>
-        </ul>
-
-        <h3 class="events-filters-menu__title body-large-bold">Services</h3>
-
-        <ul>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_ASL_interpretation">
-                <input type="checkbox" name="tags[]" id="tag_ASL_interpretation" value="ASL_interpretation" class="checkbox__input checkbox__input--small" />
-                ASL interpretation
-</label>            </li>
-            <li class="mb-s">
-              <label class="events-filter-label checkbox checkbox--align-top" for="tag_CART_captioning">
-                <input type="checkbox" name="tags[]" id="tag_CART_captioning" value="CART_captioning" class="checkbox__input checkbox__input--small" />
-                Real-time captioning (CART)
-</label>            </li>
-        </ul>
-
-        <button class="events-filters-menu__close btn btn--stretch" type="button">Close filters</button>
-      </dialog>
+    <div id="footer-direct-link" style="display: none" data-bind="visible: hasQueueId">
+        <button id="hlLinkToQueueTicket2Text" data-bind="event: { click: toggleQueueIdLinkModal, keyup: onEnterToggleQueueIdLinkModal }, attr: { tabIndex: queueIdLinkTabIndex() }">Queue ID:</button>
+        <span id="hlLinkToQueueTicket2" data-bind="text: queueId">00000000-0000-0000-0000-000000000000</span>
     </div>
-
-      <label class="events-toggle btn btn--small btn--lowercase m-0" tabindex="0" for="tag_en_espanol">
-        <input type="checkbox" name="tags[]" id="tag_en_espanol" value="en_espanol" class="checkbox__input checkbox__input--small" />
-        <span>
-          En español
-        </span>
-        <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-</label>      <label class="events-toggle btn btn--small btn--lowercase m-0" tabindex="0" for="tag_online">
-        <input type="checkbox" name="tags[]" id="tag_online" value="online" class="checkbox__input checkbox__input--small" />
-        <span>
-          Online
-        </span>
-        <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-</label>      <label class="events-toggle btn btn--small btn--lowercase m-0" tabindex="0" for="tag_member_events">
-        <input type="checkbox" name="tags[]" id="tag_member_events" value="member_events" class="checkbox__input checkbox__input--small" />
-        <span>
-          Members
-        </span>
-        <svg class="ml-t" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 1.06L12.94 0L7 5.94L1.06 0L0 1.06L5.94 7L0 12.94L1.06 14L7 8.06L12.94 14L14 12.94L8.06 7L14 1.06Z" fill="var(--color-text)"/></svg>
-</label>
-  </div>
+        <div id="footer-queueit-link">
+            <strong class="by">
+                <a href="https://queue-it.com/what-is-this.html?customerId=carnegiehall&amp;eventId=pnsafetynet2023&amp;queueId=00000000-0000-0000-0000-000000000000&amp;language=en-US" id="aThisIsQueueIt" aria-label="What is this? Learn what a waiting room is and how it works. Opens in a new tab." target="_blank" data-bind="attr: { href: texts.whatIsThisUrl }">
+                    <svg id="footer-logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4486.51 763.5" aria-labelledby="footer-logo-svg-title" role="img">
+                        <title id="footer-logo-svg-title">Queue-it Logo</title>
+                        <path class="footer-logo-svg-path" d="M453,594c-118,0-202-53-232-137-10-26-15-54-15-85s5-59,15-85c30-84,114-137,232-137s203,53,233,137c10,26,15,54,15,85s-5,59-15,85c-31,85-115,137-233,137ZM0,372c0,49,7,94,22,134,54,151,211,238,429,238h447v-199l-249,65v-24c61-13,110-31,149-56,76-46,100-113,100-212C898,90,658,0,450,0,231,0,76,88,22,238,7,278,0,323,0,372Z" />
+                        <path class="footer-logo-svg-path" d="M1159.42,763c104,0,170-52,206-156h20l-38,137h186V249h-186v247c0,79-43,127-117,127-66,0-98-36-98-101V249h-186v302c0,138,71,212,213,212Z" />
+                        <path class="footer-logo-svg-path" d="M2465.02,763c104,0,170-52,206-156h20l-38,137h186V249h-186v247c0,79-43,127-117,127-66,0-98-36-98-101V249h-186v302c0,138,71,212,213,212Z" />
+                        <path class="footer-logo-svg-path" d="M1903.66,763c162,0,277-69,300-173h-185c-19,36-59,56-118,56-55,0-95-16-116-47-12-16-19-38-23-64h440v-39c0-169-110-266-305-266-122,0-218,40-269,113-27,41-45,93-45,155s15,112,43,152c51,73,148,113,278,113Zm-139-322c4-19,10-35,19-48,22-32,63-49,114-49,80,0,122,35,126,97h-259Z" />
+                        <path class="footer-logo-svg-path" d="M3209.26,763c162,0,277-69,300-173h-185c-19,36-59,56-118,56-55,0-95-16-116-47-12-16-19-38-23-64h440v-39c0-169-110-266-305-266-122,0-218,40-269,113-27,41-45,93-45,155s15,112,43,152c51,73,148,113,278,113Zm-139-322c4-19,10-35,19-48,22-32,63-49,114-49,80,0,122,35,126,97h-259Z" />
+                        <path class="footer-logo-svg-path" d="M3713.82,611c64,0,118-53,118-117s-54-118-118-118-117,54-117,118,53,117,117,117Z" />
+                        <path class="footer-logo-svg-path" d="M3922.54,249.64v495h186V249.64h-186Zm-3-46h192V73.64h-192V203.64Z" />
+                        <path class="footer-logo-svg-path" d="M4160.51,118.5v432c0,148,92,213,212,213,40,0,74-2,111-8v-130c-17,3-37,3-49,3-58,0-88-37-88-102v-161h140v-113h-140V118.5h-186Z" />
+                    </svg>
+                </a>
+            </strong>
+        </div>
+</div>
+            </div>
+            <div id="MainPart_divVersionInfo" class="b" title="4.5.1424.0"></div>
+        </div>
+        <div id="rightpanel" style="display: none;" data-bind="visible: layout.rightPanelVisible">
+    <iframe id='rightpanel_iframe' src='' allowtransparency='true' frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.rightpanelIFrameSrc }" title="right panel content"></iframe>
 </div>
 
-  <turbo-frame class="events-list" data-turbo-action="advance" id="turbo_events_list">
-  
-
-      <h2 class="large">
-        All upcoming events
-      </h2>
-
-    <ul class="list-items list-items--medium">
-      <li class="list-item">
-      <h2 class="list-item__date">Oct 2</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/minnie-evans-15-min-tours">
-      <img alt="Symmetrical hand-drawn design of colorful birds, flowers, crescent moons, and repeating organic shapes." class="image" draggable="auto" style="aspect-ratio: 1527 / 2000 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833737/small_WMAA186091_EXME043_Evans_lpr.jpg 512w, https://whitneymedia.org/assets/image/833737/medium_WMAA186091_EXME043_Evans_lpr.jpg 1024w, https://whitneymedia.org/assets/image/833737/large_WMAA186091_EXME043_Evans_lpr.jpg 1527w" src="https://whitneymedia.org/assets/image/833737/large_WMAA186091_EXME043_Evans_lpr.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          15-Minute Tour: <em>The Lost World: The Art of Minnie Evans</em>
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Friday, October 2, 2026<br/>8 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_friday_nights">Free Friday Nights</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_second_sundays">Free Second Sundays</a>
     </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/minnie-evans-15-min-tours">
-      <img alt="Symmetrical hand-drawn design of colorful birds, flowers, crescent moons, and repeating organic shapes." class="image" draggable="auto" style="aspect-ratio: 1527 / 2000 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833737/small_WMAA186091_EXME043_Evans_lpr.jpg 512w, https://whitneymedia.org/assets/image/833737/medium_WMAA186091_EXME043_Evans_lpr.jpg 1024w, https://whitneymedia.org/assets/image/833737/large_WMAA186091_EXME043_Evans_lpr.jpg 1527w" src="https://whitneymedia.org/assets/image/833737/large_WMAA186091_EXME043_Evans_lpr.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          15-Minute Tour: <em>The Lost World: The Art of Minnie Evans</em>
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Friday, October 2, 2026<br/>8:30 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_friday_nights">Free Friday Nights</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_second_sundays">Free Second Sundays</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date">Oct 3</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/open-studio-2026">
-      <img alt="A child cuts a piece of paper at a table while an adult looks on." class="image" draggable="auto" style="aspect-ratio: 4096 / 2731 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/829246/small_FilipWolak_OpenStudio_0117_1995.jpg 512w, https://whitneymedia.org/assets/image/829246/medium_FilipWolak_OpenStudio_0117_1995.jpg 1024w, https://whitneymedia.org/assets/image/829246/large_FilipWolak_OpenStudio_0117_1995.jpg 2048w" src="https://whitneymedia.org/assets/image/829246/large_FilipWolak_OpenStudio_0117_1995.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Open Studio 2026
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>11 am–3 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=family_programs">Families</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/whitney-descriptions-online-minnie-evans">
-      <img alt="A colorful, symmetrical composition centers on a large face with wide, watchful eyes, surrounded by intricate patterns, vivid shapes, and smaller angelic figures. A crown-like form rises above the face, while layered designs in green, yellow, blue, red, and gold fill nearly every part of the image, creating a dense, dreamlike scene. " class="image" draggable="auto" style="aspect-ratio: 4096 / 3242 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833778/small_EXME072%20Evans.jpg 512w, https://whitneymedia.org/assets/image/833778/medium_EXME072%20Evans.jpg 1024w, https://whitneymedia.org/assets/image/833778/large_EXME072%20Evans.jpg 2048w" src="https://whitneymedia.org/assets/image/833778/large_EXME072%20Evans.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Whitney Descriptions Online: Minnie Evans
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>11:30 am–1 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=access_programs">Access</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/chinatown-gallery-walk-oct3">
-      <img alt="Two people stand and examine framed portraits and colorful artwork displayed on a wooden gallery wall." class="image" draggable="auto" style="aspect-ratio: 1069 / 713 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833992/small_WMAA130090_FilipWolak_StudentNight_0123_CIR%2BGW.jpg 512w, https://whitneymedia.org/assets/image/833992/medium_WMAA130090_FilipWolak_StudentNight_0123_CIR%2BGW.jpg 1024w, https://whitneymedia.org/assets/image/833992/large_WMAA130090_FilipWolak_StudentNight_0123_CIR%2BGW.jpg 1069w" src="https://whitneymedia.org/assets/image/833992/large_WMAA130090_FilipWolak_StudentNight_0123_CIR%2BGW.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Gallery Walk: Chinatown
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>12–2 pm
-</p>
-
-        </div>
-      </div>
-</a>
-      <p class="m-0">
-        Open to Circle, Fellow, Sponsor, and Benefactor Members
-      </p>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=member_events">Members</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/untitled-america-exb-tour">
-      <img class="image" alt="A background of blue obscured almost completely by bright red streaks running up and down the canvas." style="aspect-ratio: 2682 / 3258 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/artwork/3043/small_72_58_cropped.jpg 512w, https://whitneymedia.org/assets/artwork/3043/72_58_cropped.jpg 1024w" src="https://whitneymedia.org/assets/artwork/3043/72_58_cropped.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: “Untitled” (America)&nbsp;
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>12 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/tour-whitney-biennial-2026-floor6">
-      <img alt="A white horse sculpture with multiple outstretched human arms pointing forward and wooden poles tied to its back." class="image" draggable="auto" style="aspect-ratio: 4096 / 2731 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833358/small_Tsouhlarakis_A_02.jpg 512w, https://whitneymedia.org/assets/image/833358/medium_Tsouhlarakis_A_02.jpg 1024w, https://whitneymedia.org/assets/image/833358/large_Tsouhlarakis_A_02.jpg 2048w" src="https://whitneymedia.org/assets/image/833358/large_Tsouhlarakis_A_02.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: Whitney Biennial 2026
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>1 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=biennial_2026">Biennial 2026</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/minnie-evans-tour">
-      <img alt="A colorful folk-style composition of many merged faces, floral motifs, winged figures, and trees." class="image" draggable="auto" style="aspect-ratio: 3026 / 2267 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833888/small_WMAA186094_EXME056_Evans_web.jpg 512w, https://whitneymedia.org/assets/image/833888/medium_WMAA186094_EXME056_Evans_web.jpg 1024w, https://whitneymedia.org/assets/image/833888/large_WMAA186094_EXME056_Evans_web.jpg 2048w" src="https://whitneymedia.org/assets/image/833888/large_WMAA186094_EXME056_Evans_web.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: <em>The Lost World: The Art of Minnie Evans</em>
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>2 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_friday_nights">Free Friday Nights</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/closer-look-untitled-america">
-      <img alt="Multiple images in bright red, blue, yellow, and green interact and overlap giving the illusion of a collage or of prints, posters, drawings and objects tacked, pinned, taped, or hung on a wall or balanced on a shelf. The left half of the background is patterned hashmarks, and the title and artist’s name are stenciled across the top.  " class="image" draggable="auto" style="aspect-ratio: 3000 / 1947 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/824516/small_Jasper_Johns_Racing_Thoughts.jpg 512w, https://whitneymedia.org/assets/image/824516/medium_Jasper_Johns_Racing_Thoughts.jpg 1024w, https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg 2048w" src="https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          A Closer Look: Guided Close-Looking Through Dialogue
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>3 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/contemporaries-gallery-walk-oct3">
-      <img alt="Two women stand in a gallery discussing artwork while one points toward a piece." class="image" draggable="auto" style="aspect-ratio: 2000 / 1333 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833991/small_WMAA130140_FilipWolak_StudentNight_0103_WC_GW.jpg 512w, https://whitneymedia.org/assets/image/833991/medium_WMAA130140_FilipWolak_StudentNight_0103_WC_GW.jpg 1024w, https://whitneymedia.org/assets/image/833991/large_WMAA130140_FilipWolak_StudentNight_0103_WC_GW.jpg 2000w" src="https://whitneymedia.org/assets/image/833991/large_WMAA130140_FilipWolak_StudentNight_0103_WC_GW.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Contemporaries Gallery Walk: Chinatown
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>3–5 pm
-</p>
-
-        </div>
-      </div>
-</a>
-      <p class="m-0">
-        Open to Contemporaries and Contemporaries Patron Members
-      </p>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=member_events">Members</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/whitney-signs-minnie-evans">
-      <img alt="A colorful, symmetrical composition centers on a large face with wide, watchful eyes, surrounded by intricate patterns, vivid shapes, and smaller angelic figures. A crown-like form rises above the face, while layered designs in green, yellow, blue, red, and gold fill nearly every part of the image, creating a dense, dreamlike scene. " class="image" draggable="auto" style="aspect-ratio: 4096 / 3242 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833778/small_EXME072%20Evans.jpg 512w, https://whitneymedia.org/assets/image/833778/medium_EXME072%20Evans.jpg 1024w, https://whitneymedia.org/assets/image/833778/large_EXME072%20Evans.jpg 2048w" src="https://whitneymedia.org/assets/image/833778/large_EXME072%20Evans.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Whitney Signs: Minnie Evans
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Saturday, October 3, 2026<br/>3:30–6 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=access_programs">Access</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=ASL">ASL</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date">Oct 4</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/untitled-america-exb-tour">
-      <img class="image" alt="A background of blue obscured almost completely by bright red streaks running up and down the canvas." style="aspect-ratio: 2682 / 3258 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/artwork/3043/small_72_58_cropped.jpg 512w, https://whitneymedia.org/assets/artwork/3043/72_58_cropped.jpg 1024w" src="https://whitneymedia.org/assets/artwork/3043/72_58_cropped.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: “Untitled” (America)&nbsp;
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Sunday, October 4, 2026<br/>12 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/tour-whitney-biennial-2026-floor6">
-      <img alt="A white horse sculpture with multiple outstretched human arms pointing forward and wooden poles tied to its back." class="image" draggable="auto" style="aspect-ratio: 4096 / 2731 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833358/small_Tsouhlarakis_A_02.jpg 512w, https://whitneymedia.org/assets/image/833358/medium_Tsouhlarakis_A_02.jpg 1024w, https://whitneymedia.org/assets/image/833358/large_Tsouhlarakis_A_02.jpg 2048w" src="https://whitneymedia.org/assets/image/833358/large_Tsouhlarakis_A_02.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: Whitney Biennial 2026
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Sunday, October 4, 2026<br/>1 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=biennial_2026">Biennial 2026</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/minnie-evans-tour">
-      <img alt="A colorful folk-style composition of many merged faces, floral motifs, winged figures, and trees." class="image" draggable="auto" style="aspect-ratio: 3026 / 2267 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/833888/small_WMAA186094_EXME056_Evans_web.jpg 512w, https://whitneymedia.org/assets/image/833888/medium_WMAA186094_EXME056_Evans_web.jpg 1024w, https://whitneymedia.org/assets/image/833888/large_WMAA186094_EXME056_Evans_web.jpg 2048w" src="https://whitneymedia.org/assets/image/833888/large_WMAA186094_EXME056_Evans_web.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          Exhibition Tour: <em>The Lost World: The Art of Minnie Evans</em>
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Sunday, October 4, 2026<br/>2 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_friday_nights">Free Friday Nights</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date" style="visibility: hidden;">&nbsp;</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/closer-look-untitled-america">
-      <img alt="Multiple images in bright red, blue, yellow, and green interact and overlap giving the illusion of a collage or of prints, posters, drawings and objects tacked, pinned, taped, or hung on a wall or balanced on a shelf. The left half of the background is patterned hashmarks, and the title and artist’s name are stenciled across the top.  " class="image" draggable="auto" style="aspect-ratio: 3000 / 1947 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/824516/small_Jasper_Johns_Racing_Thoughts.jpg 512w, https://whitneymedia.org/assets/image/824516/medium_Jasper_Johns_Racing_Thoughts.jpg 1024w, https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg 2048w" src="https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          A Closer Look: Guided Close-Looking Through Dialogue
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Sunday, October 4, 2026<br/>3 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-    </div>
-  </div>
-</li>
-<li class="list-item">
-      <h2 class="list-item__date">Oct 5</h2>
-
-  <div class="list-item__inner">
-    <a data-turbo-frame="_top" href="/events/closer-look-untitled-america">
-      <img alt="Multiple images in bright red, blue, yellow, and green interact and overlap giving the illusion of a collage or of prints, posters, drawings and objects tacked, pinned, taped, or hung on a wall or balanced on a shelf. The left half of the background is patterned hashmarks, and the title and artist’s name are stenciled across the top.  " class="image" draggable="auto" style="aspect-ratio: 3000 / 1947 auto;" sizes="(min-width: 800px) 25vw, 50vw" srcset="https://whitneymedia.org/assets/image/824516/small_Jasper_Johns_Racing_Thoughts.jpg 512w, https://whitneymedia.org/assets/image/824516/medium_Jasper_Johns_Racing_Thoughts.jpg 1024w, https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg 2048w" src="https://whitneymedia.org/assets/image/824516/large_Jasper_Johns_Racing_Thoughts.jpg" />
-
-      <div class="list-item__text">
-        <h3 class="body-large-bold m-0">
-          A Closer Look: Guided Close-Looking Through Dialogue
-        </h3>
-
-        <div class="body-large">
-            <p class="m-0">
-    Monday, October 5, 2026<br/>12 pm
-</p>
-
-        </div>
-      </div>
-</a>
-
-    <div class="events-tags">
-        <a class="underline" data-turbo-frame="_top" href="/events?tags%5B%5D=free_tours">Tours</a>
-    </div>
-  </div>
-</li>
-
-    </ul>
-
-      <div class="pagination-wrapper">
-    339 events
-      <nav class="pagination" role="navigation" aria-label="pager">
-    <a rel="prev" aria-label="Previous page" class="pagination__btn pagination__btn--prev btn btn--icon-only" data-page="1" data-turbo-action="advance" href="/events">
-      <span class="pagination__text">Previous</span>
-  <svg  width="36" height="48" viewBox="0 0 36 48" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><polyline points="32.8 3 3.2 24 32.8 45"/></svg>
-</a>
-        <a rel="prev" class="pagination__btn btn" data-page="1" data-turbo-action="advance" href="/events?page=1">1</a>
-
-        <span class="pagination__btn btn active">2</span>
-
-        <a rel="next" class="pagination__btn btn" data-page="3" data-turbo-action="advance" href="/events?page=3">3</a>
-
-        <span class="page gap body-medium">&mdash;</span>
-
-        <a class="pagination__btn btn" data-page="22" data-turbo-action="advance" href="/events?page=22">22</a>
-
-      <a rel="next" aria-label="Next page" class="pagination__btn pagination__btn--next btn btn--icon-only" data-page="3" data-turbo-action="advance" href="/events?page=3">
-      <span class="pagination__text">Next</span>
-  <svg  width="36" height="48" viewBox="0 0 36 48" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><polyline points="3.2 45 32.8 24 3.2 3"/></svg>
-</a>
-  </nav>
-
-  </div>
-
-</turbo-frame>
-</form>
-</main>
-  <footer
-  class="footer "
-  
-  role="contentinfo">
-  <div class="content-wrapper">
-    <hr class="footer__hr">
-
-
-    <div class="footer__primary">
-      <div class="footer-connect">
-        <h3>Sign up for <br/>our newsletter</h3>
-
-        <div class="footer-newsletter">
-          
-<div id="mailchimp-footer" class="mailchimp" aria-live="polite">
-  <form action="//whitney.us13.list-manage.com/subscribe/post?u=387f59a72ae7b64ccae37d5c9&amp;id=2d1244a32b" method="post" name="mc-embedded-subscribe-form" class="mailchimp__validate" target="_blank" rel="noopener">
-    <div class="mailchimp__fields">
-      <input
-        class="mailchimp__input input input--large required email"
-        type="email"
-        name="EMAIL"
-        autocomplete="email"
-        id="mce-EMAIL-footer"
-        placeholder="Email address"
-        aria-label="Email"
-        required
-        pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
-      >
-      <input
-        type="submit"
-        value="Sign up"
-        name="subscribe"
-        class="btn btn--large mailchimp__btn"
-      >
-    </div>
-
-    <input type="hidden" value="1" name="group[8529][1]">
-
-    <div class="mailchimp__responses">
-      <div class="mailchimp__response mailchimp__response__success"></div>
-    </div>
-
-    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-      <input type="text" name="b_387f59a72ae7b64ccae37d5c9_2d1244a32b" tabindex="-1">
-    </div>
-  </form>
+    <div id="sidebar" style="display: none;" data-bind="visible: layout.sidePanelVisible">
+    <iframe id='sidebar_iframe' src='' allowtransparency='true' frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.sidepanelIFrameSrc }" title="sidebar content"></iframe>
 </div>
 
-        </div>
-
-        <div class="footer-social">
-          <a href="https://www.instagram.com/whitneymuseum/" class="footer-social__link" aria-label="Instagram" data-value="instagram">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-              <path d="M295.42,6c-53.2,2.51-89.53,11-121.29,23.48-32.87,12.81-60.73,30-88.45,57.82S40.89,143,28.17,175.92c-12.31,31.83-20.65,68.19-23,121.42S2.3,367.68,2.56,503.46,3.42,656.26,6,709.6c2.54,53.19,11,89.51,23.48,121.28,12.83,32.87,30,60.72,57.83,88.45S143,964.09,176,976.83c31.8,12.29,68.17,20.67,121.39,23s70.35,2.87,206.09,2.61,152.83-.86,206.16-3.39S799.1,988,830.88,975.58c32.87-12.86,60.74-30,88.45-57.84S964.1,862,976.81,829.06c12.32-31.8,20.69-68.17,23-121.35,2.33-53.37,2.88-70.41,2.62-206.17s-.87-152.78-3.4-206.1-11-89.53-23.47-121.32c-12.85-32.87-30-60.7-57.82-88.45S862,40.87,829.07,28.19c-31.82-12.31-68.17-20.7-121.39-23S637.33,2.3,501.54,2.56,348.75,3.4,295.42,6m5.84,903.88c-48.75-2.12-75.22-10.22-92.86-17-23.36-9-40-19.88-57.58-37.29s-28.38-34.11-37.5-57.42c-6.85-17.64-15.1-44.08-17.38-92.83-2.48-52.69-3-68.51-3.29-202s.22-149.29,2.53-202c2.08-48.71,10.23-75.21,17-92.84,9-23.39,19.84-40,37.29-57.57s34.1-28.39,57.43-37.51c17.62-6.88,44.06-15.06,92.79-17.38,52.73-2.5,68.53-3,202-3.29s149.31.21,202.06,2.53c48.71,2.12,75.22,10.19,92.83,17,23.37,9,40,19.81,57.57,37.29s28.4,34.07,37.52,57.45c6.89,17.57,15.07,44,17.37,92.76,2.51,52.73,3.08,68.54,3.32,202s-.23,149.31-2.54,202c-2.13,48.75-10.21,75.23-17,92.89-9,23.35-19.85,40-37.31,57.56s-34.09,28.38-57.43,37.5c-17.6,6.87-44.07,15.07-92.76,17.39-52.73,2.48-68.53,3-202.05,3.29s-149.27-.25-202-2.53m407.6-674.61a60,60,0,1,0,59.88-60.1,60,60,0,0,0-59.88,60.1M245.77,503c.28,141.8,115.44,256.49,257.21,256.22S759.52,643.8,759.25,502,643.79,245.48,502,245.76,245.5,361.22,245.77,503m90.06-.18a166.67,166.67,0,1,1,167,166.34,166.65,166.65,0,0,1-167-166.34" transform="translate(-2.5 -2.5)"/>
-            </svg>
-          </a>
-          <a href="https://www.threads.net/@whitneymuseum" class="footer-social__link" aria-label="Threads" data-value="threads">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 878 1000" xml:space="preserve">
-              <g>
-                <path d="M446.7,1000h-0.3c-149.2-1-263.9-50.2-341-146.2C36.9,768.3,1.5,649.4,0.3,500.4v-0.7c1.2-149.1,36.6-267.9,105.2-353.4 C182.5,50.2,297.3,1,446.4,0h0.3h0.3c114.4,0.8,210.1,30.2,284.4,87.4c69.9,53.8,119.1,130.4,146.2,227.8l-85,23.7 c-46-165-162.4-249.3-346-250.6c-121.2,0.9-212.9,39-272.5,113.2C118.4,271,89.6,371.4,88.5,500c1.1,128.6,29.9,229,85.7,298.5 c59.6,74.3,151.3,112.4,272.5,113.2c109.3-0.8,181.6-26.3,241.7-85.2c68.6-67.2,67.4-149.7,45.4-199.9 c-12.9-29.6-36.4-54.2-68.1-72.9c-8,56.3-25.9,101.9-53.5,136.3c-36.9,45.9-89.2,71-155.4,74.6c-50.1,2.7-98.4-9.1-135.8-33.4 c-44.3-28.7-70.2-72.5-73-123.5c-2.7-49.6,17-95.2,55.4-128.4c36.7-31.7,88.3-50.3,149.3-53.8c44.9-2.5,87-0.5,125.8,5.9 c-5.2-30.9-15.6-55.5-31.2-73.2c-21.4-24.4-54.5-36.8-98.3-37.1c-0.4,0-0.8,0-1.2,0c-35.2,0-83,9.7-113.4,55L261.2,327 c40.8-60.6,107-94,186.6-94c0.6,0,1.2,0,1.8,0c133.1,0.8,212.4,82.3,220.3,224.5c4.5,1.9,9,3.9,13.4,5.9 c62.1,29.2,107.5,73.4,131.4,127.9c33.2,75.9,36.3,199.6-64.5,298.3C673.1,965,579.6,999.1,447,1000L446.7,1000L446.7,1000z M488.5,512.9c-10.1,0-20.3,0.3-30.8,0.9c-76.5,4.3-124.2,39.4-121.5,89.3c2.8,52.3,60.5,76.6,116,73.6 c51-2.7,117.4-22.6,128.6-154.6C552.6,516,521.7,512.9,488.5,512.9z"/>
-              </g>
-            </svg>
-          </a>
-          <a href="https://www.facebook.com/whitneymuseum" class="footer-social__link" aria-label="Facebook" data-value="facebook">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
-              <path d="m1024,512C1024,229.23,794.77,0,512,0S0,229.23,0,512c0,255.55,187.23,467.37,432,505.78v-357.78h-130v-148h130v-112.8c0-128.32,76.44-199.2,193.39-199.2,56.02,0,114.61,10,114.61,10v126h-64.56c-63.6,0-83.44,39.47-83.44,79.96v96.04h142l-22.7,148h-119.3v357.78c244.77-38.41,432-250.22,432-505.78Z"/>
-              <path d="m711.3,660l22.7-148h-142v-96.04c0-40.49,19.84-79.96,83.44-79.96h64.56v-126s-58.59-10-114.61-10c-116.95,0-193.39,70.88-193.39,199.2v112.8h-130v148h130v357.78c26.07,4.09,52.78,6.22,80,6.22s53.93-2.13,80-6.22v-357.78h119.3Z" style="fill: none"/>
-            </svg>
-          </a>
-          <a href="https://www.tiktok.com/@whitneymuseum" class="footer-social__link" aria-label="TikTok" data-value="tiktok">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 522.29 598.92">
-              <path d="m444.28,120.05c-32.26-21.04-55.55-54.69-62.81-93.92-1.57-8.48-2.43-17.2-2.43-26.13h-102.97l-.17,412.66c-1.73,46.21-39.76,83.3-86.39,83.3-14.49,0-28.14-3.62-40.15-9.95-27.55-14.5-46.4-43.38-46.4-76.61,0-47.73,38.83-86.56,86.55-86.56,8.91,0,17.45,1.47,25.54,4v-105.12c-8.37-1.14-16.87-1.85-25.54-1.85C85.02,219.88,0,304.9,0,409.4c0,64.12,32.04,120.86,80.91,155.17,30.78,21.61,68.23,34.35,108.61,34.35,104.5,0,189.52-85.02,189.52-189.52v-209.25c40.38,28.99,89.86,46.07,143.25,46.07v-102.97c-28.76,0-55.55-8.55-78.01-23.2Z"/>
-            </svg>
-          </a>
-          <a href="https://twitter.com/whitneymuseum" class="footer-social__link" aria-label="Twitter" data-value="twitter">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1200 1227" xml:space="preserve">
-              <path d="M714.2,519.3L1160.9,0H1055L667.1,450.9L357.3,0H0l468.5,681.8L0,1226.4h105.9l409.6-476.2l327.2,476.2H1200L714.2,519.3 L714.2,519.3z M569.2,687.8l-47.5-67.9L144,79.7h162.6l304.8,436l47.5,67.9l396.2,566.7H892.5L569.2,687.8L569.2,687.8z"/>
-            </svg>
-            <!--RIP Twitter bird-->
-            <!--<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246.14 200">-->
-            <!--<path d="m220.94,49.79c.15,2.17.15,4.34.15,6.53,0,66.73-50.8,143.69-143.69,143.69v-.04c-27.44.04-54.31-7.82-77.41-22.64,3.99.48,8,.72,12.02.73,22.74.02,44.83-7.61,62.72-21.66-21.61-.41-40.56-14.5-47.18-35.07,7.57,1.46,15.37,1.16,22.8-.87-23.56-4.76-40.51-25.46-40.51-49.5v-.64c7.02,3.91,14.88,6.08,22.92,6.32C10.57,61.81,3.73,32.29,17.13,9.21c25.64,31.55,63.47,50.73,104.08,52.76-4.07-17.54,1.49-35.92,14.61-48.25,20.34-19.12,52.33-18.14,71.45,2.19,11.31-2.23,22.15-6.38,32.07-12.26-3.77,11.69-11.66,21.62-22.2,27.93,10.01-1.18,19.79-3.86,29-7.95-6.78,10.14-15.31,18.99-25.19,26.14Z"/>-->
-            <!--</svg>-->
-          </a>
-          <a href="https://www.youtube.com/user/WhitneyFocus" class="footer-social__link" aria-label="YouTube" data-value="youtube">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.48 85.04">
-              <path fill-rule="evenodd" d=" M118.95,13.28 c-1.4-5.23-5.51-9.34-10.74-10.74 C98.73,0,60.74,0,60.74,0 c0,0-37.99,0-47.46,2.54 C8.05,3.94,3.94,8.05,2.54,13.28 C0,22.75,0,42.52,0,42.52 c0,0,0,19.77,2.54,29.24 c1.4,5.23,5.51,9.34,10.74,10.74 c9.47,2.54,47.46,2.54,47.46,2.54 c0,0,37.99,0,47.46-2.54 c5.23-1.4,9.34-5.51,10.74-10.74 c2.54-9.47,2.54-29.24,2.54-29.24 c0,0,0-19.77-2.54-29.24 Z M48.59,60.74 L48.59,24.3 L80.16,42.52 Z " />
-            </svg>
-          </a>
-        </div>
-      </div>
-
-        <div class="footer-nav">
-          <h3 class="footer-nav__title">Here <br/>to help</h3>
-
-          <ul class="footer-nav__list m-0 p-0">
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/visit/access">Accessibility</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/contact">Contact us</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/about/faq">FAQ</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/press">Press</a>
-                </li>
-          </ul>
-        </div>
-        <div class="footer-nav">
-          <h3 class="footer-nav__title">Get <br/>involved</h3>
-
-          <ul class="footer-nav__list m-0 p-0">
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/support">Support</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/support/membership">Membership</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/about/careers">Careers</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/research/isp">Independent Study Program</a>
-                </li>
-          </ul>
-        </div>
-        <div class="footer-nav">
-          <h3 class="footer-nav__title">Mission <br/>& values</h3>
-
-          <ul class="footer-nav__list m-0 p-0">
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/about">About the Whitney</a>
-                </li>
-                <li>
-                  <a class="footer-nav__link body-medium underline" href="/about/land">Land acknowledgment</a>
-                </li>
-          </ul>
-        </div>
-    </div>
-
-    <div class="footer__secondary">
-      <div class="footer-fin">
-        <ul class="footer-links m-0 p-0">
-          <li>
-            <a href="/privacy-policy" class="body-medium underline">Privacy policy</a>
-          </li>
-          <li>
-            <a href="/terms-and-conditions" class="body-medium underline">Terms & conditions</a>
-          </li>
-          <li>
-            <a href="/about/website" class="body-medium underline">About whitney.org</a>
-          </li>
-        </ul>
-
-        <div class="footer-preferences ">
-          <label for="dark-mode" class="checkbox">
-            <input id="dark-mode" class="checkbox__input checkbox__input--small dark-toggle" type="checkbox">
-            Dark
-          </label>
-
-          <label for="reduced-motion" class="checkbox">
-            <input id="reduced-motion" class="checkbox__input checkbox__input--small reduced-motion-toggle" type="checkbox">
-            Reduced motion
-          </label>
-        </div>
-      </div>
-
-      <p class="footer__copyright gray">&copy; 2026 Whitney Museum of American Art</p>
-    </div>
-  </div>
-</footer>
-
-  <dialog class="overlay overlay--media" aria-modal="true">
-  <header class="overlay-header">
-    <div class="overlay-header__section">
-      <button class="btn btn--icon-only overlay-header__prev" aria-label="Previous" type="button">
-        <svg  width="24" height="32" viewBox="0 0 24 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><polyline points="21.9 2 2.1 16 21.9 30"/></svg>
-      </button>
-
-      <button class="btn btn--icon-only overlay-header__next" aria-label="Next" type="button">
-        <svg  width="24" height="32" viewBox="0 0 24 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><polyline points="2.1 30 21.9 16 2.1 2"/></svg>
-      </button>
-
-      <p class="overlay-header__count m-0"></p>
-    </div>
-
-    <div class="overlay-header__section">
-      <button class="btn btn--icon-only overlay-header__close overlay-close" aria-label="Close" type="button">
-        <svg  width="32" height="32" viewBox="0 0 32 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="2" x2="30" y2="30"/><line x1="2" y1="30" x2="30" y2="2"/></svg>
-      </button>
-    </div>
-  </header>
-
-  <div class="overlay-content"></div>
-</dialog>
-
-  <dialog class="on-the-hour" data-url="https://artport.whitney.org/on-the-hour/frank-wang-yefeng/index.html">
-  <div class="on-the-hour-legend">
-    <div class="on-the-hour-legend__header mb-s">
-      <h2 class="on-the-hour-legend__title m-0">On the Hour</h2>
-
-      <button class="on-the-hour-legend__x btn btn--icon-only" type="button" aria-label="Close">
-        <svg  width="32" height="32" viewBox="0 0 32 32" fill="none" style="stroke:var(--color-text); stroke-width: 1.5;" xmlns="http://www.w3.org/2000/svg"><line x1="2" y1="2" x2="30" y2="30"/><line x1="2" y1="30" x2="30" y2="2"/></svg>
-      </button>
-    </div>
-
-
-    <div class="on-the-hour-legend__description body-medium mb-s">
-      <p>A 30-second online art project:<br>Frank WANG Yefeng, <em>The Levitating Perils #2</em></p>
-    </div>
-
-      <a class="on-the-hour-legend__link body-medium" href="/exhibitions/frank-wang-yefeng">Learn more about this project</a>
-    <p class="on-the-hour-legend__static mb-t">Learn more at whitney.org/artport</p>
-
-    <div class="on-the-hour-legend__accessibility mt-m">
-      <p>
-        <strong>On the Hour projects can contain motion and sound. To respect your accessibility settings autoplay is
-          disabled.</strong>
-      </p>
-
-      <button class="on-the-hour-legend__trigger btn btn--strong btn--stretch m-0">Launch project</button>
-    </div>
-  </div>
-
-  <iframe class="on-the-hour__iframe" allowtransparency="true"></iframe>
-</dialog>
-
-  <turbo-frame id="flash">
-
-    <template id="alert-success-template">
-      <div class="alert alert--success" data-turbo-temporary>
-    <p class="m-0"><strong></strong></p>
-
-  <button class="alert__close" type="button" aria-label="Close alert" onclick="this.parentElement.style.display = 'none';">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-      <path d="M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z" style="fill: var(--color-text);"></path>
-    </svg>
-  </button>
+    <div id="bottompanel" style="display: none;" data-bind="visible: layout.bottomPanelVisible">
+    <iframe id='bottompanel_iframe' src='' allowtransparency='true' frameborder='0' scrolling='no' data-bind="iframe-src-attr: { src: texts.bottompanelIFrameSrc }" title="bottom panel content"></iframe>
 </div>
 
-    </template>
-    <template id="alert-info-template">
-      <div class="alert alert--info" data-turbo-temporary>
-    <p class="m-0"><strong></strong></p>
 
-  <button class="alert__close" type="button" aria-label="Close alert" onclick="this.parentElement.style.display = 'none';">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-      <path d="M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z" style="fill: var(--color-text);"></path>
-    </svg>
-  </button>
-</div>
 
-    </template>
-    <template id="alert-warning-template">
-      <div class="alert alert--warning" data-turbo-temporary>
-    <p class="m-0"><strong></strong></p>
-
-  <button class="alert__close" type="button" aria-label="Close alert" onclick="this.parentElement.style.display = 'none';">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-      <path d="M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z" style="fill: var(--color-text);"></path>
-    </svg>
-  </button>
-</div>
-
-    </template>
-    <template id="alert-danger-template">
-      <div class="alert alert--danger" data-turbo-temporary>
-    <p class="m-0"><strong></strong></p>
-
-  <button class="alert__close" type="button" aria-label="Close alert" onclick="this.parentElement.style.display = 'none';">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-      <path d="M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z" style="fill: var(--color-text);"></path>
-    </svg>
-  </button>
-</div>
-
-    </template>
-</turbo-frame>
-  
-  
-
-  <!-- Structured Data: sitewide identity layer (Organization + WebSite) -->
-  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://whitney.org/#organization","name":"Whitney Museum of American Art","alternateName":"The Whitney","url":"https://whitney.org/","logo":{"@type":"ImageObject","@id":"https://whitney.org/#logo","url":"https://whitney.org/og_default.png","caption":"Whitney Museum of American Art"},"image":{"@id":"https://whitney.org/#logo"},"foundingDate":"1930","founder":{"@type":"Person","name":"Gertrude Vanderbilt Whitney"},"email":"info@whitney.org","telephone":"+1-212-570-3600","contactPoint":{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-212-570-3600","email":"info@whitney.org","availableLanguage":["English","Spanish"]},"sameAs":["https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art","https://www.wikidata.org/wiki/Q639791","https://artsandculture.google.com/partner/whitney-museum-of-american-art","https://www.instagram.com/whitneymuseum/","https://www.facebook.com/whitneymuseum","https://x.com/whitneymuseum","https://www.youtube.com/user/WhitneyFocus","https://www.tiktok.com/@whitneymuseum","https://www.threads.net/@whitneymuseum","https://www.linkedin.com/company/whitney-museum-of-american-art","https://www.tripadvisor.com/Attraction_Review-g60763-d106189-Reviews-Whitney_Museum_of_American_Art-New_York_City_New_York.html","https://www.yelp.com/biz/whitney-museum-of-american-art-new-york-4"]},{"@type":"WebSite","@id":"https://whitney.org/#website","url":"https://whitney.org/","name":"Whitney Museum of American Art","publisher":{"@id":"https://whitney.org/#organization"}}]}</script>
-</body></html>
+</body>
+</html>

@@ -1,1 +1,3420 @@
-{"data":[{"id":"61947","type":"event","attributes":{"id":61947,"title":"Open Studio 2026","start_time":"2026-12-19T11:00:00.000-05:00","end_time":"2026-12-19T15:00:00.000-05:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.604-04:00","updated_at":"2026-09-29T12:16:20.318-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61945","type":"event","attributes":{"id":61945,"title":"Open Studio 2026","start_time":"2026-12-05T11:00:00.000-05:00","end_time":"2026-12-05T15:00:00.000-05:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.578-04:00","updated_at":"2026-09-29T12:16:20.298-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61943","type":"event","attributes":{"id":61943,"title":"Open Studio 2026","start_time":"2026-11-21T11:00:00.000-05:00","end_time":"2026-11-21T15:00:00.000-05:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.549-04:00","updated_at":"2026-09-29T12:16:20.282-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61942","type":"event","attributes":{"id":61942,"title":"Open Studio 2026","start_time":"2026-11-14T11:00:00.000-05:00","end_time":"2026-11-14T15:00:00.000-05:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.533-04:00","updated_at":"2026-09-29T12:16:20.268-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61939","type":"event","attributes":{"id":61939,"title":"Open Studio 2026","start_time":"2026-10-24T11:00:00.000-04:00","end_time":"2026-10-24T15:00:00.000-04:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.491-04:00","updated_at":"2026-09-29T12:16:20.252-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61938","type":"event","attributes":{"id":61938,"title":"Open Studio 2026","start_time":"2026-10-17T11:00:00.000-04:00","end_time":"2026-10-17T15:00:00.000-04:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.477-04:00","updated_at":"2026-09-29T12:16:20.235-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"61936","type":"event","attributes":{"id":61936,"title":"Open Studio 2026","start_time":"2026-10-03T11:00:00.000-04:00","end_time":"2026-10-03T15:00:00.000-04:00","date_override":"Select Saturdays\u003cbr\u003e11 am–3 pm","url":"/events/open-studio-2026","open_to":"Families with kids of all ages","parent_id":55194,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":56132,"description":"\u003cp\u003eOn Saturdays, families with kids of all ages are invited to get creative at the Whitney! Join us to make your own art inspired by works on view in the collection and current exhibitions. Each week we offer a different artmaking project.\u003c/p\u003e\u003cp\u003eOpen Studio will not take place on long weekends or the second Saturday of every month.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDates:\u003c/strong\u003e\u003c/p\u003e\u003cdiv class=\"columns--3 columns--no-spacing\"\u003e\u003cp\u003eJanuary 24\u003c/p\u003e\u003cp\u003eJanuary 31\u003c/p\u003e\u003cp\u003eFebruary 21\u003c/p\u003e\u003cp\u003eFebruary 28\u003c/p\u003e\u003cp\u003eMarch 21\u003c/p\u003e\u003cp\u003eMarch 28\u003c/p\u003e\u003cp\u003eApril 4\u003c/p\u003e\u003cp\u003eApril 25\u003c/p\u003e\u003cp\u003eMay 2\u003c/p\u003e\u003cp\u003eMay 16\u003c/p\u003e\u003cp\u003eMay 30\u003c/p\u003e\u003cp\u003eJune 6\u003c/p\u003e\u003cp\u003eJune 27\u003c/p\u003e\u003cp\u003eJuly 18\u003c/p\u003e\u003cp\u003eJuly 25\u003c/p\u003e\u003cp\u003eAugust 1\u003c/p\u003e\u003cp\u003eAugust 15\u003c/p\u003e\u003cp\u003eAugust 22\u003c/p\u003e\u003cp\u003eAugust 29\u003c/p\u003e\u003cp\u003eSeptember 19\u003c/p\u003e\u003cp\u003eSeptember 26\u003c/p\u003e\u003cp\u003eOctober 3\u003c/p\u003e\u003cp\u003eOctober 17\u003c/p\u003e\u003cp\u003eOctober 24\u003c/p\u003e\u003cp\u003eOctober 31\u003c/p\u003e\u003cp\u003eNovember 14\u003c/p\u003e\u003cp\u003eNovember 21\u003c/p\u003e\u003cp\u003eDecember 5\u003cbr\u003eDecember 19\u003c/p\u003e\u003c/div\u003e","created_at":"2026-08-04T16:40:17.447-04:00","updated_at":"2026-09-29T12:16:20.131-04:00"},"relationships":{"parent":{"data":{"id":"55194","type":"event"}},"exhibitions":{"data":[]}}},{"id":"62242","type":"event","attributes":{"id":62242,"title":"Halloween Open Studio","start_time":"2026-10-31T11:00:00.000-04:00","end_time":"2026-10-31T15:00:00.000-04:00","date_override":"","url":"/events/halloween-open-studio-2026","open_to":"Open to families with kids of all ages","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65759,"description":"\u003cp\u003eKick off your Halloween at the Whitney! Come in costume for a day of art, music, and dancing before heading out to trick-or-treat. Explore the galleries, create your own works of art inspired by \u003ca href=\"/exhibitions/lichtenstein?gad_source=1\u0026gad_campaignid=24069874687\u0026gbraid=0AAAAADFLMBoy2xgzKrDMPmbTql1IV8Y4M\u0026gclid=CjwKCAjww-3VBhAcEiwAwUUIu3zcYCUFEDQH-KpkIAjExIu7PmWdxvVeEmOWC1t3CCTCY3pS5CE6QBoCRuoQAvD_BwE\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e, and shake your booties at a \u003ca href=\"/events/boogie-baby-halloween\"\u003eFamily Halloween Dance Party\u003c/a\u003e. Show off your costume on the dance floor and enjoy a few fun surprises along the way!\u003c/p\u003e\u003cp\u003e\u003cem\u003eHalloween at the Whitney is an inclusive and safe celebration for all. In that spirit, we do not permit costumes that perpetuate cultural appropriation, discrimination, or violence of any kind, including fake weapons. We invite you to be inspired by the works in our collection and check out the\u0026nbsp;\u003c/em\u003e\u003cem\u003e\u003ca target=\"_blank\" rel=\"noreferrer noopener\" href=\"http://www.lspirg.org/costumes\"\u003e#IAmNotACostume\u003c/a\u003e\u003c/em\u003e\u003cem\u003e\u0026nbsp;\u003c/em\u003e\u003cem\u003ecampaign to learn more about choosing a respectful costume.\u003c/em\u003e\u003c/p\u003e","created_at":"2026-08-31T12:24:58.856-04:00","updated_at":"2026-09-29T11:12:07.228-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[]}}},{"id":"63193","type":"event","attributes":{"id":63193,"title":"Whitney Descriptions Online: Roy Lichtenstein","start_time":"2026-12-05T11:30:00.000-05:00","end_time":"2026-12-05T13:00:00.000-05:00","date_override":"","url":"/events/whitney-descriptions-online-lichtenstein","open_to":"Open to blind and low vision visitors","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":43025,"description":"\u003cp\u003eJoin us for a virtual program featuring \u003ca href=\"/exhibitions/lichtenstein\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e led by educator Paula Stuttman. The tour begins at 11:30 am on Zoom.  \u003c/p\u003e\u003cp\u003eWhitney Descriptions Online\u0026nbsp;provides an opportunity for visitors\u0026nbsp;who are blind or have low vision to experience the richness and diversity of twentieth- and twenty-first-century American art through vivid description. Ninety-minute sessions are free of charge and are offered monthly on weekend mornings through Zoom and over the phone.\u003c/p\u003e\u003cp\u003eFor all accommodations, please email \u003ca href=\"mailto:accessfeedback@whitney.org\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eaccessfeedback@whitney.org\u003c/a\u003e or call (646) 666-5574 with two weeks’ notice.\u003c/p\u003e","created_at":"2026-09-28T16:54:55.005-04:00","updated_at":"2026-09-28T18:04:33.399-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2434","type":"exhibition"}]}}},{"id":"63192","type":"event","attributes":{"id":63192,"title":"Whitney Signs: Roy Lichtenstein","start_time":"2026-12-05T15:30:00.000-05:00","end_time":"2026-12-05T18:00:00.000-05:00","date_override":"","url":"/events/whitney-signs-lichtenstein-dec5","open_to":"","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":43025,"description":"\u003cp\u003eJoin us for an in-person tour of \u003ca href=\"/exhibitions/lichtenstein\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e led by Deaf educator Emmanuel von Schack.\u0026nbsp;\u003c/p\u003e\u003cp\u003eThe event begins with a tour at 3:30 pm and will be followed by a wine and cheese reception from 5–6 pm in the Laurie M. Tisch Education Center. Please plan to meet in the Hearst Artspace on Floor 3 at 3:15 pm.\u0026nbsp;\u003c/p\u003e\u003cp\u003eThis tour will be in ASL and will not have voice interpretation. To request interpretation for Tactile, Protactile, International Sign Language, another language, or additional accommodations, including Braille, please email accessfeedback@whitney.org or call (646) 666-5574 (relay calls welcome) with two weeks’ notice.\u003c/p\u003e","created_at":"2026-09-28T16:52:44.122-04:00","updated_at":"2026-09-28T18:03:59.083-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2434","type":"exhibition"}]}}},{"id":"63186","type":"event","attributes":{"id":63186,"title":"Free Friday Nights Artmaking","start_time":"2026-10-02T18:30:00.000-04:00","end_time":"2026-10-02T21:30:00.000-04:00","date_override":"","url":"/events/ffn-artmaking-oct2","open_to":"Open to all ages ","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65920,"description":"\u003cp\u003eHow might you combine materials into a collection that remembers or memorializes someone or something special to you?\u0026nbsp;\u003c/p\u003e\u003cp\u003eStop by the ArtSpace for a free artmaking program honoring artist \u003ca href=\"/exhibitions/2026-biennial/art?section=38\"\u003eAgosto Machado\u003c/a\u003e, whose work is on view on Floor 6 as part of \u003ca href=\"/exhibitions/2026-biennial\"\u003e\u003cem\u003eWhitney Biennial 2026\u003c/em\u003e\u003c/a\u003e. Participants are invited to assemble mixed materials to create commemorative items inspired by Machado's shrines and altars. Supplies will be provided, and no previous art experience is required—everyone is welcome.\u003c/p\u003e\u003cp\u003eAdmission is free to all visitors every Friday evening from 5–10 pm. In addition to artmaking, join us for world-class \u003ca href=\"/exhibitions\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eexhibitions\u003c/a\u003e of contemporary American art, cocktails with views at \u003ca href=\"/visit/dining\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eStudio Bar\u003c/a\u003e, and more.\u003c/p\u003e","created_at":"2026-09-23T16:46:40.702-04:00","updated_at":"2026-09-28T16:27:07.863-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2294","type":"exhibition"}]}}},{"id":"63034","type":"event","attributes":{"id":63034,"title":"Whitney Signs: Minnie Evans","start_time":"2026-10-03T15:30:00.000-04:00","end_time":"2026-10-03T18:00:00.000-04:00","date_override":"","url":"/events/whitney-signs-minnie-evans","open_to":"","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65303,"description":"\u003cp\u003eJoin us for an in-person tour of \u003ca href=\"/exhibitions/the-lost-world\"\u003e\u003cem\u003eThe Lost World: The Art of Minnie Evans\u003c/em\u003e\u003c/a\u003e led by Deaf educator Joyce Hom in American Sign Language. The event begins with a tour at 3:30 pm and will be followed by a wine and cheese reception from 5–6 pm in the Laurie M. Tisch Education Center. Please plan to meet in the Hearst Artspace on Floor 3 at 3:15 pm. \u003c/p\u003e\u003cp\u003eThis tour will be in ASL and will not have voice interpretation. To request interpretation for Tactile, Protactile, International Sign Language, another language, or additional accommodations, including Braille, please email \u003ca href=\"mailto:accessfeedback@whitney.org\"\u003eaccessfeedback@whitney.org\u003c/a\u003e or call (646) 666-5574 (relay calls welcome) with two weeks’ notice.\u003c/p\u003e","created_at":"2026-09-14T11:56:34.479-04:00","updated_at":"2026-09-28T14:54:35.644-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2326","type":"exhibition"}]}}},{"id":"62059","type":"event","attributes":{"id":62059,"title":"Educator Open House","start_time":"2026-10-01T16:00:00.000-04:00","end_time":"2026-10-01T19:30:00.000-04:00","date_override":"","url":"/events/educator-open-house","open_to":"Tours for NYC Educators","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65724,"description":"\u003cp\u003eNew York City educators are invited to learn about the Whitney’s education programs and explore how to use the museum as a resource for teaching. \u0026nbsp;\u003c/p\u003e\u003cp\u003eThroughout the evening, inquiry-based tours and guided close-looking experiences will be offered. Whitney educators will be available to speak about school and college and university visits, youth programs, and internships, as well as opportunities for cross-curricular learning and our bilingual offerings. Guests will also have the chance to hear from \u003cspan data-teams=\"true\"\u003eChancellor of NYCPS, Kamar H. Samuels\u003c/span\u003e. The Open House will take place throughout the museum, with different activities on each floor.\u0026nbsp;\u003c/p\u003e\u003cp\u003eThis event is open and free to K–12 teachers, high school teachers, university faculty, community educators, and anyone with a pedagogical practice who would like to utilize the Whitney for their teaching. \u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSCHEDULE\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFloor 1\u003c/strong\u003e\u003cbr\u003e\u003cspan class=\"gray\"\u003eLobby\u003c/span\u003e\u003cbr\u003eCheck-in and welcome table \u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFloor 3\u003c/strong\u003e\u003cbr\u003e\u003cspan class=\"gray\"\u003eTheater\u003c/span\u003e\u003cbr\u003eRefreshments and opportunities for questions and casual conversation with Whitney educators and staff.\u003cbr\u003e5:30 pm: Opening Remarks by Chancellor of NYCPS, Kamar H. Samuels\u003c/p\u003e\u003cp\u003e\u003cspan class=\"gray\"\u003eGallery\u003c/span\u003e\u003cbr\u003eOn View: \u003ca href=\"/exhibitions/lichtenstein-1997\"\u003e\u003cem\u003eRoy Lichtenstein: 1997\u003c/em\u003e\u003c/a\u003e\u003cbr\u003e4:30–7 pm: \"Ask Me guide\"\u003c/p\u003e\u003cp\u003eIntended Audience: All NYC Educators\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFloor 6\u003c/strong\u003e\u003cbr\u003eOn View: Whitney Biennial 2026\u003cbr\u003eOn View: Works on Paper Study Center\u003cbr\u003e6:30 pm: Guided close looking of \u003ca href=\"/exhibitions/2026-biennial\"\u003e\u003cem\u003eWhitney Biennial 2026\u003c/em\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eIntended Audience: Colleges and Universities \u0026nbsp;\u003cbr\u003eMaximum group size is 20 people per time\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFloor 7\u003c/strong\u003e\u003cbr\u003eOn View:\u0026nbsp;\u003ca href=\"/exhibitions/untitled-america\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003e\"Untitled\" (America)\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u0026nbsp;\u003c/em\u003e\u003cbr\u003e4:30 pm, 5 pm: 30-minute Drop-in, inquiry-based tours\u003c/p\u003e\u003cp\u003eIntended Audience: K-12 Educators\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFloor 8\u003c/strong\u003e\u003cbr\u003eOn View: \u003ca href=\"/exhibitions/the-lost-world\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eThe Lost World: The Art of Minnie Evans\u003c/em\u003e\u003c/a\u003e\u003cbr\u003e4:30 pm, 6:30 pm: Tour with Curatorial Assistant, Caroline Webb\u003cbr\u003eThroughout the program: Self-guided sketching activity\u003c/p\u003e\u003cp\u003eIntended Audience: All NYC Educators\u003c/p\u003e","created_at":"2026-08-20T16:56:52.840-04:00","updated_at":"2026-09-25T17:12:22.289-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2301","type":"exhibition"},{"id":"2326","type":"exhibition"},{"id":"2429","type":"exhibition"},{"id":"2447","type":"exhibition"}]}}},{"id":"62241","type":"event","attributes":{"id":62241,"title":"Boogie Baby NYC: Family Halloween Dance Party","start_time":"2026-10-31T11:00:00.000-04:00","end_time":"2026-10-31T15:00:00.000-04:00","date_override":"","url":"/events/boogie-baby-halloween","open_to":"Open to families with kids of all ages ","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65892,"description":"\u003cp\u003eHalloween is on a Saturday.\u0026nbsp;We’re\u0026nbsp;starting early, and yes, everyone’s dancing.\u003c/p\u003e\u003cp\u003eThrow on your costumes and kick off Halloween at the Whitney with \u003ca href=\"http://www.instagram.com/boogiebaby.nyc\"\u003eBoogie Baby\u003c/a\u003e, a daytime dance party for tiny dancers and the grown-ups who love them.\u003c/p\u003e\u003cp\u003eLegendary NYC DJ \u003ca href=\"https://www.instagram.com/stretcharmstrong/reels/\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eStretch Armstrong\u003c/a\u003e is on the decks, spinning records for little ears and big hearts. Get ready for great music for all ages, a packed dance floor, and plenty of room to shake out those pre–trick-or-treat wiggles.\u003c/p\u003e\u003cp\u003eBoogie Baby is all about sharing the joy of dancing across generations, so bring the babies, the big kids, the grown-ups, and your best moves.\u003c/p\u003e\u003cp\u003eCome dressed up, complete your Halloween look with face painting by \u003ca href=\"https://www.illuminatedfaces.com/\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eIlluminated Faces\u003c/a\u003e, grab some\u0026nbsp;snacks\u0026nbsp;and juice boxes, and keep moving.\u003c/p\u003e\u003cp\u003eThen head out into the city for trick-or-treating, costumes on and wiggles officially shaken out.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eA note about costumes:\u0026nbsp;\u003c/strong\u003e\u003cem\u003eHalloween Weekend at the Whitney is an inclusive and safe celebration for all. In that spirit, we do not allow costumes that perpetuate cultural appropriation, discrimination, or violence of any kind, including fake weapons. We invite you to be inspired by works in the Whitney’s collection and check out the #IAmNotACostume campaign to learn more about choosing a respectful costume.\u003c/em\u003e\u003c/p\u003e","created_at":"2026-08-31T12:21:37.825-04:00","updated_at":"2026-09-24T15:34:59.461-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[]}}},{"id":"62562","type":"event","attributes":{"id":62562,"title":"Walter Annenberg Lecture: Alex Da Corte\u0026nbsp;","start_time":"2026-10-29T18:30:00.000-04:00","end_time":"2026-10-29T18:30:00.000-04:00","date_override":"","url":"/events/annenberg-26-alex-da-corte","open_to":"","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65672,"description":"\u003cp\u003e\u003ca href=\"/artists/17310\"\u003eAlex Da Corte\u003c/a\u003e is a Venezuelan-American artist inspired by Pop Art and Surrealism and informed by American cultural references. He is the co-curator of \u003ca href=\"/exhibitions/lichtenstein\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e, which presents a retrospective of Lichtenstein in the contemporary context of accelerated production and circulation of images. For this Walter Annenberg Lecture, Alex Da Corte presents a talk about his engagement with Lichtenstein, combining his experiences as an artist and curator.\u003c/p\u003e\u003cp\u003eA conversation between the artist and Scott Rothkopf, Alice Pratt Brown Director, follows the presentation. \u0026nbsp;\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAlex Da Corte\u003c/strong\u003e (b. 1980) was born in Camden, New Jersey, and lives and works in Philadelphia. His work was included in the 2019 Venice Biennale and the 2018 Carnegie International in Pittsburgh, and he was selected as the 2021 Roof Garden Commission at the Metropolitan Museum of Art in New York. Past one-person exhibitions include the Modern Art Museum of Fort Worth, the Secession in Vienna, the 21st Century Museum of Contemporary Art in Kanazawa, Japan, Fondazione Prada in Milan, and the Louisiana Museum of Modern Art in Humlebæk, Denmark.\u003c/p\u003e","created_at":"2026-09-10T12:20:35.361-04:00","updated_at":"2026-09-24T11:45:59.999-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2434","type":"exhibition"}]}}},{"id":"63185","type":"event","attributes":{"id":63185,"title":"Live Music by Marc Ribot","start_time":"2026-10-09T20:00:00.000-04:00","end_time":"2026-10-09T20:00:00.000-04:00","date_override":"Fri, Oct 9, 2026, 6:30 pm, 8 pm","url":"/events/marc-ribot-oct9","open_to":"","parent_id":63184,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65888,"description":"\u003cp\u003e\u003cstrong\u003e6:30 pm\u003cbr\u003e8 pm\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eJoin the Whitney for a performance by Marc Ribot at \u003ca href=\"/visit/free-friday-nights\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eFree Friday Nights\u003c/a\u003e, co-presented by Brooklyn-based performance venue and community space \u003ca href=\"https://publicrecords.nyc/\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ePublic Records\u003c/a\u003e.\u0026nbsp;\u003c/p\u003e\u003cp\u003eMarc Ribot, who The New York Times describes as “a deceptively articulate artist who uses inarticulateness as an expressive device,” has released 25 albums under his own name over a 40-year career, exploring everything from the pioneering jazz of Albert Ayler to the Cuban son of Arsenio Rodríguez. In 2025, Ribot released “Map of a Blue City,” a collection of songs that features Ribot’s imaginative playing and leads to what may be his definitive statement as an instrumentalist, as a songwriter, and even as a singer. Jazzwise Magazine’s 4-star review states, “Ribot needs no introduction. But nothing prepares us for Map of a Blue City... Beyond jazz, steeped in humanity... an album of the year.”\u003c/p\u003e\u003cp\u003eAdmission is free to all visitors every Friday evening from 5–10 pm. In addition to music, join us for world-class \u003ca href=\"/exhibitions\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eexhibitions\u003c/a\u003e of contemporary American art, cocktails with views at \u003ca href=\"/visit/dining\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eStudio Bar\u003c/a\u003e, and more.\u003c/p\u003e","created_at":"2026-09-17T17:18:03.237-04:00","updated_at":"2026-09-23T16:43:31.122-04:00"},"relationships":{"parent":{"data":{"id":"63184","type":"event"}},"exhibitions":{"data":[]}}},{"id":"63184","type":"event","attributes":{"id":63184,"title":"Live Music by Marc Ribot","start_time":"2026-10-09T18:30:00.000-04:00","end_time":"2026-10-09T18:30:00.000-04:00","date_override":"Fri, Oct 9, 2026, 6:30 pm, 8 pm","url":"/events/marc-ribot-oct9","open_to":"","parent_id":null,"repeats":null,"repeat_end_date":"2026-10-10","repeat_days":{"0":{"day":"Friday","start_time":"20:00","end_time":"20:00"}},"primary_media_id":65888,"description":"\u003cp\u003e\u003cstrong\u003e6:30 pm\u003cbr\u003e8 pm\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eJoin the Whitney for a performance by Marc Ribot at \u003ca href=\"/visit/free-friday-nights\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eFree Friday Nights\u003c/a\u003e, co-presented by Brooklyn-based performance venue and community space \u003ca href=\"https://publicrecords.nyc/\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ePublic Records\u003c/a\u003e.\u0026nbsp;\u003c/p\u003e\u003cp\u003eMarc Ribot, who The New York Times describes as “a deceptively articulate artist who uses inarticulateness as an expressive device,” has released 25 albums under his own name over a 40-year career, exploring everything from the pioneering jazz of Albert Ayler to the Cuban son of Arsenio Rodríguez. In 2025, Ribot released “Map of a Blue City,” a collection of songs that features Ribot’s imaginative playing and leads to what may be his definitive statement as an instrumentalist, as a songwriter, and even as a singer. Jazzwise Magazine’s 4-star review states, “Ribot needs no introduction. But nothing prepares us for Map of a Blue City... Beyond jazz, steeped in humanity... an album of the year.”\u003c/p\u003e\u003cp\u003eAdmission is free to all visitors every Friday evening from 5–10 pm. In addition to music, join us for world-class \u003ca href=\"/exhibitions\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eexhibitions\u003c/a\u003e of contemporary American art, cocktails with views at \u003ca href=\"/visit/dining\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eStudio Bar\u003c/a\u003e, and more.\u003c/p\u003e","created_at":"2026-09-17T17:14:56.835-04:00","updated_at":"2026-09-23T16:43:31.068-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[]}}},{"id":"63033","type":"event","attributes":{"id":63033,"title":"Whitney Descriptions Online: Minnie Evans","start_time":"2026-10-03T11:30:00.000-04:00","end_time":"2026-10-03T13:00:00.000-04:00","date_override":"","url":"/events/whitney-descriptions-online-minnie-evans","open_to":"Open to blind and low vision visitors","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65303,"description":"\u003cp\u003eJoin us for a virtual program featuring \u003ca href=\"/exhibitions/the-lost-world\"\u003e\u003cem\u003eThe Lost World: the Art of Minnie Evans\u003c/em\u003e\u003c/a\u003e, led by educator Stina Puotinen. The tour begins at 11:30 am on Zoom.  \u003c/p\u003e\u003cp\u003eWhitney Descriptions Online provides an opportunity for visitors who are blind or have low vision to experience the richness and diversity of twentieth- and twenty-first-century American art through vivid description. Ninety-minute sessions are free of charge and are offered monthly on weekend mornings through Zoom and over the phone.\u003c/p\u003e\u003cp\u003eFor all accommodations, please email \u003ca href=\"mailto:accessfeedback@whitney.org\"\u003eaccessfeedback@whitney.org\u003c/a\u003e or call (646) 666-5574 with two weeks’ notice.\u003c/p\u003e","created_at":"2026-09-14T11:53:48.828-04:00","updated_at":"2026-09-23T16:32:41.064-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2326","type":"exhibition"}]}}},{"id":"62860","type":"event","attributes":{"id":62860,"title":"Art + You","start_time":"2026-10-02T17:30:00.000-04:00","end_time":"2026-10-02T18:30:00.000-04:00","date_override":"","url":"/events/art-and-you-oct2","open_to":"","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65884,"description":"\u003cp\u003eJoin us for a conversation about \u003ca href=\"/exhibitions/2026-biennial/art?section=28\"\u003eAziz Hazara\u003c/a\u003e’s \u003cem\u003eMoon Sightings\u003c/em\u003e (2024) in the \u003ca href=\"/exhibitions/2026-biennial\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eWhitney Biennial 2026\u003c/em\u003e\u003c/a\u003e. Hazara’s work uses found materials and images drawn from night vision goggles that remained in Afghanistan in the aftermath of the American withdrawal. Together, we will use art as a window to explore the disruptions of war and surveillance alongside memory, place, and the limits of power and knowledge.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/education/public-programs/courses/art-you\"\u003eArt + You\u003c/a\u003e welcomes younger adults to share thoughts on artworks on view through close looking and dialogue. These gatherings are a unique way to experience art at the Whitney and make new connections.\u0026nbsp;\u003c/p\u003e\u003cp lang=\"EN-US\"\u003eUpcoming Art + You programs will take place on:\u003cbr\u003eNovember 6\u003cbr\u003eDecember 4\u003cbr\u003eJanuary 8\u003c/p\u003e\u003cp\u003eFacilitator:\u003cbr\u003e\u003cstrong\u003eCaitlin Chan\u003c/strong\u003e is a Ph.D. candidate in Art History at Stanford University. Her research on modern and contemporary American art is driven by questions of permanence, irrevocability, and wonder. At Stanford, Caitlin is a recipient of the Jeanette and William Hayden Jones Fellowship in American Art and Culture. She is also a Leadership in Inclusive Teaching fellow at Stanford's Center for Teaching and Learning. Previously, Caitlin has worked at the Hirshhorn Museum and Sculpture Garden, Gallery 102, and Christie’s Auction House.\u003c/p\u003e","created_at":"2026-09-14T11:41:16.498-04:00","updated_at":"2026-09-16T14:33:27.722-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2294","type":"exhibition"}]}}},{"id":"61960","type":"event","attributes":{"id":61960,"title":"Contemporaries Tours of Roy Lichtenstein: Like New","start_time":"2026-11-16T20:15:00.000-05:00","end_time":"2026-11-16T20:15:00.000-05:00","date_override":"","url":"/events/contemporaries-tours-lichtenstein","open_to":"Contemporaries and Contemporaries Patron members","parent_id":61958,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65726,"description":"\u003cp\u003e\u003cstrong\u003eMonday, November 16\u003cbr\u003e\u003c/strong\u003e7:45 pm, 8:15 pm\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThursday, March 11\u003c/strong\u003e\u003cbr\u003eTimes to be announced.\u003c/p\u003e\u003cp\u003eMembers are invited to join us for an evening tour of \u003ca href=\"/exhibitions/lichtenstein\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e.\u0026nbsp;Experience\u0026nbsp;a guided look at the first major exhibition in more than thirty years dedicated to the American artist who shaped Pop art.\u003c/p\u003e\u003cp\u003eThese fifty-minute tours with Museum Educators are preceded by a light reception. Registration will open closer to each event date.\u003c/p\u003e","created_at":"2026-08-06T10:52:59.425-04:00","updated_at":"2026-09-16T11:06:26.942-04:00"},"relationships":{"parent":{"data":{"id":"61958","type":"event"}},"exhibitions":{"data":[{"id":"2434","type":"exhibition"},{"id":"2442","type":"exhibition"}]}}},{"id":"61958","type":"event","attributes":{"id":61958,"title":"Contemporaries Tours of Roy Lichtenstein: Like New","start_time":"2026-11-16T19:45:00.000-05:00","end_time":"2026-11-16T19:45:00.000-05:00","date_override":"","url":"/events/contemporaries-tours-lichtenstein","open_to":"Contemporaries and Contemporaries Patron members","parent_id":null,"repeats":null,"repeat_end_date":"2026-11-16","repeat_days":{"0":{"day":"Monday","start_time":"20:15","end_time":""}},"primary_media_id":65726,"description":"\u003cp\u003e\u003cstrong\u003eMonday, November 16\u003cbr\u003e\u003c/strong\u003e7:45 pm, 8:15 pm\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThursday, March 11\u003c/strong\u003e\u003cbr\u003eTimes to be announced.\u003c/p\u003e\u003cp\u003eMembers are invited to join us for an evening tour of \u003ca href=\"/exhibitions/lichtenstein\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e.\u0026nbsp;Experience\u0026nbsp;a guided look at the first major exhibition in more than thirty years dedicated to the American artist who shaped Pop art.\u003c/p\u003e\u003cp\u003eThese fifty-minute tours with Museum Educators are preceded by a light reception. Registration will open closer to each event date.\u003c/p\u003e","created_at":"2026-08-06T10:37:00.284-04:00","updated_at":"2026-09-16T11:06:26.504-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2434","type":"exhibition"},{"id":"2442","type":"exhibition"}]}}},{"id":"61957","type":"event","attributes":{"id":61957,"title":"Halloween Member Night: Pop Party","start_time":"2026-10-28T19:00:00.000-04:00","end_time":"2026-10-28T21:30:00.000-04:00","date_override":"","url":"/events/member-night-pop-party-oct25","open_to":"Open to all Members","parent_id":null,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65882,"description":"\u003cp\u003eCelebrate \u003ca href=\"/exhibitions/lichtenstein\"\u003e\u003c/a\u003e\u003ca href=\"/exhibitions/lichtenstein\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u0026nbsp;\u003c/em\u003eand the artist’s 103rd birthday with a special costume party! Members are invited to experience our full exhibition lineup after hours with artmaking, live music, and more. Artful costumes encouraged—take inspiration from Roy and Dorothy Lichtenstein’s reimagining of Pop art celebrities Andy Warhol and Edie Sedgwick and join us as your favorite artist, artwork, or icon that inspires you.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eExhibitions\u003c/strong\u003e\u003cbr\u003eEnjoy after-hours access to the galleries and mini tours throughout the evening.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/exhibitions/coumba-samba\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eCoumba Samba: Stars and Stripes\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u003cbr\u003e\u003c/em\u003eFloor 1\u003c/p\u003e\u003cp\u003e\u003ca href=\"/exhibitions/lichtenstein-1997\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eRoy Lichtenstein: 1997\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u003cbr\u003e\u003c/em\u003eFloor 3\u003c/p\u003e\u003cp\u003e\u003ca href=\"/exhibitions/lichtenstein\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eRoy Lichtenstein: Like New\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u003cbr\u003e\u003c/em\u003eFloor 5\u003c/p\u003e\u003cp\u003e\u003ca href=\"/exhibitions/untitled-america\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003e“Untitled” (America)\u003c/em\u003e\u003c/a\u003e\u003cem\u003e\u003cbr\u003e\u003c/em\u003eFloor 7\u003c/p\u003e\u003cp\u003e\u003ca href=\"/exhibitions/the-lost-world\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cem\u003eThe Lost World: The Art of Minnie Evans\u003c/em\u003e\u003c/a\u003e\u003cbr\u003eFloor 8\u003c/p\u003e","created_at":"2026-08-06T10:29:30.566-04:00","updated_at":"2026-09-16T11:04:25.653-04:00"},"relationships":{"parent":{"data":null},"exhibitions":{"data":[{"id":"2301","type":"exhibition"},{"id":"2326","type":"exhibition"},{"id":"2429","type":"exhibition"},{"id":"2434","type":"exhibition"},{"id":"2436","type":"exhibition"}]}}},{"id":"63182","type":"event","attributes":{"id":63182,"title":"Storytime","start_time":"2026-10-11T11:00:00.000-04:00","end_time":"2026-10-11T11:30:00.000-04:00","date_override":"","url":"/events/storytime","open_to":"Open to all ages","parent_id":61415,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65300,"description":"\u003cp\u003eThe Whitney Free Second Sundays Storytime series continues strong, teaming up with independent bookstores to showcase diverse voices and fresh perspectives that will captivate our youngest visitors.\u003c/p\u003e\u003cp\u003eWe're excited to launch a fantastic four-month partnership with Librería Comunitaria Barco de Papel and Centro Cultural, a vibrant community-run bookstore and cultural center. Their mission is to bring the magic of the Spanish language and bilingual literature to the heart of Flushing and Elmhurst, Queens—and now, right here at the Whitney!\u003c/p\u003e\u003cp\u003eJoin us for Storytime with the incredible Paula Ortiz, co-founder of Barco de Papel, along with our passionate volunteer readers. They'll be bringing to life stunning art-inspired books that celebrate the beauty of storytelling in both Spanish and English. Don’t miss out on this unforgettable experience—be a part of a celebration that honors the future of storytelling with us!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEn español\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLa serie Hora del Cuento, parte del Segundo domingo gratuito del Whitney, sigue creciendo, en colaboración con librerías independientes para destacar voces diversas y nuevas perspectivas que cautivarán a nuestros visitantes más jóvenes.\u003c/p\u003e\u003cp\u003eNos entusiasma dar inicio a una fantástica colaboración de cuatro meses con Barco de Papel, una vibrante librería y centro cultural gestionada por la comunidad. Su misión es llevar la magia del idioma español y la literatura bilingüe al corazón de Flushing y Elmhurst, Queens, ¡y ahora también aquí, en el Whitney!\u003c/p\u003e\u003cp\u003eAcompáñanos en la Hora del Cuento con la increíble Paula Ortiz, cofundadora de Barco de Papel, junto con nuestros apasionados lectores voluntarios. Darán vida a maravillosos libros inspirados en arte, que celebran la belleza de la narración tanto en español como en inglés. No te pierdas esta inolvidable experiencia: ¡sé parte de una celebración que honra el futuro de la narración de cuentos!\u003c/p\u003e","created_at":"2026-09-15T14:27:00.134-04:00","updated_at":"2026-09-15T14:27:15.341-04:00"},"relationships":{"parent":{"data":{"id":"61415","type":"event"}},"exhibitions":{"data":[]}}},{"id":"63172","type":"event","attributes":{"id":63172,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-11T13:00:00.000-04:00","end_time":"2026-10-11T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.517-04:00","updated_at":"2026-09-14T16:46:46.681-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"63171","type":"event","attributes":{"id":63171,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-10T13:00:00.000-04:00","end_time":"2026-10-10T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.401-04:00","updated_at":"2026-09-14T16:46:46.670-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"63170","type":"event","attributes":{"id":63170,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-09T13:00:00.000-04:00","end_time":"2026-10-09T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.356-04:00","updated_at":"2026-09-14T16:46:46.658-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"63167","type":"event","attributes":{"id":63167,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-04T13:00:00.000-04:00","end_time":"2026-10-04T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.216-04:00","updated_at":"2026-09-14T16:46:46.647-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"63166","type":"event","attributes":{"id":63166,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-03T13:00:00.000-04:00","end_time":"2026-10-03T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.081-04:00","updated_at":"2026-09-14T16:46:46.636-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"63165","type":"event","attributes":{"id":63165,"title":"Exhibition Tour: Whitney Biennial 2026","start_time":"2026-10-02T13:00:00.000-04:00","end_time":"2026-10-02T13:00:00.000-04:00","date_override":"","url":"/events/tour-whitney-biennial-2026-floor6","open_to":"","parent_id":56806,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":64589,"description":"\u003cp\u003eGallery tours through the Whitney’s current exhibitions are offered each day. Join a museum docent for insight into the works on view. See \u003ca href=\"/events?tags[]=free_tours\"\u003eevents calendar\u003c/a\u003e for timings.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTours are free with Museum admission. No reservations are necessary, but capacity is limited to twenty-five people on a first-come, first-served basis. Tours meet in the galleries.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T16:46:11.025-04:00","updated_at":"2026-09-14T16:46:46.624-04:00"},"relationships":{"parent":{"data":{"id":"56806","type":"event"}},"exhibitions":{"data":[{"id":"2294","type":"exhibition"},{"id":"2444","type":"exhibition"}]}}},{"id":"62859","type":"event","attributes":{"id":62859,"title":"15-Minute Tour: \u003cem\u003eThe Lost World: The Art of Minnie Evans\u003c/em\u003e","start_time":"2027-01-10T14:30:00.000-05:00","end_time":"2027-01-10T14:30:00.000-05:00","date_override":"","url":"/events/minnie-evans-15-min-tours","open_to":"","parent_id":62792,"repeats":null,"repeat_end_date":null,"repeat_days":{},"primary_media_id":65257,"description":"\u003cp\u003e\u003ca href=\"/visit/free-friday-nights\" target=\"_blank\" rel=\"noreferrer noopener\"\u003e\u003cstrong\u003eFree Friday Nights\u003c/strong\u003e\u003c/a\u003e\u003cstrong\u003e, 8 pm, 8:30 pm\u0026nbsp;\u003cbr\u003e\u003ca href=\"/visit/second-sundays\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eFree Second Sundays\u003c/a\u003e, 2 pm, 2:30 pm\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eJoin a Whitney Educator in the galleries for 15- to 20-minute tours of select artworks featured in \u003ca href=\"/exhibitions/the-lost-world\"\u003e\u003cem\u003eThe Lost World: The Art of Minnie Evans\u003c/em\u003e\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eFree with Museum admission. No reservations are necessary, but capacity is limited to twenty people on a first-come, first-served basis.\u0026nbsp;\u003c/p\u003e\u003cp\u003eTimes and locations are subject to change or cancellation. Please confirm daily tour times on our \u003ca href=\"/events\" target=\"_blank\" rel=\"noreferrer noopener\"\u003ecalendar\u003c/a\u003e.\u003c/p\u003e","created_at":"2026-09-14T11:29:17.001-04:00","updated_at":"2026-09-14T15:54:09.391-04:00"},"relationships":{"parent":{"data":{"id":"62792","type":"event"}},"exhibitions":{"data":[{"id":"2326","type":"exhibition"}]}}}],"meta":{"total":339},"links":{"prev":null,"next":"https://whitney.org/api/events?page=2\u0026q%5Bstart_time_gteq%5D=2026-10-01","first":"https://whitney.org/api/events?page=1\u0026q%5Bstart_time_gteq%5D=2026-10-01","last":"https://whitney.org/api/events?page=12\u0026q%5Bstart_time_gteq%5D=2026-10-01"}}
+[
+  {
+    "performances": [
+      "2026-10-13T17:00:00-04:00",
+      "2026-10-13T19:00:00-04:00",
+      "2026-10-13T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-13",
+    "date": "2026-10-13T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T13:15:00-04:00",
+      "2026-10-17T16:15:00-04:00",
+      "2026-10-17T18:45:00-04:00",
+      "2026-10-17T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-16T13:15:00-04:00",
+      "2026-10-16T16:15:00-04:00",
+      "2026-10-16T18:45:00-04:00",
+      "2026-10-16T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-16",
+    "date": "2026-10-16T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-15T16:15:00-04:00",
+      "2026-10-15T18:45:00-04:00",
+      "2026-10-15T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-16T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 1030,
+    "day": "2026-10-16",
+    "date": "2026-10-16T00:00:00-04:00",
+    "genres": "Film",
+    "name": "La Gradiva",
+    "desc": "An evocative coming-of-age travel drama, where the force of youth meets a world frozen in time.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_lagradiva.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_lagradiva.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/lagradiva/",
+    "moreLink": "/film/2026/newfest-la-gravida",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-22T16:00:00-04:00",
+      "2026-10-22T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-22",
+    "date": "2026-10-22T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-21T16:00:00-04:00",
+      "2026-10-21T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-21",
+    "date": "2026-10-21T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-20T16:00:00-04:00",
+      "2026-10-20T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-20",
+    "date": "2026-10-20T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-19T16:00:00-04:00",
+      "2026-10-19T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-19",
+    "date": "2026-10-19T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-18T13:00:00-04:00",
+      "2026-10-18T16:00:00-04:00",
+      "2026-10-18T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-18",
+    "date": "2026-10-18T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T13:00:00-04:00",
+      "2026-10-17T16:00:00-04:00",
+      "2026-10-17T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-16T13:00:00-04:00",
+      "2026-10-16T16:00:00-04:00",
+      "2026-10-16T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-16",
+    "date": "2026-10-16T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-15T16:00:00-04:00",
+      "2026-10-15T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "7:45pm"
+    ],
+    "id": 58645,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Film",
+    "name": "You Can See Everything",
+    "desc": "Tech founder Elizabeth Holmes invites Nathan Fielder to film her before she&amp;rsquo;s sent to prison.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/you-can-see-everything.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58645",
+    "moreLink": "/film/2026/you-can-see-everything",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-15T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58362,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Les Vagues dans les yeux (Waves in the Eyes)",
+    "desc": "This trilogy follows Haitians left behind by loved ones in pursuit of the American Dream.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/waves-in-the-eyes.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/waves-in-the-eyes.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58362",
+    "moreLink": "/film/2026/caribbean-film-series2-les-vagues",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-18T13:15:00-04:00",
+      "2026-10-18T16:15:00-04:00",
+      "2026-10-18T18:45:00-04:00",
+      "2026-10-18T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-18",
+    "date": "2026-10-18T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-14T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58360,
+    "day": "2026-10-14",
+    "date": "2026-10-14T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Calle Cuba",
+    "desc": "Four women embody both the resilience and fragility of Cuba&amp;rsquo;s Old Havana.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/calle-cuba.jpg?center=0.37,0.41&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/caribbean-film-series/calle-cuba.jpg?center=0.37,0.41&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58360",
+    "moreLink": "/film/2026/caribbean-film-series2-calle-cuba",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-12T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58349,
+    "day": "2026-10-12",
+    "date": "2026-10-12T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Drinking and Driving",
+    "desc": "Four aimless twentysomethings drift through summertime malaise.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58349",
+    "moreLink": "/film/2026/drinking-and-driving",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-11T17:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm"
+    ],
+    "id": 58349,
+    "day": "2026-10-11",
+    "date": "2026-10-11T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Drinking and Driving",
+    "desc": "Four aimless twentysomethings drift through summertime malaise.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58349",
+    "moreLink": "/film/2026/drinking-and-driving",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-13T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58354,
+    "day": "2026-10-13",
+    "date": "2026-10-13T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+    "desc": "Experience the latest chapter of visionary auteur Louise Weard&amp;rsquo;s multi-part postmodern epic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58354",
+    "moreLink": "/film/2026/castration-movie3",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-12T16:15:00-04:00",
+      "2026-10-12T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "9:30pm"
+    ],
+    "id": 58354,
+    "day": "2026-10-12",
+    "date": "2026-10-12T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+    "desc": "Experience the latest chapter of visionary auteur Louise Weard&amp;rsquo;s multi-part postmodern epic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58354",
+    "moreLink": "/film/2026/castration-movie3",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-11T14:00:00-04:00"
+    ],
+    "performancesShort": [
+      "2pm"
+    ],
+    "id": 58354,
+    "day": "2026-10-11",
+    "date": "2026-10-11T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+    "desc": "Experience the latest chapter of visionary auteur Louise Weard&amp;rsquo;s multi-part postmodern epic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/castration-movie-chapter-iii-junior-ghosts-premorp-still-1.jpeg?center=0.33,0.71&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58354",
+    "moreLink": "/film/2026/castration-movie3",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-10T12:00:00-04:00"
+    ],
+    "performancesShort": [
+      "12pm"
+    ],
+    "id": 58824,
+    "day": "2026-10-10",
+    "date": "2026-10-10T00:00:00-04:00",
+    "genres": "Film",
+    "name": "New Negress Film Society presents Black Women's Film Conference 2026",
+    "desc": "Explore Black cinema at the intersections of history, filmmaking, and political action.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/black-womens-film/v2/bwfc-2026-marketing-v32.jpg.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/black-womens-film/v2/bwfc-2026-marketing-v32.jpg.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58824",
+    "moreLink": "/film/2026/new-negress-film-society",
+    "onGoing": false,
+    "buyLabel": "RSVP"
+  },
+  {
+    "performances": [
+      "2026-10-15T17:00:00-04:00",
+      "2026-10-15T19:00:00-04:00",
+      "2026-10-15T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-14T17:00:00-04:00",
+      "2026-10-14T19:00:00-04:00",
+      "2026-10-14T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-14",
+    "date": "2026-10-14T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-12T17:00:00-04:00",
+      "2026-10-12T19:00:00-04:00",
+      "2026-10-12T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-12",
+    "date": "2026-10-12T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-10T13:00:00-04:00",
+      "2026-10-10T15:00:00-04:00",
+      "2026-10-10T17:00:00-04:00",
+      "2026-10-10T19:00:00-04:00",
+      "2026-10-10T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "3pm",
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-10",
+    "date": "2026-10-10T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-09T13:00:00-04:00",
+      "2026-10-09T15:00:00-04:00",
+      "2026-10-09T17:00:00-04:00",
+      "2026-10-09T19:00:00-04:00",
+      "2026-10-09T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "3pm",
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-09",
+    "date": "2026-10-09T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T17:00:00-04:00",
+      "2026-10-08T19:00:00-04:00",
+      "2026-10-08T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T20:15:00-04:00"
+    ],
+    "performancesShort": [
+      "8:15pm"
+    ],
+    "id": 58163,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The Dreamed Adventure",
+    "desc": "A middle-aged archaeologist&#39;s search for a former flame spirals into a crime saga.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/the-dreamed-adventure.jpeg?center=0.32,0.41&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/the-dreamed-adventure.jpeg?center=0.32,0.41&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58163",
+    "moreLink": "/film/2026/nyff-dreamed-adventure",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-13T16:30:00-04:00",
+      "2026-10-13T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "9:30pm"
+    ],
+    "id": 58349,
+    "day": "2026-10-13",
+    "date": "2026-10-13T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Drinking and Driving",
+    "desc": "Four aimless twentysomethings drift through summertime malaise.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/castration-film/drinking-and-driving.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58349",
+    "moreLink": "/film/2026/drinking-and-driving",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-19T16:15:00-04:00",
+      "2026-10-19T18:45:00-04:00",
+      "2026-10-19T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-19",
+    "date": "2026-10-19T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-20T16:15:00-04:00",
+      "2026-10-20T18:45:00-04:00",
+      "2026-10-20T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-20",
+    "date": "2026-10-20T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-21T16:15:00-04:00",
+      "2026-10-21T18:45:00-04:00",
+      "2026-10-21T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-21",
+    "date": "2026-10-21T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-28T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "9:30pm"
+    ],
+    "id": 58622,
+    "day": "2026-10-28",
+    "date": "2026-10-28T00:00:00-04:00",
+    "genres": "Film",
+    "name": "When I Get Home + Corpus: A Home Movie About Selena ",
+    "desc": "Solange Knowles&amp;rsquo; portrait of her hometown and a pioneering documentary about popstar Selena.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/coprus-a-home-movie-for-selena.jpeg?center=0.39,0.31&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/coprus-a-home-movie-for-selena.jpeg?center=0.39,0.31&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58622",
+    "moreLink": "/film/2026/area-coded-when-i",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-27T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58618,
+    "day": "2026-10-27",
+    "date": "2026-10-27T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Move Ya Body: the Birth of House",
+    "desc": "This doc traces the underground roots of one of modern music&amp;rsquo;s most enduring genres.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/move-ya-body.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/move-ya-body.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58618",
+    "moreLink": "/film/2026/area-coded-move-ya",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-27T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "9:30pm"
+    ],
+    "id": 58443,
+    "day": "2026-10-27",
+    "date": "2026-10-27T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Paydirt ",
+    "desc": "A struggling Oregon vintner couple turns to an unlikely cash crop: marijuana",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/paydirt.jpeg?center=0.31,0.22&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/paydirt.jpeg?center=0.31,0.22&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58443",
+    "moreLink": "/film/2026/area-coded-paydirt",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-26T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58616,
+    "day": "2026-10-26",
+    "date": "2026-10-26T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Run, Tecato Run",
+    "desc": "A junkie tries to get off heroin to raise his daughter in this film based on true events.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/run-tecato-run.jpeg?center=0.6,0.24&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/run-tecato-run.jpeg?center=0.6,0.24&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58616",
+    "moreLink": "/film/2026/area-coded-run-tecato",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-26T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "9pm"
+    ],
+    "id": 58440,
+    "day": "2026-10-26",
+    "date": "2026-10-26T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Bitterroot",
+    "desc": "Recently divorced Lue must confront the buried pain that destroyed his marriage.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/bitterroot.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/bitterroot.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58440",
+    "moreLink": "/film/2026/area-coded-bitterroot",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-28T16:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm"
+    ],
+    "id": 58613,
+    "day": "2026-10-28",
+    "date": "2026-10-28T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ruby in Paradise",
+    "desc": "A young Tennessee woman starts anew in Florida and encounters pleasures and pitfalls.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/ruby-in-paradise.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/ruby-in-paradise.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58613",
+    "moreLink": "/film/2026/area-coded-ruby-in-paradise",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-25T20:00:00-04:00"
+    ],
+    "performancesShort": [
+      "8pm"
+    ],
+    "id": 58613,
+    "day": "2026-10-25",
+    "date": "2026-10-25T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ruby in Paradise",
+    "desc": "A young Tennessee woman starts anew in Florida and encounters pleasures and pitfalls.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/ruby-in-paradise.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/ruby-in-paradise.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58613",
+    "moreLink": "/film/2026/area-coded-ruby-in-paradise",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-25T16:00:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm"
+    ],
+    "id": 58611,
+    "day": "2026-10-25",
+    "date": "2026-10-25T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Giant",
+    "desc": "Elizabeth Taylor and James Dean star in a saga of jealousy and racism in the vast Texas oilfields.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/giant_crop.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/giant_crop.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58611",
+    "moreLink": "/film/2026/area-coded-giant",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-25T13:30:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm"
+    ],
+    "id": 58609,
+    "day": "2026-10-25",
+    "date": "2026-10-25T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Wilmington 10 – U.S.A. 10,000",
+    "desc": "This doc debut examines the wrongful conviction of nine Black men and one white woman in 1971.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/wilmington-10.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/wilmington-10.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58609",
+    "moreLink": "/film/2026/area-coded-wilmington",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-24T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "9pm"
+    ],
+    "id": 58607,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Brigham City",
+    "desc": "In this portrait of Mormon life, an idyllic Utah town faces its first murder.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/brigham-city.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/brigham-city.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58607",
+    "moreLink": "/film/2026/area-coded-brigham-city",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-27T16:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm"
+    ],
+    "id": 58601,
+    "day": "2026-10-27",
+    "date": "2026-10-27T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Grey Gardens",
+    "desc": "See the cult classic doc, an impossibly intimate portrait of a reclusive mother and daughter.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/grey-gardens.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/grey-gardens.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58601",
+    "moreLink": "/film/2026/area-coded-grey-gardens",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-24T13:30:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm"
+    ],
+    "id": 58601,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Grey Gardens",
+    "desc": "See the cult classic doc, an impossibly intimate portrait of a reclusive mother and daughter.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/grey-gardens.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/grey-gardens.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58601",
+    "moreLink": "/film/2026/area-coded-grey-gardens",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-29T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 55637,
+    "day": "2026-10-29",
+    "date": "2026-10-29T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Eve’s Bayou",
+    "desc": "A young girl witnesses secrets and deceptions tearing her wealthy Louisiana family apart.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eve_s-bayou.jpg?center=0.41,0.65&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eve_s-bayou.jpg?center=0.41,0.65&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55637",
+    "moreLink": "/film/2026/area-coded-eves-bayou",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-24T15:30:00-04:00"
+    ],
+    "performancesShort": [
+      "3:30pm"
+    ],
+    "id": 55637,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Eve’s Bayou",
+    "desc": "A young girl witnesses secrets and deceptions tearing her wealthy Louisiana family apart.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eve_s-bayou.jpg?center=0.41,0.65&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eve_s-bayou.jpg?center=0.41,0.65&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55637",
+    "moreLink": "/film/2026/area-coded-eves-bayou",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-29T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "9:30pm"
+    ],
+    "id": 58604,
+    "day": "2026-10-29",
+    "date": "2026-10-29T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The Texas Chain Saw Massacre",
+    "desc": "This masterpiece of horror has stood the test of time to become a cultural milestone.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/texas-chain-saw-massacre.jpg?center=0.45,0.44&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/texas-chain-saw-massacre.jpg?center=0.45,0.44&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58604",
+    "moreLink": "/film/2026/area-coded-texas-chainsaw",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-24T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58604,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The Texas Chain Saw Massacre",
+    "desc": "This masterpiece of horror has stood the test of time to become a cultural milestone.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/texas-chain-saw-massacre.jpg?center=0.45,0.44&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/texas-chain-saw-massacre.jpg?center=0.45,0.44&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58604",
+    "moreLink": "/film/2026/area-coded-texas-chainsaw",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-23T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "6:45pm"
+    ],
+    "id": 58595,
+    "day": "2026-10-23",
+    "date": "2026-10-23T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Shakedown",
+    "desc": "Follow the happenings of Shakedown, an underground LA stripclub and party for Black lesbians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/shakedown.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/shakedown.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58595",
+    "moreLink": "/film/2026/area-coded-shakedown",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-29T16:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm"
+    ],
+    "id": 58598,
+    "day": "2026-10-29",
+    "date": "2026-10-29T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Eyes of Fire",
+    "desc": "A rogue 18th century preacher and his followers attempt to establish a settlement.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eyes-of-fire.jpg?center=0.49,0.72&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eyes-of-fire.jpg?center=0.49,0.72&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58598",
+    "moreLink": "/film/2026/area-coded-eyes-of-fire",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-23T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "9:15pm"
+    ],
+    "id": 58598,
+    "day": "2026-10-23",
+    "date": "2026-10-23T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Eyes of Fire",
+    "desc": "A rogue 18th century preacher and his followers attempt to establish a settlement.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eyes-of-fire.jpg?center=0.49,0.72&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/eyes-of-fire.jpg?center=0.49,0.72&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58598",
+    "moreLink": "/film/2026/area-coded-eyes-of-fire",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-22T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 1021,
+    "day": "2026-10-22",
+    "date": "2026-10-22T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Elephants in the Fog",
+    "desc": "When Pirati&amp;rsquo;s daughter disappears, she must choose between love and responsibility.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_elephants.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_elephants.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/elephantsinthefog/",
+    "moreLink": "/film/2026/newfest-elephants",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-21T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 1022,
+    "day": "2026-10-21",
+    "date": "2026-10-21T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Masc",
+    "desc": "A young autistic man tries on different roles to learn what kind of man he&amp;rsquo;s supposed to be.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_masc.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_masc.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/masc/",
+    "moreLink": "/film/2026/newfest-masc",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-20T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 1020,
+    "day": "2026-10-20",
+    "date": "2026-10-20T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Shorts: Transmissions",
+    "desc": "In this trans-centered shorts program, characters transcend expectation.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/deer-of-9-colors.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/deer-of-9-colors.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/shortstransmissions/",
+    "moreLink": "/film/2026/newfest-shorts-transmissions",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-19T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 1024,
+    "day": "2026-10-19",
+    "date": "2026-10-19T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Shorts: Black Queer Pride NY",
+    "desc": "An encore screening of our NewFest Pride shorts, celebrating the Black LGBTQ+ community.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/black-trans-liberation.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/black-trans-liberation.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/shorts-black-queer-pride-ny-newfest38-edition/",
+    "moreLink": "/film/2026/newfest-shorts-black-queer-pride",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-18T17:30:00-04:00"
+    ],
+    "performancesShort": [
+      "5:30pm"
+    ],
+    "id": 1025,
+    "day": "2026-10-18",
+    "date": "2026-10-18T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Shorts: Sound & Scene Showcase (with Concord)",
+    "desc": "Short films from recipients of the Sound &amp;amp; Scene: NewFest + Concord QTBIPOC Short Film Initiative.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/shorts.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/shorts.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/soundsceneshowcase/",
+    "moreLink": "/film/2026/newfest-shorts-sound",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-18T15:00:00-04:00"
+    ],
+    "performancesShort": [
+      "3pm"
+    ],
+    "id": 1026,
+    "day": "2026-10-18",
+    "date": "2026-10-18T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The Hidden Face of the Earth",
+    "desc": "This doc follows a Parisian photographer altering his practice in the midst of going blind.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/the-hidden-face-of-the-earth_arnaud_alain_outplay_films_still_02.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/the-hidden-face-of-the-earth_arnaud_alain_outplay_films_still_02.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/thehiddenfaceoftheearth/",
+    "moreLink": "/film/2026/newfest-hidden",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T14:00:00-04:00"
+    ],
+    "performancesShort": [
+      "2pm"
+    ],
+    "id": 1028,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Dolly Double Feature: 9 to 5",
+    "desc": "The namesake of Parton&amp;rsquo;s Oscar-nominated song is one of the most hilarious comedies ever made.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/9to5.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/9to5.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/dolly-double-9-to-5-1980/",
+    "moreLink": "/film/2026/newfest-95",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T20:00:00-04:00"
+    ],
+    "performancesShort": [
+      "8pm"
+    ],
+    "id": 1027,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Film",
+    "name": "What Will I Become (Documentary Centerpiece)",
+    "desc": "This moving doc explores trans boyhood and community healing after tragedy.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/wwib-still-1_updatedhero.jpg?center=0.53,0.57&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/wwib-still-1_updatedhero.jpg?center=0.53,0.57&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/what-will-i-become-documentary-centerpiece/",
+    "moreLink": "/film/2026/newfest-what-will",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T17:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm"
+    ],
+    "id": 1029,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Dolly Double Feature: Steel Magnolias",
+    "desc": "A group of bosom buddies navigate life, love, and loss in small-town Louisiana.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_steelmagnolias.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/newfest/0main_steelmagnolias.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newfest.org/events/dolly-double-steel-magnolias-1989/",
+    "moreLink": "/film/2026/newfest-steel",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-22T16:15:00-04:00",
+      "2026-10-22T18:45:00-04:00",
+      "2026-10-22T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58842,
+    "day": "2026-10-22",
+    "date": "2026-10-22T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ken Russell’s The Devils",
+    "desc": "See the uncut and unfiltered theatrical experience Ken Russell envisioned for his 1971 classic.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/ken-russell_s-the-devils.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58842",
+    "moreLink": "/film/2026/the-devils",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T18:00:00-04:00"
+    ],
+    "performancesShort": [
+      "6pm"
+    ],
+    "id": 58161,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Double Freedom",
+    "desc": "The sequel to &lt;em&gt;La Libertad&lt;/em&gt; sees woodcutter Misael now caring for his mentally unstable sister.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/double-freedom.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/double-freedom.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58161",
+    "moreLink": "/film/2026/nyff-double-freedom",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T19:45:00-04:00"
+    ],
+    "performancesShort": [
+      "7:45pm"
+    ],
+    "id": 58165,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Clarissa",
+    "desc": "This adaptation of Virginia Woolf&amp;rsquo;s &lt;em&gt;Mrs. Dalloway&lt;/em&gt; brings the 1925 novel to contemporary Nigeria.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/clarissa.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/clarissa.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58165",
+    "moreLink": "/film/2026/nyff-clarissa",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-11T13:00:00-04:00",
+      "2026-10-11T15:00:00-04:00",
+      "2026-10-11T17:00:00-04:00",
+      "2026-10-11T19:00:00-04:00",
+      "2026-10-11T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1pm",
+      "3pm",
+      "5pm",
+      "7pm",
+      "9pm"
+    ],
+    "id": 58562,
+    "day": "2026-10-11",
+    "date": "2026-10-11T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Naza",
+    "desc": "This haunting doc reveals the systems behind Israel&amp;rsquo;s calculated mass killing of Palestinians.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/naza.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58562",
+    "moreLink": "/film/2026/naza",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T13:30:00-04:00",
+      "2026-10-02T16:20:00-04:00",
+      "2026-10-02T18:50:00-04:00",
+      "2026-10-02T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm",
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T16:30:00-04:00",
+      "2026-10-07T19:00:00-04:00",
+      "2026-10-07T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T16:30:00-04:00",
+      "2026-10-08T19:00:00-04:00",
+      "2026-10-08T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:15:00-04:00",
+      "2026-10-01T18:45:00-04:00",
+      "2026-10-01T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm",
+      "9:15pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T13:15:00-04:00",
+      "2026-10-02T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T13:15:00-04:00",
+      "2026-10-03T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T13:15:00-04:00",
+      "2026-10-04T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T21:00:00-04:00"
+    ],
+    "performancesShort": [
+      "9pm"
+    ],
+    "id": 58267,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Ha-Chan, Shake Your Booty",
+    "desc": "A ballroom dancer returns to the studio after tragedy in this vibrant visual ode to dance.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/ha-chan-shake-your-booty.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/ha-chan#performanceHeader",
+    "moreLink": "/film/2026/ha-chan",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:20:00-04:00",
+      "2026-10-01T18:50:00-04:00",
+      "2026-10-01T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T18:00:00-04:00"
+    ],
+    "performancesShort": [
+      "6pm"
+    ],
+    "id": 58159,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Nitrate Kisses",
+    "desc": "Hammer&amp;rsquo;s pioneering first feature boldly pulls back the curtain on the queer experience.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/nitrate-kisses_crop.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/nitrate-kisses_crop.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58159",
+    "moreLink": "/film/2026/nyff-nitrate-kisses",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T13:30:00-04:00",
+      "2026-10-03T16:20:00-04:00",
+      "2026-10-03T18:50:00-04:00",
+      "2026-10-03T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm",
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T13:30:00-04:00",
+      "2026-10-04T16:20:00-04:00",
+      "2026-10-04T18:50:00-04:00",
+      "2026-10-04T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm",
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T16:20:00-04:00",
+      "2026-10-05T18:50:00-04:00",
+      "2026-10-05T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T16:20:00-04:00",
+      "2026-10-06T18:50:00-04:00",
+      "2026-10-06T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T16:30:00-04:00",
+      "2026-10-06T19:00:00-04:00",
+      "2026-10-06T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T16:30:00-04:00",
+      "2026-10-05T19:00:00-04:00",
+      "2026-10-05T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T13:45:00-04:00",
+      "2026-10-04T16:30:00-04:00",
+      "2026-10-04T19:00:00-04:00",
+      "2026-10-04T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "1:45pm",
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T13:30:00-04:00",
+      "2026-10-03T16:40:00-04:00",
+      "2026-10-03T19:00:00-04:00",
+      "2026-10-03T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "1:30pm",
+      "4:40pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:10:00-04:00",
+      "2026-10-01T18:50:00-04:00",
+      "2026-10-01T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:10pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T13:50:00-04:00",
+      "2026-10-02T16:40:00-04:00",
+      "2026-10-02T19:00:00-04:00",
+      "2026-10-02T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "1:50pm",
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T19:10:00-04:00",
+      "2026-10-03T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "7:10pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T13:50:00-04:00",
+      "2026-10-04T16:40:00-04:00",
+      "2026-10-04T19:00:00-04:00",
+      "2026-10-04T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "1:50pm",
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T16:40:00-04:00",
+      "2026-10-05T19:00:00-04:00",
+      "2026-10-05T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T16:40:00-04:00",
+      "2026-10-06T19:00:00-04:00",
+      "2026-10-06T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T16:40:00-04:00",
+      "2026-10-07T19:00:00-04:00",
+      "2026-10-07T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T16:20:00-04:00",
+      "2026-10-07T18:50:00-04:00",
+      "2026-10-07T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T16:40:00-04:00",
+      "2026-10-08T19:00:00-04:00",
+      "2026-10-08T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:40pm",
+      "7pm",
+      "9:15pm"
+    ],
+    "id": 58416,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Resident Evil",
+    "desc": "Zach Cregger (&lt;em&gt;Weapons&lt;/em&gt;, &lt;em&gt;Barbarian&lt;/em&gt;) delivers an action-packed, non-stop race for survival.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/resident-evil.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/resident-evil#performanceHeader",
+    "moreLink": "/film/2026/resident-evil",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T16:15:00-04:00",
+      "2026-10-03T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T16:15:00-04:00",
+      "2026-10-04T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T16:00:00-04:00",
+      "2026-10-05T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T16:00:00-04:00",
+      "2026-10-06T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T16:00:00-04:00",
+      "2026-10-07T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:30:00-04:00",
+      "2026-10-01T19:00:00-04:00",
+      "2026-10-01T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T13:45:00-04:00",
+      "2026-10-02T16:30:00-04:00",
+      "2026-10-02T19:00:00-04:00",
+      "2026-10-02T21:30:00-04:00"
+    ],
+    "performancesShort": [
+      "1:45pm",
+      "4:30pm",
+      "7pm",
+      "9:30pm"
+    ],
+    "id": 58309,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Primetime",
+    "desc": "In 2006, &lt;em&gt;To Catch a Predator&lt;/em&gt; host Chris Hansen sets out to make television history.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/primetime.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58309",
+    "moreLink": "/film/2026/primetime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T16:15:00-04:00",
+      "2026-10-02T18:45:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm",
+      "6:45pm"
+    ],
+    "id": 57920,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Chronovisor",
+    "desc": "An academic&amp;rsquo;s obsession with an occult device drags her through NYC&amp;rsquo;s hidden libraries.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/chronovisor.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/chronovisor#performanceHeader",
+    "moreLink": "/film/2026/chronovisor",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T16:20:00-04:00",
+      "2026-10-08T18:50:00-04:00",
+      "2026-10-08T21:10:00-04:00"
+    ],
+    "performancesShort": [
+      "4:20pm",
+      "6:50pm",
+      "9:10pm"
+    ],
+    "id": 58498,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The History of Concrete",
+    "desc": "John Wilson (How To with John Wilson) sets out to make the definitive documentary on concrete.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/the-history-of-concrete-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/the-history-of-concrete#performanceHeader",
+    "moreLink": "/film/2026/the-history-of-concrete",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-28T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 58620,
+    "day": "2026-10-28",
+    "date": "2026-10-28T00:00:00-04:00",
+    "genres": "Film",
+    "name": "The Delta",
+    "desc": "The complexities of race, class, and sexuality collide within a Memphis community.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/the-delta.jpg?center=0.42,0.71&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/area-coded-american-regionalism-in-film/the-delta.jpg?center=0.42,0.71&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58620",
+    "moreLink": "/film/2026/area-coded-the-delta",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T18:30:00-04:00"
+    ],
+    "performancesShort": [
+      "6:30pm"
+    ],
+    "id": 57689,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "25th Hour ",
+    "desc": "On his last day of freedom before a prison sentence, a man visits friends and family in search of redemption.",
+    "img": "/globalassets/programs/cinema/9_cinema-2026/0725/nyc-2000s/25th-hour-2002-promo-still.jpeg?center=0.28,0.26&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/9_cinema-2026/0725/nyc-2000s/25th-hour-2002-promo-still.jpeg?center=0.28,0.26&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57689",
+    "moreLink": "/film/2026/gwb-film-25th-hour",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T20:15:00-04:00"
+    ],
+    "performancesShort": [
+      "8:15pm"
+    ],
+    "id": 58157,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Dao",
+    "desc": "This ecstatic epic plunges into two interconnected ceremonies: a memorial and a wedding.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/dao.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/dao.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58157",
+    "moreLink": "/film/2026/nyff-dao",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T18:00:00-04:00"
+    ],
+    "performancesShort": [
+      "6pm"
+    ],
+    "id": 58155,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Fatherland",
+    "desc": "Novelist Thomas Mann and his daughter embark on a road trip across Germany following WWII.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/fatherland.jpeg?center=0.4,0.55&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/fatherland.jpeg?center=0.4,0.55&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58155",
+    "moreLink": "/film/2026/nyff-fatherland",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T20:45:00-04:00"
+    ],
+    "performancesShort": [
+      "8:45pm"
+    ],
+    "id": 58153,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "What Can’t Be Mentioned + Sounds From Home",
+    "desc": "Sallitt&amp;rsquo;s sequel to &lt;em&gt;The Unspeakable Act&lt;/em&gt; and a portrait of expatriation from Nathan Silver.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/what-can_t-be-mentioned.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/what-can_t-be-mentioned.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58153",
+    "moreLink": "/film/2026/nyff-what-cant-be",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T18:00:00-04:00"
+    ],
+    "performancesShort": [
+      "6pm"
+    ],
+    "id": 58151,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Club Kid",
+    "desc": "A New York scenester discovers he has a 10-year-old British son in this irreverent satire.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/club-kid.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/club-kid.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58151",
+    "moreLink": "/film/2026/nyff-club-kid",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 58149,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Everything Else is Noise",
+    "desc": "A middle-aged composer allows a friend to use her apartment for a television interview.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/everything-else-is-noise.jpeg?center=0.27,0.41&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/everything-else-is-noise.jpeg?center=0.27,0.41&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58149",
+    "moreLink": "/film/2026/nyff-everything-else",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T17:00:00-04:00"
+    ],
+    "performancesShort": [
+      "5pm"
+    ],
+    "id": 58145,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Misty Green",
+    "desc": "A former actress struggles to make ends meet in an unforgiving Hollywood.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/misty-green_01.jpg?center=0.31,0.61&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/misty-green_01.jpg?center=0.31,0.61&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58145",
+    "moreLink": "/film/2026/nyff-misty-green",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T14:00:00-04:00"
+    ],
+    "performancesShort": [
+      "2pm"
+    ],
+    "id": 58143,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Bardi",
+    "desc": "Follow the rugged, fraternal world of horse-riders in central Morocco.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/bardi.jpeg?center=0.41,0.43&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/bardi.jpeg?center=0.41,0.43&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58143",
+    "moreLink": "/film/2026/nyff-bardi",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T19:15:00-04:00"
+    ],
+    "performancesShort": [
+      "7:15pm"
+    ],
+    "id": 58032,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": " Possible Love",
+    "desc": "Two couples from different social strata collide in this story of economic precarity.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/possible-love.jpeg?center=0.5,0.56&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/possible-love.jpeg?center=0.5,0.56&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58032",
+    "moreLink": "/film/2026/nyff-possible-love",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T16:30:00-04:00"
+    ],
+    "performancesShort": [
+      "4:30pm"
+    ],
+    "id": 58030,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": " Everytime",
+    "desc": "After an accident befalls a teenager in Berlin, her loved ones drift into a state of grief.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/everytime.jpeg?center=0.51,0.37&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/everytime.jpeg?center=0.51,0.37&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58030",
+    "moreLink": "/film/2026/nyff-everytime",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T14:00:00-04:00"
+    ],
+    "performancesShort": [
+      "2pm"
+    ],
+    "id": 58028,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "In Which Annie Gives it Those Ones",
+    "desc": "This sharp portrait of youth in 1970s New Delhi features the first screenplay by Arundhati Roy.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/in-which-annie-gives-it-those-ones.jpeg?center=0.58,0.58&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/in-which-annie-gives-it-those-ones.jpeg?center=0.58,0.58&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58028",
+    "moreLink": "/film/2026/nyff-in-which-annie",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:00:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm"
+    ],
+    "id": 57677,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Redacted",
+    "desc": "Brian De Palma&amp;rsquo;s faux documentary relates real-life crimes committed by US soldiers in Iraq.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/the-american-cinema-under-george-w.-bush/redacted.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/the-american-cinema-under-george-w.-bush/redacted.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57677",
+    "moreLink": "/film/2026/gwb-film-redacted",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T18:30:00-04:00"
+    ],
+    "performancesShort": [
+      "6:30pm"
+    ],
+    "id": 58024,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Foreign Travel",
+    "desc": "A small circle of friends in Berlin meet off and on over the course of a year for a book club.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/foreign-travel.jpeg?center=0.35,0.56&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/foreign-travel.jpeg?center=0.35,0.56&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58024",
+    "moreLink": "/film/2026/nyff-foreign-travel",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T16:15:00-04:00"
+    ],
+    "performancesShort": [
+      "4:15pm"
+    ],
+    "id": 58147,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "My Wife Cries",
+    "desc": "A construction worker&amp;rsquo;s wife reveals a shocking truth in this audacious portrait of a marriage.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/my-wife-cries.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/my-wife-cries.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58147",
+    "moreLink": "/film/2026/nyff-my-wife-cries",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T16:00:00-04:00",
+      "2026-10-08T18:40:00-04:00",
+      "2026-10-08T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T20:15:00-04:00"
+    ],
+    "performancesShort": [
+      "8:15pm"
+    ],
+    "id": 58026,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": " Joy of Joys",
+    "desc": "This sobering doc goes behind the scenes of the recording of a War Child Records charity album.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/nyff/joy-of-joys.jpeg?center=0.43,0.28&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/nyff/joy-of-joys.jpeg?center=0.43,0.28&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58026",
+    "moreLink": "/film/2026/nyff-joy-of-joys",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T16:00:00-04:00",
+      "2026-10-06T18:40:00-04:00",
+      "2026-10-06T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-04T13:15:00-04:00",
+      "2026-10-04T16:00:00-04:00",
+      "2026-10-04T18:40:00-04:00",
+      "2026-10-04T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-04",
+    "date": "2026-10-04T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T13:15:00-04:00",
+      "2026-10-03T16:00:00-04:00",
+      "2026-10-03T18:40:00-04:00",
+      "2026-10-03T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-02T13:15:00-04:00",
+      "2026-10-02T16:00:00-04:00",
+      "2026-10-02T18:40:00-04:00",
+      "2026-10-02T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "1:15pm",
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-02",
+    "date": "2026-10-02T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T16:00:00-04:00",
+      "2026-10-01T18:40:00-04:00",
+      "2026-10-01T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-01T21:15:00-04:00"
+    ],
+    "performancesShort": [
+      "9:15pm"
+    ],
+    "id": 57686,
+    "day": "2026-10-01",
+    "date": "2026-10-01T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Deja Vu",
+    "desc": "A government agent uses experimental time-travel technology to prevent a tragic explosion.",
+    "img": "/globalassets/programs/cinema/2027fy/0926/the-american-cinema-under-george-w.-bush/deja-vu.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/0926/the-american-cinema-under-george-w.-bush/deja-vu.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57686",
+    "moreLink": "/film/2026/gwb-film-deja-vu",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T16:00:00-04:00",
+      "2026-10-07T18:40:00-04:00",
+      "2026-10-07T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-05T16:00:00-04:00",
+      "2026-10-05T18:40:00-04:00",
+      "2026-10-05T21:20:00-04:00"
+    ],
+    "performancesShort": [
+      "4pm",
+      "6:40pm",
+      "9:20pm"
+    ],
+    "id": 58533,
+    "day": "2026-10-05",
+    "date": "2026-10-05T00:00:00-04:00",
+    "genres": "Film",
+    "name": "Digger",
+    "desc": "The most powerful man in the world (Cruise) must prove he is humanity&#39;s savior.",
+    "img": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/cinema/2027fy/1026/digger.jpeg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "/film/2026/digger#performanceHeader",
+    "moreLink": "/film/2026/digger",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-23T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 57922,
+    "day": "2026-10-23",
+    "date": "2026-10-23T00:00:00-04:00",
+    "genres": "Music",
+    "name": "Meshell Ndegeocello, Samora Pinderhughes ",
+    "desc": "Versatile originals Meshell Ndegeocello and Samora Pinderhughes share a night of poetic music.",
+    "img": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/meshell/v2/v3/27-1425800-meshell-and-samora-update-hero-image_640-x-359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/meshell/v2/v3/27-1425800-meshell-and-samora-update-hero-image_640-x-359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57922",
+    "moreLink": "/music/2026/meshell",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-28T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 0,
+    "day": "2026-10-28",
+    "date": "2026-10-28T00:00:00-04:00",
+    "genres": "Music,Poetry",
+    "name": "Southern Oracles",
+    "desc": "The Black Air Poets fuse music, poetry, dance, and more to explore the mythic South Side.",
+    "img": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/southern-oracles/27-1418800-nw-poetry-southern-oracles-1920x1080.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/southern-oracles/27-1418800-nw-poetry-southern-oracles-1920x1080.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/0",
+    "moreLink": "/music/2026/southern-oracles",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-25T15:00:00-04:00"
+    ],
+    "performancesShort": [
+      "3pm"
+    ],
+    "id": 55725,
+    "day": "2026-10-25",
+    "date": "2026-10-25T00:00:00-04:00",
+    "genres": "Music,Opera",
+    "name": "How does it feel to look at nothing",
+    "desc": "Holland Andrews and yuniya edi kwon fuse sound, movement, and ritual to ponder the ineffable.",
+    "img": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55725",
+    "moreLink": "/music/2026/how-does-it-feel-to-look-at-nothing",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-24T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55725,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Music,Opera",
+    "name": "How does it feel to look at nothing",
+    "desc": "Holland Andrews and yuniya edi kwon fuse sound, movement, and ritual to ponder the ineffable.",
+    "img": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55725",
+    "moreLink": "/music/2026/how-does-it-feel-to-look-at-nothing",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-23T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55725,
+    "day": "2026-10-23",
+    "date": "2026-10-23T00:00:00-04:00",
+    "genres": "Music,Opera",
+    "name": "How does it feel to look at nothing",
+    "desc": "Holland Andrews and yuniya edi kwon fuse sound, movement, and ritual to ponder the ineffable.",
+    "img": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55725",
+    "moreLink": "/music/2026/how-does-it-feel-to-look-at-nothing",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-22T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55725,
+    "day": "2026-10-22",
+    "date": "2026-10-22T00:00:00-04:00",
+    "genres": "Music,Opera",
+    "name": "How does it feel to look at nothing",
+    "desc": "Holland Andrews and yuniya edi kwon fuse sound, movement, and ritual to ponder the ineffable.",
+    "img": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55725",
+    "moreLink": "/music/2026/how-does-it-feel-to-look-at-nothing",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-21T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55725,
+    "day": "2026-10-21",
+    "date": "2026-10-21T00:00:00-04:00",
+    "genres": "Music,Opera",
+    "name": "How does it feel to look at nothing",
+    "desc": "Holland Andrews and yuniya edi kwon fuse sound, movement, and ritual to ponder the ineffable.",
+    "img": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/how-does-it-feel/27-1346751-nw-how-does-it-feel-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55725",
+    "moreLink": "/music/2026/how-does-it-feel-to-look-at-nothing",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-08T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55537,
+    "day": "2026-10-08",
+    "date": "2026-10-08T00:00:00-04:00",
+    "genres": "Theater,Music",
+    "name": "Hewa Rwanda–Letter to the absent",
+    "desc": "Rugamba adapts his memoir dedicated to his family killed in the Rwandan genocide.",
+    "img": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55537",
+    "moreLink": "/theater/2026/hewa-rwanda",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-11T15:00:00-04:00"
+    ],
+    "performancesShort": [
+      "3pm"
+    ],
+    "id": 55537,
+    "day": "2026-10-11",
+    "date": "2026-10-11T00:00:00-04:00",
+    "genres": "Theater,Music",
+    "name": "Hewa Rwanda–Letter to the absent",
+    "desc": "Rugamba adapts his memoir dedicated to his family killed in the Rwandan genocide.",
+    "img": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55537",
+    "moreLink": "/theater/2026/hewa-rwanda",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-07T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55537,
+    "day": "2026-10-07",
+    "date": "2026-10-07T00:00:00-04:00",
+    "genres": "Theater,Music",
+    "name": "Hewa Rwanda–Letter to the absent",
+    "desc": "Rugamba adapts his memoir dedicated to his family killed in the Rwandan genocide.",
+    "img": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55537",
+    "moreLink": "/theater/2026/hewa-rwanda",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-09T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55537,
+    "day": "2026-10-09",
+    "date": "2026-10-09T00:00:00-04:00",
+    "genres": "Theater,Music",
+    "name": "Hewa Rwanda–Letter to the absent",
+    "desc": "Rugamba adapts his memoir dedicated to his family killed in the Rwandan genocide.",
+    "img": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55537",
+    "moreLink": "/theater/2026/hewa-rwanda",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-10T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55537,
+    "day": "2026-10-10",
+    "date": "2026-10-10T00:00:00-04:00",
+    "genres": "Theater,Music",
+    "name": "Hewa Rwanda–Letter to the absent",
+    "desc": "Rugamba adapts his memoir dedicated to his family killed in the Rwandan genocide.",
+    "img": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/hewa/v2/27-1343303-nw-hewa-rwanda-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55537",
+    "moreLink": "/theater/2026/hewa-rwanda",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-13T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 7777,
+    "day": "2026-10-13",
+    "date": "2026-10-13T00:00:00-04:00",
+    "genres": "Theater",
+    "name": "PRELUDE",
+    "desc": "This free outdoor performance invites audiences to witness moments of connection in NYC.",
+    "img": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "",
+    "moreLink": "/theater/2026/prelude",
+    "onGoing": false,
+    "buyLabel": ""
+  },
+  {
+    "performances": [
+      "2026-10-15T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 7777,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Theater",
+    "name": "PRELUDE",
+    "desc": "This free outdoor performance invites audiences to witness moments of connection in NYC.",
+    "img": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "",
+    "moreLink": "/theater/2026/prelude",
+    "onGoing": false,
+    "buyLabel": ""
+  },
+  {
+    "performances": [
+      "2026-10-14T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 7777,
+    "day": "2026-10-14",
+    "date": "2026-10-14T00:00:00-04:00",
+    "genres": "Theater",
+    "name": "PRELUDE",
+    "desc": "This free outdoor performance invites audiences to witness moments of connection in NYC.",
+    "img": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/prelude/27-1346800-fall-prelude-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "",
+    "moreLink": "/theater/2026/prelude",
+    "onGoing": false,
+    "buyLabel": ""
+  },
+  {
+    "performances": [
+      "2026-10-24T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 0,
+    "day": "2026-10-24",
+    "date": "2026-10-24T00:00:00-04:00",
+    "genres": "Dance",
+    "name": "Toi, moi, Tituba…",
+    "desc": "Munyaneza uses her own body as a danced archive, making suppressed voices visible again.",
+    "img": "/globalassets/programs/next-wave/nw26/toi-moi-tituba/27-1343600-nw-toi-moi-tituba-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/toi-moi-tituba/27-1343600-nw-toi-moi-tituba-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newyorklivearts.org/event/toi-moi-tituba/",
+    "moreLink": "/dance/2026/toi-moi-tituba",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-23T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 0,
+    "day": "2026-10-23",
+    "date": "2026-10-23T00:00:00-04:00",
+    "genres": "Dance",
+    "name": "Toi, moi, Tituba…",
+    "desc": "Munyaneza uses her own body as a danced archive, making suppressed voices visible again.",
+    "img": "/globalassets/programs/next-wave/nw26/toi-moi-tituba/27-1343600-nw-toi-moi-tituba-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/toi-moi-tituba/27-1343600-nw-toi-moi-tituba-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://newyorklivearts.org/event/toi-moi-tituba/",
+    "moreLink": "/dance/2026/toi-moi-tituba",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-17T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 58452,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Dance",
+    "name": "Drifters by Fitos Dezső Társulat",
+    "desc": "The Fitos Dezső Dance Company presents a work inspired by the Hungarian immigrant experience.",
+    "img": "/globalassets/programs/rentals/fy27/drifters/drifters_web.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/rentals/fy27/drifters/drifters_web.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/58452",
+    "moreLink": "/dance/2026/drifters",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-13T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55898,
+    "day": "2026-10-13",
+    "date": "2026-10-13T00:00:00-04:00",
+    "genres": "Talks",
+    "name": "VIBE: The Secrets of Strong Connections in a Lonely World ",
+    "desc": "Join Adam Grant in conversation with Malcolm Gladwell for the launch of his new book.",
+    "img": "/globalassets/programs/next-wave/nw26/vibe/27-1349335-fall-adam-grant-640x359-1.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/vibe/27-1349335-fall-adam-grant-640x359-1.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55898",
+    "moreLink": "/talks/2026/vibe",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-14T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 56079,
+    "day": "2026-10-14",
+    "date": "2026-10-14T00:00:00-04:00",
+    "genres": "Talks",
+    "name": "Triage",
+    "desc": "Claudia Rankine discusses her newest book, &lt;em&gt;Triage&lt;/em&gt;, with writer Rachel Kaadzi Ghansah.",
+    "img": "/globalassets/programs/next-wave/nw26/rankine/triage/27-1411300-triage-unworlding-event-page_640-x-359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/rankine/triage/27-1411300-triage-unworlding-event-page_640-x-359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/56079",
+    "moreLink": "/talks/2026/triage",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-27T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 55752,
+    "day": "2026-10-27",
+    "date": "2026-10-27T00:00:00-04:00",
+    "genres": "Talks",
+    "name": "Anarchitecture After Everything ",
+    "desc": "Jack Halberstam discusses anarchitecture, a radical practice of unmaking the built environment.",
+    "img": "/globalassets/programs/next-wave/nw26/rankine/anarchitecture/27-1411350-anarchitecture-after-everything-event-page_640-x-359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/rankine/anarchitecture/27-1411350-anarchitecture-after-everything-event-page_640-x-359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/55752",
+    "moreLink": "/talks/2026/anarchitecture",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-06T19:00:00-04:00"
+    ],
+    "performancesShort": [
+      "7pm"
+    ],
+    "id": 57582,
+    "day": "2026-10-06",
+    "date": "2026-10-06T00:00:00-04:00",
+    "genres": "Talks",
+    "name": "THE THIRD EYE Olivia Harrison in conversation with Martin Scorsese",
+    "desc": "Join Olivia Harrison and Martin Scorsese celebrating a new book of George Harrison&amp;rsquo;s photos.",
+    "img": "/globalassets/programs/next-wave/nw26/harrison/v3/27-1437400-talks-third-eye-640x359-2.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/harrison/v3/27-1437400-talks-third-eye-640x359-2.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57582",
+    "moreLink": "/talks/2026/the-third-eye",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-03T12:00:00-04:00"
+    ],
+    "performancesShort": [
+      "12pm"
+    ],
+    "id": 57775,
+    "day": "2026-10-03",
+    "date": "2026-10-03T00:00:00-04:00",
+    "genres": "Opera,Film",
+    "name": "Così fan tutte",
+    "desc": "Mozart&amp;rsquo;s satirical comedy returns in Phelim McDermott&amp;rsquo;s playful Coney Island-inspired staging.",
+    "img": "/globalassets/programs/the-met-in-hd/2027/cosi-fan-tutte.jpg?center=0.75,0.51&width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/the-met-in-hd/2027/cosi-fan-tutte.jpg?center=0.75,0.51&width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57775",
+    "moreLink": "/opera/2026/met-hd-cosi",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-25T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 0,
+    "day": "2026-10-25",
+    "date": "2026-10-25T00:00:00-04:00",
+    "genres": "Poetry",
+    "name": "Poetry Overnight at BAM",
+    "desc": "BAM&amp;rsquo;s first Poetry Overnight offers featured readers and unique collaborations all night long.",
+    "img": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/poetry-slumber/v2/27-1418646-nw-poetry-slumber-party-640x359-2.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/poetry-slumber/v2/27-1418646-nw-poetry-slumber-party-640x359-2.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://bam.prospect2.com/f/178",
+    "moreLink": "/poetry/2026/poetry-overnight",
+    "onGoing": false,
+    "buyLabel": "RSVP"
+  },
+  {
+    "performances": [
+      "2026-10-29T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 57925,
+    "day": "2026-10-29",
+    "date": "2026-10-29T00:00:00-04:00",
+    "genres": "Poetry,Music",
+    "name": "Be Holding",
+    "desc": "Ross Gay&amp;rsquo;s poem based on basketball icon Dr. J comes alive in a reading with music and video.",
+    "img": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/be-holdong/27-1418750-nw-poetry-be-holding-640x359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/be-holdong/27-1418750-nw-poetry-be-holding-640x359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57925",
+    "moreLink": "/poetry/2026/be-holding",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-30T19:30:00-04:00"
+    ],
+    "performancesShort": [
+      "7:30pm"
+    ],
+    "id": 57930,
+    "day": "2026-10-30",
+    "date": "2026-10-30T00:00:00-04:00",
+    "genres": "Poetry",
+    "name": "Stones in the Water",
+    "desc": "Sarah Kay, Clint Smith, Anis Mojgani, and Hanif Abdurraqib celebrate poetry and community.",
+    "img": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/stones-in-the-water/v2/27-1418787-nw-poetry-stones-in-the-water-b-640x359-2.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/i-guess-it-was-my-destin/stones-in-the-water/v2/27-1418787-nw-poetry-stones-in-the-water-b-640x359-2.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57930",
+    "moreLink": "/poetry/2026/stones-in-the-water",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  },
+  {
+    "performances": [
+      "2026-10-31T14:00:00-04:00"
+    ],
+    "performancesShort": [
+      "2pm"
+    ],
+    "id": 0,
+    "day": "2026-10-31",
+    "date": "2026-10-31T00:00:00-04:00",
+    "genres": "Kids,Community",
+    "name": "BAMboo!",
+    "desc": "Get your costumes on and bring your family to our frightfully fun Halloween celebration!",
+    "img": "/globalassets/programs/next-wave/nw26/bamboo/v3/27-1406250-bamboo-image-suite-update_640-x-359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/next-wave/nw26/bamboo/v3/27-1406250-bamboo-image-suite-update_640-x-359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://bam.prospect2.com/f/162",
+    "moreLink": "/kids/2026/bamboo",
+    "onGoing": false,
+    "buyLabel": "Sign up for updates"
+  },
+  {
+    "performances": [
+      "2026-10-15T15:00:00-04:00"
+    ],
+    "performancesShort": [
+      "3pm"
+    ],
+    "id": 0,
+    "day": "2026-10-15",
+    "date": "2026-10-15T00:00:00-04:00",
+    "genres": "Education",
+    "name": "BAM TeenSpace",
+    "desc": "High school students are invited to free arts experiences curated by teens, for teens.",
+    "img": "/globalassets/education/2026/after-school-programs/teenspace/26-1154850-edu-teenspace-event-page_640-x-359.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/education/2026/after-school-programs/teenspace/26-1154850-edu-teenspace-event-page_640-x-359.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdF2C5tqpIZWh0h_aryGHjs6Gw_mZeySJo1puOxGt5vqAR9uA/viewform",
+    "moreLink": "/education/bam-teenspace",
+    "onGoing": false,
+    "buyLabel": "RSVP for TeenSpace"
+  },
+  {
+    "performances": [
+      "2026-10-17T12:00:00-04:00"
+    ],
+    "performancesShort": [
+      "12pm"
+    ],
+    "id": 57813,
+    "day": "2026-10-17",
+    "date": "2026-10-17T00:00:00-04:00",
+    "genres": "Live Broadcast,Opera,Film",
+    "name": "Macbeth",
+    "desc": "Lise Davidsen and Quinn Kelsey star in Verdi&amp;rsquo;s thrilling take on Shakespeare&amp;rsquo;s immortal tale.",
+    "img": "/globalassets/programs/the-met-in-hd/2027/macbeth_web.jpg?width=305&mode=crop&heightratio=0.5625&quality=80",
+    "imgSm": "/globalassets/programs/the-met-in-hd/2027/macbeth_web.jpg?width=146&mode=crop&heightratio=1&quality=80",
+    "buyLink": "https://commerce.bam.org/production/57813",
+    "moreLink": "/opera/2026/met-hd-macbeth",
+    "onGoing": false,
+    "buyLabel": "buy tickets"
+  }
+]
