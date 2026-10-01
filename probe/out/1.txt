@@ -1,1 +1,10 @@
-<html><body>You are being <a href="https://theshed.queue-it.net/?c=theshed&amp;e=shedsafetynet&amp;ver=v3-ruby-3.7.1&amp;cver=191&amp;man=Economy%20Production%20SafetyNet&amp;t=https%3A%2F%2Fwww.theshed.org%2Fcalendar">redirected</a>.</body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /lincoln-center-at-home/calendar/2026/11</pre>
+</body>
+</html>
