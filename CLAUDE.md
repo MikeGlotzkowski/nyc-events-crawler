@@ -11,7 +11,8 @@ dispatches to one crawler or a tier group.
 
 Sources (`crawlers/`): `nyc-parks` (RSS), `rss-blogs` (neighborhood blog RSS + LLM extraction),
 `riverside-park` / `van-cortlandt-park` (WordPress calendar), `forest-park` (Squarespace JSON),
-`brooklyn-library` / `queens-library` (library event calendars, next 14 days, service sessions skipped), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
+`brooklyn-library` / `queens-library` (library event calendars, next 14 days, service sessions skipped;
+`brooklyn-library` is not in a tier because Cloudflare challenges GitHub Actions runners), `westsiderag` (Playwright), `nyccom` (NYC.com multi-category
 Playwright). **Tiers:** `all-tier1` = the non-Playwright crawlers (fast); `all-tier2` = the
 Playwright-based crawlers (`westsiderag`, `nyccom`) — the heavy daily job that motivated the public-repo
 migration (unlimited CI minutes).
