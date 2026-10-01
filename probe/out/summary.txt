@@ -1,0 +1,18 @@
+1 chrome https://nonsensenyc.com/ -> 200 text/html 3255 https://nonsensenyc.com/
+1 bot https://nonsensenyc.com/ -> 200 text/html 3255 https://nonsensenyc.com/
+2 chrome https://nonsensenyc.com/feed/ -> 404 text/html; charset=iso-8859-1 809 https://nonsensenyc.com/feed/
+2 bot https://nonsensenyc.com/feed/ -> 404 text/html; charset=iso-8859-1 809 https://nonsensenyc.com/feed/
+3 chrome https://www.nonsensenyc.com/rss -> 404 text/html; charset=iso-8859-1 807 https://www.nonsensenyc.com/rss
+3 bot https://www.nonsensenyc.com/rss -> 404 text/html; charset=iso-8859-1 807 https://www.nonsensenyc.com/rss
+4 chrome https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend -> 200 text/html; charset=UTF-8 78157 https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend
+4 bot https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend -> 200 text/html; charset=UTF-8 78157 https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend
+5 chrome https://www.timeout.com/newyork/feed -> 404 text/html; charset=UTF-8 35531 https://www.timeout.com/newyork/feed
+5 bot https://www.timeout.com/newyork/feed -> 404 text/html; charset=UTF-8 35531 https://www.timeout.com/newyork/feed
+6 chrome https://www.timeout.com/newyork/rss -> 404 text/html; charset=UTF-8 35653 https://www.timeout.com/newyork/rss
+6 bot https://www.timeout.com/newyork/rss -> 404 text/html; charset=UTF-8 35653 https://www.timeout.com/newyork/rss
+7 chrome https://www.timeout.com/newyork/things-to-do/rss.xml -> 404 text/html; charset=UTF-8 35535 https://www.timeout.com/newyork/things-to-do/rss.xml
+7 bot https://www.timeout.com/newyork/things-to-do/rss.xml -> 404 text/html; charset=UTF-8 35652 https://www.timeout.com/newyork/things-to-do/rss.xml
+8 chrome https://www.timeout.com/newyork/sitemap.xml -> 404 text/html; charset=UTF-8 35652 https://www.timeout.com/newyork/sitemap.xml
+8 bot https://www.timeout.com/newyork/sitemap.xml -> 404 text/html; charset=UTF-8 35652 https://www.timeout.com/newyork/sitemap.xml
+9 chrome https://www.timeout.com/newyork/things-to-do -> 200 text/html; charset=UTF-8 45326 https://www.timeout.com/newyork/things-to-do
+9 bot https://www.timeout.com/newyork/things-to-do -> 200 text/html; charset=UTF-8 45296 https://www.timeout.com/newyork/things-to-do

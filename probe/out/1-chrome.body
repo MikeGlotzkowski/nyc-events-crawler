@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link rel="Stylesheet" rev="Stylesheet" href="nonsense.css">
+<script src="../js.js" type="text/javascript" language="Javascript"></script>
+
+<head>
+<title>Nonsense NYC</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+
+<body onload="MM_preloadImages('img/nav_about_on.gif','img/nav_spec_on.gif','img/nav_feat_on.gif','img/but_sub_on.gif','img/nav_link_on.gif','img/but_arch_on.gif','img/but_edit_on.gif')">
+<div align="center">
+  <p><a href="http://www.nonsensenyc.com/"><img src="img/head.gif" width="301" height="206" border="0" /></a></p>
+  <!-- Start Navigation Row -->
+  <table width="634" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><a href="http://www.nonsensenyc.com/about" onmouseover="MM_swapImage('about','','img/nav_about_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="img/nav_about.gif" name="about" width="161" height="79" border="0" id="about" /></a></td>
+      <td><a href="http://www.nonsensenyc.com/features" onmouseover="MM_swapImage('features','','img/nav_feat_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="img/nav_feat.gif" name="features" width="140" height="79" border="0" id="features" /></a></td>
+      <td><a href="http://www.nonsensenyc.com/links/" onmouseover="MM_swapImage('linkys','','img/nav_link_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="img/nav_link.gif" name="linkys" width="116" height="79" border="0" id="linkys" /></a></td>
+      <td><a href="http://www.nonsensenyc.com/special" onmouseover="MM_swapImage('special','','img/nav_spec_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="img/nav_spec.gif" name="special" width="217" height="79" border="0" id="special" /></a></td>
+    </tr>
+  </table>
+  <!-- End Navigation Row -->
+  
+  <table width="584" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+	  <td width="40" valign="top"><p><img src="../img/pixel.gif" width="30" height="1" /><br />
+      </p></td>
+	  <!-- Start Content column -->
+      <td width="330" valign="top">
+	  <p>&nbsp;</p>
+    </tr>
+  </table>
+  
+  
+  <p><img src="img/rule.gif" width="107" height="41" /></p>
+  <p><a href="http://www.nonsensenyc.com/subscribe" target="out" onMouseOver="MM_swapImage('subscribe','','img/but_sub_on.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="img/but_sub.gif" name="subscribe" width="107" height="106" border="0" id="subscribe" /></a></p>
+  
+  <p>&nbsp; </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+   <div align="center">
+<p>&nbsp;</p>
+  </p> <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="FJMXD4BX62GZQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+
+
+
+
