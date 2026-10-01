@@ -8,6 +8,7 @@ import { chromium } from 'playwright';
 import OpenAI from 'openai';
 import { loadEnv } from '../env-loader.js';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvent } from '../lib/base-crawler.js';
+import { resolveArea } from '../lib/nyc-area.js';
 
 loadEnv();
 
@@ -822,7 +823,7 @@ async function extractEventsInParallel(context, eventUrls, runId) {
 
     for (const event of batchResults) {
       if (event) {
-        const { status } = await upsertEvent(event);
+        const { status } = await upsertEvent({ ...event, ...resolveArea(event.location) });
         completed++;
         if (status === 'new') newCount++;
         else if (status === 'updated') updatedCount++;

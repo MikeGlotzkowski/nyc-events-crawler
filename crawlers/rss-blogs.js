@@ -6,6 +6,7 @@
 import { parseStringPromise } from 'xml2js';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { extractEventsFromPost, looksLikeEventPost } from '../lib/llm-extract.js';
+import { resolveArea } from '../lib/nyc-area.js';
 import { cleanImageUrl, extractImageFromContent, fetchPageImage } from '../lib/og-image.js';
 
 // ── Source registry ───────────────────────────────────────────
@@ -187,8 +188,10 @@ async function processSource(source) {
           ticketUrl:   ev.ticketUrl   ?? null,
           images:      image ? [image] : [],
           rawText:     null,
-          neighborhood: source.neighborhood,
-          borough:      source.borough,
+          ...resolveArea({
+            name: ev.location?.name, address: ev.location?.address,
+            borough: source.borough, neighborhood: source.neighborhood,
+          }),
         });
       }
     } catch (err) {

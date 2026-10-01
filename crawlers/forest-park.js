@@ -5,6 +5,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { decodeEntities } from '../lib/event-filter.js';
+import { resolveArea } from '../lib/nyc-area.js';
 
 const SOURCE_KEY = 'forest-park';
 const SOURCE     = 'Forest Park Trust';
@@ -83,6 +84,8 @@ export function mapItem(item) {
   const description = (stripHtml(item?.excerpt) || stripHtml(item?.body)).slice(0, MAX_DESC);
   const venue       = item?.location ?? null;
   const address     = [venue?.addressLine1, venue?.addressLine2].filter(v => v && v.trim()).join(', ') || null;
+  const name        = venue?.addressTitle?.trim() || 'Forest Park';
+  const coords      = parseCoords(venue);
 
   return {
     id:          generateEventId(sourceUrl, title),
@@ -94,10 +97,10 @@ export function mapItem(item) {
     endDate,
     time:        timeRangeLabel(startDate, endDate),
     location: {
-      name:    venue?.addressTitle?.trim() || 'Forest Park',
+      name,
       address,
       city:    'New York',
-      ...parseCoords(venue),
+      ...coords,
     },
     price:        { isFree: null, min: null, max: null, currency: 'USD' },
     categories:   stringList(item?.categories),
@@ -107,8 +110,7 @@ export function mapItem(item) {
     ticketUrl:    sourceUrl,
     images:       item?.assetUrl ? [item.assetUrl] : [],
     rawText:      null,
-    neighborhood: NEIGHBORHOOD,
-    borough:      BOROUGH,
+    ...resolveArea({ name, address, ...coords, borough: BOROUGH, neighborhood: NEIGHBORHOOD }),
   };
 }
 

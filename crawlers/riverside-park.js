@@ -4,6 +4,7 @@
  * No browser required — pure HTTP.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { resolveArea } from '../lib/nyc-area.js';
 
 const SOURCE     = 'Riverside Park';
 const ORGANIZER  = 'Riverside Park Conservancy';
@@ -68,8 +69,10 @@ function mapEvent(event) {
     venue?.city && venue?.zip ? `${venue.city}, NY ${venue.zip}` : (venue?.city ?? null),
   ].filter(Boolean).join(', ') || null;
 
-  const lat = venue?.geo_lat ? parseFloat(venue.geo_lat) : null;
-  const lng = venue?.geo_lng ? parseFloat(venue.geo_lng) : null;
+  const parsedLat = venue?.geo_lat ? parseFloat(venue.geo_lat) : null;
+  const parsedLng = venue?.geo_lng ? parseFloat(venue.geo_lng) : null;
+  const lat = isNaN(parsedLat) ? null : parsedLat;
+  const lng = isNaN(parsedLng) ? null : parsedLng;
 
   const title = stripHtml(event.title ?? '');
   const url   = event.url ?? '';
@@ -87,8 +90,8 @@ function mapEvent(event) {
       name:    locationName,
       address: locationAddress,
       city:    venue?.city ?? 'New York',
-      lat:     isNaN(lat) ? null : lat,
-      lng:     isNaN(lng) ? null : lng,
+      lat,
+      lng,
     },
     price:       { isFree: null, min: null, max: null, currency: 'USD' },
     categories:  [],
@@ -98,8 +101,10 @@ function mapEvent(event) {
     ticketUrl:   url,
     images:      event.image?.url ? [event.image.url] : [],
     rawText:     null,
-    neighborhood: NEIGHBORHOOD,
-    borough:     BOROUGH,
+    ...resolveArea({
+      name: locationName, address: locationAddress, lat, lng,
+      borough: BOROUGH, neighborhood: NEIGHBORHOOD,
+    }),
   };
 }
 

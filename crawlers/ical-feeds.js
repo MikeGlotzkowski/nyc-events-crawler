@@ -7,6 +7,7 @@
 import nodeIcal from 'node-ical';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { localYmd } from '../lib/nyc-time.js';
+import { resolveArea } from '../lib/nyc-area.js';
 import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
 
 // ── Source registry ───────────────────────────────────────────────
@@ -170,8 +171,7 @@ function mapVEvent(vevent, source) {
     ticketUrl:   url,
     images:      image ? [image] : [],
     rawText:     null,
-    neighborhood: source.neighborhood ?? null,
-    borough:      source.borough ?? null,
+    ...resolveArea({ name: location, borough: source.borough, neighborhood: source.neighborhood }),
   };
 }
 
