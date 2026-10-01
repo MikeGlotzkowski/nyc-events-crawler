@@ -114,3 +114,20 @@ describe('nyc-opendata permitted events', () => {
     assert.equal(out[0].event_location, row.event_location);
   });
 });
+
+describe('ical-feeds wallClockFix', () => {
+  let wallClockFix;
+  before(async () => { ({ wallClockFix } = await import('./ical-feeds.js')); });
+
+  it('reads TZID=UTC times as NYC wall clock (WordPress sites set to UTC)', () => {
+    const d = Object.assign(new Date('2026-10-01T19:00:00.000Z'), { tz: 'UTC' });
+    assert.equal(wallClockFix(d).toISOString(), '2026-10-01T23:00:00.000Z');
+  });
+
+  it('leaves real UTC instants and named zones alone', () => {
+    const z = Object.assign(new Date('2026-10-01T19:00:00.000Z'), { tz: 'Etc/UTC' });
+    const ny = Object.assign(new Date('2026-10-01T21:00:00.000Z'), { tz: 'America/New_York' });
+    assert.equal(wallClockFix(z).toISOString(), '2026-10-01T19:00:00.000Z');
+    assert.equal(wallClockFix(ny).toISOString(), '2026-10-01T21:00:00.000Z');
+  });
+});
