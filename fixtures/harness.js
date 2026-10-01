@@ -160,7 +160,8 @@ function trimBody(body, contentType) {
   if (body.includes('tile-zone-large-list_testID')) {
     const time = body.match(/<time[^>]*>/i)?.[0] ?? '';
     const tiles = body.match(/<article[^>]*data-testid="tile-zone-large-list_testID"[^>]*>[\s\S]*?<\/article>/g) ?? [];
-    return `<html><body>${time}\n${tiles.join('\n')}</body></html>`;
+    const slim = tiles.map(t => t.replace(/<source[^>]*>|\s(?:srcSet|sizes|data-data-layer)="[^"]*"/g, ''));
+    return `<html><body>${time}\n${slim.join('\n')}</body></html>`;
   }
   return body;
 }
