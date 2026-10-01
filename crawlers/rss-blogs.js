@@ -35,14 +35,20 @@ export const RSS_SOURCES = [
   { name: 'The Bronx Free Press',        feed: 'https://thebronxfreepress.com/feed/',         neighborhood: null,              borough: 'The Bronx' },
   // Staten Island
   { name: 'SILive',                      feed: 'https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml', neighborhood: null, borough: 'Staten Island' },
+  { name: 'SI Parent',                   feed: 'https://siparent.com/feed/',                  neighborhood: null,              borough: 'Staten Island' },
   // Citywide / arts / culture
   { name: 'City Limits',                 feed: 'https://citylimits.org/feed/',                neighborhood: null,              borough: null },
   { name: 'BRIC Arts Media',             feed: 'https://www.bricartsmedia.org/feed',          neighborhood: 'Fort Greene',     borough: 'Brooklyn' },
   // Manhattan neighborhoods
   { name: 'Tribeca Citizen',             feed: 'https://tribecacitizen.com/feed/',            neighborhood: 'Tribeca',         borough: 'Manhattan' },
+  { name: 'W42ST',                       feed: 'https://w42st.com/feed/',                     neighborhood: "Hell's Kitchen",  borough: 'Manhattan' },
   // Brooklyn neighborhoods
   { name: 'Ditmas Park Corner',          feed: 'https://ditmasparkcorner.com/feed/',          neighborhood: 'Ditmas Park',     borough: 'Brooklyn' },
-  // Queens neighborhoods
+  // Brooklyn Paper's neighborhood tag feeds reach further back than its 10-item main feed
+  { name: 'Brooklyn Paper',              feed: 'https://www.brooklynpaper.com/tag/park-slope/feed/',   neighborhood: 'Park Slope',   borough: 'Brooklyn' },
+  { name: 'Brooklyn Paper',              feed: 'https://www.brooklynpaper.com/tag/williamsburg/feed/', neighborhood: 'Williamsburg', borough: 'Brooklyn' },
+  // Queens neighborhoods. jacksonheightspost.com and licpost.com serve the same shared Queens Post
+  // feed as Sunnyside Post and Astoria Post, so they aren't listed separately.
   { name: 'Sunnyside Post',              feed: 'https://sunnysidepost.com/feed/',             neighborhood: 'Sunnyside',       borough: 'Queens' },
   { name: 'Forest Hills Times',          feed: 'https://www.foresthillstimes.com/feed/',      neighborhood: 'Forest Hills',    borough: 'Queens' },
   // Note: Patch.com no longer offers RSS feeds (returns sitemaps). Removed.
@@ -50,7 +56,7 @@ export const RSS_SOURCES = [
 
 // ── RSS fetch + parse ─────────────────────────────────────────
 
-export async function fetchFeed(url) {
+async function fetchFeed(url) {
   const res = await fetch(url, {
     headers: { 'User-Agent': 'fomo3-events-bot/1.0 (+https://github.com/fomo3)' },
     signal: AbortSignal.timeout(15000),

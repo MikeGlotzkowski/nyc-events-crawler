@@ -3,7 +3,7 @@ name: ci
 on:
   pull_request:
   push:
-    branches: [main, claude/project-thread-7w30be]
+    branches: [main]
 
 env:
   # playwright is a production dependency and its postinstall downloads
@@ -22,5 +22,3 @@ jobs:
       - run: npm ci
       - name: Test
         run: npm test
-      - name: Probe candidate feeds (temporary)
-        run: SUPABASE_URL=https://example.invalid SUPABASE_SERVICE_KEY=x node scripts/probe-feeds.js
