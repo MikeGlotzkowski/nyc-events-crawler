@@ -6,7 +6,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { resolveArea } from '../lib/nyc-area.js';
-import { decodeEntities } from '../lib/event-filter.js';
+import { cleanText } from '../lib/event-filter.js';
 
 const SOURCE_KEY  = 'bam';
 const SOURCE      = 'BAM';
@@ -28,11 +28,9 @@ const LOCATION = {
   lng:     -73.9776,
 };
 
-/** Descriptions arrive double-encoded ('&amp;rsquo;'). */
+/** Descriptions arrive double-encoded ('&amp;rsquo;', '&lt;em&gt;'). */
 function clean(text) {
-  return decodeEntities(decodeEntities(String(text ?? '')).replace(/<[^>]+>/g, ' '))
-    .replace(/\s+/g, ' ')
-    .trim();
+  return cleanText(String(text ?? '')).replace(/\s+/g, ' ');
 }
 
 /** 'MM/DD/YYYY' in NYC for the API's start/end parameters. */
