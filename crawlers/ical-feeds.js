@@ -6,7 +6,7 @@
  */
 import nodeIcal from 'node-ical';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
-import { localYmd } from '../lib/nyc-time.js';
+import { localYmd, nycWallToDate } from '../lib/nyc-time.js';
 import { resolveArea } from '../lib/nyc-area.js';
 import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
 
@@ -127,13 +127,24 @@ async function addPageImages(events, source) {
   }
 }
 
+/**
+ * Industry City and Randall's Island run WordPress set to UTC, so their feeds label NYC
+ * wall-clock times TZID=UTC (a 7pm show arrives as 19:00 UTC, i.e. 3pm). A NYC venue never
+ * means UTC, so read TZID=UTC times as NYC wall clock. A real UTC instant ("...Z") parses
+ * as Etc/UTC and is left alone.
+ */
+export function wallClockFix(d) {
+  if (d.tz !== 'UTC') return new Date(d);
+  return nycWallToDate(d.getUTCFullYear(), d.getUTCMonth() + 1, d.getUTCDate(), d.getUTCHours(), d.getUTCMinutes());
+}
+
 function mapVEvent(vevent, source) {
   const summary = (typeof vevent.summary === 'string' ? vevent.summary : vevent.summary?.val ?? '').trim();
   if (!summary) return null;
 
   if (!vevent.start) return null;
   // Timed events are real instants; all-day (VALUE=DATE) values are local midnight → keep the calendar date.
-  const toDateValue = (d) => d.dateOnly ? localYmd(d) : new Date(d).toISOString();
+  const toDateValue = (d) => d.dateOnly ? localYmd(d) : wallClockFix(d).toISOString();
   const startDate = toDateValue(vevent.start);
   const endDate   = vevent.end ? toDateValue(vevent.end) : null;
   const legacyStartIso = new Date(vevent.start).toISOString(); // id input — keep stable across this fix
