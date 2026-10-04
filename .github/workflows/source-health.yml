@@ -2,6 +2,8 @@ name: "Source health"
 
 # Opens (and later closes) a "Crawler health alert" issue when a crawler source
 # keeps failing, stops finding events, or the upcoming feed gets thin.
+# The same findings are also pushed to Telegram (TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID),
+# even when the GitHub-token path is skipped.
 # Also writes the data-quality report to the job summary; a source whose new events degrade
 # goes into the same issue. Runs on its own schedule so it still fires if the crawls stop,
 # and after the evening (Playwright) crawl.
@@ -25,6 +27,8 @@ env:
   SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
   SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
   PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
 
 jobs:
