@@ -35,6 +35,7 @@
 
 import { loadEnv } from './env-loader.js';
 import { log, logError, ensureConfigAndCheckEnabled } from './lib/base-crawler.js';
+import { resolveTarget } from './lib/cli-args.js';
 
 loadEnv();
 
@@ -61,11 +62,6 @@ const CRAWLERS = {
   'dice':               () => import('./crawlers/dice.js').then(m => m.crawl),
   'timeout':            () => import('./crawlers/timeout.js').then(m => m.crawl),
 };
-
-const TIER1 = ['nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park', 'forest-park', 'rss-blogs', 'queens-library',
-               'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice', 'timeout'];
-const TIER2 = ['westsiderag', 'nyccom'];
-const ALL   = [...TIER1, ...TIER2];
 
 const failed = [];
 
@@ -103,6 +99,7 @@ async function runAll(names) {
 // ── Entry point ──────────────────────────────────────────────────────────────
 
 const arg = process.argv[2];
+const action = resolveTarget(arg);
 
 const USAGE = `
 NYC Events Crawler
@@ -131,29 +128,21 @@ Targets:
   all              Run all crawlers
 `.trim();
 
-if (!arg) {
-  console.log(USAGE);
-  process.exit(0);
-}
-
-switch (arg) {
-  case 'all-tier1':
-    await runAll(TIER1);
-    break;
-  case 'all-tier2':
-    await runAll(TIER2);
+switch (action.kind) {
+  case 'usage':
+    console.log(USAGE);
+    process.exit(0);
     break;
   case 'all':
-    await runAll(ALL);
+    await runAll(action.targets);
     break;
-  default:
-    if (CRAWLERS[arg]) {
-      await runCrawler(arg);
-    } else {
-      console.error(`Unknown target: "${arg}"\n`);
-      console.log(USAGE);
-      process.exit(1);
-    }
+  case 'crawler':
+    await runCrawler(action.name);
+    break;
+  case 'unknown':
+    console.error(`Unknown target: "${action.name}"\n`);
+    console.log(USAGE);
+    process.exit(1);
 }
 
 if (failed.length > 0) {
