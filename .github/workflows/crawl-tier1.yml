@@ -16,6 +16,7 @@ env:
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
   TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+  SEATGEEK_CLIENT_ID: ${{ secrets.SEATGEEK_CLIENT_ID }}
 
 jobs:
   crawl:

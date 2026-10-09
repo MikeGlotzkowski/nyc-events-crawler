@@ -17,7 +17,7 @@ const NYC_LAT  = 40.7128;
 const NYC_LNG  = -74.0060;
 const RADIUS_MI = 25;
 
-function mapEvent(item) {
+export function mapEvent(item) {
   const title = item.title?.trim();
   if (!title) return null;
 
@@ -64,7 +64,12 @@ function mapEvent(item) {
   };
 }
 
-async function fetchEvents(clientId) {
+/**
+ * Fetch the NYC event page for a client id.
+ * @param {string} clientId
+ * @param {typeof fetch} [fetchImpl] injectable for tests
+ */
+export async function fetchEvents(clientId, fetchImpl = fetch) {
   const params = new URLSearchParams({
     client_id: clientId,
     lat:        String(NYC_LAT),
@@ -75,9 +80,12 @@ async function fetchEvents(clientId) {
   });
 
   const url = `${API_BASE}/events?${params}`;
-  log(`[seatgeek] Fetching: ${url}`);
+  // Never echo the client id: this URL is printed on every nightly run.
+  const logParams = new URLSearchParams(params);
+  logParams.set('client_id', 'SEATGEEK_CLIENT_ID');
+  log(`[seatgeek] Fetching: ${API_BASE}/events?${logParams}`);
 
-  const res = await fetch(url, {
+  const res = await fetchImpl(url, {
     headers: { 'Accept': 'application/json', 'User-Agent': 'fomo3-events-bot/1.0' },
     signal: AbortSignal.timeout(30000),
   });
