@@ -23,6 +23,7 @@
     "crawl:ra": "node index.js resident-advisor",
     "crawl:dice": "node index.js dice",
     "crawl:timeout": "node index.js timeout",
+    "crawl:ticketmaster": "node index.js ticketmaster",
     "crawl:westsiderag": "node index.js westsiderag",
     "crawl:seatgeek": "node index.js seatgeek",
     "crawl:nyccom": "node index.js nyccom",
