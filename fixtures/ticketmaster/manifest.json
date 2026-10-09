@@ -1,0 +1,105 @@
+{
+  "capturedAt": "2026-10-09T12:00:00.000Z",
+  "responses": {
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-09T12%3A00%3A00Z&endDateTime=2026-10-12T12%3A00%3A00Z&page=0": {
+      "file": "windows-1.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-12T12%3A00%3A00Z&endDateTime=2026-10-15T12%3A00%3A00Z&page=0": {
+      "file": "windows-2.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-15T12%3A00%3A00Z&endDateTime=2026-10-18T12%3A00%3A00Z&page=0": {
+      "file": "windows-3.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-18T12%3A00%3A00Z&endDateTime=2026-10-21T12%3A00%3A00Z&page=0": {
+      "file": "windows-4.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-21T12%3A00%3A00Z&endDateTime=2026-10-24T12%3A00%3A00Z&page=0": {
+      "file": "windows-5.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-24T12%3A00%3A00Z&endDateTime=2026-10-27T12%3A00%3A00Z&page=0": {
+      "file": "windows-6.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-27T12%3A00%3A00Z&endDateTime=2026-10-30T12%3A00%3A00Z&page=0": {
+      "file": "windows-7.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-10-30T12%3A00%3A00Z&endDateTime=2026-11-02T12%3A00%3A00Z&page=0": {
+      "file": "windows-8.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-02T12%3A00%3A00Z&endDateTime=2026-11-05T12%3A00%3A00Z&page=0": {
+      "file": "windows-9.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-05T12%3A00%3A00Z&endDateTime=2026-11-08T12%3A00%3A00Z&page=0": {
+      "file": "windows-10.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-08T12%3A00%3A00Z&endDateTime=2026-11-11T12%3A00%3A00Z&page=0": {
+      "file": "windows-11.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-11T12%3A00%3A00Z&endDateTime=2026-11-14T12%3A00%3A00Z&page=0": {
+      "file": "windows-12.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-14T12%3A00%3A00Z&endDateTime=2026-11-17T12%3A00%3A00Z&page=0": {
+      "file": "windows-13.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-17T12%3A00%3A00Z&endDateTime=2026-11-20T12%3A00%3A00Z&page=0": {
+      "file": "windows-14.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-20T12%3A00%3A00Z&endDateTime=2026-11-23T12%3A00%3A00Z&page=0": {
+      "file": "windows-15.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-23T12%3A00%3A00Z&endDateTime=2026-11-26T12%3A00%3A00Z&page=0": {
+      "file": "windows-16.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-26T12%3A00%3A00Z&endDateTime=2026-11-29T12%3A00%3A00Z&page=0": {
+      "file": "windows-17.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-11-29T12%3A00%3A00Z&endDateTime=2026-12-02T12%3A00%3A00Z&page=0": {
+      "file": "windows-18.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-12-02T12%3A00%3A00Z&endDateTime=2026-12-05T12%3A00%3A00Z&page=0": {
+      "file": "windows-19.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    },
+    "https://app.ticketmaster.com/discovery/v2/events.json?apikey=fixture-key&latlong=40.7128%2C-74.0060&radius=25&unit=miles&stateCode=NY&size=200&sort=date%2Casc&startDateTime=2026-12-05T12%3A00%3A00Z&endDateTime=2026-12-08T12%3A00%3A00Z&page=0": {
+      "file": "windows-20.json",
+      "status": 200,
+      "contentType": "application/json;charset=utf-8"
+    }
+  }
+}

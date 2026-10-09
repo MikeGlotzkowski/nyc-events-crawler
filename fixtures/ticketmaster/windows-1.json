@@ -1,0 +1,759 @@
+{
+ "page": {
+  "size": 200,
+  "totalElements": 5,
+  "totalPages": 1,
+  "number": 0
+ },
+ "_embedded": {
+  "events": [
+   {
+    "name": "Banksy Museum - Flexiticket",
+    "type": "event",
+    "id": "LvZ18Qk4nbbEibYZvnO2s",
+    "url": "https://www.universe.com/events/banksy-museum-flexiticket-tickets-F7XJ8T?ref=ticketmaster",
+    "images": [
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_TABLET_LANDSCAPE_16_9.jpg",
+      "width": 1024,
+      "height": 576,
+      "fallback": false
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_RETINA_PORTRAIT_3_2.jpg",
+      "width": 640,
+      "height": 427,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "width": 2048,
+      "height": 1152,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_RECOMENDATION_16_9.jpg",
+      "width": 100,
+      "height": 56,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_RETINA_LANDSCAPE_16_9.jpg",
+      "width": 1136,
+      "height": 639,
+      "fallback": false
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_TABLET_LANDSCAPE_3_2.jpg",
+      "width": 1024,
+      "height": 683,
+      "fallback": false
+     },
+     {
+      "ratio": "4_3",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_CUSTOM.jpg",
+      "width": 305,
+      "height": 225,
+      "fallback": false
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_ARTIST_PAGE_3_2.jpg",
+      "width": 305,
+      "height": 203,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_EVENT_DETAIL_PAGE_16_9.jpg",
+      "width": 205,
+      "height": 115,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/438/d47dcb31-a7ee-4820-aa73-cc46f2473438_RETINA_PORTRAIT_16_9.jpg",
+      "width": 640,
+      "height": 360,
+      "fallback": false
+     }
+    ],
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-09T14:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "localTime": "10:00:00",
+      "dateTime": "2026-10-10T00:00:00Z",
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/New_York",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7na",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7nl",
+       "name": "Fine Art"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7v7ld",
+       "name": "Fine Art"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Banksy Museum New York",
+       "id": "KovZ917As0C",
+       "url": "https://www.ticketmaster.com/banksy-museum-new-york-tickets-new-york/venue/1656",
+       "address": {
+        "line1": "277 Canal St"
+       },
+       "city": {
+        "name": "New York"
+       },
+       "state": {
+        "name": "New York",
+        "stateCode": "NY"
+       },
+       "postalCode": "10013",
+       "location": {
+        "longitude": "-74.00135811",
+        "latitude": "40.71960250"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Birdland Big Band",
+    "type": "event",
+    "id": "rZ7HnEZ1Af0ppK",
+    "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/14916593",
+    "info": "Every Friday, and for two headlining weeks a year, the \"BBB\" roars into action playing a thrilling and original mix of jazz, funk, Brazilian, Latin and world music for sold-out audiences. Featured weekly guest artists drop-in from television bands (David Letterman, Saturday Night Live) and pop music touring bands (Rob Thomas, Rod Stewart). Come see for yourself why Time Out New York called the BBB, \"a completely unique experience... there isn't another band like this anywhere,\" and yelp.com proclaims, \"if you hear one band in NYC make sure this is it... and prepare to be blown away!\"",
+    "pleaseNote": "Please be aware of the following age-related restrictions for this event: Ages 10+.",
+    "images": [
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
+      "width": 1136,
+      "height": 639,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "width": 2048,
+      "height": 1152,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_16_9.jpg",
+      "width": 640,
+      "height": 360,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RECOMENDATION_16_9.jpg",
+      "width": 100,
+      "height": 56,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_16_9.jpg",
+      "width": 1024,
+      "height": 576,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_3_2.jpg",
+      "width": 1024,
+      "height": 683,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_ARTIST_PAGE_3_2.jpg",
+      "width": 305,
+      "height": 203,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://i.ticketweb.com/i/00/13/07/66/64_Edp.jpg?v=1",
+      "width": 640,
+      "height": 427,
+      "fallback": false
+     },
+     {
+      "ratio": "4_3",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_CUSTOM.jpg",
+      "width": 305,
+      "height": 225,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_EVENT_DETAIL_PAGE_16_9.jpg",
+      "width": 205,
+      "height": 115,
+      "fallback": true
+     }
+    ],
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "17:30:00",
+      "dateTime": "2026-10-09T21:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "localDate": "2026-10-09",
+      "localTime": "18:45:00",
+      "dateTime": "2026-10-09T22:45:00Z",
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/New_York",
+     "status": {
+      "code": "offsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvE",
+       "name": "Jazz"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vk7v",
+       "name": "Big Band"
+      }
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 0,
+      "max": 0
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Birdland Jazz Club",
+       "id": "rZ7HnEZ178J7g",
+       "url": "https://www.ticketweb.com/venue/birdland-jazz-club-new-york-ny/426135",
+       "address": {
+        "line1": "315 West 44th Street "
+       },
+       "city": {
+        "name": "New York"
+       },
+       "state": {
+        "name": "New York",
+        "stateCode": "NY"
+       },
+       "postalCode": "10036",
+       "location": {
+        "longitude": "-73.9896861",
+        "latitude": "40.7590167"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Adam Paddock",
+    "type": "event",
+    "id": "rZ7HnEZ1Af0gvd",
+    "url": "https://www.ticketweb.com/event/adam-paddock-berlin-tickets/14935043",
+    "pleaseNote": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+    "images": [
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
+      "width": 640,
+      "height": 360,
+      "fallback": true
+     },
+     {
+      "ratio": "4_3",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+      "width": 305,
+      "height": 225,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "width": 2048,
+      "height": 1152,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RECOMENDATION_16_9.jpg",
+      "width": 100,
+      "height": 56,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_3_2.jpg",
+      "width": 640,
+      "height": 427,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_3_2.jpg",
+      "width": 1024,
+      "height": 683,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
+      "width": 1024,
+      "height": 576,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "width": 1136,
+      "height": 639,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_EVENT_DETAIL_PAGE_16_9.jpg",
+      "width": 205,
+      "height": 115,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_ARTIST_PAGE_3_2.jpg",
+      "width": 305,
+      "height": 203,
+      "fallback": true
+     },
+     {
+      "url": "https://i.ticketweb.com/i/00/13/53/04/73_Edp.jpg?v=5",
+      "width": 342,
+      "height": 427,
+      "fallback": false
+     }
+    ],
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-09T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/New_York",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvv",
+       "name": "Alternative"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAvJ",
+       "name": "Alternative"
+      }
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 20.07,
+      "max": 20.07
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Berlin",
+       "id": "rZ7HnEZ178g0P",
+       "url": "https://www.ticketweb.com/venue/berlin-new-york-ny/435925",
+       "address": {
+        "line1": "The Lower-Level of 2A Bar",
+        "line2": "<br>25 Avenue A"
+       },
+       "city": {
+        "name": "New York"
+       },
+       "state": {
+        "name": "New York",
+        "stateCode": "NY"
+       },
+       "postalCode": "10009",
+       "location": {
+        "longitude": "-73.986080",
+        "latitude": "40.722974"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Thelonious Monk Birthday Celebration",
+    "type": "event",
+    "id": "rZ7HnEZ1Af0I1d",
+    "url": "https://www.ticketweb.com/event/thelonious-monk-birthday-celebration-birdland-theater-tickets/14928283",
+    "info": "Uri Caine (piano)Ben Allison (bass)Steve Smith (drums)",
+    "pleaseNote": "Please be aware of the following age-related restrictions for this event: Ages 10+.",
+    "images": [
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RECOMENDATION_16_9.jpg",
+      "width": 100,
+      "height": 56,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "width": 2048,
+      "height": 1152,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_3_2.jpg",
+      "width": 640,
+      "height": 427,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_ARTIST_PAGE_3_2.jpg",
+      "width": 305,
+      "height": 203,
+      "fallback": true
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_3_2.jpg",
+      "width": 1024,
+      "height": 683,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_16_9.jpg",
+      "width": 640,
+      "height": 360,
+      "fallback": true
+     },
+     {
+      "ratio": "1_1",
+      "url": "https://i.ticketweb.com/i/00/13/52/34/33_Edp.jpg?v=3",
+      "width": 427,
+      "height": 427,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_EVENT_DETAIL_PAGE_16_9.jpg",
+      "width": 205,
+      "height": 115,
+      "fallback": true
+     },
+     {
+      "ratio": "4_3",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_CUSTOM.jpg",
+      "width": 305,
+      "height": 225,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_TABLET_LANDSCAPE_16_9.jpg",
+      "width": 1024,
+      "height": 576,
+      "fallback": true
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
+      "width": 1136,
+      "height": 639,
+      "fallback": true
+     }
+    ],
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-09T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "end": {
+      "localDate": "2026-10-09",
+      "localTime": "20:15:00",
+      "dateTime": "2026-10-10T00:15:00Z",
+      "approximate": false,
+      "noSpecificTime": false
+     },
+     "timezone": "America/New_York",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7nJ",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "KnvZfZ7vAvE",
+       "name": "Jazz"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vkda",
+       "name": "Jazz"
+      }
+     }
+    ],
+    "priceRanges": [
+     {
+      "type": "standard",
+      "currency": "USD",
+      "min": 35.46,
+      "max": 45.76
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Birdland Theater",
+       "id": "rZ7HnEZ174KrF",
+       "url": "https://www.ticketweb.com/venue/birdland-theater-new-york-ny/553788",
+       "address": {
+        "line1": "315 West 44th Street"
+       },
+       "city": {
+        "name": "New York"
+       },
+       "state": {
+        "name": "New York",
+        "stateCode": "NY"
+       },
+       "postalCode": "10036",
+       "location": {
+        "longitude": "-73.9896861",
+        "latitude": "40.7590167"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Madison Square Garden Tour Experience",
+    "type": "event",
+    "id": "G5diZ_AkoRwOQ",
+    "url": "https://www.ticketmaster.com/madison-square-garden-tour-experience-new-york-new-york-10-09-2026/event/3B00645191BF281A",
+    "pleaseNote": "PLEASE NOTE: Pricing is all-in and includes fees (before taxes if applicable). Access to the Knicks and Rangers locker rooms may be restricted due to venue activity. Tour schedule and content subject to change without notice.",
+    "images": [
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_ARTIST_PAGE_3_2.jpg",
+      "width": 305,
+      "height": 203,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_RETINA_PORTRAIT_16_9.jpg",
+      "width": 640,
+      "height": 360,
+      "fallback": false
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_RETINA_PORTRAIT_3_2.jpg",
+      "width": 640,
+      "height": 427,
+      "fallback": false
+     },
+     {
+      "ratio": "3_2",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_TABLET_LANDSCAPE_3_2.jpg",
+      "width": 1024,
+      "height": 683,
+      "fallback": false
+     },
+     {
+      "ratio": "4_3",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_CUSTOM.jpg",
+      "width": 305,
+      "height": 225,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_SOURCE",
+      "width": 2426,
+      "height": 1365,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_RECOMENDATION_16_9.jpg",
+      "width": 100,
+      "height": 56,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_EVENT_DETAIL_PAGE_16_9.jpg",
+      "width": 205,
+      "height": 115,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "width": 2048,
+      "height": 1152,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_RETINA_LANDSCAPE_16_9.jpg",
+      "width": 1136,
+      "height": 639,
+      "fallback": false
+     },
+     {
+      "ratio": "16_9",
+      "url": "https://s1.ticketm.net/dam/a/476/7c230b41-d92a-4fd4-b6d1-dc6951ae8476_TABLET_LANDSCAPE_16_9.jpg",
+      "width": 1024,
+      "height": 576,
+      "fallback": false
+     }
+    ],
+    "dates": {
+     "start": {
+      "localDate": "2026-10-09",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": true
+     },
+     "timezone": "America/New_York",
+     "status": {
+      "code": "offsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "KZFzniwnSyZfZ7v7n1",
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "id": "KnvZfZ7v7ll",
+       "name": "Undefined"
+      },
+      "subGenre": {
+       "id": "KZazBEonSMnZfZ7vAv1",
+       "name": "Undefined"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "494",
+     "name": "PROMOTED BY VENUE",
+     "description": "PROMOTED BY VENUE / NTL / USA"
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Madison Square Garden",
+       "id": "KovZpZA7AAEA",
+       "url": "https://www.ticketmaster.com/madison-square-garden-tickets-new-york/venue/483329",
+       "address": {
+        "line1": "7th Ave & 32nd Street"
+       },
+       "city": {
+        "name": "New York"
+       },
+       "state": {
+        "name": "New York",
+        "stateCode": "NY"
+       },
+       "postalCode": "10001",
+       "location": {
+        "longitude": "-73.99160060",
+        "latitude": "40.74970620"
+       }
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -30,6 +30,7 @@
  *   resident-advisor   Resident Advisor club nights (GraphQL)
  *   dice               DICE shows and parties (browse pages)
  *   timeout            Time Out New York's weekend list (LLM extraction)
+ *   ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
  *   all-tier1        every non-Playwright crawler above except seatgeek and brooklyn-library
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
@@ -64,6 +65,7 @@ const CRAWLERS = {
   'resident-advisor':   () => import('./crawlers/resident-advisor.js').then(m => m.crawl),
   'dice':               () => import('./crawlers/dice.js').then(m => m.crawl),
   'timeout':            () => import('./crawlers/timeout.js').then(m => m.crawl),
+  'ticketmaster':       () => import('./crawlers/ticketmaster.js').then(m => m.crawl),
 };
 
 const failed = [];
@@ -127,6 +129,7 @@ Targets:
   bam                BAM, Brooklyn Academy of Music (calendar JSON)
   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
+  ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
   all-tier1        Run every non-Playwright crawler except seatgeek and brooklyn-library
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
