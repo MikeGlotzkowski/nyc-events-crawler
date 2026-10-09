@@ -322,14 +322,50 @@ export function mapTribeEvents(payload, source) {
 
 // ── Mode 3: sitemap ───────────────────────────────────────────────
 
+// Child sitemaps worth following from a sitemap INDEX: the event-relevant ones
+// only (e.g. event-sitemap.xml, calendar-sitemap.xml). Page/news/podcast
+// sitemaps are noise and must never be crawled.
+const EVENT_CHILD_SITEMAP_RE = /event|events|calendar|tribe.?events/i;
+
+/** All <loc> values in a sitemap document, in order. */
+function sitemapLocs(xml) {
+  const out = [];
+  for (const m of xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)) out.push(m[1].trim());
+  return out;
+}
+
+/** True for a sitemap INDEX root (<sitemapindex><sitemap><loc>…), false for a URL set. */
+export function isSitemapIndex(xml) {
+  return typeof xml === 'string' && /<sitemapindex[\s>]/i.test(xml);
+}
+
+/**
+ * Event page URLs in a URL-set sitemap (<urlset>). Keeps only /event(s)/… and
+ * /calendar/… pages. Unchanged A4 behaviour.
+ */
 export function eventUrlsFromSitemap(xml) {
   if (!xml || typeof xml !== 'string') return [];
   const out = new Set();
-  for (const m of xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)) {
+  for (const raw of sitemapLocs(xml)) {
     let url;
-    try { url = new URL(m[1]); } catch { continue; }
+    try { url = new URL(raw); } catch { continue; }
     const p = url.pathname;
     if (/(^|\/)(event|events)\/[^/]/i.test(p) || /\/calendar\/[^/]/i.test(p)) out.add(url.href);
+  }
+  return [...out];
+}
+
+/**
+ * Child sitemap URLs to follow from a sitemap INDEX — only event-relevant ones
+ * (name matches /event|events|calendar|tribe.?events/i). [] for a URL set.
+ */
+export function eventChildSitemapsFromIndex(xml) {
+  if (!isSitemapIndex(xml)) return [];
+  const out = new Set();
+  for (const raw of sitemapLocs(xml)) {
+    let url;
+    try { url = new URL(raw); } catch { continue; }
+    if (EVENT_CHILD_SITEMAP_RE.test(url.pathname)) out.add(url.href);
   }
   return [...out];
 }
@@ -552,8 +588,30 @@ export async function harvestSeed(seed, { fetchText = defaultFetchText, domainDe
   {
     const res = await safeFetch(fetchText, `${base}/sitemap.xml`, domainDelayMs);
     if (res.ok && /<urlset|<sitemapindex/i.test(res.body)) {
-      const urls = eventUrlsFromSitemap(res.body).slice(0, MAX_SITEMAP_PAGES);
-      for (const url of urls) {
+      // A sitemap INDEX (Yoast/RankMath, The Events Calendar) lists CHILD sitemaps,
+      // not pages. Follow ONLY its event-relevant children — exactly one level deep
+      // (a child index is not descended into, so nesting/loops cannot run away) —
+      // then parse each child that is a plain URL set with the A4 URL-set logic.
+      const bodies = [];
+      if (isSitemapIndex(res.body)) {
+        const children = eventChildSitemapsFromIndex(res.body);
+        if (children.length === 0) {
+          log(`[calendar-harvest]   ${seed.name}: sitemap index has no event child sitemap — skipping`);
+        }
+        for (const child of children) {
+          const childRes = await safeFetch(fetchText, child, domainDelayMs);
+          if (childRes.ok && !isSitemapIndex(childRes.body)) bodies.push(childRes.body);
+        }
+      } else {
+        bodies.push(res.body);
+      }
+
+      const urls = [];
+      for (const body of bodies) {
+        for (const u of eventUrlsFromSitemap(body)) if (!urls.includes(u)) urls.push(u);
+      }
+
+      for (const url of urls.slice(0, MAX_SITEMAP_PAGES)) {
         const page = await safeFetch(fetchText, url, domainDelayMs);
         if (!page.ok) continue;
         const found = [...extractJsonLdEvents(page.body, seed, url), ...extractNextDataEvents(page.body, seed, url)];

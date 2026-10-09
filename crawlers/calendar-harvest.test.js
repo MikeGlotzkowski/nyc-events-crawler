@@ -124,6 +124,60 @@ describe('calendar-harvest sitemap mode', () => {
   });
 });
 
+// ── Mode 3 addendum: sitemap INDEX → child sitemaps ──────────────
+//
+// Modern WordPress (Yoast/RankMath, The Events Calendar) serve /sitemap.xml as a
+// sitemap INDEX whose <loc> entries are CHILD sitemaps; the event URLs live inside
+// the child (e.g. BRIC Arts Media → /event-sitemap.xml → 471 event URLs).
+// The old code kept only /event//calendar/ URLs, so an index yielded ZERO events.
+
+describe('calendar-harvest sitemap-index mode', () => {
+  it('detects a sitemap index (vs a urlset)', () => {
+    assert.equal(ch.isSitemapIndex(read('sitemap-index.xml')), true);
+    assert.equal(ch.isSitemapIndex(read('sitemap-index-nested.xml')), true);
+    assert.equal(ch.isSitemapIndex(read('sitemap.xml')), false);
+    assert.equal(ch.isSitemapIndex(read('ical-html.html')), false);
+    assert.equal(ch.isSitemapIndex(''), false);
+  });
+
+  it('(a) an index yields the EVENT child sitemap(s) to follow, not zero events', () => {
+    assert.deepEqual(
+      ch.eventChildSitemapsFromIndex(read('sitemap-index.xml')),
+      ['https://events.example.org/event-sitemap.xml'],
+    );
+  });
+
+  it('(b) a child URL set yields its event page URLs', () => {
+    assert.deepEqual(ch.eventUrlsFromSitemap(read('event-sitemap.xml')).sort(), [
+      'https://events.example.org/calendar/winter-concert',
+      'https://events.example.org/event/seed-swap/',
+      'https://events.example.org/events/harvest-walk',
+    ].sort());
+  });
+
+  it('(c) non-event children (page/news/podcast) are NOT followed', () => {
+    const children = ch.eventChildSitemapsFromIndex(read('sitemap-index.xml'));
+    for (const noise of ['page-sitemap.xml', 'news-sitemap.xml', 'podcast-sitemap.xml']) {
+      assert.ok(!children.some(u => u.endsWith(noise)), `${noise} must be filtered out`);
+    }
+  });
+
+  it('(d) recursion is capped at one level and loop-safe', async () => {
+    const calls = [];
+    const fetchText = async (url) => {
+      calls.push(url);
+      if (url.endsWith('/sitemap.xml')) return { ok: true, status: 200, contentType: 'application/xml', body: read('sitemap-index-nested.xml') };
+      if (url.endsWith('/events-index.xml')) return { ok: true, status: 200, contentType: 'application/xml', body: read('events-index.xml') };
+      return { ok: false, status: 404, contentType: 'text/plain', body: 'not found' };
+    };
+    const events = await ch.harvestSeed(SEED, { fetchText, domainDelayMs: 0 });
+    assert.deepEqual(events, []);
+    assert.equal(calls.filter(u => u.endsWith('/sitemap.xml')).length, 1, 'root sitemap fetched once (no loop)');
+    assert.equal(calls.filter(u => u.endsWith('/events-index.xml')).length, 1, 'first-level child fetched once');
+    assert.ok(!calls.some(u => u.endsWith('/event-sitemap.xml')), 'must NOT descend into a nested index (cap = 1 level)');
+  });
+});
+
 // ── Mode 5: __NEXT_DATA__ ────────────────────────────────────────
 
 describe('calendar-harvest __NEXT_DATA__ mode', () => {
@@ -179,6 +233,26 @@ describe('calendar-harvest seed discovery', () => {
   it('skips a seed whose fetch throws — never fails the run', async () => {
     const fetchText = async () => { throw new Error('boom'); };
     assert.deepEqual(await ch.harvestSeed(SEED, { fetchText, domainDelayMs: 0 }), []);
+  });
+
+  it('follows a BRIC-shaped sitemap index into its child event sitemap and harvests JSON-LD', async () => {
+    const calls = [];
+    const fetchText = async (url) => {
+      calls.push(url);
+      if (url.includes('ical=1')) return { ok: false, status: 404, contentType: 'text/plain', body: 'not found' };
+      if (url.includes('/wp-json/tribe/events/v1/events')) return { ok: false, status: 404, contentType: 'application/json', body: '{}' };
+      if (url.endsWith('/sitemap.xml')) return { ok: true, status: 200, contentType: 'application/xml', body: read('sitemap-index.xml') };
+      if (url.endsWith('/event-sitemap.xml')) return { ok: true, status: 200, contentType: 'application/xml', body: read('event-sitemap.xml') };
+      if (url === 'https://events.example.org/event/seed-swap/') {
+        return { ok: true, status: 200, contentType: 'text/html', body: read('jsonld-graph.html') };
+      }
+      return { ok: true, status: 200, contentType: 'text/html', body: read('malformed.html') };
+    };
+    const events = await ch.harvestSeed(SEED, { fetchText, domainDelayMs: 0 });
+    assert.equal(events.length, 1);
+    assert.equal(events[0].title, 'Winter Concert');
+    assert.ok(calls.includes('https://events.example.org/event-sitemap.xml'), 'child event sitemap was followed');
+    assert.ok(!calls.some(u => u.endsWith('/page-sitemap.xml')), 'noise child sitemaps are never fetched');
   });
 });
 
