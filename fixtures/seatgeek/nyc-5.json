@@ -1,0 +1,827 @@
+{
+  "events": [
+    {
+      "access_method": null,
+      "announce_date": "2026-06-15T00:00:00",
+      "announcements": {},
+      "conditional": false,
+      "contingent": false,
+      "created_at": "2026-06-15T19:44:12",
+      "date_tbd": false,
+      "datetime_local": "2026-10-08T03:30:00",
+      "datetime_tbd": false,
+      "datetime_utc": "2026-10-08T07:30:00",
+      "tbd_datetime_range_start_utc": null,
+      "tbd_datetime_range_end_utc": null,
+      "description": "",
+      "onsale": null,
+      "enddatetime_utc": "2026-10-11T21:00:00",
+      "sales_end_datetime_utc": null,
+      "expected_experience_end": null,
+      "event_promotion": null,
+      "game_number": 0,
+      "home_game_number": 0,
+      "id": 18310582,
+      "integrated": null,
+      "is_open": false,
+      "is_visible": true,
+      "is_visible_override": "VISIBLE",
+      "links": [],
+      "main_event_id": null,
+      "performers": [
+        {
+          "type": "entertainment",
+          "name": "New York Comic Con",
+          "id": 592327,
+          "divisions": null,
+          "links": [],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 3
+          },
+          "taxonomies": [
+            {
+              "id": 3000000,
+              "name": "theater",
+              "parent_id": null,
+              "seo_event_type": "theater",
+              "rank": 0
+            },
+            {
+              "id": 3100000,
+              "name": "entertainment",
+              "parent_id": 3000000,
+              "seo_event_type": "entertainment",
+              "rank": 0
+            },
+            {
+              "id": 3100600,
+              "name": "entertainment",
+              "parent_id": 3100000,
+              "seo_event_type": "entertainment",
+              "rank": 0
+            }
+          ],
+          "url": "https://seatgeek.com/new-york-comic-con-tickets",
+          "score": 0.54,
+          "slug": "new-york-comic-con",
+          "home_venue_id": null,
+          "short_name": "New York Comic Con",
+          "num_upcoming_events": 3,
+          "colors": null,
+          "popularity": 8881,
+          "hidden": false,
+          "location": null,
+          "relative_url": "/new-york-comic-con-tickets",
+          "is_event": false,
+          "ada_dominant_image_color": "#040404"
+        }
+      ],
+      "performer_order": [
+        {
+          "id": 592327,
+          "ordinal": 0
+        }
+      ],
+      "playoffs": null,
+      "popularity": 0,
+      "relative_url": "/new-york-comic-con-tickets/entertainment/2026-10-08-3-30-am/18310582",
+      "score": 0,
+      "season_stage": null,
+      "short_title": "New York Comic Con - 4 Day Pass",
+      "stats": {},
+      "status": "normal",
+      "taxonomies": [
+        {
+          "id": 3000000,
+          "name": "theater",
+          "parent_id": null,
+          "seo_event_type": "theater",
+          "rank": 0
+        },
+        {
+          "id": 3100000,
+          "name": "entertainment",
+          "parent_id": 3000000,
+          "seo_event_type": "entertainment",
+          "rank": 0
+        },
+        {
+          "id": 3100600,
+          "name": "entertainment",
+          "parent_id": 3100000,
+          "seo_event_type": "entertainment",
+          "rank": 0
+        }
+      ],
+      "ticketmaster": null,
+      "tdc_pv_id": 0,
+      "tdc_pvo_id": 0,
+      "time_tbd": true,
+      "title": "New York Comic Con - 4 Day Pass",
+      "url": "https://seatgeek.com/new-york-comic-con-tickets/entertainment/2026-10-08-3-30-am/18310582",
+      "venue": {
+        "id": 32196,
+        "name": "Javits Center",
+        "name_v2": "Javits Center",
+        "postal_code": "10001",
+        "timezone": "America/New_York",
+        "score": 0.6,
+        "popularity": 8915,
+        "address": "655 West 34th Street",
+        "country": "US",
+        "city": "New York",
+        "state": "NY",
+        "slug": "javits-center",
+        "metro_code": 501,
+        "capacity": 0,
+        "hidden": false,
+        "links": [],
+        "passes": [
+          {
+            "pass_type": "PARKING",
+            "name": "Javits Center Parking",
+            "url": "https://seatgeek.com/venues/javits-center/parking",
+            "relative_url": "/venues/javits-center/parking",
+            "stats": {
+              "event_count": 13
+            }
+          }
+        ],
+        "extended_address": "New York, NY 10001",
+        "display_location": "New York, NY",
+        "access_method": null,
+        "location": {
+          "lat": 40.7128,
+          "lon": -74.0059
+        },
+        "has_upcoming_events": true,
+        "num_upcoming_events": 12,
+        "url": "https://seatgeek.com/venues/javits-center/tickets",
+        "relative_url": "/venues/javits-center/tickets",
+        "marquee_city": null,
+        "sg_market_area": 2
+      },
+      "visible_at": "2026-06-15T19:43:51Z",
+      "visible_until_utc": "2026-10-11T21:00:00",
+      "open_domain_id": "",
+      "open_id": "",
+      "event_group_ids": [],
+      "type": "entertainment",
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "access_method": null,
+      "announce_date": "2026-08-28T00:00:00",
+      "announcements": {},
+      "conditional": false,
+      "contingent": false,
+      "created_at": "2026-08-28T13:37:09",
+      "date_tbd": false,
+      "datetime_local": "2026-10-09T16:00:00",
+      "datetime_tbd": false,
+      "datetime_utc": "2026-10-09T20:00:00",
+      "tbd_datetime_range_start_utc": null,
+      "tbd_datetime_range_end_utc": null,
+      "description": "",
+      "onsale": null,
+      "enddatetime_utc": "2026-10-09T20:00:00",
+      "sales_end_datetime_utc": "2026-10-09T20:00:00",
+      "expected_experience_end": "2026-10-09T20:00:00",
+      "event_promotion": null,
+      "game_number": 0,
+      "home_game_number": 0,
+      "id": 18539533,
+      "integrated": null,
+      "is_open": false,
+      "is_visible": true,
+      "is_visible_override": "UNSET",
+      "links": [
+        {
+          "id": "Z1r9uZruZqGZ1AvZ3jo",
+          "url": "",
+          "provider": "ticketmaster",
+          "primary": false,
+          "display_name": "",
+          "logos": {},
+          "sales": [],
+          "link_type": "ID"
+        }
+      ],
+      "main_event_id": null,
+      "performers": [
+        {
+          "type": "theater",
+          "name": "The Very Hungry Caterpillar Show",
+          "id": 252284,
+          "divisions": null,
+          "links": [],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 182
+          },
+          "taxonomies": [
+            {
+              "id": 3000000,
+              "name": "theater",
+              "parent_id": null,
+              "seo_event_type": "theater",
+              "rank": 0
+            }
+          ],
+          "url": "https://seatgeek.com/the-very-hungry-caterpillar-show-tickets",
+          "score": 0.33,
+          "slug": "the-very-hungry-caterpillar-show",
+          "home_venue_id": null,
+          "short_name": "The Very Hungry Caterpillar Show",
+          "num_upcoming_events": 182,
+          "colors": null,
+          "popularity": 4237,
+          "hidden": false,
+          "location": null,
+          "relative_url": "/the-very-hungry-caterpillar-show-tickets",
+          "is_event": false,
+          "ada_dominant_image_color": "#206c7f"
+        }
+      ],
+      "performer_order": [
+        {
+          "id": 252284,
+          "ordinal": 0
+        }
+      ],
+      "playoffs": null,
+      "popularity": 0.6744721591,
+      "relative_url": "/the-very-hungry-caterpillar-show-tickets/family/2026-10-09-4-pm/18539533",
+      "score": 0.2439305955,
+      "season_stage": null,
+      "short_title": "The Very Hungry Caterpillar Show - New York",
+      "stats": {},
+      "status": "normal",
+      "taxonomies": [
+        {
+          "id": 3000000,
+          "name": "theater",
+          "parent_id": null,
+          "seo_event_type": "theater",
+          "rank": 0
+        },
+        {
+          "id": 3050000,
+          "name": "family",
+          "parent_id": 3000000,
+          "seo_event_type": "family",
+          "rank": 0
+        }
+      ],
+      "ticketmaster": null,
+      "tdc_pv_id": 0,
+      "tdc_pvo_id": 0,
+      "time_tbd": false,
+      "title": "The Very Hungry Caterpillar Show - New York",
+      "url": "https://seatgeek.com/the-very-hungry-caterpillar-show-tickets/family/2026-10-09-4-pm/18539533",
+      "venue": {
+        "id": 4510,
+        "name": "DR2 Theatre",
+        "name_v2": "DR2 Theatre",
+        "postal_code": "10003",
+        "timezone": "America/New_York",
+        "score": 0.56,
+        "popularity": 4236,
+        "address": "103 East 15th Street",
+        "country": "US",
+        "city": "New York",
+        "state": "NY",
+        "slug": "dr2-theatre",
+        "metro_code": 501,
+        "capacity": 0,
+        "hidden": false,
+        "links": [],
+        "passes": [
+          {
+            "pass_type": "PARKING",
+            "name": "DR2 Theatre Parking",
+            "url": "https://seatgeek.com/venues/dr2-theatre/parking",
+            "relative_url": "/venues/dr2-theatre/parking",
+            "stats": {
+              "event_count": 43
+            }
+          }
+        ],
+        "extended_address": "New York, NY 10003",
+        "display_location": "New York, NY",
+        "access_method": null,
+        "location": {
+          "lat": 40.7353,
+          "lon": -73.9894
+        },
+        "has_upcoming_events": true,
+        "num_upcoming_events": 181,
+        "url": "https://seatgeek.com/venues/dr2-theatre/tickets",
+        "relative_url": "/venues/dr2-theatre/tickets",
+        "marquee_city": null,
+        "sg_market_area": 2
+      },
+      "visible_at": "2026-08-28T07:51:53Z",
+      "visible_until_utc": "2026-10-09T20:00:00",
+      "open_domain_id": "",
+      "open_id": "",
+      "event_group_ids": [],
+      "type": "family",
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "access_method": null,
+      "announce_date": "2025-11-21T00:00:00",
+      "announcements": {},
+      "conditional": false,
+      "contingent": false,
+      "created_at": "2025-11-21T22:13:44",
+      "date_tbd": false,
+      "datetime_local": "2026-10-09T18:00:00",
+      "datetime_tbd": false,
+      "datetime_utc": "2026-10-09T22:00:00",
+      "tbd_datetime_range_start_utc": null,
+      "tbd_datetime_range_end_utc": null,
+      "description": "",
+      "onsale": null,
+      "enddatetime_utc": "2026-10-09T22:00:00",
+      "sales_end_datetime_utc": null,
+      "expected_experience_end": null,
+      "event_promotion": null,
+      "game_number": 0,
+      "home_game_number": 0,
+      "id": 17924762,
+      "integrated": null,
+      "is_open": false,
+      "is_visible": true,
+      "is_visible_override": "VISIBLE",
+      "links": [],
+      "main_event_id": null,
+      "performers": [
+        {
+          "type": "theater",
+          "name": "Drunk Dracula",
+          "id": 1965673,
+          "divisions": null,
+          "links": [],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 273
+          },
+          "taxonomies": [
+            {
+              "id": 3000000,
+              "name": "theater",
+              "parent_id": null,
+              "seo_event_type": "theater",
+              "rank": 0
+            }
+          ],
+          "url": "https://seatgeek.com/drunk-dracula-tickets",
+          "score": 0.32,
+          "slug": "drunk-dracula",
+          "home_venue_id": null,
+          "short_name": "Drunk Dracula",
+          "num_upcoming_events": 273,
+          "colors": null,
+          "popularity": 30865,
+          "hidden": false,
+          "location": null,
+          "relative_url": "/drunk-dracula-tickets",
+          "is_event": false,
+          "ada_dominant_image_color": "#040404"
+        }
+      ],
+      "performer_order": [
+        {
+          "id": 1965673,
+          "ordinal": 0
+        }
+      ],
+      "playoffs": null,
+      "popularity": 0.7110213863,
+      "relative_url": "/drunk-dracula-tickets/theater/2026-10-09-6-pm/17924762",
+      "score": 0.3202014076,
+      "season_stage": null,
+      "short_title": "Drunk Dracula - New York",
+      "stats": {},
+      "status": "normal",
+      "taxonomies": [
+        {
+          "id": 3000000,
+          "name": "theater",
+          "parent_id": null,
+          "seo_event_type": "theater",
+          "rank": 0
+        }
+      ],
+      "ticketmaster": null,
+      "tdc_pv_id": 0,
+      "tdc_pvo_id": 0,
+      "time_tbd": false,
+      "title": "Drunk Dracula - New York",
+      "url": "https://seatgeek.com/drunk-dracula-tickets/theater/2026-10-09-6-pm/17924762",
+      "venue": {
+        "id": 1608048,
+        "name": "The Ruby Theatre",
+        "name_v2": "The Ruby Theatre",
+        "postal_code": "10018",
+        "timezone": "America/New_York",
+        "score": 0.61,
+        "popularity": 7818,
+        "address": "35 W 39th St",
+        "country": "US",
+        "city": "New York",
+        "state": "NY",
+        "slug": "the-ruby-theatre",
+        "metro_code": 501,
+        "capacity": 0,
+        "hidden": false,
+        "links": [],
+        "passes": [
+          {
+            "pass_type": "PARKING",
+            "name": "The Ruby Theatre Parking",
+            "url": "https://seatgeek.com/venues/the-ruby-theatre/parking",
+            "relative_url": "/venues/the-ruby-theatre/parking",
+            "stats": {
+              "event_count": 163
+            }
+          }
+        ],
+        "extended_address": "New York, NY 10018",
+        "display_location": "New York, NY",
+        "access_method": null,
+        "location": {
+          "lat": 40.7527,
+          "lon": -73.9841
+        },
+        "has_upcoming_events": true,
+        "num_upcoming_events": 168,
+        "url": "https://seatgeek.com/venues/the-ruby-theatre/tickets",
+        "relative_url": "/venues/the-ruby-theatre/tickets",
+        "marquee_city": null,
+        "sg_market_area": 2
+      },
+      "visible_at": "2025-11-21T22:13:35Z",
+      "visible_until_utc": "2026-10-09T22:00:00",
+      "open_domain_id": "",
+      "open_id": "",
+      "event_group_ids": [],
+      "type": "theater",
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "access_method": null,
+      "announce_date": "2026-06-03T00:00:00",
+      "announcements": {},
+      "conditional": false,
+      "contingent": false,
+      "created_at": "2026-06-03T13:33:14",
+      "date_tbd": false,
+      "datetime_local": "2026-10-09T18:00:00",
+      "datetime_tbd": false,
+      "datetime_utc": "2026-10-09T22:00:00",
+      "tbd_datetime_range_start_utc": null,
+      "tbd_datetime_range_end_utc": null,
+      "description": "",
+      "onsale": null,
+      "enddatetime_utc": "2026-10-09T23:30:00",
+      "sales_end_datetime_utc": null,
+      "expected_experience_end": null,
+      "event_promotion": null,
+      "game_number": 0,
+      "home_game_number": 0,
+      "id": 18282946,
+      "integrated": null,
+      "is_open": false,
+      "is_visible": true,
+      "is_visible_override": "UNSET",
+      "links": [
+        {
+          "id": "000064BF1AECB6BB",
+          "url": "",
+          "provider": "ticketmaster",
+          "primary": false,
+          "display_name": "",
+          "logos": {},
+          "sales": [],
+          "link_type": "ID"
+        }
+      ],
+      "main_event_id": null,
+      "performers": [
+        {
+          "type": "band",
+          "name": "DJ Pauly D",
+          "id": 6018,
+          "divisions": null,
+          "links": [],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 6
+          },
+          "taxonomies": [
+            {
+              "id": 2000000,
+              "name": "concert",
+              "parent_id": null,
+              "seo_event_type": "concert",
+              "rank": 0
+            }
+          ],
+          "url": "https://seatgeek.com/dj-pauly-d-tickets",
+          "score": 0.52,
+          "slug": "dj-pauly-d",
+          "home_venue_id": null,
+          "short_name": "DJ Pauly D",
+          "num_upcoming_events": 6,
+          "colors": null,
+          "genres": [
+            {
+              "id": 477,
+              "name": "Electronic",
+              "slug": "electronic",
+              "primary": true
+            },
+            {
+              "id": 976,
+              "name": "Techno",
+              "slug": "techno",
+              "primary": true
+            }
+          ],
+          "popularity": 3055,
+          "hidden": false,
+          "location": null,
+          "relative_url": "/dj-pauly-d-tickets",
+          "is_event": false,
+          "ada_dominant_image_color": "#d2c4c5"
+        }
+      ],
+      "performer_order": [
+        {
+          "id": 6018,
+          "ordinal": 0
+        }
+      ],
+      "playoffs": null,
+      "popularity": 0.7745617212,
+      "relative_url": "/dj-pauly-d-tickets/new-york-new-york-the-rooftop-at-pier-17-2026-10-09-6-pm/concert/18282946",
+      "score": 0.4543215801,
+      "season_stage": null,
+      "short_title": "DJ Pauly D",
+      "stats": {},
+      "status": "normal",
+      "taxonomies": [
+        {
+          "id": 2000000,
+          "name": "concert",
+          "parent_id": null,
+          "seo_event_type": "concert",
+          "rank": 0
+        }
+      ],
+      "ticketmaster": null,
+      "tdc_pv_id": 0,
+      "tdc_pvo_id": 0,
+      "time_tbd": false,
+      "title": "DJ Pauly D",
+      "url": "https://seatgeek.com/dj-pauly-d-tickets/new-york-new-york-the-rooftop-at-pier-17-2026-10-09-6-pm/concert/18282946",
+      "venue": {
+        "id": 448894,
+        "name": "The Rooftop at Pier 17",
+        "name_v2": "The Rooftop at Pier 17",
+        "postal_code": "10038",
+        "timezone": "America/New_York",
+        "score": 0.68,
+        "popularity": 8374,
+        "address": "89 South Street",
+        "country": "US",
+        "city": "New York",
+        "state": "NY",
+        "slug": "the-rooftop-at-pier-17",
+        "metro_code": 501,
+        "capacity": 0,
+        "hidden": false,
+        "links": [],
+        "passes": [
+          {
+            "pass_type": "PARKING",
+            "name": "The Rooftop at Pier 17 Parking",
+            "url": "https://seatgeek.com/venues/the-rooftop-at-pier-17/parking",
+            "relative_url": "/venues/the-rooftop-at-pier-17/parking",
+            "stats": {
+              "event_count": 5
+            }
+          }
+        ],
+        "extended_address": "New York, NY 10038",
+        "display_location": "New York, NY",
+        "access_method": null,
+        "location": {
+          "lat": 40.7063,
+          "lon": -74.0038
+        },
+        "has_upcoming_events": true,
+        "num_upcoming_events": 5,
+        "url": "https://seatgeek.com/venues/the-rooftop-at-pier-17/tickets",
+        "relative_url": "/venues/the-rooftop-at-pier-17/tickets",
+        "marquee_city": null,
+        "sg_market_area": 2
+      },
+      "visible_at": "2026-06-16T10:58:56Z",
+      "visible_until_utc": "2026-10-09T23:30:00",
+      "open_domain_id": "",
+      "open_id": "",
+      "event_group_ids": [],
+      "type": "concert",
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "access_method": null,
+      "announce_date": "2026-06-03T00:00:00",
+      "announcements": {},
+      "conditional": false,
+      "contingent": false,
+      "created_at": "2026-06-03T13:34:13",
+      "date_tbd": false,
+      "datetime_local": "2026-10-09T18:00:00",
+      "datetime_tbd": false,
+      "datetime_utc": "2026-10-09T22:00:00",
+      "tbd_datetime_range_start_utc": null,
+      "tbd_datetime_range_end_utc": null,
+      "description": "",
+      "onsale": null,
+      "enddatetime_utc": "2026-10-09T23:30:00",
+      "sales_end_datetime_utc": "2026-10-09T23:30:00",
+      "expected_experience_end": "2026-10-09T23:30:00",
+      "event_promotion": null,
+      "game_number": 0,
+      "home_game_number": 0,
+      "id": 18282481,
+      "integrated": {
+        "provider_name": "TICKETMASTER",
+        "provider_id": "000064BDE7FFF73E"
+      },
+      "is_open": false,
+      "is_visible": true,
+      "is_visible_override": "UNSET",
+      "links": [
+        {
+          "id": "000064BDE7FFF73E",
+          "url": "",
+          "provider": "ticketmaster",
+          "primary": false,
+          "display_name": "",
+          "logos": {},
+          "sales": [],
+          "link_type": "ID"
+        }
+      ],
+      "main_event_id": null,
+      "performers": [
+        {
+          "type": "band",
+          "name": "Nevertel",
+          "id": 1959324,
+          "divisions": null,
+          "links": [],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 31
+          },
+          "taxonomies": [
+            {
+              "id": 2000000,
+              "name": "concert",
+              "parent_id": null,
+              "seo_event_type": "concert",
+              "rank": 0
+            }
+          ],
+          "url": "https://seatgeek.com/nevertel-tickets",
+          "score": 0.42,
+          "slug": "nevertel",
+          "home_venue_id": null,
+          "short_name": "Nevertel",
+          "num_upcoming_events": 31,
+          "colors": null,
+          "popularity": 3217,
+          "hidden": false,
+          "location": null,
+          "relative_url": "/nevertel-tickets",
+          "is_event": false,
+          "ada_dominant_image_color": "#050505"
+        }
+      ],
+      "performer_order": [
+        {
+          "id": 1959324,
+          "ordinal": 0
+        }
+      ],
+      "playoffs": null,
+      "popularity": 0.7222824735,
+      "relative_url": "/nevertel-tickets/new-york-new-york-gramercy-theatre-2026-10-09-6-pm/concert/18282481",
+      "score": 0.3438948821,
+      "season_stage": null,
+      "short_title": "Nevertel",
+      "stats": {},
+      "status": "normal",
+      "taxonomies": [
+        {
+          "id": 2000000,
+          "name": "concert",
+          "parent_id": null,
+          "seo_event_type": "concert",
+          "rank": 0
+        }
+      ],
+      "ticketmaster": "000064BDE7FFF73E",
+      "tdc_pv_id": 0,
+      "tdc_pvo_id": 0,
+      "time_tbd": false,
+      "title": "Nevertel",
+      "url": "https://seatgeek.com/nevertel-tickets/new-york-new-york-gramercy-theatre-2026-10-09-6-pm/concert/18282481",
+      "venue": {
+        "id": 747,
+        "name": "Gramercy Theatre",
+        "name_v2": "Gramercy Theatre",
+        "postal_code": "10010",
+        "timezone": "America/New_York",
+        "score": 0.6,
+        "popularity": 2899,
+        "address": "127 East 23rd Street",
+        "country": "US",
+        "city": "New York",
+        "state": "NY",
+        "slug": "gramercy-theatre",
+        "metro_code": 501,
+        "capacity": 0,
+        "hidden": false,
+        "links": [],
+        "passes": [
+          {
+            "pass_type": "PARKING",
+            "name": "Gramercy Theatre Parking",
+            "url": "https://seatgeek.com/venues/gramercy-theatre/parking",
+            "relative_url": "/venues/gramercy-theatre/parking",
+            "stats": {
+              "event_count": 48
+            }
+          }
+        ],
+        "extended_address": "New York, NY 10010",
+        "display_location": "New York, NY",
+        "access_method": null,
+        "location": {
+          "lat": 40.738,
+          "lon": -73.9829
+        },
+        "has_upcoming_events": true,
+        "num_upcoming_events": 54,
+        "url": "https://seatgeek.com/venues/gramercy-theatre/tickets",
+        "relative_url": "/venues/gramercy-theatre/tickets",
+        "marquee_city": null,
+        "sg_market_area": 2
+      },
+      "visible_at": "2026-06-03T06:50:14Z",
+      "visible_until_utc": "2026-10-09T23:30:00",
+      "open_domain_id": "",
+      "open_id": "",
+      "event_group_ids": [],
+      "type": "concert",
+      "themes": [],
+      "domain_information": []
+    }
+  ],
+  "meta": {
+    "geolocation": {
+      "lat": 40.7143,
+      "lon": -74.006,
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "postal_code": "10116",
+      "display_name": "New York, NY",
+      "metro_code": "501",
+      "sg_market_area_id": "2",
+      "range": "25mi"
+    },
+    "total": 15319,
+    "took": 0,
+    "page": 1,
+    "per_page": 5
+  }
+}
