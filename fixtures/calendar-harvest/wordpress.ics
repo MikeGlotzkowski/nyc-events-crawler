@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Example Venue - ECPv6.17.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Example Venue
+X-ORIGINAL-URL:https://events.example.org
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20250101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261201T100000
+DTEND;TZID=UTC:20261201T113000
+DTSTAMP:20261101T120000Z
+UID:cal-1@events.example.org
+SUMMARY:Harvest Walk & Birding
+DESCRIPTION:Come explore the urban forest on a guided nature walk. Binoculars available.
+URL:https://events.example.org/events/harvest-walk
+LOCATION:The Farm
+CATEGORIES:Arts & Culture,Environmental Education
+ATTACH;FMTTYPE=image/png:https://events.example.org/uploads/harvest-walk.png
+GEO:40.690000;-73.970000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20261101T120000Z
+UID:cal-2@events.example.org
+SUMMARY:Seed Swap
+DESCRIPTION:Bring seeds and swap with neighbors.
+URL:https://events.example.org/events/seed-swap
+END:VEVENT
+END:VCALENDAR

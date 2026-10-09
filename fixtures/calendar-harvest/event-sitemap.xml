@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Child sitemap referenced by sitemap-index.xml: a plain URL SET of event pages. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://events.example.org/event/seed-swap/</loc></url>
+  <url><loc>https://events.example.org/events/harvest-walk</loc></url>
+  <url><loc>https://events.example.org/calendar/winter-concert</loc></url>
+</urlset>

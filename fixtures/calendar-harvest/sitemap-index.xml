@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BRIC Arts Media shape: /sitemap.xml is a sitemap INDEX whose <loc> entries are child sitemaps. -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://events.example.org/event-sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://events.example.org/page-sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://events.example.org/news-sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://events.example.org/podcast-sitemap.xml</loc></sitemap>
+</sitemapindex>

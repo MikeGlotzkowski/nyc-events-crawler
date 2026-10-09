@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Loop-safety fixture: the event-relevant child is ITSELF a sitemap index.
+     Recursion must stop at one level (never descend into events-index.xml's children). -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://events.example.org/events-index.xml</loc></sitemap>
+</sitemapindex>

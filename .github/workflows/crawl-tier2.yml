@@ -15,6 +15,7 @@ env:
   SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+  TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
 
 jobs:
   crawl:
