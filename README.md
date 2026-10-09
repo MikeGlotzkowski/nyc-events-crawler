@@ -43,7 +43,6 @@ never committed — `.env` is gitignored and a pre-public scan is recorded in
 | `SUPABASE_SERVICE_KEY` | Yes | Supabase service-role key — **full DB access, keep secret** |
 | `OPENAI_API_KEY` | For `rss-blogs` LLM extraction + `nyccom` enrichment | OpenAI key (`gpt-4o-mini`). *Migrating to `OPENROUTER_API_KEY` in program items 02–04.* |
 | `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` / `AWS_S3_BUCKET` / `AWS_REGION` | Only when `STORAGE_MODE=s3` | Optional/legacy S3 output |
-| `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` | Optional | Push source-health findings to Telegram (bot token from @BotFather + target chat id). Unset = skip silently. |
 
 See [`.env.example`](.env.example) for the full set, including tuning flags (`TEST_MODE`,
 `USE_LLM_EXTRACTION`, `ENABLE_ENRICHMENT`, `STORAGE_MODE`).
@@ -68,9 +67,7 @@ STORAGE_MODE=s3 node index.js nyccom           # also write results to S3
 
 CI runs the crawlers on a schedule via `.github/workflows/crawl-tier1.yml` and `crawl-tier2.yml`.
 `.github/workflows/source-health.yml` checks twice a day that every enabled source is still finding events and
-keeps a "Crawler health alert" issue open while one isn't (`npm run health` prints the same report locally). It also
-pushes the same findings to Telegram when `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` are set — an alert whenever
-there are problems, and a single all-clear when a previously-alerting state becomes healthy again.
+keeps a "Crawler health alert" issue open while one isn't (`npm run health` prints the same report locally).
 
 ## Architecture
 
