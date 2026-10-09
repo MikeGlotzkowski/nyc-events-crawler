@@ -10,17 +10,12 @@
  * It also writes the data-quality report (lib/quality.js) to the job summary, and its
  * "degraded" findings count as problems for the same issue.
  *
- * The same findings are mirrored to Telegram (lib/notify.js) so event data cannot silently
- * rot when nobody watches GitHub. The Telegram ping fires even when the issue sync is
- * skipped (no GITHUB_TOKEN/GITHUB_REPOSITORY, e.g. local runs).
- *
  * Without GITHUB_TOKEN (local runs) it just prints the report.
  */
 
 import { supabase } from './lib/supabase.js';
 import { evaluateHealth, DEFAULTS } from './lib/health.js';
 import { buildQualityReport, QUALITY_DEFAULTS } from './lib/quality.js';
-import { buildTelegramMessage, sendTelegram } from './lib/notify.js';
 import { appendFileSync } from 'node:fs';
 
 const TITLE = 'Crawler health alert';
@@ -77,22 +72,12 @@ const body = [
 
 console.log(problems.length ? `${problems.length} problem(s):\n${problems.map(p => `  ${p.key}`).join('\n')}` : 'All sources healthy.');
 
-// Telegram transition state: the open 'Crawler health alert' issue IS the previous-run
-// state — its presence means we were alerting. No new infra/state file needed. When the
-// issue sync is unavailable (no token), we cannot read that state, so we send on any
-// non-empty problems and never send an all-clear (a spurious all-clear is worse than a
-// missed one, and local runs must be quiet).
-const alert = buildTelegramMessage(problems, now);
-let telegramSent = false;
-
+// The open 'Crawler health alert' issue IS the previous-run state — its presence means we
+// were alerting. No new infra/state file needed.
 const token = process.env.GITHUB_TOKEN;
 const repo = process.env.GITHUB_REPOSITORY;
 if (!token || !repo) {
   console.log('\nGITHUB_TOKEN/GITHUB_REPOSITORY not set; not syncing the issue.\n\n' + body);
-  if (alert.kind === 'open') {
-    await sendTelegram(alert.text);
-    telegramSent = true;
-  }
   process.exit(0);
 }
 
@@ -118,9 +103,6 @@ if (!issue) {
   await gh('POST', `/issues/${issue.number}/comments`, { body: 'All sources are healthy again. Closing.' });
   await gh('PATCH', `/issues/${issue.number}`, { state: 'closed', state_reason: 'completed' });
   console.log(`Closed ${issue.html_url}`);
-  // Transition alert -> healthy: send exactly one all-clear.
-  await sendTelegram(alert.text);
-  telegramSent = true;
 } else {
   const prevKeys = (issue.body?.match(/<!-- health-keys: (.*?) -->/)?.[1] ?? '').split(',').filter(Boolean);
   await gh('PATCH', `/issues/${issue.number}`, { body });
@@ -135,10 +117,4 @@ if (!issue) {
     });
   }
   console.log(`Updated ${issue.html_url}`);
-}
-
-// Alert on every run that has problems (Telegram has no issue-like state to suppress
-// duplicates); never send while healthy unless we just cleared an existing issue.
-if (!telegramSent && alert.kind === 'open') {
-  await sendTelegram(alert.text);
 }
