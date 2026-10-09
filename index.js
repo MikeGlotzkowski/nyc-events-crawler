@@ -13,7 +13,7 @@
  *   riverside-park   Riverside Park WordPress Events Calendar
  *   westsiderag      West Side Rag weekly events page (Playwright)
  *   nyccom           NYC.com multi-category Playwright crawler
- *   seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
+ *   seatgeek         SeatGeek Platform API (active — uses SEATGEEK_CLIENT_ID)
   brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
   queens-library     Queens Public Library events (calendar pages)
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
@@ -31,7 +31,7 @@
  *   dice               DICE shows and parties (browse pages)
  *   timeout            Time Out New York's weekend list (LLM extraction)
  *   ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
- *   all-tier1        every non-Playwright crawler above except seatgeek and brooklyn-library
+ *   all-tier1        every non-Playwright crawler above except brooklyn-library (local-only)
  *   all-tier2        westsiderag, nyccom (Playwright-based)
  *   all              all crawlers
  */
@@ -120,7 +120,7 @@ Targets:
   riverside-park   Riverside Park WordPress Events Calendar
   westsiderag      West Side Rag weekly events (Playwright)
   nyccom           NYC.com multi-category crawler (Playwright)
-  seatgeek         SeatGeek Platform API (dormant — requires SEATGEEK_CLIENT_ID)
+  seatgeek         SeatGeek Platform API (active — uses SEATGEEK_CLIENT_ID)
   brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
   queens-library     Queens Public Library events (calendar pages)
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
@@ -130,7 +130,7 @@ Targets:
   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
   ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
-  all-tier1        Run every non-Playwright crawler except seatgeek and brooklyn-library
+  all-tier1        Run every non-Playwright crawler except brooklyn-library (local-only)
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
 `.trim();
