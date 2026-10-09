@@ -1,5 +1,9 @@
 name: "Tier 1 Crawlers (API + RSS)"
 
+# The former single 60-minute job was killed mid-run on ~half the scheduled
+# nights, and because ticketmaster/seatgeek sit LAST in TIER1 they were the ones
+# dropped. Scheduled runs now split into two parallel jobs with generous caps so
+# a slow source cannot starve the ticketing APIs. The cron schedule is unchanged.
 on:
   schedule:
     - cron: "0 6,12,18 * * *"
@@ -19,9 +23,11 @@ env:
   SEATGEEK_CLIENT_ID: ${{ secrets.SEATGEEK_CLIENT_ID }}
 
 jobs:
-  crawl:
+  # Every non-ticketing tier-1 source. Runs in parallel with `ticketing`.
+  core:
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -32,4 +38,40 @@ jobs:
 
       - run: npm ci
 
-      - run: node index.js ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.crawler || 'all-tier1' }}
+      - run: node index.js tier1-core
+
+  # The heavy ticketing APIs (ticketmaster, then seatgeek). Own job, own cap, so
+  # a slow iCal/LLM source can never run the clock out before they start.
+  ticketing:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node index.js ticketing
+
+  # Manual dispatch: run exactly the requested crawler (any single crawler, or
+  # all-tier1 / all / tier1-core / ticketing) once.
+  manual:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node index.js ${{ github.event.inputs.crawler || 'all-tier1' }}

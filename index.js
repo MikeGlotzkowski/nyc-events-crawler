@@ -37,7 +37,7 @@
  */
 
 import { loadEnv } from './env-loader.js';
-import { log, logError, ensureConfigAndCheckEnabled } from './lib/base-crawler.js';
+import { log, logError, ensureConfigAndCheckEnabled, abortActiveCrawlRuns } from './lib/base-crawler.js';
 import { resolveTarget } from './lib/cli-args.js';
 
 loadEnv();
@@ -69,6 +69,21 @@ const CRAWLERS = {
 };
 
 const failed = [];
+
+// A CI cancel sends SIGTERM; without a handler the process dies and the run's
+// crawl_runs row keeps finished_at = null. Best-effort stamp it aborted first so
+// the next review can tell 'crashed' from 'cancelled'.
+let _shuttingDown = false;
+for (const signal of ['SIGINT', 'SIGTERM']) {
+  process.once(signal, () => {
+    if (_shuttingDown) return;
+    _shuttingDown = true;
+    log(`\n${signal} received — marking in-flight crawl runs aborted`);
+    abortActiveCrawlRuns(`aborted: ${signal}`)
+      .catch(() => {})
+      .finally(() => process.exit(1));
+  });
+}
 
 // ── Runner ───────────────────────────────────────────────────────────────────
 
