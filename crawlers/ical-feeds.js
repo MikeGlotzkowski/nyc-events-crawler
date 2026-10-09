@@ -11,7 +11,12 @@ import { resolveArea } from '../lib/nyc-area.js';
 import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
 
 // ── Source registry ───────────────────────────────────────────────
-// Verified: each URL returns a valid VCALENDAR (checked 2026-06-27).
+// Each entry records the live probe that cleared it. Re-probe with:
+//   curl -sSL -A 'fomo3-events-bot/1.0' <feed> | head
+//
+// `nycFloating: true` marks feeds whose DTSTART has no TZID and no VTIMEZONE (floating local
+// times, e.g. Solspace Calendar). Those must be read as NYC wall clock — a bare floating time
+// would otherwise be parsed in the runner's timezone (UTC in CI) and shift by 4–5 hours.
 
 export const ICAL_SOURCES = [
   // Parks & outdoor spaces
@@ -23,6 +28,27 @@ export const ICAL_SOURCES = [
     feed:         'https://www.green-wood.com/events/?ical=1',
     neighborhood: 'Greenwood Heights',
     borough:      'Brooklyn',
+  },
+  // Bryant Park — Solspace Calendar (the WordPress ?ical=1 route 404s). The park's calendar has a
+  // bulk export at /calendar/export and a per-event one at /calendar/export/<id>. Probed 2026-10-09:
+  // HTTP 200, Content-Type text/calendar, body starts BEGIN:VCALENDAR (438 VEVENTs). The feed is
+  // floating (no TZID/VTIMEZONE), hence nycFloating. No per-event URL in the feed, so sourceUrl
+  // falls back to the feed.
+  {
+    name:         'Bryant Park',
+    feed:         'https://bryantpark.org/calendar/export',
+    neighborhood: 'Midtown',
+    borough:      'Manhattan',
+    nycFloating:  true,
+  },
+  // NYU — LiveWhale Calendar (host is events.nyu.edu; calendar.nyu.edu is an SSO redirect, and
+  // /api/2/events is not a Localist route). Probed 2026-10-09: HTTP 200, Content-Type
+  // text/calendar, body starts BEGIN:VCALENDAR (958 VEVENTs, RRULE + TZID=America/New_York).
+  {
+    name:         'NYU',
+    feed:         'https://events.nyu.edu/live/ical/events',
+    neighborhood: 'Greenwich Village',
+    borough:      'Manhattan',
   },
   {
     name:         "Randall's Island Park",
@@ -52,14 +78,53 @@ function windowBounds() {
 
 // ── iCal parsing ─────────────────────────────────────────────────
 
-async function fetchAndParseIcal(url) {
+/**
+ * Canonical America/New_York VTIMEZONE (the same zone NYU's LiveWhale feed declares), used to
+ * anchor feeds that ship floating local times (Solspace Calendar). Without it, node-ical reads a
+ * bare DTSTART in the runner's timezone and expands RRULEs DST-blind — in CI (UTC) that shifted
+ * every Bryant Park occurrence by 4–5 hours. Verified 2026-10-09: injecting this makes the parse
+ * and the RRULE expansion TZ-independent (UTC ≡ America/New_York) and DST-correct across the
+ * November transition.
+ */
+const NYC_VTIMEZONE = [
+  'BEGIN:VTIMEZONE',
+  'TZID:America/New_York',
+  'BEGIN:DAYLIGHT',
+  'TZNAME:EDT',
+  'DTSTART:19700308T020000',
+  'RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU',
+  'TZOFFSETFROM:-0500',
+  'TZOFFSETTO:-0400',
+  'END:DAYLIGHT',
+  'BEGIN:STANDARD',
+  'TZNAME:EST',
+  'DTSTART:19701101T020000',
+  'RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU',
+  'TZOFFSETFROM:-0400',
+  'TZOFFSETTO:-0500',
+  'END:STANDARD',
+  'END:VTIMEZONE',
+].join('\r\n');
+
+/**
+ * Anchor a floating iCal feed to NYC by declaring an America/New_York VTIMEZONE, so its bare
+ * DTSTARTs resolve to real instants. No-op when the feed already declares a VTIMEZONE (it is not
+ * floating, or declares its own zone) — we only ever add the block, never rewrite event data.
+ */
+export function anchorFloatingFeedToNyc(icsText) {
+  if (!icsText.includes('BEGIN:VCALENDAR') || icsText.includes('BEGIN:VTIMEZONE')) return icsText;
+  return icsText.replace(/(BEGIN:VCALENDAR\s*\r?\n)/, `$1${NYC_VTIMEZONE}\r\n`);
+}
+
+async function fetchAndParseIcal(url, source = {}) {
   const res = await fetch(url, {
     headers: { 'User-Agent': 'fomo3-events-bot/1.0 (+https://github.com/fomo3)' },
     signal: AbortSignal.timeout(20000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const text = await res.text();
+  let text = await res.text();
   if (!text.includes('BEGIN:VCALENDAR')) throw new Error('Response is not a valid iCal feed');
+  if (source.nycFloating) text = anchorFloatingFeedToNyc(text);
   return nodeIcal.parseICS(text);
 }
 
@@ -138,7 +203,7 @@ export function wallClockFix(d) {
   return nycWallToDate(d.getUTCFullYear(), d.getUTCMonth() + 1, d.getUTCDate(), d.getUTCHours(), d.getUTCMinutes());
 }
 
-function mapVEvent(vevent, source) {
+export function mapVEvent(vevent, source) {
   const summary = (typeof vevent.summary === 'string' ? vevent.summary : vevent.summary?.val ?? '').trim();
   if (!summary) return null;
 
@@ -194,7 +259,7 @@ async function processSource(source) {
 
   let parsedData;
   try {
-    parsedData = await fetchAndParseIcal(source.feed);
+    parsedData = await fetchAndParseIcal(source.feed, source);
   } catch (err) {
     logError(`[ical-feeds]   ${source.name}: fetch/parse failed`, err);
     return { events: [], errors: [`${source.name}: ${err.message}`] };

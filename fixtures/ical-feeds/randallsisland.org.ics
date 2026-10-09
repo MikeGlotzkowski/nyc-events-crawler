@@ -19,79 +19,6 @@ DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261003T100000
-DTEND;TZID=UTC:20261003T113000
-DTSTAMP:20260924T151628Z
-CREATED:20260911T205223Z
-LAST-MODIFIED:20260924T151628Z
-UID:10002251-1791021600-1791027000@randallsisland.org
-SUMMARY:City of Forest Day - Forest Walk & Birding
-DESCRIPTION:Come explore the urban forest of Randall’s Island Park through a guided nature walk. We will identify and age trees\, watch birds\, and learn about the relationships between the two. Binoculars will be available to borrow.  \nThis event is a part of City of Forest Day which is an annual day of activities across the city to raise awareness of the importance of the New York City urban forest. City of Forest Day is organized by Forests for All NYC\, a coalition of organizations across the city working to demonstrate the vast support for the New York City urban forest.   \nLocation: Meet at Icahn Stadium \nRegistration is required. Click here to register! \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
-URL:https://randallsisland.org/events/city-of-forest-day-forest-walk-birding
-LOCATION:Icahn Stadium
-CATEGORIES:Arts & Culture,Environmental Education
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/09/400-x-400-photos-37.png
-GEO:40.792778;-73.924666
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261003T100000
-DTEND;TZID=UTC:20261003T120000
-DTSTAMP:20260224T191508Z
-CREATED:20260224T191508Z
-LAST-MODIFIED:20260224T191508Z
-UID:10002108-1791021600-1791028800@randallsisland.org
-SUMMARY:2026 Jesse Owens Track & Field Youth Program - Fall
-DESCRIPTION:Join the Randall’s Island Park Alliance and City Parks Foundation for the Jesse Owens Track and Field Youth Program! This free weekly program is available to youth ages 8-16 and enables participants to learn the fundamentals of the sport and stay active. Activities will focus on running techniques for sprints and relays and will introduce other track and field activities like long jump\, hurdles\, and long-distance running.  \nProgram Dates:  Every Saturday \nSpring: 4/11 – 6/20\, no program on 5/23  \nFall:  9/12 – 10/31  \nRegistration is required on LeagueApps with City Parks Foundation.  \nLocation: Thomas Jefferson Park \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
-URL:https://randallsisland.org/events/2026-jesse-owens-track-field-youth-program-fall-2/2026-10-03
-LOCATION:Thomas Jefferson Park
-CATEGORIES:Fitness,Health & Wellness
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-4.png
-GEO:40.793886;-73.935355
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261004T113000
-DTEND;TZID=UTC:20261004T130000
-DTSTAMP:20260930T201718Z
-CREATED:20260224T194245Z
-LAST-MODIFIED:20260930T201718Z
-UID:10002115-1791113400-1791118800@randallsisland.org
-SUMMARY:Bike Ride to Harvest Festival
-DESCRIPTION:Ride to the Harvest Festival at Randall’s Island Park with El Barrio Bikes! Meet up at Maria Sola Community Greenspace in the Bronx and enjoy a scenic ride along the riverfront and through the park\, ending at the Festival!   \nFree Citi Bikes will be provided thanks to our partnership with Citi Bike\, and we can offer a limited number of free helmets. In order to reserve a bike and helmet\, please email publicprograms@randallsisland.org.  \nThere will be a free Bike Valet provided by Transportation Alternatives so you can safely park your bikes and enjoy the festivities with ease of mind. Citi Bikes will not be included in this valet service\, so if you take a Citi Bike to the festival\, please find the nearest docking station to park\, or ask a RIPA staff member where to dock. You can find the four Citi Bike docks on our interactive map!  \nAfter the festival\, enjoy some time exploring the park’s 9+ miles of cyclist and pedestrian pathways!  \nRegistration required here. \nLocation: Maria Sola Community Greenspace \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org. 
-URL:https://randallsisland.org/events/bike-ride-to-harvest-festival-3
-LOCATION:Thomas Jefferson Park
-CATEGORIES:Festival,Fitness
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-6.png
-GEO:40.793886;-73.935355
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261004T120000
-DTEND;TZID=UTC:20261004T150000
-DTSTAMP:20260922T185828Z
-CREATED:20260219T211554Z
-LAST-MODIFIED:20260922T185828Z
-UID:10001834-1791115200-1791126000@randallsisland.org
-SUMMARY:Harvest Festival
-DESCRIPTION:Step into autumn at the free Randall’s Island Harvest Festival! Celebrate the end of the growing season with a family-friendly day of outdoor fun. Explore our pumpkin patch\, watch seasonal cooking demonstrations\, enjoy live performances\, get creative with face painting\, and discover nature through hands-on activities with local partners. With crisp air and golden leaves all around\, it’s the perfect way to embrace the season and enjoy the outdoors in the heart of New York City. \nThere will be a free Bike Valet provided by Transportation Alternatives so you can safely park your bikes and enjoy the festivities with ease of mind. \nWith crisp air and golden leaves all around\, it’s the perfect way to embrace the season and enjoy the outdoors in the heart of New York City.  \nSchedule: \n\n12 – 2 PM: Live Music with Gloria Anderson + Friends\n12 – 2 PM: Bubble Dad\n12:30 – 1 PM: Cooking Demo with Chef Evie\n1 – 2 PM: Storytime Stretches\n1:30 – 2 PM: Cooking Demo with Chef Evie\n2 – 3 PM: City That Drinks the Mountain Sky by Arm of the Sea Theatre\n\nLocation: Urban Farm + Fields 62/63  \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
-URL:https://randallsisland.org/events/harvest-festival-3
-LOCATION:Icahn Stadium
-CATEGORIES:Arts & Culture,Environmental Education,Festival,Urban Farm
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-3.png
-GEO:40.792778;-73.924666
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261007T093000
-DTEND;TZID=UTC:20261007T123000
-DTSTAMP:20260721T185216Z
-CREATED:20260211T143512Z
-LAST-MODIFIED:20260721T185216Z
-UID:10001789-1791365400-1791376200@randallsisland.org
-SUMMARY:Team RIVER Volunteers
-DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological Restorers) and help keep Randall’s Island Park beautiful! Team RIVER Volunteers regularly work with the Natural Areas team twice a month to take care of and restore our natural spaces on the island. With our Horticulture team\, volunteers care for the many gardens\, green streets and meadows\, every second Wednesday of each month. Team RIVER also works with our Sports Field and Operations teams\, keeping our park clean and maintained. If you are only able to volunteer on a limited basis\, you are still very much welcome! \nThis volunteer opportunity is open to individuals from the community. Groups of more than 5 people must contact: Volunteers@RandallsIsland.org \nVolunteers must be at least 11 years old. Anyone under the age of 18 must have a waiver signed by their legal guardian before starting any work. Children under 16 must also have an adult with them while volunteering. A downloadable volunteer waiver can be found at this link: General Volunteer – Randall’s Island \nRegistration is required here. \nLocation: Volunteers will be notified after registration. \nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
-URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-07
-CATEGORIES:Volunteer
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261010T100000
 DTEND;TZID=UTC:20261010T120000
 DTSTAMP:20260224T191508Z
@@ -135,18 +62,18 @@ ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/4
 GEO:40.793886;-73.935355
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261018T100000
-DTEND;TZID=UTC:20261018T130000
-DTSTAMP:20260824T151454Z
-CREATED:20260218T205438Z
-LAST-MODIFIED:20260824T151454Z
-UID:10001830-1792317600-1792328400@randallsisland.org
-SUMMARY:Urban Farm Volunteers
-DESCRIPTION:Volunteer with our team to manage our one-acre Urban Farm! \nWhether you are new to our farm or have been a tried-and-true weekly volunteer\, come and join us! Our farmers have a lot of farm chores and composting to do weekly and you can help us take care of this important urban educational agricultural resource. \nOn Sundays we not only do farm chores\, but we are joined by the NYC Compost Project with Big Reuse who help us manage our 5-bin compost system to create much needed organic matter for our planting beds! \nIndividuals under the age of 16 must be accompanied by an adult who volunteers with them. Individuals ages 16 & 17 can volunteer if a parent or guardian has signed a waiver. Please find a downloadable waiver here: Waiver for unaccompanied 16 & 17 year olds \nThis volunteer event is for individuals from the community and not open to groups larger than 5 people. If you wish to bring more than 5 people\, you must first contact us at volunteers@randallsisland.org. \nNew volunteers must register for this event here. \nLocation: Urban Farm \nFor inquiries about accessibility\, to request accommodation\, or for event information\, please email publicprograms@randallsisland.org.
-URL:https://randallsisland.org/events/urban-farm-volunteers-5/2026-10-18
+DTSTART;TZID=UTC:20261017T110000
+DTEND;TZID=UTC:20261017T140000
+DTSTAMP:20261001T144022Z
+CREATED:20260430T150452Z
+LAST-MODIFIED:20261001T144022Z
+UID:10002256-1792234800-1792245600@randallsisland.org
+SUMMARY:Food Demos on the Urban Farm
+DESCRIPTION:The Urban Farm hosts free food demonstrations to teach the community-at-large how to cook with the seasonal produce they can see growing on the farm. We have 200+ varieties of produce\, including many varieties that are culturally relevant to our local communities. In food demonstrations\, visitors sample produce\, take home recipe cards\, and ask the Community Food Educator for kitchen tricks\, tips\, and advice. \nLocation: Urban Farm Kitchen \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/food-demos-on-the-urban-farm/2026-10-17
 LOCATION:Urban Farm
-CATEGORIES:Urban Farm,Volunteer
-ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-17-1.png
+CATEGORIES:Health & Wellness,Urban Farm
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/04/400-x-400-photos-23.png
 GEO:40.783753;-73.925686
 END:VEVENT
 BEGIN:VEVENT
@@ -161,6 +88,19 @@ DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological R
 URL:https://randallsisland.org/events/team-river-volunteers-4/2026-10-21
 CATEGORIES:Volunteer
 ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261023T203000
+DTEND;TZID=UTC:20261023T220000
+DTSTAMP:20261002T181926Z
+CREATED:20261002T181926Z
+LAST-MODIFIED:20261002T181926Z
+UID:10002257-1792787400-1792792800@randallsisland.org
+SUMMARY:DroneArt Show: Harry Potter™
+DESCRIPTION:Watch 1\,200 illuminated drones light up the night sky in a 60-minute open-air show set to the iconic music of the Harry Potter™ films\, with a live electric violinist on stage! \nThe drones take flight in perfect synchronization to recreate some of the most beloved moments from the wizarding world in breathtaking formations of light. Settle in on the lawn or in the seating area — pure wonder\, nostalgia and enchantment\, on a scale you won’t forget. \nEnjoy treats and other delights. The perfect way to start the night before the show. Butterbeer™ will be available at select venues. \nTake home a souvenir celebrating the world of Harry Potter™ with exclusive merchandise: wands\, scarves and collectibles designed for fans of all ages. \nLearn more and buy tickets here: https://feverup.com/m/746195 \nLocation: Randall’s Island Park\, Sunken Meadow Fields
+URL:https://randallsisland.org/events/droneart-show-harry-potter/2026-10-23
+CATEGORIES:Arts & Culture,Special Event
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/10/400-x-400-photos-39.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261024T100000
@@ -194,14 +134,42 @@ ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/4
 GEO:40.783007;-73.926694
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20261024T203000
+DTEND;TZID=UTC:20261024T220000
+DTSTAMP:20261002T181926Z
+CREATED:20261002T181926Z
+LAST-MODIFIED:20261002T181926Z
+UID:10002258-1792873800-1792879200@randallsisland.org
+SUMMARY:DroneArt Show: Harry Potter™
+DESCRIPTION:Watch 1\,200 illuminated drones light up the night sky in a 60-minute open-air show set to the iconic music of the Harry Potter™ films\, with a live electric violinist on stage! \nThe drones take flight in perfect synchronization to recreate some of the most beloved moments from the wizarding world in breathtaking formations of light. Settle in on the lawn or in the seating area — pure wonder\, nostalgia and enchantment\, on a scale you won’t forget. \nEnjoy treats and other delights. The perfect way to start the night before the show. Butterbeer™ will be available at select venues. \nTake home a souvenir celebrating the world of Harry Potter™ with exclusive merchandise: wands\, scarves and collectibles designed for fans of all ages. \nLearn more and buy tickets here: https://feverup.com/m/746195 \nLocation: Randall’s Island Park\, Sunken Meadow Fields
+URL:https://randallsisland.org/events/droneart-show-harry-potter/2026-10-24
+CATEGORIES:Arts & Culture,Special Event
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/10/400-x-400-photos-39.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261025T100000
+DTEND;TZID=UTC:20261025T130000
+DTSTAMP:20261002T181351Z
+CREATED:20261002T181350Z
+LAST-MODIFIED:20261002T181351Z
+UID:10001830-1792922400-1792933200@randallsisland.org
+SUMMARY:Urban Farm Volunteers
+DESCRIPTION:Volunteer with our team to manage our one-acre Urban Farm! \nWhether you are new to our farm or have been a tried-and-true weekly volunteer\, come and join us! Our farmers have a lot of farm chores and composting to do weekly and you can help us take care of this important urban educational agricultural resource. \nOn Sundays we not only do farm chores\, but we are joined by the NYC Compost Project with Big Reuse who help us manage our 5-bin compost system to create much needed organic matter for our planting beds! \nIndividuals under the age of 16 must be accompanied by an adult who volunteers with them. Individuals ages 16 & 17 can volunteer if a parent or guardian has signed a waiver. Please find a downloadable waiver here: Waiver for unaccompanied 16 & 17 year olds \nThis volunteer event is for individuals from the community and not open to groups larger than 5 people. If you wish to bring more than 5 people\, you must first contact us at volunteers@randallsisland.org. \nNew volunteers must register for this event here. \nLocation: Urban Farm \nFor inquiries about accessibility\, to request accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/urban-farm-volunteers-5-3
+LOCATION:Urban Farm
+CATEGORIES:Urban Farm,Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-17-1.png
+GEO:40.783753;-73.925686
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=UTC:20261026T150000
 DTEND;TZID=UTC:20261026T170000
-DTSTAMP:20260911T201942Z
+DTSTAMP:20261008T184245Z
 CREATED:20260306T170501Z
-LAST-MODIFIED:20260911T201942Z
+LAST-MODIFIED:20261008T184245Z
 UID:10002173-1793026800-1793034000@randallsisland.org
 SUMMARY:Wild Oyster Survey
-DESCRIPTION:Wild oysters are a key indicator of ecosystem health in the New York Harbor. Randall’s Island Park Alliance is partnering with the Billion Oyster Project to conduct a wild oyster survey in the Little Hell Gate Salt Marsh.  \nVolunteers will have the opportunity to identify oysters and take multiple parameters to determine the abundance\, size\, and health of the wild oyster population. Be sure to wear clothing and footwear you don’t mind getting muddy! Volunteers will meet at the entrance to the Little Hell Gate Salt Marsh near the Asphalt Pad.  \nRegistration will open 10/8 at 1 PM  \nLocation: Little Hell Gate Salt Marsh \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
+DESCRIPTION:Wild oysters are a key indicator of ecosystem health in the New York Harbor. Randall’s Island Park Alliance is partnering with the Billion Oyster Project to conduct a wild oyster survey in the Little Hell Gate Salt Marsh.  \nVolunteers will have the opportunity to identify oysters and take multiple parameters to determine the abundance\, size\, and health of the wild oyster population. Be sure to wear clothing and footwear you don’t mind getting muddy! Volunteers will meet at the entrance to the Little Hell Gate Salt Marsh near the Asphalt Pad.  \nRegistration is required here. \nLocation: Little Hell Gate Salt Marsh \nFor inquiries about accessibility\, to request an accommodation or for event information\, please email publicprograms@randallsisland.org. 
 URL:https://randallsisland.org/events/wild-oyster-survey-2
 LOCATION:Little Hell Gate Salt Marsh
 CATEGORIES:Environmental Education
@@ -248,6 +216,20 @@ DESCRIPTION:Volunteer with Team RIVER (Randall’s Island Volunteer Ecological R
 URL:https://randallsisland.org/events/team-river-volunteers-4/2026-11-04
 CATEGORIES:Volunteer
 ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/02/400-x-400-photos-15-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261107T093000
+DTEND;TZID=UTC:20261107T123000
+DTSTAMP:20261005T192840Z
+CREATED:20261005T192452Z
+LAST-MODIFIED:20261005T192840Z
+UID:10002259-1794043800-1794054600@randallsisland.org
+SUMMARY:RIPA Fall Cleanup
+DESCRIPTION:Join Randall’s Island Park Alliance and our Natural Areas Team for one last push to cleanup the park while the weather is still agreeable. Volunteers will not only help with picking up litter and debris but also remove invasive species\, clean walking trail paths and other duties to put us on a good path for the winter months. \nGloves\, tools and instructions included. \nAll participants must sign a Waiver of Liability. Teens aged 16 and 17 years old may volunteer without adult supervision but they must bring a waiver found at the link below\, signed by a parent or guardian. \nMinors under 16 years old must be accompanied by a parent or guardian or adult and bring the attached waiver signed by a parent or guardian. This waiver should be given to those at the registration table. \nPlease find our Liability Waiver for minors here:Community Volunteers – Randall’s Island Park \nReserve a spot here! \nLocation: Meet at Icahn Stadium \n\nFor inquiries about accessibility\, to request an accommodation\, or for event information\, please email publicprograms@randallsisland.org.
+URL:https://randallsisland.org/events/ripa-fall-cleanup
+LOCATION:Icahn Stadium\, East Entrance
+CATEGORIES:Environmental Education,Volunteer
+ATTACH;FMTTYPE=image/png:https://randallsisland.org/wp-content/uploads/2026/10/400-x-400-photos-40.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261111T093000
