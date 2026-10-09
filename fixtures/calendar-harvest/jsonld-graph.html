@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Upcoming Events</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      { "@type": "WebSite", "name": "Example Venue", "url": "https://events.example.org/" },
+      {
+        "@type": "Event",
+        "name": "Winter Concert",
+        "description": "A seasonal concert in the main hall.",
+        "startDate": "2026-12-05T19:30:00-05:00",
+        "endDate": "2026-12-05T21:00:00-05:00",
+        "url": "https://events.example.org/events/winter-concert",
+        "image": "https://events.example.org/uploads/winter-concert.jpg",
+        "location": {
+          "@type": "Place",
+          "name": "Main Hall",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 Main St",
+            "addressLocality": "Brooklyn",
+            "addressRegion": "NY",
+            "postalCode": "11201"
+          }
+        },
+        "offers": { "@type": "Offer", "price": "25", "priceCurrency": "USD" }
+      }
+    ]
+  }
+  </script>
+</head>
+<body><h1>Upcoming Events</h1></body>
+</html>

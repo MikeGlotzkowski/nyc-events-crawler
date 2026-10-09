@@ -9,6 +9,7 @@
  *   nyc-opendata     NYC Open Data (Socrata): permitted events + parks events
  *   rss-blogs        Neighborhood blog RSS + LLM extraction (25 sources)
  *   ical-feeds       Museum/library/venue iCal (.ics) feeds
+ *   calendar-harvest Generic calendar/JSON-LD harvester over a venue seed list
  *   riverside-park   Riverside Park WordPress Events Calendar
  *   westsiderag      West Side Rag weekly events page (Playwright)
  *   nyccom           NYC.com multi-category Playwright crawler
@@ -18,9 +19,10 @@
   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
   forest-park        Forest Park Trust (Squarespace JSON)
  *   brooklyn-library   Brooklyn Public Library events (local only: Cloudflare blocks CI runners)
- *   queens-library     Queens Public Library events (calendar pages)
- *   van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
- *   forest-park        Forest Park Trust (Squarespace JSON)
+  queens-library     Queens Public Library events (calendar pages)
+  van-cortlandt-park Van Cortlandt Park Alliance (Events Calendar REST)
+  forest-park        Forest Park Trust (Squarespace JSON)
+  calendar-harvest   Generic calendar/JSON-LD harvester (venue seed list)
  *   whitney            Whitney Museum (JSON API)
  *   bam                BAM, Brooklyn Academy of Music (calendar JSON)
  *   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
@@ -46,6 +48,7 @@ const CRAWLERS = {
   'nyc-opendata':   () => import('./crawlers/nyc-opendata.js').then(m => m.crawl),
   'rss-blogs':      () => import('./crawlers/rss-blogs.js').then(m => m.crawl),
   'ical-feeds':     () => import('./crawlers/ical-feeds.js').then(m => m.crawl),
+  'calendar-harvest': () => import('./crawlers/calendar-harvest.js').then(m => m.crawl),
   'riverside-park': () => import('./crawlers/riverside-park.js').then(m => m.crawl),
   'westsiderag':    () => import('./crawlers/westsiderag.js').then(m => m.crawl),
   'nyccom':         () => import('./crawlers/nyccom.js').then(m => m.crawl),
@@ -111,6 +114,7 @@ Targets:
   nyc-opendata     NYC Open Data (Socrata): permitted events + parks events
   rss-blogs        Neighborhood blog RSS + LLM (25 sources)
   ical-feeds       Museum/library/venue iCal feeds
+  calendar-harvest Generic calendar/JSON-LD harvester over a venue seed list
   riverside-park   Riverside Park WordPress Events Calendar
   westsiderag      West Side Rag weekly events (Playwright)
   nyccom           NYC.com multi-category crawler (Playwright)
