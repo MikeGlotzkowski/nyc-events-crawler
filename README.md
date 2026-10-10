@@ -69,6 +69,19 @@ CI runs the crawlers on a schedule via `.github/workflows/crawl-tier1.yml` and `
 `.github/workflows/source-health.yml` checks twice a day that every enabled source is still finding events and
 keeps a "Crawler health alert" issue open while one isn't (`npm run health` prints the same report locally).
 
+## Topic pages
+
+`node index.js topic-pages` (or `npm run topic-pages`) refreshes the app's public collection pages
+(`/lists/:slug`) from the upcoming events already in Supabase. It builds ~50 topics from the app's taxonomy
+— time-intent (`tonight`, `this-weekend`, `free-tonight`, …), geo × category (`live-music-in-brooklyn`,
+`comedy-in-manhattan`, …) and one hub per bucket — picks 8–15 deterministic events for each, writes a short
+description + intro (LLM via `lib/openrouter.js`, cached by content hash, deterministic template fallback),
+and upserts `curated_lists` by `slug` with its `list_items` replaced in place.
+
+Index discipline: a topic publishes only with at least `MIN_EVENTS` qualifying events; one that falls below
+that on a later run is written `published=false` (never deleted) so its URL does not 404. `.github/workflows/topic-pages.yml`
+runs it daily at 07:30 UTC, after the tier-1 crawl.
+
 ## Architecture
 
 See [`CLAUDE.md`](CLAUDE.md) for crawler internals (the `nyccom` 3-phase crawl, extraction strategy,
