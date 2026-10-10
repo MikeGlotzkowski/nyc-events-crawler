@@ -39,7 +39,6 @@
 import { loadEnv } from './env-loader.js';
 import { log, logError, ensureConfigAndCheckEnabled, abortActiveCrawlRuns } from './lib/base-crawler.js';
 import { resolveTarget } from './lib/cli-args.js';
-
 loadEnv();
 
 // ── Crawler registry ─────────────────────────────────────────────────────────
@@ -116,6 +115,25 @@ async function runAll(names) {
   }
 }
 
+// Non-crawl jobs (topic-pages, …). Same entry point, no crawler_config row.
+async function runTask(name) {
+  log(`\n${'─'.repeat(60)}`);
+  log(`Starting task: ${name}`);
+  log(`${'─'.repeat(60)}`);
+  try {
+    if (name === 'topic-pages') {
+      const { runTopicPages } = await import('./lib/topic-pages.js');
+      await runTopicPages();
+    } else {
+      throw new Error(`Unknown task: ${name}`);
+    }
+    log(`✅ Task finished: ${name}`);
+  } catch (err) {
+    logError(`Task failed: ${name}`, err);
+    failed.push(name);
+  }
+}
+
 // ── Entry point ──────────────────────────────────────────────────────────────
 
 const arg = process.argv[2];
@@ -145,6 +163,7 @@ Targets:
   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
   ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
+  topic-pages        Refresh the ~50 daily topic/collection pages (curated_lists + list_items)
   all-tier1        Run every non-Playwright crawler except brooklyn-library (local-only)
   all-tier2        Run: westsiderag, nyccom
   all              Run all crawlers
@@ -160,6 +179,9 @@ switch (action.kind) {
     break;
   case 'crawler':
     await runCrawler(action.name);
+    break;
+  case 'task':
+    await runTask(action.name);
     break;
   case 'unknown':
     console.error(`Unknown target: "${action.name}"\n`);

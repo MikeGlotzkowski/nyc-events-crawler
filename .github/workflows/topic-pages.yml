@@ -1,0 +1,32 @@
+name: "Topic pages (daily)"
+
+# Refresh the ~50 public topic/collection pages after the tier-1 crawl has
+# finished writing the day's events. The tier-1 job runs at 06:00, 12:00 and
+# 18:00 UTC; this runs once a day at 07:30 so it reads a freshly-crawled feed.
+# `node index.js topic-pages` is idempotent — re-running updates lists in place.
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+jobs:
+  topic-pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node index.js topic-pages
