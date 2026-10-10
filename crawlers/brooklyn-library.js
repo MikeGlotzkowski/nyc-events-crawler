@@ -40,7 +40,13 @@ function decodeEntities(text) {
   return text.replace(/&(#\d+|[a-z]+);/gi, (m, name) => {
     const key = name.toLowerCase();
     if (ENTITIES[key] !== undefined) return ENTITIES[key];
-    if (key.startsWith('#')) return String.fromCodePoint(Number(key.slice(1)));
+    if (key.startsWith('#')) {
+      const n = Number(key.slice(1));
+      // Feeds mangle emoji into out-of-range runs; fromCodePoint would throw and
+      // kill the crawl. Keep the raw entity instead.
+      if (!Number.isInteger(n) || n < 0 || n > 0x10ffff) return m;
+      return String.fromCodePoint(n);
+    }
     return m;
   });
 }

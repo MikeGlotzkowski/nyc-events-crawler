@@ -27,10 +27,13 @@ const ENTITIES = {
   rdquo: '\u201d', ldquo: '\u201c', mdash: '\u2014', ndash: '\u2013', hellip: '\u2026',
   aacute: 'á', eacute: 'é', iacute: 'í', oacute: 'ó', uacute: 'ú', ntilde: 'ñ',
 };
-const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (whole, name) =>
-  name[0] === '#'
-    ? String.fromCodePoint(name[1].toLowerCase() === 'x' ? parseInt(name.slice(2), 16) : Number(name.slice(1)))
-    : ENTITIES[name.toLowerCase()] ?? whole);
+const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (whole, name) => {
+  if (name[0] !== '#') return ENTITIES[name.toLowerCase()] ?? whole;
+  const n = name[1].toLowerCase() === 'x' ? parseInt(name.slice(2), 16) : Number(name.slice(1));
+  // Out-of-range runs (mangled emoji) must not throw and kill the crawl.
+  if (!Number.isInteger(n) || n < 0 || n > 0x10ffff) return whole;
+  return String.fromCodePoint(n);
+});
 const text = (html) => decode(html.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
 
 /** The list's numbered tiles: { title, url, image, tags, summary, ticketUrl }. */
