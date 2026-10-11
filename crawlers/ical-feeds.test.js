@@ -11,6 +11,8 @@ before(async () => {
   ical = await import('./ical-feeds.js');
 });
 
+const { seriesId, capOccurrences } = await import('../lib/recurrence.js');
+
 // Trimmed from the live feeds (probed 2026-10-09).
 const NYU_SOURCE = {
   name: 'NYU',
@@ -81,6 +83,54 @@ describe('ical-feeds NYU (LiveWhale, TZID=America/New_York)', () => {
     assert.equal(e.ticketUrl, 'https://engage.nyu.edu/event/1');
     assert.equal(e.borough, 'Manhattan');
     assert.deepEqual(e.tags, ['ical']);
+    assert.equal(e.seriesId, undefined); // a one-off event carries no series fields
+  });
+});
+
+describe('ical-feeds recurrence model (B2)', () => {
+  const weekly = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'BEGIN:VEVENT',
+    'UID:series-1@example.com',
+    'DTSTART:20261015T190000',
+    'DTEND:20261015T200000',
+    'RRULE:FREQ=WEEKLY;UNTIL=20261231T235959Z;INTERVAL=1;BYDAY=TH',
+    'SUMMARY:Weekly Jam',
+    'URL:https://example.org/events/jam',
+    'END:VEVENT',
+    'END:VCALENDAR',
+  ].join('\r\n');
+
+  it('gives every occurrence of a series a distinct id plus series_id and occurrence', () => {
+    const parsed = nodeIcal.parseICS(ical.anchorFloatingFeedToNyc(weekly));
+    const ev = vevent(parsed);
+    const sid = seriesId({ source: 'NYU', selector: vevent(parsed).url });
+    const window = { start: new Date('2026-10-01T00:00:00Z'), end: new Date('2026-12-31T00:00:00Z') };
+    const occurrences = nodeIcal.expandRecurringEvent(ev, { from: window.start, to: window.end });
+    const events = occurrences.map((o, i) =>
+      ical.mapVEvent({ ...ev, start: o.start, end: o.end, _seriesId: sid, _occurrence: i }, NYU_SOURCE));
+    const ids = new Set(events.map(e => e.id));
+    assert.equal(ids.size, events.length, 'each occurrence must have its own id');
+    assert.ok(events.every(e => e.seriesId === sid));
+    assert.deepEqual(events.map(e => e.occurrence), events.map((_, i) => i));
+  });
+
+  it('caps a long series so a daily entry cannot flood the feed', () => {
+    const list = Array.from({ length: 200 }, (_, i) => ({ id: i }));
+    assert.equal(capOccurrences(list).length, 60);
+    assert.equal(capOccurrences(list.slice(0, 12)).length, 12);
+  });
+
+  it('re-keys only colliding events, leaving unique events on their stable id', () => {
+    const a = { id: 'same', title: 'Fall 2026', sourceUrl: 'https://nyu/cal', startDate: '2026-10-10' };
+    const b = { ...a, startDate: '2026-10-11' };
+    const c = { id: 'unique', title: 'One-off', sourceUrl: 'https://nyu/x', startDate: '2026-10-12' };
+    const out = ical.disambiguateIds([a, b, c]);
+    assert.equal(out[0].id, 'same');       // first stays stable
+    assert.notEqual(out[1].id, 'same');    // collision re-keyed
+    assert.equal(out[2].id, 'unique');     // untouched
+    assert.equal(new Set(out.map(e => e.id)).size, 3);
   });
 });
 

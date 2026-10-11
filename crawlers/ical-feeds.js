@@ -9,6 +9,7 @@ import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEv
 import { localYmd, nycWallToDate } from '../lib/nyc-time.js';
 import { resolveArea } from '../lib/nyc-area.js';
 import { cleanImageUrl, fetchPageImage } from '../lib/og-image.js';
+import { seriesId, capOccurrences, SERIES_CAP } from '../lib/recurrence.js';
 
 // ── Source registry ───────────────────────────────────────────────
 // Each entry records the live probe that cleared it. Re-probe with:
@@ -135,18 +136,24 @@ function expandEvents(parsedData, windowStart, windowEnd) {
     if (component.type !== 'VEVENT') continue;
 
     if (component.rrule) {
-      // Expand recurring events within the forward window
+      // Expand recurring events within the forward window. Every occurrence of
+      // one VEVENT is one series: they share a series_id, are numbered, and are
+      // capped so a daily entry cannot flood the feed.
+      const selector = component.url ? String(component.url).trim() : (component.summary ?? '');
+      const sid = seriesId({ source: component.summary ?? '', selector });
+      let occurrences = [];
       try {
-        const occurrences = nodeIcal.expandRecurringEvent(component, { from: windowStart, to: windowEnd });
-        for (const occurrence of occurrences) {
-          events.push({ ...component, start: occurrence.start, end: occurrence.end });
-        }
+        occurrences = nodeIcal.expandRecurringEvent(component, { from: windowStart, to: windowEnd });
       } catch {
         // If RRULE expansion fails, just try the base date
         if (component.start && component.start >= windowStart && component.start <= windowEnd) {
-          events.push(component);
+          occurrences = [{ start: component.start, end: component.end }];
         }
       }
+      const capped = capOccurrences(occurrences, SERIES_CAP);
+      capped.forEach((occurrence, i) => {
+        events.push({ ...component, start: occurrence.start, end: occurrence.end, _seriesId: sid, _occurrence: i, _seriesCount: capped.length });
+      });
     } else {
       // Single event — include if it falls within the window
       const start = component.start ? new Date(component.start) : null;
@@ -219,8 +226,13 @@ export function mapVEvent(vevent, source) {
   const url       = (vevent.url ?? '').toString().trim() || null;
   const image     = veventImage(vevent);
 
+  // A recurring occurrence is one session of a series: its id is unique per
+  // start (so occurrences no longer overwrite each other), and it carries the
+  // shared series_id + occurrence index. One-off events keep their old id.
   const id = url
-    ? generateEventId(url, summary)
+    ? (vevent._seriesId
+        ? generateEventId(`${url}#${legacyStartIso}`, summary)
+        : generateEventId(url, summary))
     : generateEventId(`ical-${source.name}-${legacyStartIso}`, summary);
 
   return {
@@ -247,11 +259,32 @@ export function mapVEvent(vevent, source) {
     ticketUrl:   url,
     images:      image ? [image] : [],
     rawText:     null,
+    ...(vevent._seriesId ? { seriesId: vevent._seriesId, occurrence: vevent._occurrence ?? 0 } : {}),
     ...resolveArea({ name: location, borough: source.borough, neighborhood: source.neighborhood }),
   };
 }
 
 // ── Process a single source ───────────────────────────────────────
+
+/**
+ * Keep one event per id, and re-key only the events that actually collide.
+ *
+ * LiveWhale (NYU) emits one VEVENT per calendar day for a multi-day exhibition,
+ * all sharing the event URL and title — so `generateEventId(url, title)` is the
+ * same for every day and all but the first row were silently dropped. Appending
+ * the start instant separates them and leaves single events (the overwhelming
+ * majority) on their existing, stable id.
+ */
+export function disambiguateIds(events) {
+  const seen = new Map();
+  const out = [];
+  for (const e of events) {
+    const n = seen.get(e.id) ?? 0;
+    seen.set(e.id, n + 1);
+    out.push(n === 0 ? e : { ...e, id: generateEventId(`${e.sourceUrl ?? ''}#${e.startDate}`, e.title) });
+  }
+  return out;
+}
 
 async function processSource(source) {
   log(`[ical-feeds] Processing: ${source.name}`);
@@ -268,7 +301,7 @@ async function processSource(source) {
   const vevents = expandEvents(parsedData, start, end);
   log(`[ical-feeds]   ${source.name}: ${vevents.length} events in window`);
 
-  const events = vevents.map(v => mapVEvent(v, source)).filter(Boolean);
+  const events = disambiguateIds(vevents.map(v => mapVEvent(v, source)).filter(Boolean));
   await addPageImages(events, source);
   log(`[ical-feeds]   ${source.name}: ${events.length} mapped, ${events.filter(e => e.images.length).length} with images`);
 
