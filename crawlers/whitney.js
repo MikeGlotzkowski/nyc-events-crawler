@@ -8,6 +8,7 @@ import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEv
 import { resolveArea } from '../lib/nyc-area.js';
 import { decodeEntities } from '../lib/event-filter.js';
 import { fetchPageImage } from '../lib/og-image.js';
+import { nycClock, nycTimeRange } from '../lib/nyc-time.js';
 
 const SOURCE_KEY  = 'whitney';
 const SOURCE      = 'Whitney Museum';
@@ -32,10 +33,6 @@ const LOCATION = {
 // Online-only programs and members-only events are not something the app's users can just attend.
 const SKIP_TITLE_RE = /\bonline\b|\bvirtual\b|\bmembers?\b/i;
 
-const clockFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', hour12: true,
-});
-
 function stripHtml(html) {
   if (!html) return '';
   return decodeEntities(String(html).replace(/<br\s*\/?>|<\/p>/gi, ' ').replace(/<[^>]+>/g, ''))
@@ -43,13 +40,12 @@ function stripHtml(html) {
     .trim();
 }
 
-/** '6:30 PM' or '6:30 PM–9:30 PM' in NYC wall clock. */
+/** '6:30 PM' or '6:30 PM–9:30 PM' in NYC wall clock (one shared formatter, lib/nyc-time.js). */
 export function timeLabel(startIso, endIso) {
   const start = new Date(startIso);
   if (isNaN(start)) return null;
   const end = endIso ? new Date(endIso) : null;
-  const fmt = (d) => clockFmt.format(d).replace(/[  ]/g, ' ');
-  return end && end > start ? `${fmt(start)}–${fmt(end)}` : fmt(start);
+  return end && end > start ? nycTimeRange(start, end) : nycClock(start);
 }
 
 /** Map one API record to the shared event shape; null when unusable or not open to the public. */

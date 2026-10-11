@@ -20,7 +20,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { cleanText } from '../lib/event-filter.js';
-import { nycWallToDate } from '../lib/nyc-time.js';
+import { nycWallToDate, nycClock } from '../lib/nyc-time.js';
 import { resolveArea } from '../lib/nyc-area.js';
 
 const SOURCE_KEY = 'nypl';
@@ -83,10 +83,6 @@ const PARENT_FIELDSETS = new URLSearchParams({
 
 const FORM_SPECIFIER = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?(?:Z|[+-]\d{2}:?\d{2})$/;
 
-const clockFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: TZ, hour: 'numeric', minute: '2-digit', hour12: true,
-});
-
 const sleep = (ms) => (ms > 0 ? new Promise((r) => setTimeout(r, ms)) : Promise.resolve());
 
 // ── Time helpers ─────────────────────────────────────────────────
@@ -107,10 +103,9 @@ export function toInstant(value) {
   return Number.isNaN(ms) ? null : ms;
 }
 
-/** ISO instant → '10:00 AM' in NYC wall-clock. */
+/** ISO instant → '10:00 AM' in NYC wall-clock (shared formatter, lib/nyc-time.js). */
 function formatClock(ms) {
-  if (!Number.isFinite(ms)) return null;
-  return clockFmt.format(new Date(ms)).replace(/[\u202f\u00a0]/g, ' ').trim();
+  return Number.isFinite(ms) ? nycClock(ms) : null;
 }
 
 /** '10:00 AM' or '10:00 AM–11:00 AM' in America/New_York. */

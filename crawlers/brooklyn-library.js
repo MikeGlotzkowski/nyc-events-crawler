@@ -6,6 +6,7 @@
  * No browser required — pure HTTP.
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { nycClock } from '../lib/nyc-time.js';
 
 const SOURCE_KEY = 'brooklyn-library';
 const SOURCE     = 'Brooklyn Public Library';
@@ -13,7 +14,6 @@ const ORGANIZER  = 'Brooklyn Public Library';
 const BOROUGH    = 'Brooklyn';
 const API_URL    = 'https://discover.bklynlibrary.org/api/search/v2.php?event=true&pagination=';
 const EVENT_URL  = 'https://www.bklynlibrary.org/node/';
-const TZ         = 'America/New_York';
 const HORIZON_DAYS  = 14;
 const MAX_PAGES     = 50;
 const PAGE_DELAY_MS = 300;
@@ -29,10 +29,6 @@ const HEADERS = {
 const SERVICE_SESSION_RE = /\b(walk-in|drop[- ]in (resume|career|tech|help)|office hours|resume|career help|tax (prep|help)|social work|benefits|esol|esl\b|english conversation|citizenship|job search|computer help|tech help)\b/i;
 
 const ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', '#39': "'" };
-
-const clockFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: TZ, hour: 'numeric', minute: '2-digit', hour12: true,
-});
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
@@ -64,11 +60,10 @@ function toInstant(value) {
   return Number.isNaN(ms) ? null : ms;
 }
 
-/** ISO instant → '6:00 PM' in NYC wall-clock time. */
+/** ISO instant → '6:00 PM' in NYC wall-clock time (shared formatter, lib/nyc-time.js). */
 function formatClock(value) {
   const ms = toInstant(value);
-  if (ms === null) return null;
-  return clockFmt.format(new Date(ms)).replace(/[\u202f\u00a0]/g, ' ').trim();
+  return ms === null ? null : nycClock(ms);
 }
 
 /** '10:00 AM' / '10:00 AM–5:00 PM' / null when either end is unknown. */

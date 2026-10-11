@@ -5,7 +5,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { decodeEntities } from '../lib/event-filter.js';
-import { nycWallToDate } from '../lib/nyc-time.js';
+import { nycWallToDate, nycClock, nycTimeRange } from '../lib/nyc-time.js';
 
 const SOURCE_KEY   = 'van-cortlandt-park';
 const SOURCE       = 'Van Cortlandt Park';
@@ -13,14 +13,9 @@ const ORGANIZER    = 'Van Cortlandt Park Alliance';
 const BASE_URL     = 'https://www.vancortlandt.org/wp-json/tribe/events/v1/events';
 const PER_PAGE     = 50;
 const WINDOW_DAYS  = 30;
-const TZ           = 'America/New_York';
 const DEFAULT_VENUE = 'Van Cortlandt Park';
 const NEIGHBORHOOD = 'Van Cortlandt Park';
 const BOROUGH      = 'Bronx';
-
-const clockFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: TZ, hour: 'numeric', minute: '2-digit', hour12: true,
-});
 
 function stripHtml(html) {
   if (!html) return '';
@@ -79,8 +74,7 @@ function formatTimeRange(event) {
   const start = toInstant(event.start_date);
   if (start === null) return null;
   const end = toInstant(event.end_date);
-  const startLabel = clockFmt.format(start);
-  return end !== null && end > start ? `${startLabel}–${clockFmt.format(end)}` : startLabel;
+  return end !== null && end > start ? nycTimeRange(start, end) : nycClock(start);
 }
 
 function parsePriceText(text) {
