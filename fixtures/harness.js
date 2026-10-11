@@ -28,7 +28,7 @@ export const FIXTURES_DIR = path.dirname(fileURLToPath(import.meta.url));
 /** Crawlers with fixtures: every enabled source (nyccom, brooklyn-library and Prospect Park are off). */
 export const CRAWLERS = [
   'nyc-parks', 'nyc-opendata', 'ical-feeds', 'riverside-park', 'van-cortlandt-park',
-  'forest-park', 'rss-blogs', 'queens-library', 'westsiderag',
+  'forest-park', 'rss-blogs', 'queens-library', 'nypl', 'westsiderag',
   'whitney', 'bam', 'lincoln-center', 'carnegie-hall', 'resident-advisor', 'dice', 'timeout',
 ];
 

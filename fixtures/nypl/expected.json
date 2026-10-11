@@ -1,0 +1,483 @@
+[
+  {
+    "id": "0fb6aa4444d8bb21",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/09/12/family-movie-matinee-0",
+    "title": "Family Movie Matinee",
+    "description": "Come for a great family movie at 1pm every Saturday & Sunday! On the 2nd floor All ages FREE",
+    "startDate": "2026-10-11T17:00:00.000Z",
+    "endDate": "2026-10-11T18:00:00.000Z",
+    "time": "1:00 PM–2:00 PM",
+    "location": {
+      "name": "Harlem Library",
+      "address": "9 West 124th Street, New York, NY 10027",
+      "city": "New York",
+      "lat": 40.8061,
+      "lng": -73.9431
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Film/Video Screenings"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/09/12/family-movie-matinee-0",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Harlem",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "0578c45a7228fc58",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/11/high-beginner-level-english-conversation-classes-we-speak-nyc-1",
+    "title": "High Beginner Level English Conversation Classes: We Speak NYC",
+    "description": "This event will take place IN PERSON at the Bronx Library Center. HIGH BEGINNER English Conversation Classes: We Speak NYC For adult English language learners (age 16 and up, not in high school) Practice English by watching We Speak NYC videos and discussing them with adults from around the world! Sundays, 1:00 - 3:00 PM: October 11, 18, 25. November 1, 8, 15, 22. December 6. NO registration needed! Just come to a conversation class!",
+    "startDate": "2026-10-11T17:00:00.000Z",
+    "endDate": "2026-10-11T19:00:00.000Z",
+    "time": "1:00 PM–3:00 PM",
+    "location": {
+      "name": "Bronx Library Center",
+      "address": "310 East Kingsbridge Road, Bronx, NY 10458",
+      "city": "Bronx",
+      "lat": 40.8634,
+      "lng": -73.8944
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Classes/Workshops"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/11/high-beginner-level-english-conversation-classes-we-speak-nyc-1",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Fordham",
+    "borough": "Bronx"
+  },
+  {
+    "id": "a012192a0eaf7901",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/04/sunday-family-storytime",
+    "title": "Sunday Family Storytime",
+    "description": "This event will take place in person at Bronx Library Center. \n\n Join us for songs, rhymes, and favorite read-aloud books as we show you that storytime is fun for the whole family. For young children of all ages. Ideal for caregivers with multiple-aged children. \n\n ______________________________________________________________________________________________________ Este evento se llevará a cabo en persona en la Biblioteca Central del Bronx. \n\n Únase a nosotros para escuchar canciones, rimas y libros favoritos para leer en voz alta mientras le mostramos que la hora del cuento es divertida para toda la familia. Para niños pequeños de todas las edades. Ideal para cuidadores de niños de varias edades.",
+    "startDate": "2026-10-11T18:00:00.000Z",
+    "endDate": "2026-10-11T19:00:00.000Z",
+    "time": "2:00 PM–3:00 PM",
+    "location": {
+      "name": "Bronx Library Center",
+      "address": "310 East Kingsbridge Road, Bronx, NY 10458",
+      "city": "Bronx",
+      "lat": 40.8634,
+      "lng": -73.8944
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Story Times/Read Alouds"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/04/sunday-family-storytime",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Fordham",
+    "borough": "Bronx"
+  },
+  {
+    "id": "24d644fb05e9ffb8",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/09/13/family-storytime",
+    "title": "Family Storytime",
+    "description": "This event will take place in person at the Mott Haven Library. Join us for songs, crafts and favorite read-aloud books in this storytime that’s fun for the whole family! No registration is required, just drop in!",
+    "startDate": "2026-10-11T18:00:00.000Z",
+    "endDate": "2026-10-11T18:30:00.000Z",
+    "time": "2:00 PM–2:30 PM",
+    "location": {
+      "name": "Mott Haven Library",
+      "address": "321 East 140th Street, Bronx, NY 10454",
+      "city": "Bronx",
+      "lat": 40.8116,
+      "lng": -73.9243
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Story Times/Read Alouds"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/09/13/family-storytime",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Mott Haven",
+    "borough": "Bronx"
+  },
+  {
+    "id": "37c7a346d88ed222",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/11/sunday-family-storytime",
+    "title": "Sunday Family Storytime",
+    "description": "Families can enjoy interactive stories, action songs, and fingerplays, and spend time with other toddlers in the neighborhood. This is an in person event. The limit is 10 children and their caregivers. Please note programs are subject to change.",
+    "startDate": "2026-10-11T18:30:00.000Z",
+    "endDate": "2026-10-11T19:00:00.000Z",
+    "time": "2:30 PM–3:00 PM",
+    "location": {
+      "name": "Grand Concourse Library",
+      "address": "155 East 173rd Street, Bronx, NY 10457",
+      "city": "Bronx",
+      "lat": 40.8439,
+      "lng": -73.9101
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Story Times/Read Alouds"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/11/sunday-family-storytime",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Tremont",
+    "borough": "Bronx"
+  },
+  {
+    "id": "d5c87ef929c9185b",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/05/techconnect-lab-baychester-library",
+    "title": "TechConnect Lab @ Baychester Library",
+    "description": "Want to Learn More about computers? Build your confidence with hands-on, beginner-friendly training! Learn how to navigate your computer, type and use a mouse, organize files, create basic documents, and send emails with ease.",
+    "startDate": "2026-10-12T15:00:00.000Z",
+    "endDate": "2026-10-12T16:00:00.000Z",
+    "time": "11:00 AM–12:00 PM",
+    "location": {
+      "name": "Baychester Library",
+      "address": "2049 Asch Loop North, Bronx, NY 10475",
+      "city": "Bronx",
+      "lat": 40.8711,
+      "lng": -73.8305
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Classes/Workshops"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/05/techconnect-lab-baychester-library",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Co-op City",
+    "borough": "Bronx"
+  },
+  {
+    "id": "c496357498fb3530",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/05/audiobook-storytime-adults",
+    "title": "Audiobook Storytime for Adults",
+    "description": "Looking for a cozy space to spend your lunch hour? Join us for a relaxing hour where you can simply sit back and listen to great stories. We’ll play a curated selection of engaging short audiobooks—ranging from fast-paced mysteries and mind-bending sci-fi to beloved classics and lighthearted tales—over the speakers, so all you have to do is listen and enjoy. Complimentary coffee, tea, and snacks will be provided.",
+    "startDate": "2026-10-12T16:00:00.000Z",
+    "endDate": "2026-10-12T17:00:00.000Z",
+    "time": "12:00 PM–1:00 PM",
+    "location": {
+      "name": "St. George Library Center",
+      "address": "5 Central Avenue, Staten Island, NY 10301",
+      "city": "Staten Island",
+      "lat": 40.6419,
+      "lng": -74.0768
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Book Discussions/Literary Readings"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/05/audiobook-storytime-adults",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "St. George",
+    "borough": "Staten Island"
+  },
+  {
+    "id": "79634ec411c76150",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/05/teen-gamers-club",
+    "title": "Teen Gamers Club",
+    "description": "Video games, card games and board games can be found on Mondays in the Teen Zone! Join us and make some friends while we play games together. Ages 13 and up Any younger gamers are more than welcome to join the Junior Gamers Club in the Children's library!",
+    "startDate": "2026-10-12T19:30:00.000Z",
+    "endDate": "2026-10-12T20:30:00.000Z",
+    "time": "3:30 PM–4:30 PM",
+    "location": {
+      "name": "Dongan Hills Library",
+      "address": "1617 Richmond Road, Staten Island, NY 10304",
+      "city": "Staten Island",
+      "lat": 40.5906,
+      "lng": -74.101
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Games & Gaming"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/05/teen-gamers-club",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Dongan Hills",
+    "borough": "Staten Island"
+  },
+  {
+    "id": "5928e013b3f981cb",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/09/07/open-studio-sessions-teen-center",
+    "title": "Open Studio Sessions at the Teen Center",
+    "description": "Are you a budding musician looking to record your next hit song? Our state-of-the-art recording studio is here to help! Open Studio offers a unique opportunity for teens to come in, record their music, and receive feedback from their peers and an engineer. Plus, you'll have the chance to learn about audio engineering and get a behind-the-scenes look at the recording process. In Open Studio teens are invited to record 1 song up to 3 minutes. Depending on registrants for the day, sessions can be capped at 20 minutes. Bring your own instrument, or we can provide a guitar or bass If you’re ready to sign up, you can register for the program in-person at the Teen Center circulation desk on the Lower Level of the Stavros Niarchos Foundation Library, or by phone at 212-340-0925. If the program is full, we will create an in-person waitlist day-of.",
+    "startDate": "2026-10-12T20:00:00.000Z",
+    "endDate": "2026-10-12T22:00:00.000Z",
+    "time": "4:00 PM–6:00 PM",
+    "location": {
+      "name": "Stavros Niarchos Foundation Library (SNFL)",
+      "address": "455 Fifth Avenue, New York, NY 10016",
+      "city": "New York",
+      "lat": 40.752,
+      "lng": -73.9818
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Classes/Workshops"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/09/07/open-studio-sessions-teen-center",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Murray Hill",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "2c691e8cb9e5df5c",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/09/21/game-lounge",
+    "title": "Game Lounge",
+    "description": "This event takes place in-person every Monday from 4 PM - 5:30 PM Play video games with your friends on Nintendo Switch and PlayStation 5, or have fun with card & board games. Now also featuring tabletop air hockey and pool! Either way, it's GAME ON No Registration Required | Location: Community Room 3rd FL | Teens Only Grades 6-12",
+    "startDate": "2026-10-12T20:00:00.000Z",
+    "endDate": "2026-10-12T21:30:00.000Z",
+    "time": "4:00 PM–5:30 PM",
+    "location": {
+      "name": "Chatham Square Library",
+      "address": "33 East Broadway, New York, NY 10002",
+      "city": "New York",
+      "lat": 40.7134,
+      "lng": -73.9965
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Games & Gaming"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/09/21/game-lounge",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Lower East Side",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "379d124fa2f3c7f5",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/05/teen-video-games",
+    "title": "Teen Video Games",
+    "description": "Join us in our Community Room as we play an array of video games. We have a new Switch 2, with Mario Cart, Party, and Smash, as well as a Xbox 360 with older games.",
+    "startDate": "2026-10-12T20:15:00.000Z",
+    "endDate": "2026-10-12T21:30:00.000Z",
+    "time": "4:15 PM–5:30 PM",
+    "location": {
+      "name": "Kips Bay Library",
+      "address": "446 Third Avenue, New York, NY 10016",
+      "city": "New York",
+      "lat": 40.7438,
+      "lng": -73.9797
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Games & Gaming"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/05/teen-video-games",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Kips Bay",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "ef66002b18ccddbc",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/06/little-learners-bilingual-birdies-spanish-through-music-pequenos",
+    "title": "Little Learners: Bilingual Birdies: Spanish through Music / Pequeños Aprendices: Bilingual Birdies: Español a través de La Música",
+    "description": "Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry. Families get to experience a joyful bilingual adventure in English and Mandarin. Join us as we make learning a new language fun and easy! For ages birth - 5 and their caregivers. Program is limited to 15 children. We can not accommodate groups. Programs are first come first served. Please arrive on time as we may not be able to accommodate latecomers. ¡Explora la música y el lenguaje con Bilingual Birdies! Cada clase la imparte un músico en directo que enseña vocabulario nuevo a través de canciones, movimiento, baile y títeres. Las familias pueden disfrutar de una divertida aventura bilingüe en inglés y mandarín. ¡Únete a nosotros para que aprender un nuevo idioma sea divertido y fácil! Para niños desde el nacimiento hasta los 5 años y sus cuidadores. El programa tiene un aforo limitado a 15 niños. No podemos admitir grupos. Las plazas se asignan por orden de llegada. Por favor, llegad puntuales, ya que es posible que no podamos admitir a quienes lleguen tarde.",
+    "startDate": "2026-10-13T14:00:00.000Z",
+    "endDate": "2026-10-13T14:45:00.000Z",
+    "time": "10:00 AM–10:45 AM",
+    "location": {
+      "name": "Aguilar Library",
+      "address": "174 East 110th Street, New York, NY 10029",
+      "city": "New York",
+      "lat": 40.7943,
+      "lng": -73.9436
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Early Literacy Program (Misc.)"
+    ],
+    "tags": [
+      "library",
+      "in-person"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/06/little-learners-bilingual-birdies-spanish-through-music-pequenos",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "East Harlem",
+    "borough": "Manhattan"
+  },
+  {
+    "id": "292f3565a6a8bc3f",
+    "source": "New York Public Library",
+    "sourceUrl": "https://www.nypl.org/events/programs/2026/10/13/crafty-chat-come-knit-or-crochet-us",
+    "title": "Crafty Chat! Come Knit or Crochet with Us!",
+    "description": "This is an online event. This is a virtual fiber art circle where we chat, craft, and create! Join us as we crochet, knit, or sew and share our knowledge and WIPS. AS well as our deep love of YAAAAARRRRN! All the yarn. Nothing but yarn. We will also do our best to give instruction on your knitting, crocheting, or sewing questions. So make sure to have your supplies and projects with you, and come craft with us! Don't hesitate to virtually browse all of the NYPL titles. If you have any questions on how to place a physical book or digital book on hold, we can help you with that too! Or you can ask here. You must register with your email address in order to receive the link to participate. The link will be sent to you by email before our event. You will need a device with audio and/or video and an internet connection to join. Sign up for NYPL Connect to get updates from NYPL and information about our digital resources and services availabl",
+    "startDate": "2026-10-13T14:00:00.000Z",
+    "endDate": "2026-10-13T15:00:00.000Z",
+    "time": "10:00 AM–11:00 AM",
+    "location": {
+      "name": "Huguenot Park Library",
+      "address": "1231 Woodrow Road, Staten Island, NY 10309",
+      "city": "Staten Island",
+      "lat": 40.542148,
+      "lng": -74.2085909
+    },
+    "price": {
+      "isFree": true,
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "categories": [
+      "Classes/Workshops"
+    ],
+    "tags": [
+      "library",
+      "online"
+    ],
+    "organizer": "New York Public Library",
+    "attendance": null,
+    "ticketUrl": "https://www.nypl.org/events/programs/2026/10/13/crafty-chat-come-knit-or-crochet-us",
+    "images": [],
+    "rawText": null,
+    "neighborhood": "Rossville",
+    "borough": "Staten Island"
+  }
+]
