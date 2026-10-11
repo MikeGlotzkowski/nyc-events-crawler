@@ -1,0 +1,110 @@
+{
+  "capturedAt": "2026-10-11T13:06:57.507Z",
+  "responses": {
+    "https://drupal.nypl.org/jsonapi/date/event?page%5Blimit%5D=50&page%5Boffset%5D=0&sort=field_event_date.value&fields%5Bdate--event%5D=drupal_internal__id%2Ctitle%2Cfield_event_date%2Cfield_ts_date_status%2Cfield_ts_cancellation_reason%2Cfield_registration%2Cfield_ers_parent_event&filter%5Br%5D%5Bcondition%5D%5Bpath%5D=field_event_date.value&filter%5Br%5D%5Bcondition%5D%5Boperator%5D=BETWEEN&filter%5Br%5D%5Bcondition%5D%5Bvalue%5D%5B%5D=1791691200&filter%5Br%5D%5Bcondition%5D%5Bvalue%5D%5B%5D=1792933617": {
+      "file": "drupal.nypl.org.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/814336b7-17e3-4342-9d2b-10883744b20d?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-2.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/092a5f81-8957-492b-b040-06c6af71c873?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-3.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/d7fcd85c-becc-433d-a29c-163cd85f52a2?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-4.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/6cfc8e2e-6b9a-4c63-b071-160af5400879?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-5.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/a1a130c7-804b-40d9-9eab-0179cd8e722b?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-6.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/79e78944-3a1a-4649-9743-ad70bb89ddfa?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-7.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/85b9c486-528c-42e0-9d9e-12e3511dea69?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-8.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/3c355330-c0cc-4e38-8ac2-8332c677cee9?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-9.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/9ea44e65-91f9-4548-8414-281bca3a5790?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-10.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/8ec3765e-176c-4a75-8e44-fad5cfa31378?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-11.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/5504f36e-58e7-485a-9bbe-c7a9535ee046?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-12.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/0a170862-f949-40f5-a488-3624552a3a98?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-13.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/83fc200f-9d35-452f-a869-20744b68edef?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-14.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/ab4f4a1b-5b0a-41a0-aa8f-d43a55deedb5?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-15.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/ecd845c1-b112-4f4a-a9d1-11b135ac96bd?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-16.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/f9ec5399-ff0e-4f6b-ad86-5d1aa98aae19?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-17.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/d53c8f43-eaee-4c4c-a7ac-2717c390eb7b?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-18.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/54f9a791-f387-4bf7-82d3-d24f9d7f87f6?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-19.json",
+      "status": 403,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/702163a7-2e4b-40ef-845f-3f89dad02d76?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-20.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    },
+    "https://drupal.nypl.org/jsonapi/node/event/22a1eb51-ed07-45a2-9e57-e7e881c359f0?include=field_erm_event_location.field_erm_event_location%2Cfield_ers_media_image.field_media_image%2Cfield_erm_event_type&fields%5Bnode--event%5D=title%2Cbody%2Cfield_lt_event_format%2Cfield_tfls_summary_description%2Cpath%2Cfield_ts_event_leader_name%2Cfield_erm_event_location%2Cfield_ers_media_image%2Cfield_erm_event_type&fields%5Bparagraph--event_location%5D=field_erm_event_location%2Cfield_erm_event_room%2Cfield_ts_external_location%2Cfield_bool_both_locations&fields%5Bnode--library%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Bnode--center%5D=title%2Cfield_as_address%2Cfield_geos_coordinates%2Cfield_ts_location_code&fields%5Btaxonomy_term--event_type%5D=name&fields%5Bmedia--image%5D=field_media_image&fields%5Bfile--file%5D=uri%2Curl%2Cfilename": {
+      "file": "drupal.nypl.org-21.json",
+      "status": 200,
+      "contentType": "application/vnd.api+json"
+    }
+  }
+}

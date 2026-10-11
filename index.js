@@ -65,6 +65,7 @@ const CRAWLERS = {
   'dice':               () => import('./crawlers/dice.js').then(m => m.crawl),
   'timeout':            () => import('./crawlers/timeout.js').then(m => m.crawl),
   'ticketmaster':       () => import('./crawlers/ticketmaster.js').then(m => m.crawl),
+  'nypl':               () => import('./crawlers/nypl.js').then(m => m.crawl),
 };
 
 const failed = [];
@@ -163,6 +164,7 @@ Targets:
   lincoln-center     Lincoln Center, all resident organizations (calendar JSON)
   carnegie-hall      Carnegie Hall (sitemap; pages are behind a waiting room)
   ticketmaster       Ticketmaster Discovery API (requires TICKETMASTER_API_KEY)
+  nypl               New York Public Library events (Drupal JSON:API, next 14 days)
   topic-pages        Refresh the ~50 daily topic/collection pages (curated_lists + list_items)
   all-tier1        Run every non-Playwright crawler except brooklyn-library (local-only)
   all-tier2        Run: westsiderag, nyccom
