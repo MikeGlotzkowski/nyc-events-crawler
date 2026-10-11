@@ -226,14 +226,20 @@ export function mapVEvent(vevent, source) {
   const url       = (vevent.url ?? '').toString().trim() || null;
   const image     = veventImage(vevent);
 
-  // A recurring occurrence is one session of a series: its id is unique per
-  // start (so occurrences no longer overwrite each other), and it carries the
-  // shared series_id + occurrence index. One-off events keep their old id.
-  const id = url
-    ? (vevent._seriesId
-        ? generateEventId(`${url}#${legacyStartIso}`, summary)
-        : generateEventId(url, summary))
-    : generateEventId(`ical-${source.name}-${legacyStartIso}`, summary);
+  // A recurring occurrence is one session of a series: its id must be unique per
+  // start (so occurrences no longer overwrite each other) and TZ-independent.
+  // `startDate` is the NYC calendar date or a real instant; `legacyStartIso` is
+  // `new Date(start).toISOString()`, which for a date-only DTSTART is midnight in
+  // the RUNNER's zone and would differ between CI (UTC) and locals. Non-recurring
+  // events keep exactly their old id, so prod rows are not re-keyed.
+  let id;
+  if (vevent._seriesId) {
+    id = generateEventId(`${url ?? `ical-${source.name}`}#${startDate}`, summary);
+  } else if (url) {
+    id = generateEventId(url, summary);
+  } else {
+    id = generateEventId(`ical-${source.name}-${legacyStartIso}`, summary);
+  }
 
   return {
     id,
