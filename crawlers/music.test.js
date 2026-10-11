@@ -15,7 +15,7 @@ describe('resident-advisor', () => {
   it('reads free-text costs', () => {
     assert.deepEqual(ra.parsePrice('$20+'), { isFree: false, min: 20, max: null, currency: 'USD' });
     assert.deepEqual(ra.parsePrice('29.50-55.50'), { isFree: false, min: 29.5, max: 55.5, currency: 'USD' });
-    assert.deepEqual(ra.parsePrice('$0.00'), { isFree: true, min: 0, max: null, currency: 'USD' });
+    assert.deepEqual(ra.parsePrice('$0.00'), { isFree: true, min: 0, max: 0, currency: 'USD' });
     assert.deepEqual(ra.parsePrice(''), { isFree: null, min: null, max: null, currency: 'USD' });
   });
 

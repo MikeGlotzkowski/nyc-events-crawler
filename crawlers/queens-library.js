@@ -8,6 +8,7 @@ import https from 'node:https';
 import zlib from 'node:zlib';
 import { decodeEntities } from '../lib/event-filter.js';
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
+import { nycClock } from '../lib/nyc-time.js';
 
 const SOURCE_KEY  = 'queens-library';
 const SOURCE      = 'Queens Public Library';
@@ -32,13 +33,6 @@ const SKIP_TYPES = [
   'Computer Classes', 'ESOL', 'Citizenship', 'Coping Skills', 'Job',
   'Health Insurance', 'Tax', 'Financial Literacy', 'Support Group',
 ];
-
-const nycTimeFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: 'America/New_York',
-  hour:      'numeric',
-  minute:    '2-digit',
-  hour12:    true,
-});
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -82,18 +76,13 @@ function splitCategories(raw) {
   return (raw ?? '').split(',').map(c => c.trim()).filter(Boolean);
 }
 
-/** unix seconds → '1:30 PM' in NYC wall-clock (narrow/nbsp spaces normalized). */
-function nycTimeLabel(ms) {
-  if (!Number.isFinite(ms)) return null;
-  return nycTimeFmt.format(new Date(ms)).replace(/[\u202f\u00a0]/g, ' ').trim();
-}
-
-/** '1:30 PM' or '1:30 PM–3:30 PM' in America/New_York. */
+/** '1:30 PM' or '1:30 PM–3:30 PM' in America/New_York (one shared formatter, lib/nyc-time.js). */
 export function formatTimeRange(startMs, endMs) {
-  const start = nycTimeLabel(startMs);
+  if (!Number.isFinite(startMs)) return null;
+  const start = nycClock(startMs);
   if (!start) return null;
   if (!Number.isFinite(endMs) || endMs <= startMs) return start;
-  const end = nycTimeLabel(endMs);
+  const end = nycClock(endMs);
   return end && end !== start ? `${start}–${end}` : start;
 }
 

@@ -21,6 +21,7 @@ import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEv
 import { localYmd } from '../lib/nyc-time.js';
 import { resolveArea } from '../lib/nyc-area.js';
 import { decodeEntities } from '../lib/event-filter.js';
+import { parsePrice } from '../lib/price.js';
 import { veventImage, wallClockFix } from './ical-feeds.js';
 
 const SOURCE_KEY      = 'calendar-harvest';
@@ -286,12 +287,7 @@ function mapTribeEvent(ev, source) {
   const lng = venue?.geo_lng != null && !isNaN(Number(venue.geo_lng)) ? Number(venue.geo_lng) : null;
 
   const cost = text(ev.cost);
-  let price = {};
-  if (cost) {
-    const nums = [...cost.matchAll(/(\d+(?:\.\d+)?)/g)].map((m) => Number(m[1]));
-    if (/free/i.test(cost)) price = { isFree: true, min: 0, max: 0 };
-    else if (nums.length) price = { isFree: false, min: Math.min(...nums), max: Math.max(...nums) };
-  }
+  const price = cost ? parsePrice(cost) : {};
 
   const url = text(ev.url);
 

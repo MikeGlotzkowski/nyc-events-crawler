@@ -7,6 +7,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { resolveArea } from '../lib/nyc-area.js';
+import { priceFromCents, unknownPrice } from '../lib/price.js';
 
 const SOURCE_KEY = 'dice';
 const SOURCE     = 'DICE';
@@ -32,11 +33,10 @@ export function pageEvents(html) {
   return JSON.parse(m[1])?.props?.pageProps?.events ?? [];
 }
 
-/** Prices are in cents; amount_from is 'from $x' when there are several ticket types. */
+/** Prices are in cents; amount_from is 'from $x' when there are several ticket types (lib/price.js). */
 export function mapPrice(price) {
   const cents = price?.amount ?? price?.amount_from;
-  if (!Number.isFinite(cents)) return { isFree: null, min: null, max: null, currency: 'USD' };
-  return { isFree: cents === 0, min: cents / 100, max: null, currency: price.currency || 'USD' };
+  return Number.isFinite(cents) ? priceFromCents(cents, price.currency) : unknownPrice();
 }
 
 /** Map one browse-page event; null when it has no name, date or NYC venue. */

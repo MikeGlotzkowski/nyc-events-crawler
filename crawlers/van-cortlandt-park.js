@@ -5,7 +5,8 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { decodeEntities } from '../lib/event-filter.js';
-import { nycWallToDate } from '../lib/nyc-time.js';
+import { nycWallToDate, nycClock, nycTimeRange } from '../lib/nyc-time.js';
+import { parsePrice } from '../lib/price.js';
 
 const SOURCE_KEY   = 'van-cortlandt-park';
 const SOURCE       = 'Van Cortlandt Park';
@@ -13,14 +14,9 @@ const ORGANIZER    = 'Van Cortlandt Park Alliance';
 const BASE_URL     = 'https://www.vancortlandt.org/wp-json/tribe/events/v1/events';
 const PER_PAGE     = 50;
 const WINDOW_DAYS  = 30;
-const TZ           = 'America/New_York';
 const DEFAULT_VENUE = 'Van Cortlandt Park';
 const NEIGHBORHOOD = 'Van Cortlandt Park';
 const BOROUGH      = 'Bronx';
-
-const clockFmt = new Intl.DateTimeFormat('en-US', {
-  timeZone: TZ, hour: 'numeric', minute: '2-digit', hour12: true,
-});
 
 function stripHtml(html) {
   if (!html) return '';
@@ -79,17 +75,7 @@ function formatTimeRange(event) {
   const start = toInstant(event.start_date);
   if (start === null) return null;
   const end = toInstant(event.end_date);
-  const startLabel = clockFmt.format(start);
-  return end !== null && end > start ? `${startLabel}–${clockFmt.format(end)}` : startLabel;
-}
-
-function parsePriceText(text) {
-  const trimmed = (text ?? '').trim();
-  if (!trimmed) return { isFree: true, min: 0, max: 0, currency: 'USD' };
-  if (trimmed.toLowerCase().includes('free')) return { isFree: true, min: 0, max: 0, currency: 'USD' };
-  const match = trimmed.match(/\$(\d+(?:\.\d{2})?)/);
-  if (match) return { isFree: false, min: parseFloat(match[1]), max: parseFloat(match[1]), currency: 'USD' };
-  return { isFree: null, min: null, max: null, currency: 'USD' };
+  return end !== null && end > start ? nycTimeRange(start, end) : nycClock(start);
 }
 
 export function mapEvent(event) {
@@ -123,7 +109,7 @@ export function mapEvent(event) {
       lat:     isNaN(lat) ? null : lat,
       lng:     isNaN(lng) ? null : lng,
     },
-    price:       parsePriceText(event.cost),
+    price:       parsePrice(event.cost, { freeWhenEmpty: true }), // VCP events are free unless a cost says otherwise
     categories:  (event.categories ?? []).map(c => c?.name).filter(Boolean),
     tags:        [],
     organizer:   ORGANIZER,

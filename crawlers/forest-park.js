@@ -6,6 +6,7 @@
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { decodeEntities } from '../lib/event-filter.js';
 import { resolveArea } from '../lib/nyc-area.js';
+import { nycClock } from '../lib/nyc-time.js';
 
 const SOURCE_KEY = 'forest-park';
 const SOURCE     = 'Forest Park Trust';
@@ -20,13 +21,6 @@ const NEIGHBORHOOD = 'Forest Park';
 const BOROUGH      = 'Queens';
 const WINDOW_DAYS  = 30;
 const MAX_DESC     = 2000;
-
-const TIME_FMT = new Intl.DateTimeFormat('en-US', {
-  timeZone: 'America/New_York',
-  hour: 'numeric',
-  minute: '2-digit',
-  hour12: true,
-});
 
 function stripHtml(html) {
   if (!html) return '';
@@ -48,7 +42,7 @@ export function nycTimeLabel(iso) {
   if (!iso) return null;
   const date = new Date(iso);
   if (Number.isNaN(date.getTime())) return null;
-  return TIME_FMT.format(date).replace(/[\u202f\u00a0]/g, ' ');
+  return nycClock(date);
 }
 
 /** '10:00 AM–12:00 PM', or just the start label when the end is unknown. */
