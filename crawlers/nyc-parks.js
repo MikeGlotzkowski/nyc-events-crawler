@@ -12,15 +12,6 @@ const RSS_URL = 'https://www.nycgovparks.org/xml/events_300_rss.xml';
 const SOCRATA_URL = 'https://data.cityofnewyork.us/resource/w3wp-dpdi.json';
 const SOURCE  = 'NYC Parks';
 
-function parsePriceText(text) {
-  if (!text) return { isFree: null, min: null, max: null, currency: 'USD' };
-  const lower = text.toLowerCase();
-  if (lower.includes('free') || lower === '0' || lower === '$0') return { isFree: true, min: 0, max: 0, currency: 'USD' };
-  const match = text.match(/\$(\d+(?:\.\d{2})?)/);
-  if (match) return { isFree: false, min: parseFloat(match[1]), max: parseFloat(match[1]), currency: 'USD' };
-  return { isFree: null, min: null, max: null, currency: 'USD' };
-}
-
 function parseBoroughFromParkName(parkName) {
   if (!parkName) return null;
   const n = parkName.toLowerCase();

@@ -18,7 +18,7 @@
     "price": {
       "isFree": true,
       "min": 0,
-      "max": null,
+      "max": 0,
       "currency": "USD"
     },
     "categories": [
@@ -55,7 +55,7 @@
     "price": {
       "isFree": true,
       "min": 0,
-      "max": null,
+      "max": 0,
       "currency": "USD"
     },
     "categories": [
@@ -132,7 +132,7 @@
     "price": {
       "isFree": true,
       "min": 0,
-      "max": null,
+      "max": 0,
       "currency": "USD"
     },
     "categories": [
@@ -169,7 +169,7 @@
     "price": {
       "isFree": false,
       "min": 10,
-      "max": null,
+      "max": 10,
       "currency": "USD"
     },
     "categories": [
@@ -209,7 +209,7 @@
     "price": {
       "isFree": false,
       "min": 50,
-      "max": null,
+      "max": 50,
       "currency": "USD"
     },
     "categories": [
@@ -246,7 +246,7 @@
     "price": {
       "isFree": true,
       "min": 0,
-      "max": null,
+      "max": 0,
       "currency": "USD"
     },
     "categories": [
@@ -286,7 +286,7 @@
     "price": {
       "isFree": true,
       "min": 0,
-      "max": null,
+      "max": 0,
       "currency": "USD"
     },
     "categories": [
@@ -366,7 +366,7 @@
     "price": {
       "isFree": false,
       "min": 10,
-      "max": null,
+      "max": 10,
       "currency": "USD"
     },
     "categories": [

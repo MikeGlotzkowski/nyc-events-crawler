@@ -7,6 +7,7 @@
  */
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { resolveArea } from '../lib/nyc-area.js';
+import { parsePrice as parsePriceText } from '../lib/price.js';
 
 const SOURCE_KEY  = 'resident-advisor';
 const SOURCE      = 'Resident Advisor';
@@ -56,13 +57,9 @@ export function requestBody(now, page) {
   });
 }
 
-/** Free-text cost ('$20+', '29.50-55.50', '0', '$10 / $15', '') → price. */
+/** Free-text cost ('$20+', '29.50-55.50', '0', '$10 / $15', '') → price (lib/price.js). */
 export function parsePrice(cost) {
-  const nums = [...String(cost ?? '').matchAll(/\d+(?:\.\d+)?/g)].map(m => Number(m[0]));
-  if (nums.length === 0) return { isFree: null, min: null, max: null, currency: 'USD' };
-  const min = Math.min(...nums);
-  const max = Math.max(...nums);
-  return { isFree: max === 0, min, max: nums.length > 1 ? max : null, currency: 'USD' };
+  return parsePriceText(cost);
 }
 
 /** RA venue coordinates are often 0,0, a whole degree or rounded to 2 places; keep only precise ones. */

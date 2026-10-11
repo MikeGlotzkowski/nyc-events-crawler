@@ -6,6 +6,7 @@
 import { generateEventId, log, logError, startCrawlRun, finishCrawlRun, upsertEvents } from '../lib/base-crawler.js';
 import { decodeEntities } from '../lib/event-filter.js';
 import { nycWallToDate, nycClock, nycTimeRange } from '../lib/nyc-time.js';
+import { parsePrice } from '../lib/price.js';
 
 const SOURCE_KEY   = 'van-cortlandt-park';
 const SOURCE       = 'Van Cortlandt Park';
@@ -77,15 +78,6 @@ function formatTimeRange(event) {
   return end !== null && end > start ? nycTimeRange(start, end) : nycClock(start);
 }
 
-function parsePriceText(text) {
-  const trimmed = (text ?? '').trim();
-  if (!trimmed) return { isFree: true, min: 0, max: 0, currency: 'USD' };
-  if (trimmed.toLowerCase().includes('free')) return { isFree: true, min: 0, max: 0, currency: 'USD' };
-  const match = trimmed.match(/\$(\d+(?:\.\d{2})?)/);
-  if (match) return { isFree: false, min: parseFloat(match[1]), max: parseFloat(match[1]), currency: 'USD' };
-  return { isFree: null, min: null, max: null, currency: 'USD' };
-}
-
 export function mapEvent(event) {
   const venue = Array.isArray(event.venue) ? null : (event.venue ?? null);
 
@@ -117,7 +109,7 @@ export function mapEvent(event) {
       lat:     isNaN(lat) ? null : lat,
       lng:     isNaN(lng) ? null : lng,
     },
-    price:       parsePriceText(event.cost),
+    price:       parsePrice(event.cost, { freeWhenEmpty: true }), // VCP events are free unless a cost says otherwise
     categories:  (event.categories ?? []).map(c => c?.name).filter(Boolean),
     tags:        [],
     organizer:   ORGANIZER,
